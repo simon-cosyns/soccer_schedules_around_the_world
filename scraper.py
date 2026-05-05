@@ -1,3 +1,8 @@
+"""
+Scraped data van soccerway.com en geconverteerd naar XML formaat voor gebruik in RobinX.
+voor gebruik gewoon de gewenste parameters aanpassen in de main functie en het script runnen.
+"""
+
 import asyncio
 from playwright.async_api import async_playwright
 from bs4 import BeautifulSoup
@@ -142,9 +147,11 @@ def generate_xml(df, instance_name):
     print(f"Solution XML saved: {instance_name}_sched.xml")
 
 if __name__ == "__main__":
-    country = "mexico"
-    season = "2024-2025"
-    league = "liga-mx"
+    # AANPASSEN NAAR WENSEN
+    country = "mexico" # naam van het land voor URL kleine letters en engelse naam
+    season = "2024-2025" # seizoen in format "YYYY-YYYY" (e.g. "2023-2024")
+    league = "liga-mx" # naam van de competitie spatie wordt een streepje (e.g. "liga-mx", "premier-league", "la-liga")
+    
     instance_name = f"{country}_{league}_{season}"
 
     # Scrape the data
