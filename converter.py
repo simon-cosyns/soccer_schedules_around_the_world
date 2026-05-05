@@ -106,7 +106,7 @@ class XMLInstanceBuilderRR:
     def save(self):
         self._indent(self.root)
         tree = ET.ElementTree(self.root)
-        tree.write(f"{self.instanceName}_instance.xml", encoding="utf-8", xml_declaration=True)
+        tree.write(f"./xml_files/{self.instanceName}_instance.xml", encoding="utf-8", xml_declaration=True)
 
     # Pretty print
     def _indent(self, elem, level=0):
@@ -163,7 +163,7 @@ class XMLSolutionBuilder:
     def save(self):
         self._indent(self.root)
         tree = ET.ElementTree(self.root)
-        tree.write(f"{self.instanceName}_sched.xml", encoding="utf-8", xml_declaration=True)
+        tree.write(f"./xml_files/{self.instanceName}_sched.xml", encoding="utf-8", xml_declaration=True)
 
     # Pretty print
     def _indent(self, elem, level=0):
