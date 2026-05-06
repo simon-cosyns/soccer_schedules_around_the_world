@@ -5,7 +5,7 @@ import pandas as pd
 
 print("test")
 
-logboek_df = pd.read_csv('logboek.csv')
+logboek_df = pd.read_csv('logboek.csv', sep=';')
 print(f"Total URLs to scrape: {len(logboek_df)}")
 urls_not_found = []
 others_errors = []
@@ -34,7 +34,7 @@ for index, row in logboek_df.iterrows():
         others_errors.append(f"{country}, {league}, {season}: {e}")
         continue
 
-logboek_df.to_csv('logboek.csv', index=False)
+logboek_df.to_csv('logboek.csv', sep=';', index=False)
 print("\nScraping completed!")
 print("\nURLs not found:")
 for url in urls_not_found:
