@@ -75,12 +75,9 @@ async def run_scraper(country, league, season):
                 # Store match data
                 # We assume the format is: Date | Team Home | Team Away | (optional score or status)
                 if len(parts) >= 3:
-                    if parts[1].isnumeric(): # Handle cases with red cards manually
+                    if parts[2].isnumeric(): # In the case the home team got more then 1 red card, the format changes and the away team is moved to parts[3]
                         print(f"Warning: Unexpected format for match row (possible red card info): {full_text}")
-                        parts.insert(1, input("Enter home team: "))  # Insert a placeholder for team_home
-                    if parts[2].isnumeric(): # Handle cases with red cards manually
-                        print(f"Warning: Unexpected format for match row (possible red card info): {full_text}")
-                        parts.insert(2, input("Enter away team: "))  # Insert a placeholder for team_away
+                        parts.insert(2, parts[3])  # Insert parts[3] (team away) back to the correct position
                     data_list.append({
                         "round":     current_round,
                         "date":      parts[0],
