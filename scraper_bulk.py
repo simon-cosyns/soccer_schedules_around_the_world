@@ -3,10 +3,7 @@ import time
 import scraper
 import pandas as pd
 
-print("test")
-
 logboek_df = pd.read_csv('logboek.csv', sep=';')
-print(f"Total URLs to scrape: {len(logboek_df)}")
 urls_not_found = []
 others_errors = []
 
