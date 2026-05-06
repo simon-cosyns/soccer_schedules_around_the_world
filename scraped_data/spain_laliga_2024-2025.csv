@@ -1,0 +1,381 @@
+round,date,team_home,team_away,full_text
+Round 38,25.05.2025,Ath Bilbao,Barcelona,25.05.2025 | Ath Bilbao | Barcelona | 0 | 3
+Round 38,25.05.2025,Villarreal,Sevilla,25.05.2025 | Villarreal | Sevilla | 4 | 2
+Round 38,25.05.2025,Girona,Atl. Madrid,25.05.2025 | Girona | Atl. Madrid | 0 | 4
+Round 38,24.05.2025,Alaves,Osasuna,24.05.2025 | Alaves | Osasuna | 1 | 1
+Round 38,24.05.2025,Getafe,Celta Vigo,24.05.2025 | Getafe | Celta Vigo | 1 | 2
+Round 38,24.05.2025,Rayo Vallecano,Mallorca,24.05.2025 | Rayo Vallecano | Mallorca | 0 | 0
+Round 38,24.05.2025,Espanyol,Las Palmas,24.05.2025 | Espanyol | Las Palmas | 2 | 0
+Round 38,24.05.2025,Leganes,Valladolid,24.05.2025 | Leganes | Valladolid | 3 | 0
+Round 38,24.05.2025,Real Madrid,Real Sociedad,24.05.2025 | Real Madrid | Real Sociedad | 2 | 0
+Round 38,23.05.2025,Betis,Valencia,23.05.2025 | Betis | Valencia | 1 | 1
+Round 37,18.05.2025,Atl. Madrid,Betis,18.05.2025 | Atl. Madrid | Betis | 4 | 1
+Round 37,18.05.2025,Barcelona,Villarreal,18.05.2025 | Barcelona | Villarreal | 2 | 3
+Round 37,18.05.2025,Celta Vigo,Rayo Vallecano,18.05.2025 | Celta Vigo | Rayo Vallecano | 1 | 2
+Round 37,18.05.2025,Las Palmas,Leganes,18.05.2025 | Las Palmas | Leganes | 0 | 1
+Round 37,18.05.2025,Mallorca,Getafe,18.05.2025 | Mallorca | Getafe | 1 | 2
+Round 37,18.05.2025,Osasuna,Espanyol,18.05.2025 | Osasuna | Espanyol | 2 | 0
+Round 37,18.05.2025,Real Sociedad,Girona,18.05.2025 | Real Sociedad | Girona | 3 | 2
+Round 37,18.05.2025,Sevilla,Real Madrid,18.05.2025 | Sevilla | 2 | Real Madrid | 0 | 2
+Round 37,18.05.2025,Valencia,Ath Bilbao,18.05.2025 | Valencia | Ath Bilbao | 0 | 1
+Round 37,18.05.2025,Valladolid,Alaves,18.05.2025 | Valladolid | Alaves | 0 | 1
+Round 36,15.05.2025,Espanyol,Barcelona,15.05.2025 | Espanyol | Barcelona | 0 | 2
+Round 36,15.05.2025,Getafe,Ath Bilbao,15.05.2025 | Getafe | Ath Bilbao | 0 | 2
+Round 36,15.05.2025,Osasuna,Atl. Madrid,15.05.2025 | Osasuna | Atl. Madrid | 2 | 0
+Round 36,15.05.2025,Rayo Vallecano,Betis,15.05.2025 | Rayo Vallecano | Betis | 2 | 2
+Round 36,14.05.2025,Real Madrid,Mallorca,14.05.2025 | Real Madrid | Mallorca | 2 | 1
+Round 36,14.05.2025,Alaves,Valencia,14.05.2025 | Alaves | Valencia | 1 | 0
+Round 36,14.05.2025,Villarreal,Leganes,14.05.2025 | Villarreal | Leganes | 3 | 0
+Round 36,13.05.2025,Sevilla,Las Palmas,13.05.2025 | Sevilla | Las Palmas | 1 | 0
+Round 36,13.05.2025,Real Sociedad,Celta Vigo,13.05.2025 | Real Sociedad | Celta Vigo | 0 | 1
+Round 36,13.05.2025,Valladolid,Girona,13.05.2025 | Valladolid | Girona | 0 | 1
+Round 35,11.05.2025,Betis,Osasuna,11.05.2025 | Betis | Osasuna | 1 | 1
+Round 35,11.05.2025,Ath Bilbao,Alaves,11.05.2025 | Ath Bilbao | Alaves | 1 | 0
+Round 35,11.05.2025,Barcelona,Real Madrid,11.05.2025 | Barcelona | Real Madrid | 4 | 3
+Round 35,11.05.2025,Leganes,Espanyol,11.05.2025 | Leganes | Espanyol | 3 | 2
+Round 35,10.05.2025,Atl. Madrid,Real Sociedad,10.05.2025 | Atl. Madrid | Real Sociedad | 4 | 0
+Round 35,10.05.2025,Girona,Villarreal,10.05.2025 | Girona | Villarreal | 0 | 1
+Round 35,10.05.2025,Mallorca,Valladolid,10.05.2025 | Mallorca | Valladolid | 2 | 1
+Round 35,10.05.2025,Celta Vigo,Sevilla,10.05.2025 | Celta Vigo | Sevilla | 3 | 2
+Round 35,10.05.2025,Valencia,Getafe,10.05.2025 | Valencia | Getafe | 3 | 0
+Round 35,09.05.2025,Las Palmas,Rayo Vallecano,09.05.2025 | Las Palmas | Rayo Vallecano | 0 | 1
+Round 34,05.05.2025,Girona,Mallorca,05.05.2025 | Girona | Mallorca | 1 | 0
+Round 34,04.05.2025,Real Sociedad,Ath Bilbao,04.05.2025 | Real Sociedad | Ath Bilbao | 0 | 0
+Round 34,04.05.2025,Espanyol,Betis,04.05.2025 | Espanyol | Betis | 1 | 2
+Round 34,04.05.2025,Sevilla,Leganes,04.05.2025 | Sevilla | Leganes | 2 | 2
+Round 34,04.05.2025,Real Madrid,Celta Vigo,04.05.2025 | Real Madrid | Celta Vigo | 3 | 2
+Round 34,03.05.2025,Valladolid,Barcelona,03.05.2025 | Valladolid | Barcelona | 1 | 2
+Round 34,03.05.2025,Las Palmas,Valencia,03.05.2025 | Las Palmas | Valencia | 2 | 3
+Round 34,03.05.2025,Villarreal,Osasuna,03.05.2025 | Villarreal | Osasuna | 4 | 2
+Round 34,03.05.2025,Alaves,Atl. Madrid,03.05.2025 | Alaves | Atl. Madrid | 0 | 0
+Round 34,02.05.2025,Rayo Vallecano,Getafe,02.05.2025 | Rayo Vallecano | Getafe | 1 | 0
+Round 26,27.04.2025,Villarreal,Espanyol,27.04.2025 | Villarreal | Espanyol | 1 | 0
+Round 33,24.04.2025,Atl. Madrid,Rayo Vallecano,24.04.2025 | Atl. Madrid | Rayo Vallecano | 3 | 0
+Round 33,24.04.2025,Betis,Valladolid,24.04.2025 | Betis | Valladolid | 5 | 1
+Round 33,24.04.2025,Leganes,Girona,24.04.2025 | Leganes | Girona | 1 | 1
+Round 33,24.04.2025,Osasuna,Sevilla,24.04.2025 | Osasuna | Sevilla | 1 | 0
+Round 33,23.04.2025,Alaves,Real Sociedad,23.04.2025 | Alaves | Real Sociedad | 1 | 0
+Round 33,23.04.2025,Getafe,Real Madrid,23.04.2025 | Getafe | Real Madrid | 0 | 1
+Round 33,23.04.2025,Ath Bilbao,Las Palmas,23.04.2025 | Ath Bilbao | Las Palmas | 1 | 0
+Round 33,23.04.2025,Celta Vigo,Villarreal,23.04.2025 | Celta Vigo | Villarreal | 3 | 0
+Round 33,22.04.2025,Barcelona,Mallorca,22.04.2025 | Barcelona | Mallorca | 1 | 0
+Round 33,22.04.2025,Valencia,Espanyol,22.04.2025 | Valencia | Espanyol | 1 | 1
+Round 32,21.04.2025,Girona,Betis,21.04.2025 | Girona | Betis | 1 | 3
+Round 32,20.04.2025,Real Madrid,Ath Bilbao,20.04.2025 | Real Madrid | Ath Bilbao | 1 | 0
+Round 32,20.04.2025,Sevilla,Alaves,20.04.2025 | Sevilla | Alaves | 1 | 1
+Round 32,20.04.2025,Villarreal,Real Sociedad,20.04.2025 | Villarreal | Real Sociedad | 2 | 2
+Round 32,20.04.2025,Valladolid,Osasuna,20.04.2025 | Valladolid | Osasuna | 2 | 3
+Round 32,19.04.2025,Las Palmas,Atl. Madrid,19.04.2025 | Las Palmas | Atl. Madrid | 1 | 0
+Round 32,19.04.2025,Mallorca,Leganes,19.04.2025 | Mallorca | Leganes | 0 | 0
+Round 32,19.04.2025,Barcelona,Celta Vigo,19.04.2025 | Barcelona | Celta Vigo | 4 | 3
+Round 32,19.04.2025,Rayo Vallecano,Valencia,19.04.2025 | Rayo Vallecano | Valencia | 1 | 1
+Round 32,18.04.2025,Espanyol,Getafe,18.04.2025 | Espanyol | Getafe | 1 | 0
+Round 31,14.04.2025,Atl. Madrid,Valladolid,14.04.2025 | Atl. Madrid | Valladolid | 4 | 2
+Round 31,13.04.2025,Ath Bilbao,Rayo Vallecano,13.04.2025 | Ath Bilbao | Rayo Vallecano | 3 | 1
+Round 31,13.04.2025,Betis,Villarreal,13.04.2025 | Betis | Villarreal | 1 | 2
+Round 31,13.04.2025,Alaves,Real Madrid,13.04.2025 | Alaves | Real Madrid | 0 | 1
+Round 31,13.04.2025,Osasuna,Girona,13.04.2025 | Osasuna | Girona | 2 | 1
+Round 31,12.04.2025,Leganes,Barcelona,12.04.2025 | Leganes | Barcelona | 0 | 1
+Round 31,12.04.2025,Celta Vigo,Espanyol,12.04.2025 | Celta Vigo | Espanyol | 0 | 2
+Round 31,12.04.2025,Getafe,Las Palmas,12.04.2025 | Getafe | Las Palmas | 1 | 3
+Round 31,12.04.2025,Real Sociedad,Mallorca,12.04.2025 | Real Sociedad | Mallorca | 0 | 2
+Round 31,11.04.2025,Valencia,Sevilla,11.04.2025 | Valencia | Sevilla | 1 | 0
+Round 30,07.04.2025,Leganes,Osasuna,07.04.2025 | Leganes | Osasuna | 1 | 1
+Round 30,06.04.2025,Villarreal,Ath Bilbao,06.04.2025 | Villarreal | Ath Bilbao | 0 | 0
+Round 30,06.04.2025,Valladolid,Getafe,06.04.2025 | Valladolid | Getafe | 0 | 4
+Round 30,06.04.2025,Sevilla,Atl. Madrid,06.04.2025 | Sevilla | Atl. Madrid | 1 | 2
+Round 30,06.04.2025,Las Palmas,Real Sociedad,06.04.2025 | Las Palmas | Real Sociedad | 1 | 3
+Round 30,05.04.2025,Barcelona,Betis,05.04.2025 | Barcelona | Betis | 1 | 1
+Round 30,05.04.2025,Mallorca,Celta Vigo,05.04.2025 | Mallorca | Celta Vigo | 1 | 2
+Round 30,05.04.2025,Real Madrid,Valencia,05.04.2025 | Real Madrid | Valencia | 1 | 2
+Round 30,05.04.2025,Girona,Alaves,05.04.2025 | Girona | Alaves | 0 | 1
+Round 30,04.04.2025,Rayo Vallecano,Espanyol,04.04.2025 | Rayo Vallecano | Espanyol | 0 | 4
+Round 29,31.03.2025,Celta Vigo,Las Palmas,31.03.2025 | Celta Vigo | Las Palmas | 1 | 1
+Round 29,30.03.2025,Betis,Sevilla,30.03.2025 | Betis | Sevilla | 2 | 1
+Round 29,30.03.2025,Ath Bilbao,Osasuna,30.03.2025 | Ath Bilbao | Osasuna | 0 | 0
+Round 29,30.03.2025,Valencia,Mallorca,30.03.2025 | Valencia | Mallorca | 1 | 0
+Round 29,30.03.2025,Barcelona,Girona,30.03.2025 | Barcelona | Girona | 4 | 1
+Round 29,30.03.2025,Getafe,Villarreal,30.03.2025 | Getafe | Villarreal | 1 | 2
+Round 29,29.03.2025,Real Madrid,Leganes,29.03.2025 | Real Madrid | Leganes | 3 | 2
+Round 29,29.03.2025,Alaves,Rayo Vallecano,29.03.2025 | Alaves | Rayo Vallecano | 0 | 2
+Round 29,29.03.2025,Espanyol,Atl. Madrid,29.03.2025 | Espanyol | Atl. Madrid | 1 | 1
+Round 29,29.03.2025,Real Sociedad,Valladolid,29.03.2025 | Real Sociedad | Valladolid | 2 | 1
+Round 27,27.03.2025,Barcelona,Osasuna,27.03.2025 | Barcelona | Osasuna | 3 | 0
+Round 28,16.03.2025,Atl. Madrid,Barcelona,16.03.2025 | Atl. Madrid | Barcelona | 2 | 4
+Round 28,16.03.2025,Osasuna,Getafe,16.03.2025 | Osasuna | Getafe | 1 | 2
+Round 28,16.03.2025,Rayo Vallecano,Real Sociedad,16.03.2025 | Rayo Vallecano | Real Sociedad | 2 | 2
+Round 28,16.03.2025,Sevilla,Ath Bilbao,16.03.2025 | Sevilla | Ath Bilbao | 0 | 1
+Round 28,16.03.2025,Leganes,Betis,16.03.2025 | Leganes | Betis | 2 | 3
+Round 28,15.03.2025,Girona,Valencia,15.03.2025 | Girona | Valencia | 1 | 1
+Round 28,15.03.2025,Villarreal,Real Madrid,15.03.2025 | Villarreal | Real Madrid | 1 | 2
+Round 28,15.03.2025,Mallorca,Espanyol,15.03.2025 | Mallorca | Espanyol | 2 | 1
+Round 28,15.03.2025,Valladolid,Celta Vigo,15.03.2025 | Valladolid | Celta Vigo | 0 | 1
+Round 28,14.03.2025,Las Palmas,Alaves,14.03.2025 | Las Palmas | Alaves | 2 | 2
+Round 27,10.03.2025,Espanyol,Girona,10.03.2025 | Espanyol | Girona | 1 | 1
+Round 27,09.03.2025,Real Sociedad,Sevilla,09.03.2025 | Real Sociedad | Sevilla | 0 | 1
+Round 27,09.03.2025,Ath Bilbao,Mallorca,09.03.2025 | Ath Bilbao | Mallorca | 1 | 1
+Round 27,09.03.2025,Betis,Las Palmas,09.03.2025 | Betis | Las Palmas | 1 | 0
+Round 27,09.03.2025,Real Madrid,Rayo Vallecano,09.03.2025 | Real Madrid | Rayo Vallecano | 2 | 1
+Round 27,09.03.2025,Getafe,Atl. Madrid,09.03.2025 | Getafe | Atl. Madrid | 2 | 1
+Round 27,08.03.2025,Valencia,Valladolid,08.03.2025 | Valencia | Valladolid | 2 | 1
+Round 27,08.03.2025,Alaves,Villarreal,08.03.2025 | Alaves | 2 | Villarreal | 1 | 0
+Round 27,08.03.2025,Celta Vigo,Leganes,08.03.2025 | Celta Vigo | Leganes | 2 | 1
+Round 26,02.03.2025,Osasuna,Valencia,02.03.2025 | Osasuna | Valencia | 3 | 3
+Round 26,02.03.2025,Mallorca,Alaves,02.03.2025 | Mallorca | Alaves | 1 | 1
+Round 26,02.03.2025,Barcelona,Real Sociedad,02.03.2025 | Barcelona | Real Sociedad | 4 | 0
+Round 26,02.03.2025,Leganes,Getafe,02.03.2025 | Leganes | Getafe | 1 | 0
+Round 26,01.03.2025,Atl. Madrid,Ath Bilbao,01.03.2025 | Atl. Madrid | Ath Bilbao | 1 | 0
+Round 26,01.03.2025,Betis,Real Madrid,01.03.2025 | Betis | Real Madrid | 2 | 1
+Round 26,01.03.2025,Rayo Vallecano,Sevilla,01.03.2025 | Rayo Vallecano | Sevilla | 1 | 1
+Round 26,01.03.2025,Girona,Celta Vigo,01.03.2025 | Girona | Celta Vigo | 2 | 2
+Round 26,28.02.2025,Valladolid,Las Palmas,28.02.2025 | Valladolid | Las Palmas | 1 | 1
+Round 25,24.02.2025,Sevilla,Mallorca,24.02.2025 | Sevilla | Mallorca | 1 | 1
+Round 25,23.02.2025,Real Sociedad,Leganes,23.02.2025 | Real Sociedad | Leganes | 3 | 0
+Round 25,23.02.2025,Getafe,Betis,23.02.2025 | Getafe | Betis | 1 | 2
+Round 25,23.02.2025,Real Madrid,Girona,23.02.2025 | Real Madrid | Girona | 2 | 0
+Round 25,23.02.2025,Ath Bilbao,Valladolid,23.02.2025 | Ath Bilbao | Valladolid | 7 | 1
+Round 25,22.02.2025,Las Palmas,Barcelona,22.02.2025 | Las Palmas | Barcelona | 0 | 2
+Round 25,22.02.2025,Valencia,Atl. Madrid,22.02.2025 | Valencia | Atl. Madrid | 0 | 3
+Round 25,22.02.2025,Rayo Vallecano,Villarreal,22.02.2025 | Rayo Vallecano | Villarreal | 0 | 1
+Round 25,22.02.2025,Alaves,Espanyol,22.02.2025 | Alaves | Espanyol | 0 | 1
+Round 25,21.02.2025,Celta Vigo,Osasuna,21.02.2025 | Celta Vigo | Osasuna | 1 | 0
+Round 24,17.02.2025,Barcelona,Rayo Vallecano,17.02.2025 | Barcelona | Rayo Vallecano | 1 | 0
+Round 24,16.02.2025,Betis,Real Sociedad,16.02.2025 | Betis | Real Sociedad | 2 | 3 | 0
+Round 24,16.02.2025,Mallorca,Las Palmas,16.02.2025 | Mallorca | Las Palmas | 3 | 1
+Round 24,16.02.2025,Valladolid,Sevilla,16.02.2025 | Valladolid | Sevilla | 0 | 4
+Round 24,16.02.2025,Espanyol,Ath Bilbao,16.02.2025 | Espanyol | Ath Bilbao | 1 | 1
+Round 24,15.02.2025,Villarreal,Valencia,15.02.2025 | Villarreal | Valencia | 1 | 1
+Round 24,15.02.2025,Atl. Madrid,Celta Vigo,15.02.2025 | Atl. Madrid | Celta Vigo | 1 | 1
+Round 24,15.02.2025,Osasuna,Real Madrid,15.02.2025 | Osasuna | Real Madrid | 1 | 1
+Round 24,15.02.2025,Leganes,Alaves,15.02.2025 | Leganes | Alaves | 3 | 3
+Round 24,14.02.2025,Girona,Getafe,14.02.2025 | Girona | Getafe | 1 | 2
+Round 23,10.02.2025,Mallorca,Osasuna,10.02.2025 | Mallorca | Osasuna | 1 | 1
+Round 23,09.02.2025,Sevilla,Barcelona,09.02.2025 | Sevilla | Barcelona | 1 | 4
+Round 23,09.02.2025,Real Sociedad,Espanyol,09.02.2025 | Real Sociedad | Espanyol | 2 | 1
+Round 23,09.02.2025,Valencia,Leganes,09.02.2025 | Valencia | Leganes | 2 | 0
+Round 23,09.02.2025,Alaves,Getafe,09.02.2025 | Alaves | Getafe | 0 | 1
+Round 23,08.02.2025,Real Madrid,Atl. Madrid,08.02.2025 | Real Madrid | Atl. Madrid | 1 | 1
+Round 23,08.02.2025,Las Palmas,Villarreal,08.02.2025 | Las Palmas | Villarreal | 1 | 2
+Round 23,08.02.2025,Ath Bilbao,Girona,08.02.2025 | Ath Bilbao | Girona | 3 | 0
+Round 23,08.02.2025,Celta Vigo,Betis,08.02.2025 | Celta Vigo | Betis | 3 | 2
+Round 23,07.02.2025,Rayo Vallecano,Valladolid,07.02.2025 | Rayo Vallecano | Valladolid | 1 | 0
+Round 22,03.02.2025,Girona,Las Palmas,03.02.2025 | Girona | Las Palmas | 2 | 1
+Round 22,02.02.2025,Betis,Ath Bilbao,02.02.2025 | Betis | Ath Bilbao | 2 | 2
+Round 22,02.02.2025,Osasuna,Real Sociedad,02.02.2025 | Osasuna | Real Sociedad | 2 | 1
+Round 22,02.02.2025,Valencia,Celta Vigo,02.02.2025 | Valencia | Celta Vigo | 2 | 1
+Round 22,02.02.2025,Barcelona,Alaves,02.02.2025 | Barcelona | Alaves | 1 | 0
+Round 22,01.02.2025,Espanyol,Real Madrid,01.02.2025 | Espanyol | Real Madrid | 1 | 0
+Round 22,01.02.2025,Atl. Madrid,Mallorca,01.02.2025 | Atl. Madrid | Mallorca | 2 | 0
+Round 22,01.02.2025,Villarreal,Valladolid,01.02.2025 | Villarreal | Valladolid | 5 | 1
+Round 22,01.02.2025,Getafe,Sevilla,01.02.2025 | Getafe | Sevilla | 0 | 0
+Round 22,31.01.2025,Leganes,Rayo Vallecano,31.01.2025 | Leganes | Rayo Vallecano | 0 | 1
+Round 21,27.01.2025,Alaves,Celta Vigo,27.01.2025 | Alaves | Celta Vigo | 1 | 1
+Round 21,26.01.2025,Barcelona,Valencia,26.01.2025 | Barcelona | Valencia | 7 | 1
+Round 21,26.01.2025,Ath Bilbao,Leganes,26.01.2025 | Ath Bilbao | Leganes | 0 | 0
+Round 21,26.01.2025,Real Sociedad,Getafe,26.01.2025 | Real Sociedad | Getafe | 0 | 3
+Round 21,26.01.2025,Rayo Vallecano,Girona,26.01.2025 | Rayo Vallecano | Girona | 2 | 1
+Round 21,25.01.2025,Valladolid,Real Madrid,25.01.2025 | Valladolid | Real Madrid | 0 | 3
+Round 21,25.01.2025,Sevilla,Espanyol,25.01.2025 | Sevilla | Espanyol | 1 | 1
+Round 21,25.01.2025,Atl. Madrid,Villarreal,25.01.2025 | Atl. Madrid | Villarreal | 1 | 1
+Round 21,25.01.2025,Mallorca,Betis,25.01.2025 | Mallorca | Betis | 0 | 1
+Round 21,24.01.2025,Las Palmas,Osasuna,24.01.2025 | Las Palmas | Osasuna | 1 | 1
+Round 20,20.01.2025,Villarreal,Mallorca,20.01.2025 | Villarreal | Mallorca | 4 | 0
+Round 20,19.01.2025,Valencia,Real Sociedad,19.01.2025 | Valencia | Real Sociedad | 1 | 0
+Round 20,19.01.2025,Osasuna,Rayo Vallecano,19.01.2025 | Osasuna | Rayo Vallecano | 1 | 1
+Round 20,19.01.2025,Real Madrid,Las Palmas,19.01.2025 | Real Madrid | Las Palmas | 4 | 1
+Round 20,19.01.2025,Celta Vigo,Ath Bilbao,19.01.2025 | Celta Vigo | Ath Bilbao | 1 | 2
+Round 20,18.01.2025,Getafe,Barcelona,18.01.2025 | Getafe | Barcelona | 1 | 1
+Round 20,18.01.2025,Betis,Alaves,18.01.2025 | Betis | Alaves | 1 | 3
+Round 20,18.01.2025,Leganes,Atl. Madrid,18.01.2025 | Leganes | Atl. Madrid | 1 | 0
+Round 20,18.01.2025,Girona,Sevilla,18.01.2025 | Girona | Sevilla | 1 | 2
+Round 20,17.01.2025,Espanyol,Valladolid,17.01.2025 | Espanyol | Valladolid | 2 | 1
+Round 19,13.01.2025,Real Sociedad,Villarreal,13.01.2025 | Real Sociedad | Villarreal | 1 | 0
+Round 19,12.01.2025,Atl. Madrid,Osasuna,12.01.2025 | Atl. Madrid | Osasuna | 1 | 0
+Round 19,12.01.2025,Las Palmas,Getafe,12.01.2025 | Las Palmas | Getafe | 1 | 2
+Round 19,11.01.2025,Sevilla,Valencia,11.01.2025 | Sevilla | Valencia | 1 | 1
+Round 19,11.01.2025,Espanyol,Leganes,11.01.2025 | Espanyol | Leganes | 1 | 1
+Round 19,11.01.2025,Valladolid,Betis,11.01.2025 | Valladolid | Betis | 1 | 0
+Round 19,11.01.2025,Alaves,Girona,11.01.2025 | Alaves | Girona | 0 | 1
+Round 19,10.01.2025,Rayo Vallecano,Celta Vigo,10.01.2025 | Rayo Vallecano | Celta Vigo | 2 | 1
+Round 12,03.01.2025,Valencia,Real Madrid,03.01.2025 | Valencia | Real Madrid | 1 | 2
+Round 18,22.12.2024,Betis,Rayo Vallecano,22.12.2024 | Betis | Rayo Vallecano | 1 | 1
+Round 18,22.12.2024,Las Palmas,Espanyol,22.12.2024 | Las Palmas | Espanyol | 1 | 0
+Round 18,22.12.2024,Leganes,Villarreal,22.12.2024 | Leganes | 2 | Villarreal | 2 | 5
+Round 18,22.12.2024,Real Madrid,Sevilla,22.12.2024 | Real Madrid | Sevilla | 4 | 2
+Round 18,22.12.2024,Valencia,Alaves,22.12.2024 | Valencia | Alaves | 2 | 2
+Round 18,21.12.2024,Barcelona,Atl. Madrid,21.12.2024 | Barcelona | Atl. Madrid | 1 | 2
+Round 18,21.12.2024,Osasuna,Ath Bilbao,21.12.2024 | Osasuna | Ath Bilbao | 1 | 2
+Round 18,21.12.2024,Celta Vigo,Real Sociedad,21.12.2024 | Celta Vigo | Real Sociedad | 2 | 0
+Round 18,21.12.2024,Getafe,Mallorca,21.12.2024 | Getafe | Mallorca | 0 | 1
+Round 18,20.12.2024,Girona,Valladolid,20.12.2024 | Girona | Valladolid | 3 | 0
+Round 13,18.12.2024,Espanyol,Valencia,18.12.2024 | Espanyol | Valencia | 1 | 1
+Round 12,18.12.2024,Villarreal,Rayo Vallecano,18.12.2024 | Villarreal | Rayo Vallecano | 1 | 1
+Round 17,15.12.2024,Barcelona,Leganes,15.12.2024 | Barcelona | Leganes | 0 | 1
+Round 17,15.12.2024,Real Sociedad,Las Palmas,15.12.2024 | Real Sociedad | Las Palmas | 0 | 0
+Round 17,15.12.2024,Villarreal,Betis,15.12.2024 | Villarreal | Betis | 1 | 2
+Round 17,15.12.2024,Alaves,Ath Bilbao,15.12.2024 | Alaves | Ath Bilbao | 1 | 1
+Round 17,15.12.2024,Atl. Madrid,Getafe,15.12.2024 | Atl. Madrid | Getafe | 1 | 0
+Round 17,14.12.2024,Rayo Vallecano,Real Madrid,14.12.2024 | Rayo Vallecano | Real Madrid | 3 | 3
+Round 17,14.12.2024,Sevilla,Celta Vigo,14.12.2024 | Sevilla | Celta Vigo | 1 | 0
+Round 17,14.12.2024,Mallorca,Girona,14.12.2024 | Mallorca | Girona | 2 | 1
+Round 17,14.12.2024,Espanyol,Osasuna,14.12.2024 | Espanyol | Osasuna | 0 | 0
+Round 17,13.12.2024,Valladolid,Valencia,13.12.2024 | Valladolid | Valencia | 1 | 0
+Round 16,09.12.2024,Getafe,Espanyol,09.12.2024 | Getafe | Espanyol | 1 | 0
+Round 16,08.12.2024,Atl. Madrid,Sevilla,08.12.2024 | Atl. Madrid | Sevilla | 4 | 3
+Round 16,08.12.2024,Osasuna,Alaves,08.12.2024 | Osasuna | Alaves | 2 | 2
+Round 16,08.12.2024,Ath Bilbao,Villarreal,08.12.2024 | Ath Bilbao | Villarreal | 2 | 0
+Round 16,08.12.2024,Leganes,Real Sociedad,08.12.2024 | Leganes | Real Sociedad | 0 | 3
+Round 16,07.12.2024,Girona,Real Madrid,07.12.2024 | Girona | Real Madrid | 0 | 3
+Round 16,07.12.2024,Valencia,Rayo Vallecano,07.12.2024 | Valencia | Rayo Vallecano | 0 | 1
+Round 16,07.12.2024,Betis,Barcelona,07.12.2024 | Betis | Barcelona | 2 | 2
+Round 16,07.12.2024,Las Palmas,Valladolid,07.12.2024 | Las Palmas | Valladolid | 2 | 1
+Round 16,06.12.2024,Celta Vigo,Mallorca,06.12.2024 | Celta Vigo | Mallorca | 2 | 0
+Round 19,04.12.2024,Ath Bilbao,Real Madrid,04.12.2024 | Ath Bilbao | Real Madrid | 2 | 1
+Round 19,03.12.2024,Mallorca,Barcelona,03.12.2024 | Mallorca | Barcelona | 1 | 5
+Round 15,02.12.2024,Sevilla,Osasuna,02.12.2024 | Sevilla | Osasuna | 1 | 1
+Round 15,01.12.2024,Real Sociedad,Betis,01.12.2024 | Real Sociedad | Betis | 2 | 0
+Round 15,01.12.2024,Rayo Vallecano,Ath Bilbao,01.12.2024 | Rayo Vallecano | Ath Bilbao | 1 | 2
+Round 15,01.12.2024,Real Madrid,Getafe,01.12.2024 | Real Madrid | Getafe | 2 | 0
+Round 15,01.12.2024,Villarreal,Girona,01.12.2024 | Villarreal | Girona | 2 | 2
+Round 15,30.11.2024,Valladolid,Atl. Madrid,30.11.2024 | Valladolid | Atl. Madrid | 0 | 5
+Round 15,30.11.2024,Espanyol,Celta Vigo,30.11.2024 | Espanyol | Celta Vigo | 3 | 1
+Round 15,30.11.2024,Alaves,Leganes,30.11.2024 | Alaves | Leganes | 1 | 1
+Round 15,30.11.2024,Barcelona,Las Palmas,30.11.2024 | Barcelona | Las Palmas | 1 | 2
+Round 15,29.11.2024,Mallorca,Valencia,29.11.2024 | Mallorca | Valencia | 2 | 1
+Round 14,24.11.2024,Ath Bilbao,Real Sociedad,24.11.2024 | Ath Bilbao | Real Sociedad | 1 | 0
+Round 14,24.11.2024,Leganes,Real Madrid,24.11.2024 | Leganes | Real Madrid | 0 | 3
+Round 14,24.11.2024,Sevilla,Rayo Vallecano,24.11.2024 | Sevilla | Rayo Vallecano | 1 | 0
+Round 14,24.11.2024,Osasuna,Villarreal,24.11.2024 | Osasuna | Villarreal | 2 | 2
+Round 14,23.11.2024,Celta Vigo,Barcelona,23.11.2024 | Celta Vigo | Barcelona | 2 | 2
+Round 14,23.11.2024,Girona,Espanyol,23.11.2024 | Girona | Espanyol | 4 | 1
+Round 14,23.11.2024,Las Palmas,Mallorca,23.11.2024 | Las Palmas | Mallorca | 2 | 3
+Round 14,23.11.2024,Atl. Madrid,Alaves,23.11.2024 | Atl. Madrid | Alaves | 2 | 1
+Round 14,23.11.2024,Valencia,Betis,23.11.2024 | Valencia | Betis | 4 | 2
+Round 14,22.11.2024,Getafe,Valladolid,22.11.2024 | Getafe | Valladolid | 2 | 0
+Round 13,10.11.2024,Real Sociedad,Barcelona,10.11.2024 | Real Sociedad | Barcelona | 1 | 0
+Round 13,10.11.2024,Getafe,Girona,10.11.2024 | Getafe | Girona | 0 | 1
+Round 13,10.11.2024,Valladolid,Ath Bilbao,10.11.2024 | Valladolid | Ath Bilbao | 1 | 1
+Round 13,10.11.2024,Mallorca,Atl. Madrid,10.11.2024 | Mallorca | Atl. Madrid | 0 | 1
+Round 13,10.11.2024,Betis,Celta Vigo,10.11.2024 | Betis | Celta Vigo | 2 | 2
+Round 13,09.11.2024,Leganes,Sevilla,09.11.2024 | Leganes | Sevilla | 1 | 0
+Round 13,09.11.2024,Villarreal,Alaves,09.11.2024 | Villarreal | Alaves | 3 | 0
+Round 13,09.11.2024,Real Madrid,Osasuna,09.11.2024 | Real Madrid | Osasuna | 4 | 0
+Round 13,08.11.2024,Rayo Vallecano,Las Palmas,08.11.2024 | Rayo Vallecano | Las Palmas | 1 | 3
+Round 12,04.11.2024,Celta Vigo,Getafe,04.11.2024 | Celta Vigo | Getafe | 1 | 0
+Round 12,03.11.2024,Ath Bilbao,Betis,03.11.2024 | Ath Bilbao | Betis | 1 | 1
+Round 12,03.11.2024,Sevilla,Real Sociedad,03.11.2024 | Sevilla | Real Sociedad | 0 | 2
+Round 12,03.11.2024,Barcelona,Espanyol,03.11.2024 | Barcelona | Espanyol | 3 | 1
+Round 12,03.11.2024,Atl. Madrid,Las Palmas,03.11.2024 | Atl. Madrid | Las Palmas | 2 | 0
+Round 12,02.11.2024,Girona,Leganes,02.11.2024 | Girona | Leganes | 4 | 3
+Round 12,02.11.2024,Osasuna,Valladolid,02.11.2024 | Osasuna | Valladolid | 1 | 0
+Round 12,01.11.2024,Alaves,Mallorca,01.11.2024 | Alaves | Mallorca | 1 | 0
+Round 11,28.10.2024,Mallorca,Ath Bilbao,28.10.2024 | Mallorca | Ath Bilbao | 0 | 0
+Round 11,27.10.2024,Real Sociedad,Osasuna,27.10.2024 | Real Sociedad | Osasuna | 0 | 2
+Round 11,27.10.2024,Betis,Atl. Madrid,27.10.2024 | Betis | Atl. Madrid | 1 | 0
+Round 11,27.10.2024,Getafe,Valencia,27.10.2024 | Getafe | Valencia | 1 | 1
+Round 11,27.10.2024,Leganes,Celta Vigo,27.10.2024 | Leganes | Celta Vigo | 3 | 0
+Round 11,26.10.2024,Real Madrid,Barcelona,26.10.2024 | Real Madrid | Barcelona | 0 | 4
+Round 11,26.10.2024,Las Palmas,Girona,26.10.2024 | Las Palmas | Girona | 1 | 0
+Round 11,26.10.2024,Rayo Vallecano,Alaves,26.10.2024 | Rayo Vallecano | Alaves | 1 | 0
+Round 11,26.10.2024,Valladolid,Villarreal,26.10.2024 | Valladolid | Villarreal | 1 | 2
+Round 11,25.10.2024,Espanyol,Sevilla,25.10.2024 | Espanyol | Sevilla | 0 | 2
+Round 10,21.10.2024,Valencia,Las Palmas,21.10.2024 | Valencia | Las Palmas | 2 | 3
+Round 10,20.10.2024,Barcelona,Sevilla,20.10.2024 | Barcelona | Sevilla | 5 | 1
+Round 10,20.10.2024,Villarreal,Getafe,20.10.2024 | Villarreal | Getafe | 1 | 1
+Round 10,20.10.2024,Atl. Madrid,Leganes,20.10.2024 | Atl. Madrid | Leganes | 3 | 1
+Round 10,20.10.2024,Mallorca,Rayo Vallecano,20.10.2024 | Mallorca | Rayo Vallecano | 1 | 0
+Round 10,19.10.2024,Celta Vigo,Real Madrid,19.10.2024 | Celta Vigo | Real Madrid | 1 | 2
+Round 10,19.10.2024,Girona,Real Sociedad,19.10.2024 | Girona | Real Sociedad | 0 | 1
+Round 10,19.10.2024,Osasuna,Betis,19.10.2024 | Osasuna | Betis | 1 | 2
+Round 10,19.10.2024,Ath Bilbao,Espanyol,19.10.2024 | Ath Bilbao | Espanyol | 4 | 1
+Round 10,18.10.2024,Alaves,Valladolid,18.10.2024 | Alaves | Valladolid | 2 | 3
+Round 9,06.10.2024,Real Sociedad,Atl. Madrid,06.10.2024 | Real Sociedad | Atl. Madrid | 1 | 1
+Round 9,06.10.2024,Sevilla,Betis,06.10.2024 | Sevilla | Betis | 1 | 0
+Round 9,06.10.2024,Alaves,Barcelona,06.10.2024 | Alaves | Barcelona | 0 | 3
+Round 9,06.10.2024,Girona,Ath Bilbao,06.10.2024 | Girona | Ath Bilbao | 2 | 1
+Round 9,05.10.2024,Real Madrid,Villarreal,05.10.2024 | Real Madrid | Villarreal | 2 | 0
+Round 9,05.10.2024,Las Palmas,Celta Vigo,05.10.2024 | Las Palmas | Celta Vigo | 2 | 0 | 1
+Round 9,05.10.2024,Valladolid,Rayo Vallecano,05.10.2024 | Valladolid | Rayo Vallecano | 1 | 2
+Round 9,05.10.2024,Getafe,Osasuna,05.10.2024 | Getafe | Osasuna | 1 | 1
+Round 9,05.10.2024,Espanyol,Mallorca,05.10.2024 | Espanyol | Mallorca | 2 | 1
+Round 9,04.10.2024,Leganes,Valencia,04.10.2024 | Leganes | Valencia | 0 | 0
+Round 8,30.09.2024,Villarreal,Las Palmas,30.09.2024 | Villarreal | Las Palmas | 3 | 1
+Round 8,29.09.2024,Atl. Madrid,Real Madrid,29.09.2024 | Atl. Madrid | Real Madrid | 1 | 1
+Round 8,29.09.2024,Betis,Espanyol,29.09.2024 | Betis | Espanyol | 1 | 0
+Round 8,29.09.2024,Ath Bilbao,Sevilla,29.09.2024 | Ath Bilbao | Sevilla | 1 | 1
+Round 8,29.09.2024,Celta Vigo,Girona,29.09.2024 | Celta Vigo | Girona | 1 | 1
+Round 8,28.09.2024,Osasuna,Barcelona,28.09.2024 | Osasuna | Barcelona | 4 | 2
+Round 8,28.09.2024,Real Sociedad,Valencia,28.09.2024 | Real Sociedad | Valencia | 3 | 0
+Round 8,28.09.2024,Rayo Vallecano,Leganes,28.09.2024 | Rayo Vallecano | Leganes | 1 | 1
+Round 8,28.09.2024,Getafe,Alaves,28.09.2024 | Getafe | Alaves | 2 | 0
+Round 8,27.09.2024,Valladolid,Mallorca,27.09.2024 | Valladolid | Mallorca | 1 | 2
+Round 7,26.09.2024,Celta Vigo,Atl. Madrid,26.09.2024 | Celta Vigo | Atl. Madrid | 0 | 1
+Round 7,26.09.2024,Espanyol,Villarreal,26.09.2024 | Espanyol | Villarreal | 1 | 2
+Round 7,26.09.2024,Las Palmas,Betis,26.09.2024 | Las Palmas | Betis | 1 | 1
+Round 7,25.09.2024,Barcelona,Getafe,25.09.2024 | Barcelona | Getafe | 1 | 0
+Round 7,25.09.2024,Girona,Rayo Vallecano,25.09.2024 | Girona | Rayo Vallecano | 0 | 0
+Round 7,24.09.2024,Real Madrid,Alaves,24.09.2024 | Real Madrid | Alaves | 3 | 2
+Round 7,24.09.2024,Sevilla,Valladolid,24.09.2024 | Sevilla | Valladolid | 2 | 1
+Round 7,24.09.2024,Valencia,Osasuna,24.09.2024 | Valencia | Osasuna | 0 | 0
+Round 6,23.09.2024,Betis,Mallorca,23.09.2024 | Betis | Mallorca | 1 | 2
+Round 6,22.09.2024,Rayo Vallecano,Atl. Madrid,22.09.2024 | Rayo Vallecano | Atl. Madrid | 1 | 1
+Round 6,22.09.2024,Villarreal,Barcelona,22.09.2024 | Villarreal | Barcelona | 1 | 5
+Round 6,22.09.2024,Ath Bilbao,Celta Vigo,22.09.2024 | Ath Bilbao | Celta Vigo | 3 | 1
+Round 6,22.09.2024,Getafe,Leganes,22.09.2024 | Getafe | Leganes | 1 | 1
+Round 6,21.09.2024,Real Madrid,Espanyol,21.09.2024 | Real Madrid | Espanyol | 4 | 1
+Round 6,21.09.2024,Valencia,Girona,21.09.2024 | Valencia | Girona | 2 | 0
+Round 6,21.09.2024,Osasuna,Las Palmas,21.09.2024 | Osasuna | Las Palmas | 2 | 1
+Round 6,21.09.2024,Valladolid,Real Sociedad,21.09.2024 | Valladolid | Real Sociedad | 0 | 0
+Round 6,20.09.2024,Alaves,Sevilla,20.09.2024 | Alaves | Sevilla | 2 | 1
+Round 7,19.09.2024,Leganes,Ath Bilbao,19.09.2024 | Leganes | Ath Bilbao | 0 | 2
+Round 3,18.09.2024,Betis,Getafe,18.09.2024 | Betis | Getafe | 2 | 1
+Round 7,17.09.2024,Mallorca,Real Sociedad,17.09.2024 | Mallorca | Real Sociedad | 1 | 0
+Round 5,16.09.2024,Rayo Vallecano,Osasuna,16.09.2024 | Rayo Vallecano | Osasuna | 3 | 1
+Round 5,15.09.2024,Atl. Madrid,Valencia,15.09.2024 | Atl. Madrid | Valencia | 3 | 0
+Round 5,15.09.2024,Las Palmas,Ath Bilbao,15.09.2024 | Las Palmas | Ath Bilbao | 2 | 3
+Round 5,15.09.2024,Girona,Barcelona,15.09.2024 | Girona | Barcelona | 1 | 4
+Round 5,15.09.2024,Celta Vigo,Valladolid,15.09.2024 | Celta Vigo | Valladolid | 3 | 1
+Round 5,14.09.2024,Real Sociedad,Real Madrid,14.09.2024 | Real Sociedad | Real Madrid | 0 | 2
+Round 5,14.09.2024,Sevilla,Getafe,14.09.2024 | Sevilla | Getafe | 1 | 0
+Round 5,14.09.2024,Espanyol,Alaves,14.09.2024 | Espanyol | Alaves | 3 | 2
+Round 5,14.09.2024,Mallorca,Villarreal,14.09.2024 | Mallorca | Villarreal | 1 | 2
+Round 5,13.09.2024,Betis,Leganes,13.09.2024 | Betis | Leganes | 2 | 0
+Round 4,01.09.2024,Real Madrid,Betis,01.09.2024 | Real Madrid | Betis | 2 | 0
+Round 4,01.09.2024,Getafe,Real Sociedad,01.09.2024 | Getafe | Real Sociedad | 0 | 0
+Round 4,01.09.2024,Sevilla,Girona,01.09.2024 | Sevilla | Girona | 0 | 2
+Round 4,01.09.2024,Alaves,Las Palmas,01.09.2024 | Alaves | Las Palmas | 2 | 0
+Round 4,01.09.2024,Osasuna,Celta Vigo,01.09.2024 | Osasuna | Celta Vigo | 3 | 2
+Round 4,31.08.2024,Leganes,Mallorca,31.08.2024 | Leganes | Mallorca | 0 | 1
+Round 4,31.08.2024,Valencia,Villarreal,31.08.2024 | Valencia | Villarreal | 1 | 1
+Round 4,31.08.2024,Espanyol,Rayo Vallecano,31.08.2024 | Espanyol | Rayo Vallecano | 2 | 1
+Round 4,31.08.2024,Ath Bilbao,Atl. Madrid,31.08.2024 | Ath Bilbao | Atl. Madrid | 0 | 1
+Round 4,31.08.2024,Barcelona,Valladolid,31.08.2024 | Barcelona | Valladolid | 7 | 0
+Round 3,29.08.2024,Las Palmas,Real Madrid,29.08.2024 | Las Palmas | Real Madrid | 1 | 1
+Round 3,29.08.2024,Girona,Osasuna,29.08.2024 | Girona | Osasuna | 4 | 0
+Round 3,28.08.2024,Atl. Madrid,Espanyol,28.08.2024 | Atl. Madrid | Espanyol | 0 | 0
+Round 3,28.08.2024,Real Sociedad,Alaves,28.08.2024 | Real Sociedad | Alaves | 1 | 2
+Round 3,28.08.2024,Ath Bilbao,Valencia,28.08.2024 | Ath Bilbao | Valencia | 1 | 0
+Round 3,28.08.2024,Valladolid,Leganes,28.08.2024 | Valladolid | Leganes | 0 | 0
+Round 3,27.08.2024,Rayo Vallecano,Barcelona,27.08.2024 | Rayo Vallecano | Barcelona | 1 | 2
+Round 3,27.08.2024,Mallorca,Sevilla,27.08.2024 | Mallorca | Sevilla | 0 | 0
+Round 3,26.08.2024,Villarreal,Celta Vigo,26.08.2024 | Villarreal | Celta Vigo | 4 | 3
+Round 2,25.08.2024,Atl. Madrid,Girona,25.08.2024 | Atl. Madrid | Girona | 3 | 0
+Round 2,25.08.2024,Alaves,Betis,25.08.2024 | Alaves | Betis | 0 | 0
+Round 2,25.08.2024,Leganes,Las Palmas,25.08.2024 | Leganes | Las Palmas | 2 | 1
+Round 2,25.08.2024,Real Madrid,Valladolid,25.08.2024 | Real Madrid | Valladolid | 3 | 0
+Round 2,24.08.2024,Espanyol,Real Sociedad,24.08.2024 | Espanyol | Real Sociedad | 0 | 1
+Round 2,24.08.2024,Getafe,Rayo Vallecano,24.08.2024 | Getafe | Rayo Vallecano | 0 | 0
+Round 2,24.08.2024,Barcelona,Ath Bilbao,24.08.2024 | Barcelona | Ath Bilbao | 2 | 1
+Round 2,24.08.2024,Osasuna,Mallorca,24.08.2024 | Osasuna | Mallorca | 1 | 0
+Round 2,23.08.2024,Sevilla,Villarreal,23.08.2024 | Sevilla | Villarreal | 1 | 2
+Round 2,23.08.2024,Celta Vigo,Valencia,23.08.2024 | Celta Vigo | Valencia | 3 | 1
+Round 1,19.08.2024,Villarreal,Atl. Madrid,19.08.2024 | Villarreal | Atl. Madrid | 2 | 2
+Round 1,19.08.2024,Valladolid,Espanyol,19.08.2024 | Valladolid | Espanyol | 1 | 0
+Round 1,18.08.2024,Mallorca,Real Madrid,18.08.2024 | Mallorca | Real Madrid | 1 | 1
+Round 1,18.08.2024,Real Sociedad,Rayo Vallecano,18.08.2024 | Real Sociedad | Rayo Vallecano | 1 | 2
+Round 1,17.08.2024,Valencia,Barcelona,17.08.2024 | Valencia | Barcelona | 1 | 2
+Round 1,17.08.2024,Osasuna,Leganes,17.08.2024 | Osasuna | Leganes | 1 | 1
+Round 1,16.08.2024,Las Palmas,Sevilla,16.08.2024 | Las Palmas | Sevilla | 2 | 2
+Round 1,16.08.2024,Celta Vigo,Alaves,16.08.2024 | Celta Vigo | Alaves | 2 | 1
+Round 1,15.08.2024,Betis,Girona,15.08.2024 | Betis | Girona | 1 | 1
+Round 1,15.08.2024,Ath Bilbao,Getafe,15.08.2024 | Ath Bilbao | Getafe | 1 | 1
