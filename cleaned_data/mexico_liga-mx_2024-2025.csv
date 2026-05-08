@@ -1,0 +1,154 @@
+round,date,team_home,team_away,full_text
+17,2025-04-21,Juarez,Queretaro,21.04.2025 | Juarez | Queretaro | 0 | 2
+17,2025-04-21,Club Leon,Monterrey,21.04.2025 | Club Leon | Monterrey | 0 | 2
+17,2025-04-21,Atl. San Luis,Pachuca,21.04.2025 | Atl. San Luis | Pachuca | 2 | 1
+17,2025-04-21,Santos Laguna,Club Tijuana,21.04.2025 | Santos Laguna | Club Tijuana | 0 | 4
+17,2025-04-20,Atlas,Guadalajara Chivas,20.04.2025 | Atlas | Guadalajara Chivas | 1 | 1
+17,2025-04-20,Tigres UANL,UNAM Pumas,20.04.2025 | Tigres UANL | UNAM Pumas | 2 | 1
+17,2025-04-20,Toluca,Cruz Azul,20.04.2025 | Toluca | Cruz Azul | 2 | 2
+17,2025-04-20,Club America,Mazatlan FC,20.04.2025 | Club America | Mazatlan FC | 5 | 0
+17,2025-04-19,Puebla,Necaxa,19.04.2025 | Puebla | Necaxa | 0 | 1
+16,2025-04-17,UNAM Pumas,Santos Laguna,17.04.2025 | UNAM Pumas | Santos Laguna | 2 | 0
+16,2025-04-17,Mazatlan FC,Club Tijuana,17.04.2025 | Mazatlan FC | Club Tijuana | 0 | 2
+16,2025-04-17,Atl. San Luis,Toluca,17.04.2025 | Atl. San Luis | Toluca | 0 | 1
+16,2025-04-17,Monterrey,Club America,17.04.2025 | Monterrey | Club America | 1 | 0
+16,2025-04-17,Queretaro,Atlas,17.04.2025 | Queretaro | Atlas | 1 | 2
+16,2025-04-16,Cruz Azul,Club Leon,16.04.2025 | Cruz Azul | Club Leon | 2 | 1
+16,2025-04-16,Juarez,Necaxa,16.04.2025 | Juarez | Necaxa | 2 | 2
+16,2025-04-16,Guadalajara Chivas,Puebla,16.04.2025 | Guadalajara Chivas | Puebla | 1 | 0
+16,2025-04-16,Pachuca,Tigres UANL,16.04.2025 | Pachuca | Tigres UANL | 0 | 0
+15,2025-04-14,Santos Laguna,Queretaro,14.04.2025 | Santos Laguna | Queretaro | 1 | 2
+15,2025-04-13,Club America,Cruz Azul,13.04.2025 | Club America | Cruz Azul | 0 | 0
+15,2025-04-13,Atlas,Toluca,13.04.2025 | Atlas | Toluca | 2 | 3
+15,2025-04-13,Tigres UANL,Monterrey,13.04.2025 | Tigres UANL | Monterrey | 2 | 2 | 1
+15,2025-04-13,Club Leon,Puebla,13.04.2025 | Club Leon | Puebla | 1 | 0
+15,2025-04-13,UNAM Pumas,Juarez,13.04.2025 | UNAM Pumas | Juarez | 0 | 0
+15,2025-04-12,Mazatlan FC,Guadalajara Chivas,12.04.2025 | Mazatlan FC | Guadalajara Chivas | 2 | 1 | 1
+15,2025-04-12,Necaxa,Pachuca,12.04.2025 | Necaxa | Pachuca | 3 | 5
+15,2025-04-11,Club Tijuana,Atl. San Luis,11.04.2025 | Club Tijuana | Atl. San Luis | 2 | 1
+14,2025-04-07,Toluca,Santos Laguna,07.04.2025 | Toluca | Santos Laguna | 2 | 1
+14,2025-04-06,Cruz Azul,UNAM Pumas,06.04.2025 | Cruz Azul | UNAM Pumas | 3 | 2
+14,2025-04-06,Monterrey,Guadalajara Chivas,06.04.2025 | Monterrey | Guadalajara Chivas | 3 | 1
+14,2025-04-06,Atl. San Luis,Mazatlan FC,06.04.2025 | Atl. San Luis | Mazatlan FC | 2 | 1
+14,2025-04-06,Atlas,Juarez,06.04.2025 | Atlas | Juarez | 1 | 1
+14,2025-04-06,Pachuca,Club America,06.04.2025 | Pachuca | Club America | 1 | 0
+14,2025-04-05,Puebla,Tigres UANL,05.04.2025 | Puebla | Tigres UANL | 0 | 0
+14,2025-04-05,Club Tijuana,Necaxa,05.04.2025 | Club Tijuana | Necaxa | 1 | 2
+14,2025-04-05,Queretaro,Club Leon,05.04.2025 | Queretaro | Club Leon | 1 | 1
+13,2025-03-31,Club Leon,UNAM Pumas,31.03.2025 | Club Leon | UNAM Pumas | 1 | 2
+13,2025-03-31,Santos Laguna,Atl. San Luis,31.03.2025 | Santos Laguna | Atl. San Luis | 2 | 3
+13,2025-03-30,Monterrey,Club Tijuana,30.03.2025 | Monterrey | Club Tijuana | 1 | 2
+13,2025-03-30,Guadalajara Chivas,Cruz Azul,30.03.2025 | Guadalajara Chivas | Cruz Azul | 0 | 1
+13,2025-03-30,Club America,Tigres UANL,30.03.2025 | Club America | Tigres UANL | 3 | 0
+13,2025-03-30,Juarez,Puebla,30.03.2025 | Juarez | Puebla | 2 | 0
+13,2025-03-30,Toluca,Pachuca,30.03.2025 | Toluca | Pachuca | 3 | 2
+13,2025-03-29,Mazatlan FC,Atlas,29.03.2025 | Mazatlan FC | Atlas | 3 | 2
+13,2025-03-29,Necaxa,Queretaro,29.03.2025 | Necaxa | Queretaro | 2 | 0
+12,2025-03-17,Pachuca,Club Tijuana,17.03.2025 | Pachuca | Club Tijuana | 4 | 1
+12,2025-03-17,UNAM Pumas,Monterrey,17.03.2025 | UNAM Pumas | Monterrey | 1 | 3
+12,2025-03-16,Atlas,Club America,16.03.2025 | Atlas | Club America | 1 | 3
+12,2025-03-16,Juarez,Guadalajara Chivas,16.03.2025 | Juarez | Guadalajara Chivas | 1 | 1
+12,2025-03-16,Cruz Azul,Atl. San Luis,16.03.2025 | Cruz Azul | Atl. San Luis | 3 | 0
+12,2025-03-16,Tigres UANL,Santos Laguna,16.03.2025 | Tigres UANL | Santos Laguna | 3 | 0
+12,2025-03-15,Puebla,Toluca,15.03.2025 | Puebla | Toluca | 0 | 3
+12,2025-03-15,Necaxa,Club Leon,15.03.2025 | Necaxa | Club Leon | 2 | 1
+12,2025-03-15,Queretaro,Mazatlan FC,15.03.2025 | Queretaro | Mazatlan FC | 1 | 0
+11,2025-03-10,Club Tijuana,Atlas,10.03.2025 | Club Tijuana | Atlas | 3 | 4
+11,2025-03-10,Santos Laguna,Club Leon,10.03.2025 | Santos Laguna | Club Leon | 2 | 1
+11,2025-03-09,Guadalajara Chivas,Club America,09.03.2025 | Guadalajara Chivas | Club America | 0 | 0
+11,2025-03-09,Cruz Azul,Monterrey,09.03.2025 | Cruz Azul | Monterrey | 1 | 1
+11,2025-03-09,Pachuca,Mazatlan FC,09.03.2025 | Pachuca | Mazatlan FC | 1 | 1
+11,2025-03-09,Toluca,Necaxa,09.03.2025 | Toluca | Necaxa | 5 | 2
+11,2025-03-08,Puebla,UNAM Pumas,08.03.2025 | Puebla | UNAM Pumas | 1 | 3
+11,2025-03-08,Atl. San Luis,Juarez,08.03.2025 | Atl. San Luis | Juarez | 1 | 0
+11,2025-03-08,Tigres UANL,Queretaro,08.03.2025 | Tigres UANL | Queretaro | 1 | 0
+10,2025-03-03,Monterrey,Santos Laguna,03.03.2025 | Monterrey | Santos Laguna | 4 | 2
+10,2025-03-03,Atlas,Atl. San Luis,03.03.2025 | Atlas | Atl. San Luis | 3 | 1
+10,2025-03-02,Queretaro,Puebla,02.03.2025 | Queretaro | Puebla | 2 | 0
+10,2025-03-02,UNAM Pumas,Guadalajara Chivas,02.03.2025 | UNAM Pumas | Guadalajara Chivas | 0 | 1
+10,2025-03-02,Club Leon,Club Tijuana,02.03.2025 | Club Leon | Club Tijuana | 2 | 1
+10,2025-03-02,Necaxa,Tigres UANL,02.03.2025 | Necaxa | Tigres UANL | 1 | 2
+10,2025-03-02,Club America,Toluca,02.03.2025 | Club America | Toluca | 3 | 0
+10,2025-03-02,Juarez,Pachuca,02.03.2025 | Juarez | Pachuca | 2 | 2
+10,2025-03-01,Mazatlan FC,Cruz Azul,01.03.2025 | Mazatlan FC | Cruz Azul | 1 | 1
+9,2025-02-27,Atl. San Luis,Guadalajara Chivas,27.02.2025 | Atl. San Luis | Guadalajara Chivas | 3 | 1
+9,2025-02-27,Toluca,Queretaro,27.02.2025 | Toluca | Queretaro | 5 | 0
+9,2025-02-27,Pachuca,Puebla,27.02.2025 | Pachuca | Puebla | 2 | 1
+9,2025-02-26,Club Tijuana,UNAM Pumas,26.02.2025 | Club Tijuana | UNAM Pumas | 4 | 2
+9,2025-02-26,Mazatlan FC,Monterrey,26.02.2025 | Mazatlan FC | Monterrey | 1 | 0
+9,2025-02-26,Tigres UANL,Juarez,26.02.2025 | Tigres UANL | Juarez | 0 | 1
+8,2025-02-24,Cruz Azul,Queretaro,24.02.2025 | Cruz Azul | Queretaro | 1 | 0
+8,2025-02-24,Santos Laguna,Atlas,24.02.2025 | Santos Laguna | Atlas | 2 | 0
+8,2025-02-23,UNAM Pumas,Club America,23.02.2025 | UNAM Pumas | Club America | 0 | 2
+8,2025-02-23,Guadalajara Chivas,Pachuca,23.02.2025 | Guadalajara Chivas | Pachuca | 2 | 1
+8,2025-02-23,Club Leon,Tigres UANL,23.02.2025 | Club Leon | Tigres UANL | 1 | 0
+8,2025-02-23,Monterrey,Atl. San Luis,23.02.2025 | Monterrey | Atl. San Luis | 3 | 1
+8,2025-02-23,Juarez,Toluca,23.02.2025 | Juarez | Toluca | 0 | 4
+8,2025-02-22,Puebla,Club Tijuana,22.02.2025 | Puebla | Club Tijuana | 2 | 0
+8,2025-02-22,Necaxa,Mazatlan FC,22.02.2025 | Necaxa | Mazatlan FC | 3 | 1
+9,2025-02-20,Santos Laguna,Cruz Azul,20.02.2025 | Santos Laguna | Cruz Azul | 0 | 1
+9,2025-02-20,Club America,Club Leon,20.02.2025 | Club America | Club Leon | 1 | 1
+9,2025-02-19,Atlas,Necaxa,19.02.2025 | Atlas | Necaxa | 0 | 4
+7,2025-02-17,Pachuca,UNAM Pumas,17.02.2025 | Pachuca | UNAM Pumas | 2 | 1
+7,2025-02-17,Atl. San Luis,Club Leon,17.02.2025 | Atl. San Luis | Club Leon | 1 | 2
+7,2025-02-17,Queretaro,Monterrey,17.02.2025 | Queretaro | Monterrey | 2 | 4
+7,2025-02-16,Toluca,Guadalajara Chivas,16.02.2025 | Toluca | Guadalajara Chivas | 2 | 1
+7,2025-02-16,Tigres UANL,Cruz Azul,16.02.2025 | Tigres UANL | Cruz Azul | 2 | 1
+7,2025-02-16,Atlas,Puebla,16.02.2025 | Atlas | Puebla | 3 | 2
+7,2025-02-15,Club America,Necaxa,15.02.2025 | Club America | Necaxa | 2 | 3
+7,2025-02-15,Club Tijuana,Juarez,15.02.2025 | Club Tijuana | Juarez | 1 | 2
+7,2025-02-15,Mazatlan FC,Santos Laguna,15.02.2025 | Mazatlan FC | Santos Laguna | 1 | 1
+6,2025-02-10,Guadalajara Chivas,Club Tijuana,10.02.2025 | Guadalajara Chivas | Club Tijuana | 2 | 1
+6,2025-02-10,UNAM Pumas,Mazatlan FC,10.02.2025 | UNAM Pumas | Mazatlan FC | 1 | 0
+6,2025-02-09,Cruz Azul,Pachuca,09.02.2025 | Cruz Azul | Pachuca | 2 | 1
+6,2025-02-09,Juarez,Monterrey,09.02.2025 | Juarez | Monterrey | 2 | 1
+6,2025-02-09,Club Leon,Toluca,09.02.2025 | Club Leon | Toluca | 3 | 3
+6,2025-02-09,Tigres UANL,Atlas,09.02.2025 | Tigres UANL | Atlas | 2 | 1
+6,2025-02-08,Puebla,Club America,08.02.2025 | Puebla | Club America | 1 | 2
+6,2025-02-08,Necaxa,Santos Laguna,08.02.2025 | Necaxa | Santos Laguna | 3 | 2
+6,2025-02-08,Queretaro,Atl. San Luis,08.02.2025 | Queretaro | Atl. San Luis | 1 | 0
+1,2025-02-06,Pachuca,Club Leon,06.02.2025 | Pachuca | Club Leon | 1 | 2
+5,2025-02-03,Atl. San Luis,UNAM Pumas,03.02.2025 | Atl. San Luis | UNAM Pumas | 2 | 3
+5,2025-02-03,Santos Laguna,Puebla,03.02.2025 | Santos Laguna | Puebla | 0 | 2
+5,2025-02-02,Toluca,Tigres UANL,02.02.2025 | Toluca | Tigres UANL | 1 | 0
+5,2025-02-02,Monterrey,Necaxa,02.02.2025 | Monterrey | Necaxa | 1 | 0
+5,2025-02-02,Pachuca,Atlas,02.02.2025 | Pachuca | Atlas | 0 | 0
+5,2025-02-02,Guadalajara Chivas,Queretaro,02.02.2025 | Guadalajara Chivas | Queretaro | 1 | 1
+5,2025-02-02,Club America,Juarez,02.02.2025 | Club America | Juarez | 4 | 0
+5,2025-02-01,Club Tijuana,Cruz Azul,01.02.2025 | Club Tijuana | Cruz Azul | 2 | 3
+5,2025-02-01,Mazatlan FC,Club Leon,01.02.2025 | Mazatlan FC | Club Leon | 1 | 2
+4,2025-01-30,UNAM Pumas,Toluca,30.01.2025 | UNAM Pumas | Toluca | 1 | 1
+4,2025-01-30,Juarez,Santos Laguna,30.01.2025 | Juarez | Santos Laguna | 1 | 0
+4,2025-01-30,Atlas,Monterrey,30.01.2025 | Atlas | Monterrey | 3 | 3
+4,2025-01-30,Queretaro,Pachuca,30.01.2025 | Queretaro | Pachuca | 0 | 1
+4,2025-01-29,Necaxa,Cruz Azul,29.01.2025 | Necaxa | Cruz Azul | 1 | 3
+4,2025-01-29,Club Leon,Guadalajara Chivas,29.01.2025 | Club Leon | Guadalajara Chivas | 2 | 1
+4,2025-01-29,Tigres UANL,Club Tijuana,29.01.2025 | Tigres UANL | Club Tijuana | 4 | 0
+4,2025-01-29,Club America,Atl. San Luis,29.01.2025 | Club America | Atl. San Luis | 3 | 0
+4,2025-01-29,Puebla,Mazatlan FC,29.01.2025 | Puebla | Mazatlan FC | 0 | 1
+3,2025-01-26,UNAM Pumas,Atlas,26.01.2025 | UNAM Pumas | Atlas | 0 | 0
+3,2025-01-26,Monterrey,Pachuca,26.01.2025 | Monterrey | Pachuca | 2 | 3
+3,2025-01-26,Guadalajara Chivas,Tigres UANL,26.01.2025 | Guadalajara Chivas | Tigres UANL | 1 | 1
+3,2025-01-26,Santos Laguna,Club America,26.01.2025 | Santos Laguna | Club America | 1 | 4
+3,2025-01-26,Club Leon,Juarez,26.01.2025 | Club Leon | Juarez | 1 | 0
+3,2025-01-26,Cruz Azul,Puebla,26.01.2025 | Cruz Azul | Puebla | 1 | 1
+3,2025-01-25,Club Tijuana,Queretaro,25.01.2025 | Club Tijuana | Queretaro | 2 | 1
+3,2025-01-25,Mazatlan FC,Toluca,25.01.2025 | Mazatlan FC | Toluca | 2 | 1
+3,2025-01-25,Atl. San Luis,Necaxa,25.01.2025 | Atl. San Luis | Necaxa | 0 | 3
+2,2025-01-21,Pachuca,Santos Laguna,21.01.2025 | Pachuca | Santos Laguna | 2 | 1
+2,2025-01-20,Queretaro,UNAM Pumas,20.01.2025 | Queretaro | UNAM Pumas | 3 | 2
+2,2025-01-19,Atlas,Club Leon,19.01.2025 | Atlas | Club Leon | 1 | 2
+2,2025-01-19,Toluca,Monterrey,19.01.2025 | Toluca | Monterrey | 1 | 1
+2,2025-01-19,Juarez,Cruz Azul,19.01.2025 | Juarez | Cruz Azul | 1 | 0
+2,2025-01-18,Necaxa,Guadalajara Chivas,18.01.2025 | Necaxa | Guadalajara Chivas | 3 | 2
+2,2025-01-18,Puebla,Atl. San Luis,18.01.2025 | Puebla | Atl. San Luis | 1 | 2
+2,2025-01-18,Tigres UANL,Mazatlan FC,18.01.2025 | Tigres UANL | Mazatlan FC | 2 | 1
+2,2025-01-17,Club America,Club Tijuana,17.01.2025 | Club America | Club Tijuana | 1 | 1
+1,2025-01-13,Monterrey,Puebla,13.01.2025 | Monterrey | Puebla | 1 | 1
+1,2025-01-12,UNAM Pumas,Necaxa,12.01.2025 | UNAM Pumas | Necaxa | 2 | 1
+1,2025-01-12,Cruz Azul,Atlas,12.01.2025 | Cruz Azul | Atlas | 1 | 1
+1,2025-01-12,Guadalajara Chivas,Santos Laguna,12.01.2025 | Guadalajara Chivas | Santos Laguna | 1 | 0
+1,2025-01-12,Atl. San Luis,Tigres UANL,12.01.2025 | Atl. San Luis | Tigres UANL | 1 | 3
+1,2025-01-11,Club Tijuana,Toluca,11.01.2025 | Club Tijuana | Toluca | 2 | 4
+1,2025-01-11,Mazatlan FC,Juarez,11.01.2025 | Mazatlan FC | Juarez | 1 | 1
+1,2025-01-11,Queretaro,Club America,11.01.2025 | Queretaro | Club America | 0 | 1

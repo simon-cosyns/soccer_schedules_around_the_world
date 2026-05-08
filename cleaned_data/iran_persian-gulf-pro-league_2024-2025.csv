@@ -1,0 +1,241 @@
+round,date,team_home,team_away,full_text
+30,15.05.2025,Esteghlal Khuzestan,Tractor,15.05.2025 | Esteghlal Khuzestan | Tractor | 1 | 3
+30,15.05.2025,Chadormalu,Gol Gohar,15.05.2025 | Chadormalu | Gol Gohar | 0 | 1
+30,15.05.2025,Mes Rafsanjan,Kheybar Khorramabad,15.05.2025 | Mes Rafsanjan | Kheybar Khorramabad | 0 | 0
+30,15.05.2025,Malavan,Foolad,15.05.2025 | Malavan | Foolad | 1 | 1
+30,15.05.2025,Nassaji Mazandaran,Zob Ahan,15.05.2025 | Nassaji Mazandaran | Zob Ahan | 0 | 3
+30,15.05.2025,Persepolis,Havadar SC,15.05.2025 | Persepolis | Havadar SC | 2 | 0
+30,15.05.2025,Sepahan,Esteghlal F.C.,15.05.2025 | Sepahan | Esteghlal F.C. | 3 | 1
+30,15.05.2025,Shams Azar Qazvin,Aluminium Arak,15.05.2025 | Shams Azar Qazvin | Aluminium Arak | 1 | 3
+29,08.05.2025,Aluminium Arak,Malavan,08.05.2025 | Aluminium Arak | Malavan | 1 | 1
+29,08.05.2025,Esteghlal F.C.,Chadormalu,08.05.2025 | Esteghlal F.C. | Chadormalu | 0 | 0
+29,08.05.2025,Foolad,Esteghlal Khuzestan,08.05.2025 | Foolad | Esteghlal Khuzestan | 2 | 1
+29,08.05.2025,Gol Gohar,Shams Azar Qazvin,08.05.2025 | Gol Gohar | Shams Azar Qazvin | 1 | 0
+29,08.05.2025,Havadar SC,Sepahan,08.05.2025 | Havadar SC | Sepahan | 1 | 1
+29,08.05.2025,Kheybar Khorramabad,Persepolis,08.05.2025 | Kheybar Khorramabad | Persepolis | 1 | 2
+29,08.05.2025,Tractor,Nassaji Mazandaran,08.05.2025 | Tractor | Nassaji Mazandaran | 3 | 3
+29,08.05.2025,Zob Ahan,Mes Rafsanjan,08.05.2025 | Zob Ahan | Mes Rafsanjan | 2 | 1
+28,02.05.2025,Sepahan,Gol Gohar,02.05.2025 | Sepahan | Gol Gohar | 1 | 2
+28,02.05.2025,Shams Azar Qazvin,Tractor,02.05.2025 | Shams Azar Qazvin | Tractor | 0 | 4
+28,02.05.2025,Malavan,Zob Ahan,02.05.2025 | Malavan | Zob Ahan | 3 | 3
+28,02.05.2025,Esteghlal F.C.,Aluminium Arak,02.05.2025 | Esteghlal F.C. | Aluminium Arak | 5 | 1
+28,01.05.2025,Esteghlal Khuzestan,Kheybar Khorramabad,01.05.2025 | Esteghlal Khuzestan | Kheybar Khorramabad | 0 | 0
+28,01.05.2025,Chadormalu,Foolad,01.05.2025 | Chadormalu | Foolad | 1 | 1
+28,01.05.2025,Mes Rafsanjan,Persepolis,01.05.2025 | Mes Rafsanjan | Persepolis | 0 | 3
+28,01.05.2025,Nassaji Mazandaran,Havadar SC,01.05.2025 | Nassaji Mazandaran | Havadar SC | 0 | 0
+22,25.04.2025,Foolad,Tractor,25.04.2025 | Foolad | Tractor | 1 | 2
+22,21.04.2025,Esteghlal F.C.,Havadar SC,21.04.2025 | Esteghlal F.C. | Havadar SC | 2 | 2
+27,18.04.2025,Foolad,Shams Azar Qazvin,18.04.2025 | Foolad | Shams Azar Qazvin | 1 | 0
+27,18.04.2025,Persepolis,Sepahan,18.04.2025 | Persepolis | Sepahan | 0 | 2
+27,18.04.2025,Tractor,Malavan,18.04.2025 | Tractor | Malavan | 3 | 0
+27,17.04.2025,Aluminium Arak,Chadormalu,17.04.2025 | Aluminium Arak | Chadormalu | 0 | 0
+27,17.04.2025,Kheybar Khorramabad,Nassaji Mazandaran,17.04.2025 | Kheybar Khorramabad | Nassaji Mazandaran | 1 | 0
+27,17.04.2025,Zob Ahan,Esteghlal Khuzestan,17.04.2025 | Zob Ahan | Esteghlal Khuzestan | 1 | 0
+27,16.04.2025,Gol Gohar,Esteghlal F.C.,16.04.2025 | Gol Gohar | Esteghlal F.C. | 1 | 1
+27,16.04.2025,Havadar SC,Mes Rafsanjan,16.04.2025 | Havadar SC | Mes Rafsanjan | 0 | 4
+26,11.04.2025,Nassaji Mazandaran,Persepolis,11.04.2025 | Nassaji Mazandaran | Persepolis | 0 | 1
+26,11.04.2025,Chadormalu,Tractor,11.04.2025 | Chadormalu | Tractor | 2 | 2
+26,11.04.2025,Esteghlal Khuzestan,Havadar SC,11.04.2025 | Esteghlal Khuzestan | Havadar SC | 1 | 1
+26,11.04.2025,Sepahan,Mes Rafsanjan,11.04.2025 | Sepahan | Mes Rafsanjan | 1 | 0
+26,11.04.2025,Gol Gohar,Aluminium Arak,11.04.2025 | Gol Gohar | Aluminium Arak | 0 | 0
+26,11.04.2025,Malavan,Kheybar Khorramabad,11.04.2025 | Malavan | Kheybar Khorramabad | 3 | 0
+26,11.04.2025,Shams Azar Qazvin,Zob Ahan,11.04.2025 | Shams Azar Qazvin | Zob Ahan | 1 | 1
+26,10.04.2025,Esteghlal F.C.,Foolad,10.04.2025 | Esteghlal F.C. | Foolad | 0 | 1
+25,06.04.2025,Kheybar Khorramabad,Shams Azar Qazvin,06.04.2025 | Kheybar Khorramabad | Shams Azar Qazvin | 0 | 0
+25,05.04.2025,Aluminium Arak,Sepahan,05.04.2025 | Aluminium Arak | Sepahan | 1 | 1
+25,05.04.2025,Persepolis,Esteghlal Khuzestan,05.04.2025 | Persepolis | Esteghlal Khuzestan | 0 | 0
+25,05.04.2025,Mes Rafsanjan,Nassaji Mazandaran,05.04.2025 | Mes Rafsanjan | Nassaji Mazandaran | 0 | 0
+25,05.04.2025,Havadar SC,Malavan,05.04.2025 | Havadar SC | Malavan | 2 | 0
+25,04.04.2025,Tractor,Esteghlal F.C.,04.04.2025 | Tractor | Esteghlal F.C. | 2 | 1
+25,04.04.2025,Foolad,Gol Gohar,04.04.2025 | Foolad | Gol Gohar | 1 | 1
+25,04.04.2025,Zob Ahan,Chadormalu,04.04.2025 | Zob Ahan | Chadormalu | 0 | 1
+24,30.03.2025,Malavan,Mes Rafsanjan,30.03.2025 | Malavan | Mes Rafsanjan | 3 | 0
+24,30.03.2025,Sepahan,Foolad,30.03.2025 | Sepahan | Foolad | 2 | 0
+24,30.03.2025,Shams Azar Qazvin,Persepolis,30.03.2025 | Shams Azar Qazvin | Persepolis | 3 | 2
+24,30.03.2025,Chadormalu,Havadar SC,30.03.2025 | Chadormalu | Havadar SC | 1 | 2
+24,29.03.2025,Aluminium Arak,Tractor,29.03.2025 | Aluminium Arak | Tractor | 0 | 1
+24,29.03.2025,Esteghlal F.C.,Kheybar Khorramabad,29.03.2025 | Esteghlal F.C. | Kheybar Khorramabad | 1 | 1
+24,29.03.2025,Esteghlal Khuzestan,Nassaji Mazandaran,29.03.2025 | Esteghlal Khuzestan | Nassaji Mazandaran | 2 | 0
+24,29.03.2025,Gol Gohar,Zob Ahan,29.03.2025 | Gol Gohar | Zob Ahan | 0 | 2
+23,16.03.2025,Tractor,Gol Gohar,16.03.2025 | Tractor | Gol Gohar | 2 | 1
+23,16.03.2025,Zob Ahan,Esteghlal F.C.,16.03.2025 | Zob Ahan | Esteghlal F.C. | 1 | 1
+23,14.03.2025,Foolad,Aluminium Arak,14.03.2025 | Foolad | Aluminium Arak | 2 | 0
+23,14.03.2025,Persepolis,Malavan,14.03.2025 | Persepolis | Malavan | 2 | 0
+23,14.03.2025,Mes Rafsanjan,Esteghlal Khuzestan,14.03.2025 | Mes Rafsanjan | Esteghlal Khuzestan | 0 | 0
+23,13.03.2025,Kheybar Khorramabad,Chadormalu,13.03.2025 | Kheybar Khorramabad | Chadormalu | 2 | 0
+23,13.03.2025,Havadar SC,Shams Azar Qazvin,13.03.2025 | Havadar SC | Shams Azar Qazvin | 2 | 3
+23,13.03.2025,Nassaji Mazandaran,Sepahan,13.03.2025 | Nassaji Mazandaran | Sepahan | 1 | 1
+22,07.03.2025,Aluminium Arak,Zob Ahan,07.03.2025 | Aluminium Arak | Zob Ahan | 2 | 0
+22,07.03.2025,Chadormalu,Persepolis,07.03.2025 | Chadormalu | Persepolis | 0 | 1
+22,07.03.2025,Malavan,Nassaji Mazandaran,07.03.2025 | Malavan | Nassaji Mazandaran | 1 | 0
+22,07.03.2025,Shams Azar Qazvin,Mes Rafsanjan,07.03.2025 | Shams Azar Qazvin | Mes Rafsanjan | 3 | 1
+22,06.03.2025,Sepahan,Esteghlal Khuzestan,06.03.2025 | Sepahan | Esteghlal Khuzestan | 1 | 1
+22,06.03.2025,Gol Gohar,Kheybar Khorramabad,06.03.2025 | Gol Gohar | Kheybar Khorramabad | 2 | 0
+21,28.02.2025,Havadar SC,Gol Gohar,28.02.2025 | Havadar SC | Gol Gohar | 0 | 1
+21,28.02.2025,Nassaji Mazandaran,Shams Azar Qazvin,28.02.2025 | Nassaji Mazandaran | Shams Azar Qazvin | 1 | 0
+21,28.02.2025,Kheybar Khorramabad,Aluminium Arak,28.02.2025 | Kheybar Khorramabad | Aluminium Arak | 1 | 0
+21,28.02.2025,Zob Ahan,Foolad,28.02.2025 | Zob Ahan | Foolad | 3 | 0
+21,27.02.2025,Persepolis,Esteghlal F.C.,27.02.2025 | Persepolis | Esteghlal F.C. | 2 | 1
+21,27.02.2025,Esteghlal Khuzestan,Malavan,27.02.2025 | Esteghlal Khuzestan | Malavan | 1 | 2
+21,27.02.2025,Mes Rafsanjan,Chadormalu,27.02.2025 | Mes Rafsanjan | Chadormalu | 1 | 0
+21,27.02.2025,Tractor,Sepahan,27.02.2025 | Tractor | Sepahan | 0 | 0
+20,22.02.2025,Esteghlal F.C.,Nassaji Mazandaran,22.02.2025 | Esteghlal F.C. | Nassaji Mazandaran | 1 | 0
+20,22.02.2025,Aluminium Arak,Persepolis,22.02.2025 | Aluminium Arak | Persepolis | 1 | 1
+20,22.02.2025,Tractor,Kheybar Khorramabad,22.02.2025 | Tractor | Kheybar Khorramabad | 1 | 0
+20,21.02.2025,Foolad,Havadar SC,21.02.2025 | Foolad | Havadar SC | 3 | 0
+20,21.02.2025,Sepahan,Zob Ahan,21.02.2025 | Sepahan | Zob Ahan | 4 | 1
+20,21.02.2025,Shams Azar Qazvin,Malavan,21.02.2025 | Shams Azar Qazvin | Malavan | 0 | 1
+20,20.02.2025,Chadormalu,Esteghlal Khuzestan,20.02.2025 | Chadormalu | Esteghlal Khuzestan | 3 | 0
+20,20.02.2025,Gol Gohar,Mes Rafsanjan,20.02.2025 | Gol Gohar | Mes Rafsanjan | 0 | 0
+19,08.02.2025,Persepolis,Gol Gohar,08.02.2025 | Persepolis | Gol Gohar | 1 | 0
+19,08.02.2025,Havadar SC,Aluminium Arak,08.02.2025 | Havadar SC | Aluminium Arak | 2 | 1
+19,07.02.2025,Mes Rafsanjan,Esteghlal F.C.,07.02.2025 | Mes Rafsanjan | Esteghlal F.C. | 0 | 0
+19,07.02.2025,Malavan,Sepahan,07.02.2025 | Malavan | Sepahan | 1 | 1
+19,07.02.2025,Nassaji Mazandaran,Chadormalu,07.02.2025 | Nassaji Mazandaran | Chadormalu | 0 | 0
+19,07.02.2025,Kheybar Khorramabad,Foolad,07.02.2025 | Kheybar Khorramabad | Foolad | 2 | 0
+19,06.02.2025,Zob Ahan,Tractor,06.02.2025 | Zob Ahan | Tractor | 0 | 1
+19,06.02.2025,Esteghlal Khuzestan,Shams Azar Qazvin,06.02.2025 | Esteghlal Khuzestan | Shams Azar Qazvin | 1 | 0
+18,02.02.2025,Aluminium Arak,Mes Rafsanjan,02.02.2025 | Aluminium Arak | Mes Rafsanjan | 0 | 0
+18,01.02.2025,Chadormalu,Malavan,01.02.2025 | Chadormalu | Malavan | 1 | 0
+18,01.02.2025,Zob Ahan,Kheybar Khorramabad,01.02.2025 | Zob Ahan | Kheybar Khorramabad | 2 | 2
+18,01.02.2025,Gol Gohar,Nassaji Mazandaran,01.02.2025 | Gol Gohar | Nassaji Mazandaran | 2 | 1
+18,01.02.2025,Shams Azar Qazvin,Sepahan,01.02.2025 | Shams Azar Qazvin | Sepahan | 1 | 1
+18,01.02.2025,Tractor,Havadar SC,01.02.2025 | Tractor | Havadar SC | 4 | 0
+18,31.01.2025,Foolad,Persepolis,31.01.2025 | Foolad | Persepolis | 1 | 1
+18,30.01.2025,Esteghlal F.C.,Esteghlal Khuzestan,30.01.2025 | Esteghlal F.C. | Esteghlal Khuzestan | 2 | 2 | 0
+17,27.01.2025,Havadar SC,Zob Ahan,27.01.2025 | Havadar SC | Zob Ahan | 0 | 0
+17,27.01.2025,Shams Azar Qazvin,Chadormalu,27.01.2025 | Shams Azar Qazvin | Chadormalu | 1 | 1
+17,27.01.2025,Nassaji Mazandaran,Aluminium Arak,27.01.2025 | Nassaji Mazandaran | Aluminium Arak | 1 | 2
+17,26.01.2025,Sepahan,Kheybar Khorramabad,26.01.2025 | Sepahan | Kheybar Khorramabad | 2 | 0
+17,26.01.2025,Mes Rafsanjan,Foolad,26.01.2025 | Mes Rafsanjan | Foolad | 2 | 3
+17,26.01.2025,Persepolis,Tractor,26.01.2025 | Persepolis | Tractor | 2 | 0
+17,25.01.2025,Malavan,Esteghlal F.C.,25.01.2025 | Malavan | Esteghlal F.C. | 0 | 0
+17,25.01.2025,Esteghlal Khuzestan,Gol Gohar,25.01.2025 | Esteghlal Khuzestan | Gol Gohar | 1 | 1
+16,21.01.2025,Foolad,Nassaji Mazandaran,21.01.2025 | Foolad | Nassaji Mazandaran | 1 | 0
+16,21.01.2025,Zob Ahan,Persepolis,21.01.2025 | Zob Ahan | Persepolis | 0 | 0
+16,21.01.2025,Chadormalu,Sepahan,21.01.2025 | Chadormalu | Sepahan | 1 | 2
+16,21.01.2025,Tractor,Mes Rafsanjan,21.01.2025 | Tractor | Mes Rafsanjan | 5 | 1
+16,20.01.2025,Esteghlal F.C.,Shams Azar Qazvin,20.01.2025 | Esteghlal F.C. | Shams Azar Qazvin | 0 | 1
+16,20.01.2025,Gol Gohar,Malavan,20.01.2025 | Gol Gohar | Malavan | 2 | 1 | 0
+16,20.01.2025,Aluminium Arak,Esteghlal Khuzestan,20.01.2025 | Aluminium Arak | Esteghlal Khuzestan | 1 | 1
+16,20.01.2025,Kheybar Khorramabad,Havadar SC,20.01.2025 | Kheybar Khorramabad | Havadar SC | 2 | 0
+15,02.01.2025,Esteghlal F.C.,Sepahan,02.01.2025 | Esteghlal F.C. | Sepahan | 1 | 1
+15,02.01.2025,Tractor,Esteghlal Khuzestan,02.01.2025 | Tractor | Esteghlal Khuzestan | 3 | 0
+15,02.01.2025,Foolad,Malavan,02.01.2025 | Foolad | Malavan | 2 | 1
+15,02.01.2025,Aluminium Arak,Shams Azar Qazvin,02.01.2025 | Aluminium Arak | Shams Azar Qazvin | 3 | 0
+15,02.01.2025,Kheybar Khorramabad,Mes Rafsanjan,02.01.2025 | Kheybar Khorramabad | Mes Rafsanjan | 1 | 2
+15,02.01.2025,Zob Ahan,Nassaji Mazandaran,02.01.2025 | Zob Ahan | Nassaji Mazandaran | 0 | 0
+15,01.01.2025,Havadar SC,Persepolis,01.01.2025 | Havadar SC | Persepolis | 0 | 5
+15,01.01.2025,Gol Gohar,Chadormalu,01.01.2025 | Gol Gohar | Chadormalu | 2 | 0
+14,27.12.2024,Sepahan,Havadar SC,27.12.2024 | Sepahan | Havadar SC | 5 | 0
+14,27.12.2024,Malavan,Aluminium Arak,27.12.2024 | Malavan | Aluminium Arak | 1 | 1
+14,27.12.2024,Nassaji Mazandaran,Tractor,27.12.2024 | Nassaji Mazandaran | Tractor | 1 | 1
+14,27.12.2024,Persepolis,Kheybar Khorramabad,27.12.2024 | Persepolis | Kheybar Khorramabad | 2 | 1
+14,27.12.2024,Mes Rafsanjan,Zob Ahan,27.12.2024 | Mes Rafsanjan | Zob Ahan | 1 | 2
+14,27.12.2024,Shams Azar Qazvin,Gol Gohar,27.12.2024 | Shams Azar Qazvin | Gol Gohar | 0 | 1
+14,26.12.2024,Chadormalu,Esteghlal F.C.,26.12.2024 | Chadormalu | Esteghlal F.C. | 0 | 0
+14,26.12.2024,Esteghlal Khuzestan,Foolad,26.12.2024 | Esteghlal Khuzestan | Foolad | 0 | 0
+13,21.12.2024,Persepolis,Mes Rafsanjan,21.12.2024 | Persepolis | Mes Rafsanjan | 1 | 3
+13,21.12.2024,Zob Ahan,Malavan,21.12.2024 | Zob Ahan | Malavan | 1 | 0
+13,21.12.2024,Gol Gohar,Sepahan,21.12.2024 | Gol Gohar | Sepahan | 1 | 1
+13,21.12.2024,Tractor,Shams Azar Qazvin,21.12.2024 | Tractor | Shams Azar Qazvin | 0 | 1
+13,20.12.2024,Aluminium Arak,Esteghlal F.C.,20.12.2024 | Aluminium Arak | Esteghlal F.C. | 1 | 1
+13,20.12.2024,Havadar SC,Nassaji Mazandaran,20.12.2024 | Havadar SC | Nassaji Mazandaran | 0 | 1
+13,19.12.2024,Foolad,Chadormalu,19.12.2024 | Foolad | Chadormalu | 2 | 1
+13,19.12.2024,Kheybar Khorramabad,Esteghlal Khuzestan,19.12.2024 | Kheybar Khorramabad | Esteghlal Khuzestan | 1 | 0
+12,16.12.2024,Esteghlal F.C.,Gol Gohar,16.12.2024 | Esteghlal F.C. | Gol Gohar | 0 | 0
+12,16.12.2024,Malavan,Tractor,16.12.2024 | Malavan | Tractor | 0 | 2
+12,16.12.2024,Sepahan,Persepolis,16.12.2024 | Sepahan | Persepolis | 2 | 1
+12,13.12.2024,Nassaji Mazandaran,Kheybar Khorramabad,13.12.2024 | Nassaji Mazandaran | Kheybar Khorramabad | 0 | 0
+12,13.12.2024,Mes Rafsanjan,Havadar SC,13.12.2024 | Mes Rafsanjan | Havadar SC | 1 | 1
+12,13.12.2024,Shams Azar Qazvin,Foolad,13.12.2024 | Shams Azar Qazvin | Foolad | 0 | 3
+8,11.12.2024,Malavan,Persepolis,11.12.2024 | Malavan | Persepolis | 1 | 2
+12,10.12.2024,Esteghlal Khuzestan,Zob Ahan,10.12.2024 | Esteghlal Khuzestan | Zob Ahan | 0 | 0
+12,10.12.2024,Chadormalu,Aluminium Arak,10.12.2024 | Chadormalu | Aluminium Arak | 1 | 1
+8,09.12.2024,Gol Gohar,Tractor,09.12.2024 | Gol Gohar | Tractor | 0 | 2
+11,08.12.2024,Mes Rafsanjan,Sepahan,08.12.2024 | Mes Rafsanjan | Sepahan | 0 | 3
+11,07.12.2024,Foolad,Esteghlal F.C.,07.12.2024 | Foolad | Esteghlal F.C. | 0 | 2
+11,07.12.2024,Persepolis,Nassaji Mazandaran,07.12.2024 | Persepolis | Nassaji Mazandaran | 2 | 0 | 1
+11,03.12.2024,Tractor,Chadormalu,03.12.2024 | Tractor | Chadormalu | 1 | 0
+11,02.12.2024,Aluminium Arak,Gol Gohar,02.12.2024 | Aluminium Arak | Gol Gohar | 0 | 0
+11,02.12.2024,Havadar SC,Esteghlal Khuzestan,02.12.2024 | Havadar SC | Esteghlal Khuzestan | 0 | 1
+11,02.12.2024,Kheybar Khorramabad,Malavan,02.12.2024 | Kheybar Khorramabad | Malavan | 1 | 3
+11,01.12.2024,Zob Ahan,Shams Azar Qazvin,01.12.2024 | Zob Ahan | Shams Azar Qazvin | 3 | 0
+4,09.11.2024,Esteghlal F.C.,Mes Rafsanjan,09.11.2024 | Esteghlal F.C. | Mes Rafsanjan | 1 | 0
+8,09.11.2024,Sepahan,Nassaji Mazandaran,09.11.2024 | Sepahan | Nassaji Mazandaran | 1 | 1
+4,09.11.2024,Gol Gohar,Persepolis,09.11.2024 | Gol Gohar | Persepolis | 0 | 1
+10,01.11.2024,Malavan,Havadar SC,01.11.2024 | Malavan | Havadar SC | 0 | 2
+10,01.11.2024,Nassaji Mazandaran,Mes Rafsanjan,01.11.2024 | Nassaji Mazandaran | Mes Rafsanjan | 0 | 1
+10,01.11.2024,Sepahan,Aluminium Arak,01.11.2024 | Sepahan | Aluminium Arak | 1 | 0
+10,01.11.2024,Shams Azar Qazvin,Kheybar Khorramabad,01.11.2024 | Shams Azar Qazvin | Kheybar Khorramabad | 2 | 0
+10,01.11.2024,Chadormalu,Zob Ahan,01.11.2024 | Chadormalu | Zob Ahan | 1 | 0
+10,01.11.2024,Gol Gohar,Foolad,01.11.2024 | Gol Gohar | Foolad | 0 | 1
+10,31.10.2024,Esteghlal F.C.,Tractor,31.10.2024 | Esteghlal F.C. | Tractor | 0 | 2
+10,30.10.2024,Esteghlal Khuzestan,Persepolis,30.10.2024 | Esteghlal Khuzestan | Persepolis | 1 | 0
+9,27.10.2024,Foolad,Sepahan,27.10.2024 | Foolad | Sepahan | 2 | 2
+9,27.10.2024,Tractor,Aluminium Arak,27.10.2024 | Tractor | Aluminium Arak | 2 | 0
+9,26.10.2024,Persepolis,Shams Azar Qazvin,26.10.2024 | Persepolis | Shams Azar Qazvin | 2 | 0
+9,26.10.2024,Kheybar Khorramabad,Esteghlal F.C.,26.10.2024 | Kheybar Khorramabad | Esteghlal F.C. | 3 | 1
+9,25.10.2024,Havadar SC,Chadormalu,25.10.2024 | Havadar SC | Chadormalu | 0 | 1
+9,25.10.2024,Mes Rafsanjan,Malavan,25.10.2024 | Mes Rafsanjan | Malavan | 1 | 1
+9,25.10.2024,Nassaji Mazandaran,Esteghlal Khuzestan,25.10.2024 | Nassaji Mazandaran | Esteghlal Khuzestan | 0 | 0
+9,25.10.2024,Zob Ahan,Gol Gohar,25.10.2024 | Zob Ahan | Gol Gohar | 0 | 2
+8,20.10.2024,Aluminium Arak,Foolad,20.10.2024 | Aluminium Arak | Foolad | 4 | 2
+8,18.10.2024,Esteghlal F.C.,Zob Ahan,18.10.2024 | Esteghlal F.C. | Zob Ahan | 0 | 3
+8,17.10.2024,Esteghlal Khuzestan,Mes Rafsanjan,17.10.2024 | Esteghlal Khuzestan | Mes Rafsanjan | 3 | 2
+8,17.10.2024,Chadormalu,Kheybar Khorramabad,17.10.2024 | Chadormalu | Kheybar Khorramabad | 1 | 0
+8,17.10.2024,Shams Azar Qazvin,Havadar SC,17.10.2024 | Shams Azar Qazvin | Havadar SC | 1 | 1
+7,06.10.2024,Tractor,Foolad,06.10.2024 | Tractor | Foolad | 1 | 2
+7,05.10.2024,Havadar SC,Esteghlal F.C.,05.10.2024 | Havadar SC | Esteghlal F.C. | 1 | 2
+7,05.10.2024,Esteghlal Khuzestan,Sepahan,05.10.2024 | Esteghlal Khuzestan | Sepahan | 0 | 1
+7,05.10.2024,Persepolis,Chadormalu,05.10.2024 | Persepolis | Chadormalu | 1 | 0
+7,04.10.2024,Kheybar Khorramabad,Gol Gohar,04.10.2024 | Kheybar Khorramabad | Gol Gohar | 0 | 0
+7,04.10.2024,Zob Ahan,Aluminium Arak,04.10.2024 | Zob Ahan | Aluminium Arak | 0 | 4
+7,04.10.2024,Nassaji Mazandaran,Malavan,04.10.2024 | Nassaji Mazandaran | Malavan | 1 | 1
+7,04.10.2024,Mes Rafsanjan,Shams Azar Qazvin,04.10.2024 | Mes Rafsanjan | Shams Azar Qazvin | 0 | 1
+6,28.09.2024,Foolad,Zob Ahan,28.09.2024 | Foolad | Zob Ahan | 1 | 0
+6,27.09.2024,Aluminium Arak,Kheybar Khorramabad,27.09.2024 | Aluminium Arak | Kheybar Khorramabad | 1 | 0
+6,27.09.2024,Chadormalu,Mes Rafsanjan,27.09.2024 | Chadormalu | Mes Rafsanjan | 1 | 0
+6,27.09.2024,Malavan,Esteghlal Khuzestan,27.09.2024 | Malavan | Esteghlal Khuzestan | 1 | 0
+6,27.09.2024,Sepahan,Tractor,27.09.2024 | Sepahan | Tractor | 0 | 1
+6,27.09.2024,Gol Gohar,Havadar SC,27.09.2024 | Gol Gohar | Havadar SC | 0 | 0
+6,26.09.2024,Shams Azar Qazvin,Nassaji Mazandaran,26.09.2024 | Shams Azar Qazvin | Nassaji Mazandaran | 0 | 0
+6,25.09.2024,Esteghlal F.C.,Persepolis,25.09.2024 | Esteghlal F.C. | Persepolis | 0 | 1
+5,22.09.2024,Kheybar Khorramabad,Tractor,22.09.2024 | Kheybar Khorramabad | Tractor | 1 | 2
+5,22.09.2024,Zob Ahan,Sepahan,22.09.2024 | Zob Ahan | Sepahan | 1 | 1
+5,21.09.2024,Esteghlal Khuzestan,Chadormalu,21.09.2024 | Esteghlal Khuzestan | Chadormalu | 1 | 1
+5,21.09.2024,Havadar SC,Foolad,21.09.2024 | Havadar SC | Foolad | 0 | 1
+5,20.09.2024,Persepolis,Aluminium Arak,20.09.2024 | Persepolis | Aluminium Arak | 2 | 0
+5,20.09.2024,Malavan,Shams Azar Qazvin,20.09.2024 | Malavan | Shams Azar Qazvin | 2 | 0
+5,20.09.2024,Mes Rafsanjan,Gol Gohar,20.09.2024 | Mes Rafsanjan | Gol Gohar | 0 | 0
+5,20.09.2024,Nassaji Mazandaran,Esteghlal F.C.,20.09.2024 | Nassaji Mazandaran | Esteghlal F.C. | 2 | 2
+4,14.09.2024,Foolad,Kheybar Khorramabad,14.09.2024 | Foolad | Kheybar Khorramabad | 1 | 1
+4,14.09.2024,Aluminium Arak,Havadar SC,14.09.2024 | Aluminium Arak | Havadar SC | 0 | 0
+4,14.09.2024,Chadormalu,Nassaji Mazandaran,14.09.2024 | Chadormalu | Nassaji Mazandaran | 1 | 0
+4,13.09.2024,Tractor,Zob Ahan,13.09.2024 | Tractor | Zob Ahan | 0 | 1
+4,13.09.2024,Sepahan,Malavan,13.09.2024 | Sepahan | Malavan | 1 | 0
+4,13.09.2024,Shams Azar Qazvin,Esteghlal Khuzestan,13.09.2024 | Shams Azar Qazvin | Esteghlal Khuzestan | 2 | 2
+3,30.08.2024,Malavan,Chadormalu,30.08.2024 | Malavan | Chadormalu | 3 | 1
+3,30.08.2024,Persepolis,Foolad,30.08.2024 | Persepolis | Foolad | 2 | 0
+3,30.08.2024,Nassaji Mazandaran,Gol Gohar,30.08.2024 | Nassaji Mazandaran | Gol Gohar | 0 | 1
+3,30.08.2024,Sepahan,Shams Azar Qazvin,30.08.2024 | Sepahan | Shams Azar Qazvin | 1 | 0
+3,29.08.2024,Esteghlal Khuzestan,Esteghlal F.C.,29.08.2024 | Esteghlal Khuzestan | Esteghlal F.C. | 1 | 0
+3,29.08.2024,Kheybar Khorramabad,Zob Ahan,29.08.2024 | Kheybar Khorramabad | Zob Ahan | 1 | 1
+3,29.08.2024,Havadar SC,Tractor,29.08.2024 | Havadar SC | Tractor | 0 | 4
+3,29.08.2024,Mes Rafsanjan,Aluminium Arak,29.08.2024 | Mes Rafsanjan | Aluminium Arak | 3 | 1
+2,23.08.2024,Chadormalu,Shams Azar Qazvin,23.08.2024 | Chadormalu | Shams Azar Qazvin | 1 | 1
+2,23.08.2024,Esteghlal F.C.,Malavan,23.08.2024 | Esteghlal F.C. | Malavan | 2 | 2
+2,23.08.2024,Kheybar Khorramabad,Sepahan,23.08.2024 | Kheybar Khorramabad | Sepahan | 1 | 2
+2,23.08.2024,Zob Ahan,Havadar SC,23.08.2024 | Zob Ahan | Havadar SC | 0 | 0
+2,22.08.2024,Foolad,Mes Rafsanjan,22.08.2024 | Foolad | Mes Rafsanjan | 0 | 0
+2,22.08.2024,Tractor,Persepolis,22.08.2024 | Tractor | Persepolis | 1 | 1
+2,22.08.2024,Aluminium Arak,Nassaji Mazandaran,22.08.2024 | Aluminium Arak | Nassaji Mazandaran | 1 | 1
+2,22.08.2024,Gol Gohar,Esteghlal Khuzestan,22.08.2024 | Gol Gohar | Esteghlal Khuzestan | 2 | 0
+1,16.08.2024,Havadar SC,Kheybar Khorramabad,16.08.2024 | Havadar SC | Kheybar Khorramabad | 0 | 1
+1,16.08.2024,Nassaji Mazandaran,Foolad,16.08.2024 | Nassaji Mazandaran | Foolad | 0 | 1
+1,16.08.2024,Shams Azar Qazvin,Esteghlal F.C.,16.08.2024 | Shams Azar Qazvin | Esteghlal F.C. | 1 | 2
+1,16.08.2024,Mes Rafsanjan,Tractor,16.08.2024 | Mes Rafsanjan | Tractor | 0 | 2
+1,16.08.2024,Sepahan,Chadormalu,16.08.2024 | Sepahan | Chadormalu | 3 | 1
+1,15.08.2024,Esteghlal Khuzestan,Aluminium Arak,15.08.2024 | Esteghlal Khuzestan | Aluminium Arak | 0 | 0
+1,15.08.2024,Malavan,Gol Gohar,15.08.2024 | Malavan | Gol Gohar | 1 | 0
+1,15.08.2024,Persepolis,Zob Ahan,15.08.2024 | Persepolis | Zob Ahan | 1 | 1
