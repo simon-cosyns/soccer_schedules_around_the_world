@@ -1,0 +1,154 @@
+round,date,team_home,team_away,full_text
+17,2025-03-05,Al Ahly,El Gaish,05.03.2025 | Al Ahly | El Gaish | 2 | 0
+17,2025-03-05,Petrojet,Ghazl El Mahallah,05.03.2025 | Petrojet | Ghazl El Mahallah | 2 | 1
+17,2025-03-05,Pyramids,Ceramica Cleopatra,05.03.2025 | Pyramids | Ceramica Cleopatra | 2 | 1
+17,2025-03-04,Al Ittihad,Smouha,04.03.2025 | Al Ittihad | Smouha | 0 | 1
+17,2025-03-04,Enppi,Zamalek,04.03.2025 | Enppi | Zamalek | 0 | 3
+17,2025-03-04,ZED,El Ismaily,04.03.2025 | ZED | El Ismaily | 2 | 2
+17,2025-03-03,Al Masry,Modern Sport,03.03.2025 | Al Masry | Modern Sport | 4 | 2
+17,2025-03-03,National Bank Egypt,Haras El Hodood,03.03.2025 | National Bank Egypt | Haras El Hodood | 2 | 1
+17,2025-03-03,Pharco,El Gouna,03.03.2025 | Pharco | El Gouna | 0 | 0
+16,2025-02-28,Al Ittihad,Pyramids,28.02.2025 | Al Ittihad | Pyramids | 1 | 3
+16,2025-02-28,Ceramica Cleopatra,Petrojet,28.02.2025 | Ceramica Cleopatra | Petrojet | 4 | 1
+16,2025-02-28,Ghazl El Mahallah,Enppi,28.02.2025 | Ghazl El Mahallah | Enppi | 3 | 0
+16,2025-02-27,Zamalek,ZED,27.02.2025 | Zamalek | ZED | 1 | 1
+16,2025-02-27,El Gaish,National Bank Egypt,27.02.2025 | El Gaish | National Bank Egypt | 2 | 2
+16,2025-02-27,Smouha,Al Masry,27.02.2025 | Smouha | Al Masry | 0 | 3
+16,2025-02-26,El Ismaily,Pharco,26.02.2025 | El Ismaily | Pharco | 0 | 2
+16,2025-02-26,Haras El Hodood,Al Ahly,26.02.2025 | Haras El Hodood | Al Ahly | 0 | 1
+16,2025-02-26,Modern Sport,El Gouna,26.02.2025 | Modern Sport | El Gouna | 2 | 3
+15,2025-02-23,Pyramids,El Gaish,23.02.2025 | Pyramids | El Gaish | 2 | 1
+15,2025-02-23,ZED,Ghazl El Mahallah,23.02.2025 | ZED | Ghazl El Mahallah | 2 | 0
+15,2025-02-22,Al Ahly,Zamalek,22.02.2025 | Al Ahly | Zamalek | 1 | 1
+15,2025-02-22,Al Masry,El Ismaily,22.02.2025 | Al Masry | El Ismaily | 0 | 0
+15,2025-02-22,El Gouna,Ceramica Cleopatra,22.02.2025 | El Gouna | Ceramica Cleopatra | 2 | 0
+15,2025-02-21,National Bank Egypt,Al Ittihad,21.02.2025 | National Bank Egypt | Al Ittihad | 3 | 2
+15,2025-02-21,Petrojet,Haras El Hodood,21.02.2025 | Petrojet | Haras El Hodood | 2 | 2
+15,2025-02-21,Enppi,Smouha,21.02.2025 | Enppi | Smouha | 1 | 0
+15,2025-02-21,Pharco,Modern Sport,21.02.2025 | Pharco | Modern Sport | 0 | 0
+14,2025-02-18,Ghazl El Mahallah,Al Masry,18.02.2025 | Ghazl El Mahallah | Al Masry | 1 | 0
+14,2025-02-18,El Gaish,ZED,18.02.2025 | El Gaish | ZED | 1 | 0
+14,2025-02-17,Al Ittihad,El Gouna,17.02.2025 | Al Ittihad | El Gouna | 1 | 0
+14,2025-02-17,Modern Sport,Pyramids,17.02.2025 | Modern Sport | Pyramids | 0 | 1
+14,2025-02-17,Ceramica Cleopatra,Enppi,17.02.2025 | Ceramica Cleopatra | Enppi | 2 | 2
+14,2025-02-16,El Ismaily,Al Ahly,16.02.2025 | El Ismaily | Al Ahly | 0 | 4
+14,2025-02-16,Haras El Hodood,Pharco,16.02.2025 | Haras El Hodood | Pharco | 2 | 0
+14,2025-02-16,Smouha,National Bank Egypt,16.02.2025 | Smouha | National Bank Egypt | 1 | 4
+14,2025-02-16,Zamalek,Petrojet,16.02.2025 | Zamalek | Petrojet | 1 | 1
+13,2025-02-13,Enppi,Al Ittihad,13.02.2025 | Enppi | Al Ittihad | 1 | 1
+13,2025-02-13,Modern Sport,El Gaish,13.02.2025 | Modern Sport | El Gaish | 0 | 0
+13,2025-02-12,Al Masry,National Bank Egypt,12.02.2025 | Al Masry | National Bank Egypt | 0 | 0
+13,2025-02-12,Pyramids,Haras El Hodood,12.02.2025 | Pyramids | Haras El Hodood | 3 | 0
+13,2025-02-12,El Gouna,El Ismaily,12.02.2025 | El Gouna | El Ismaily | 2 | 0
+13,2025-02-12,ZED,Ceramica Cleopatra,12.02.2025 | ZED | Ceramica Cleopatra | 1 | 1
+13,2025-02-11,Al Ahly,Ghazl El Mahallah,11.02.2025 | Al Ahly | Ghazl El Mahallah | 1 | 0
+13,2025-02-11,Petrojet,Smouha,11.02.2025 | Petrojet | Smouha | 0 | 1
+13,2025-02-11,Pharco,Zamalek,11.02.2025 | Pharco | Zamalek | 0 | 1
+12,2025-02-08,National Bank Egypt,ZED,08.02.2025 | National Bank Egypt | ZED | 1 | 1
+12,2025-02-08,Al Ittihad,Al Masry,08.02.2025 | Al Ittihad | Al Masry | 1 | 2
+12,2025-02-07,El Gaish,El Gouna,07.02.2025 | El Gaish | El Gouna | 0 | 0
+12,2025-02-07,Zamalek,El Ismaily,07.02.2025 | Zamalek | El Ismaily | 2 | 0
+12,2025-02-07,Haras El Hodood,Enppi,07.02.2025 | Haras El Hodood | Enppi | 1 | 0
+12,2025-02-07,Smouha,Pyramids,07.02.2025 | Smouha | Pyramids | 0 | 1
+12,2025-02-06,Al Ahly,Petrojet,06.02.2025 | Al Ahly | Petrojet | 2 | 1
+12,2025-02-06,Ceramica Cleopatra,Pharco,06.02.2025 | Ceramica Cleopatra | Pharco | 1 | 2
+12,2025-02-06,Ghazl El Mahallah,Modern Sport,06.02.2025 | Ghazl El Mahallah | Modern Sport | 2 | 1
+11,2025-02-02,Modern Sport,Al Ahly,02.02.2025 | Modern Sport | Al Ahly | 1 | 3
+11,2025-02-02,Ceramica Cleopatra,Smouha,02.02.2025 | Ceramica Cleopatra | Smouha | 0 | 1
+11,2025-02-01,Petrojet,Al Ittihad,01.02.2025 | Petrojet | Al Ittihad | 0 | 0
+11,2025-02-01,Pharco,Ghazl El Mahallah,01.02.2025 | Pharco | Ghazl El Mahallah | 3 | 2
+11,2025-02-01,Enppi,National Bank Egypt,01.02.2025 | Enppi | National Bank Egypt | 0 | 1
+11,2025-02-01,ZED,Al Masry,01.02.2025 | ZED | Al Masry | 1 | 1
+11,2025-01-31,Pyramids,Zamalek,31.01.2025 | Pyramids | Zamalek | 3 | 0
+11,2025-01-31,El Gouna,Haras El Hodood,31.01.2025 | El Gouna | Haras El Hodood | 0 | 1
+11,2025-01-31,El Ismaily,El Gaish,31.01.2025 | El Ismaily | El Gaish | 1 | 2
+10,2025-01-28,Smouha,ZED,28.01.2025 | Smouha | ZED | 2 | 1
+10,2025-01-28,National Bank Egypt,Petrojet,28.01.2025 | National Bank Egypt | Petrojet | 0 | 2
+10,2025-01-27,Al Masry,Enppi,27.01.2025 | Al Masry | Enppi | 2 | 1
+10,2025-01-27,Haras El Hodood,Modern Sport,27.01.2025 | Haras El Hodood | Modern Sport | 1 | 0
+10,2025-01-27,Zamalek,El Gouna,27.01.2025 | Zamalek | El Gouna | 4 | 1
+10,2025-01-26,Al Ahly,Pyramids,26.01.2025 | Al Ahly | Pyramids | 2 | 2
+10,2025-01-26,Ghazl El Mahallah,Ceramica Cleopatra,26.01.2025 | Ghazl El Mahallah | Ceramica Cleopatra | 0 | 1
+10,2025-01-26,Al Ittihad,El Ismaily,26.01.2025 | Al Ittihad | El Ismaily | 1 | 0
+10,2025-01-26,El Gaish,Pharco,26.01.2025 | El Gaish | Pharco | 0 | 0
+9,2025-01-23,Modern Sport,Zamalek,23.01.2025 | Modern Sport | Zamalek | 1 | 0
+9,2025-01-23,Petrojet,Al Masry,23.01.2025 | Petrojet | Al Masry | 2 | 1
+9,2025-01-22,Ceramica Cleopatra,Al Ittihad,22.01.2025 | Ceramica Cleopatra | Al Ittihad | 1 | 1
+9,2025-01-22,ZED,Pyramids,22.01.2025 | ZED | Pyramids | 0 | 1
+9,2025-01-22,Pharco,Al Ahly,22.01.2025 | Pharco | Al Ahly | 1 | 1
+9,2025-01-21,El Ismaily,Smouha,21.01.2025 | El Ismaily | Smouha | 1 | 0
+9,2025-01-21,Enppi,El Gaish,21.01.2025 | Enppi | El Gaish | 0 | 1
+9,2025-01-21,El Gouna,National Bank Egypt,21.01.2025 | El Gouna | National Bank Egypt | 2 | 1 | 2
+9,2025-01-21,Ghazl El Mahallah,Haras El Hodood,21.01.2025 | Ghazl El Mahallah | Haras El Hodood | 0 | 1
+8,2025-01-16,Al Masry,Pharco,16.01.2025 | Al Masry | Pharco | 1 | 0
+8,2025-01-16,Zamalek,Haras El Hodood,16.01.2025 | Zamalek | Haras El Hodood | 3 | 2
+8,2025-01-15,Al Ahly,El Gouna,15.01.2025 | Al Ahly | El Gouna | 2 | 0
+8,2025-01-15,Pyramids,Ghazl El Mahallah,15.01.2025 | Pyramids | Ghazl El Mahallah | 3 | 0
+8,2025-01-12,Smouha,Modern Sport,12.01.2025 | Smouha | Modern Sport | 1 | 0
+8,2025-01-11,Al Ittihad,ZED,11.01.2025 | Al Ittihad | ZED | 0 | 1
+8,2025-01-11,National Bank Egypt,El Ismaily,11.01.2025 | National Bank Egypt | El Ismaily | 1 | 0
+8,2025-01-10,El Gaish,Ceramica Cleopatra,10.01.2025 | El Gaish | Ceramica Cleopatra | 0 | 1
+8,2025-01-10,Petrojet,Enppi,10.01.2025 | Petrojet | Enppi | 0 | 0
+5,2025-01-07,Al Ahly,Smouha,07.01.2025 | Al Ahly | Smouha | 2 | 0
+7,2025-01-01,Ghazl El Mahallah,National Bank Egypt,01.01.2025 | Ghazl El Mahallah | National Bank Egypt | 0 | 1
+7,2025-01-01,Awrd,Modern Sport,01.01.2025 | Awrd | Modern Sport | El Ismaily | 0 | 3
+7,2024-12-31,Ceramica Cleopatra,Al Masry,31.12.2024 | Ceramica Cleopatra | Al Masry | 1 | 1
+7,2024-12-30,Pharco,Smouha,30.12.2024 | Pharco | Smouha | 2 | 1
+7,2024-12-30,ZED,Petrojet,30.12.2024 | ZED | Petrojet | 1 | 1
+7,2024-12-30,El Gouna,Pyramids,30.12.2024 | El Gouna | Pyramids | 0 | 1
+7,2024-12-30,Enppi,Al Ahly,30.12.2024 | Enppi | Al Ahly | 0 | 0
+7,2024-12-29,Zamalek,Al Ittihad,29.12.2024 | Zamalek | Al Ittihad | 2 | 0
+7,2024-12-29,Haras El Hodood,El Gaish,29.12.2024 | Haras El Hodood | El Gaish | 3 | 0
+6,2024-12-26,Al Masry,Al Ahly,26.12.2024 | Al Masry | Al Ahly | 0 | 2
+6,2024-12-26,Petrojet,El Gouna,26.12.2024 | Petrojet | El Gouna | 1 | 0
+6,2024-12-26,National Bank Egypt,Ceramica Cleopatra,26.12.2024 | National Bank Egypt | Ceramica Cleopatra | 1 | 2
+6,2024-12-26,Smouha,Ghazl El Mahallah,26.12.2024 | Smouha | Ghazl El Mahallah | 2 | 4
+6,2024-12-25,Pyramids,Pharco,25.12.2024 | Pyramids | Pharco | 3 | 0
+6,2024-12-25,Al Ittihad,Modern Sport,25.12.2024 | Al Ittihad | Modern Sport | 0 | 0
+6,2024-12-25,El Ismaily,Haras El Hodood,25.12.2024 | El Ismaily | Haras El Hodood | 2 | 2
+6,2024-12-24,El Gaish,Zamalek,24.12.2024 | El Gaish | Zamalek | 2 | 2
+6,2024-12-24,ZED,Enppi,24.12.2024 | ZED | Enppi | 0 | 0
+5,2024-12-21,El Ismaily,Pyramids,21.12.2024 | El Ismaily | Pyramids | 1 | 1
+5,2024-12-21,Ghazl El Mahallah,Al Ittihad,21.12.2024 | Ghazl El Mahallah | Al Ittihad | 0 | 0
+5,2024-12-20,Pharco,ZED,20.12.2024 | Pharco | ZED | 1 | 2
+5,2024-12-20,El Gouna,Enppi,20.12.2024 | El Gouna | Enppi | 1 | 0
+5,2024-12-20,Modern Sport,National Bank Egypt,20.12.2024 | Modern Sport | National Bank Egypt | 0 | 1
+5,2024-12-19,Zamalek,Ceramica Cleopatra,19.12.2024 | Zamalek | Ceramica Cleopatra | 1 | 1
+5,2024-12-19,El Gaish,Petrojet,19.12.2024 | El Gaish | Petrojet | 0 | 1
+5,2024-12-19,Haras El Hodood,Al Masry,19.12.2024 | Haras El Hodood | Al Masry | 0 | 0
+4,2024-12-02,Ghazl El Mahallah,Zamalek,02.12.2024 | Ghazl El Mahallah | Zamalek | 0 | 4
+4,2024-12-02,Al Masry,Pyramids,02.12.2024 | Al Masry | Pyramids | 1 | 0
+4,2024-12-02,Petrojet,Pharco,02.12.2024 | Petrojet | Pharco | 1 | 2
+4,2024-12-01,Enppi,El Ismaily,01.12.2024 | Enppi | El Ismaily | 1 | 0
+4,2024-12-01,Smouha,El Gouna,01.12.2024 | Smouha | El Gouna | 0 | 0
+4,2024-12-01,National Bank Egypt,Al Ahly,01.12.2024 | National Bank Egypt | Al Ahly | 0 | 0
+4,2024-11-30,Al Ittihad,El Gaish,30.11.2024 | Al Ittihad | El Gaish | 0 | 1
+4,2024-11-30,Ceramica Cleopatra,Modern Sport,30.11.2024 | Ceramica Cleopatra | Modern Sport | 4 | 1
+4,2024-11-30,ZED,Haras El Hodood,30.11.2024 | ZED | Haras El Hodood | 2 | 0
+3,2024-11-24,Haras El Hodood,Ceramica Cleopatra,24.11.2024 | Haras El Hodood | Ceramica Cleopatra | 0 | 0
+3,2024-11-24,Modern Sport,ZED,24.11.2024 | Modern Sport | ZED | 0 | 0
+3,2024-11-24,El Ismaily,Petrojet,24.11.2024 | El Ismaily | Petrojet | 1 | 0
+3,2024-11-23,Zamalek,Al Masry,23.11.2024 | Zamalek | Al Masry | 0 | 1
+3,2024-11-23,El Gaish,Smouha,23.11.2024 | El Gaish | Smouha | 0 | 0
+3,2024-11-23,El Gouna,Ghazl El Mahallah,23.11.2024 | El Gouna | Ghazl El Mahallah | 0 | 1
+3,2024-11-22,Al Ahly,Al Ittihad,22.11.2024 | Al Ahly | Al Ittihad | 1 | 1
+3,2024-11-22,Pharco,Enppi,22.11.2024 | Pharco | Enppi | 4 | 3
+3,2024-11-22,Pyramids,National Bank Egypt,22.11.2024 | Pyramids | National Bank Egypt | 3 | 1
+2,2024-11-09,Ceramica Cleopatra,El Ismaily,09.11.2024 | Ceramica Cleopatra | El Ismaily | 1 | 0
+2,2024-11-09,Al Masry,El Gouna,09.11.2024 | Al Masry | El Gouna | 0 | 0
+2,2024-11-09,National Bank Egypt,Pharco,09.11.2024 | National Bank Egypt | Pharco | 0 | 0
+2,2024-11-08,Enppi,Pyramids,08.11.2024 | Enppi | Pyramids | 1 | 2
+2,2024-11-08,Petrojet,Modern Sport,08.11.2024 | Petrojet | Modern Sport | 1 | 1
+2,2024-11-08,Smouha,Zamalek,08.11.2024 | Smouha | Zamalek | 0 | 2
+2,2024-11-07,ZED,Al Ahly,07.11.2024 | ZED | Al Ahly | 0 | 1
+2,2024-11-07,Al Ittihad,Haras El Hodood,07.11.2024 | Al Ittihad | Haras El Hodood | 1 | 0
+2,2024-11-07,Ghazl El Mahallah,El Gaish,07.11.2024 | Ghazl El Mahallah | El Gaish | 2 | 3
+1,2024-11-02,Al Ahly,Ceramica Cleopatra,02.11.2024 | Al Ahly | Ceramica Cleopatra | 5 | 2
+1,2024-11-02,El Ismaily,Ghazl El Mahallah,02.11.2024 | El Ismaily | Ghazl El Mahallah | 0 | 0
+1,2024-11-01,Zamalek,National Bank Egypt,01.11.2024 | Zamalek | National Bank Egypt | 3 | 2
+1,2024-11-01,Pharco,Al Ittihad,01.11.2024 | Pharco | Al Ittihad | 0 | 1
+1,2024-11-01,Pyramids,Petrojet,01.11.2024 | Pyramids | Petrojet | 1 | 1
+1,2024-10-31,Modern Sport,Enppi,31.10.2024 | Modern Sport | Enppi | 0 | 0
+1,2024-10-31,El Gouna,ZED,31.10.2024 | El Gouna | ZED | 0 | 0
+1,2024-10-30,El Gaish,Al Masry,30.10.2024 | El Gaish | Al Masry | 0 | 2
+1,2024-10-30,Haras El Hodood,Smouha,30.10.2024 | Haras El Hodood | Smouha | 1 | 3

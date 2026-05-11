@@ -1,0 +1,381 @@
+round,date,team_home,team_away,full_text
+38,25.05.2025,Bayelsa United,Remo Stars,25.05.2025 | Bayelsa United | Remo Stars | 3 | 0
+38,25.05.2025,El Kanemi,Sunshine Stars,25.05.2025 | El Kanemi | Sunshine Stars | 1 | 0
+38,25.05.2025,Enyimba,Plateau United,25.05.2025 | Enyimba | Plateau United | 0 | 1
+38,25.05.2025,Heartland,Akwa United,25.05.2025 | Heartland | Akwa United | 2 | 1
+38,25.05.2025,Ikorodu City,Abia Warriors,25.05.2025 | Ikorodu City | Abia Warriors | 3 | 2
+38,25.05.2025,Katsina Utd,Kwara,25.05.2025 | Katsina Utd | Kwara | 1 | 0
+38,25.05.2025,Lobi Stars,Bendel,25.05.2025 | Lobi Stars | Bendel | 2 | 1
+38,25.05.2025,Niger Tornadoes,Kano Pillars,25.05.2025 | Niger Tornadoes | Kano Pillars | 3 | 2
+38,25.05.2025,Rivers United,Nasarawa,25.05.2025 | Rivers United | Nasarawa | 2 | 1
+38,25.05.2025,Shooting,Rangers Int'l,25.05.2025 | Shooting | Rangers Int'l | 5 | 1
+37,11.05.2025,Abia Warriors,El Kanemi,11.05.2025 | Abia Warriors | El Kanemi | 2 | 1
+37,11.05.2025,Akwa United,Bayelsa United,11.05.2025 | Akwa United | Bayelsa United | 2 | 0
+37,11.05.2025,Bendel,Heartland,11.05.2025 | Bendel | Heartland | 1 | 0
+37,11.05.2025,Kano Pillars,Shooting,11.05.2025 | Kano Pillars | Shooting | 3 | 1
+37,11.05.2025,Kwara,Rivers United,11.05.2025 | Kwara | Rivers United | 3 | 1
+37,11.05.2025,Nasarawa,Enyimba,11.05.2025 | Nasarawa | Enyimba | 3 | 2
+37,11.05.2025,Plateau United,Lobi Stars,11.05.2025 | Plateau United | Lobi Stars | 2 | 1
+37,11.05.2025,Rangers Int'l,Katsina Utd,11.05.2025 | Rangers Int'l | Katsina Utd | 4 | 0
+37,11.05.2025,Remo Stars,Ikorodu City,11.05.2025 | Remo Stars | Ikorodu City | 4 | 1
+37,11.05.2025,Sunshine Stars,Niger Tornadoes,11.05.2025 | Sunshine Stars | Niger Tornadoes | 1 | 2
+36,07.05.2025,Ikorodu City,Bayelsa United,07.05.2025 | Ikorodu City | Bayelsa United | 3 | 2
+36,07.05.2025,Bendel,Akwa United,07.05.2025 | Bendel | Akwa United | 1 | 0
+36,07.05.2025,Enyimba,Kwara,07.05.2025 | Enyimba | Kwara | 2 | 0
+36,07.05.2025,Heartland,Plateau United,07.05.2025 | Heartland | Plateau United | 2 | 0
+36,07.05.2025,Katsina Utd,Kano Pillars,07.05.2025 | Katsina Utd | Kano Pillars | 1 | 0
+36,07.05.2025,Niger Tornadoes,Abia Warriors,07.05.2025 | Niger Tornadoes | Abia Warriors | 1 | 1
+36,07.05.2025,Rivers United,Rangers Int'l,07.05.2025 | Rivers United | Rangers Int'l | 1 | 0
+36,07.05.2025,Shooting,Sunshine Stars,07.05.2025 | Shooting | Sunshine Stars | 1 | 0
+36,07.05.2025,El Kanemi,Remo Stars,07.05.2025 | El Kanemi | Remo Stars | 2 | 0
+36,07.05.2025,Lobi Stars,Nasarawa,07.05.2025 | Lobi Stars | Nasarawa | 1 | 2
+35,27.04.2025,Remo Stars,Niger Tornadoes,27.04.2025 | Remo Stars | Niger Tornadoes | 1 | 0
+35,27.04.2025,Abia Warriors,Shooting,27.04.2025 | Abia Warriors | Shooting | 3 | 1
+35,27.04.2025,Akwa United,Ikorodu City,27.04.2025 | Akwa United | Ikorodu City | 2 | 1
+35,27.04.2025,Bayelsa United,El Kanemi,27.04.2025 | Bayelsa United | El Kanemi | 2 | 1
+35,27.04.2025,Kwara,Lobi Stars,27.04.2025 | Kwara | Lobi Stars | 4 | 0
+35,27.04.2025,Plateau United,Bendel,27.04.2025 | Plateau United | Bendel | 2 | 1
+35,27.04.2025,Rangers Int'l,Enyimba,27.04.2025 | Rangers Int'l | Enyimba | 1 | 2
+35,27.04.2025,Sunshine Stars,Katsina Utd,27.04.2025 | Sunshine Stars | Katsina Utd | 2 | 0
+35,27.04.2025,Nasarawa,Heartland,27.04.2025 | Nasarawa | Heartland | 1 | 0
+35,25.04.2025,Kano Pillars,Rivers United,25.04.2025 | Kano Pillars | Rivers United | 2 | 0
+34,20.04.2025,Bendel,Nasarawa,20.04.2025 | Bendel | Nasarawa | 1 | 1
+34,20.04.2025,Heartland,Kwara,20.04.2025 | Heartland | Kwara | 0 | 0
+34,20.04.2025,Plateau United,Akwa United,20.04.2025 | Plateau United | Akwa United | 1 | 0
+34,20.04.2025,Rivers United,Sunshine Stars,20.04.2025 | Rivers United | Sunshine Stars | 1 | 0
+34,20.04.2025,Shooting,Remo Stars,20.04.2025 | Shooting | Remo Stars | 0 | 1
+34,20.04.2025,El Kanemi,Ikorodu City,20.04.2025 | El Kanemi | Ikorodu City | 1 | 1
+34,20.04.2025,Niger Tornadoes,Bayelsa United,20.04.2025 | Niger Tornadoes | Bayelsa United | 1 | 1
+34,19.04.2025,Enyimba,Kano Pillars,19.04.2025 | Enyimba | Kano Pillars | 2 | 1
+34,19.04.2025,Lobi Stars,Rangers Int'l,19.04.2025 | Lobi Stars | Rangers Int'l | 2 | 4
+34,19.04.2025,Katsina Utd,Abia Warriors,19.04.2025 | Katsina Utd | Abia Warriors | 5 | 1
+33,13.04.2025,Ikorodu City,Niger Tornadoes,13.04.2025 | Ikorodu City | Niger Tornadoes | 3 | 0
+33,13.04.2025,Kwara,Bendel,13.04.2025 | Kwara | Bendel | 0 | 1
+33,13.04.2025,Abia Warriors,Rivers United,13.04.2025 | Abia Warriors | Rivers United | 2 | 0
+33,13.04.2025,Akwa United,El Kanemi,13.04.2025 | Akwa United | El Kanemi | 1 | 1
+33,13.04.2025,Kano Pillars,Lobi Stars,13.04.2025 | Kano Pillars | Lobi Stars | 2 | 0
+33,13.04.2025,Nasarawa,Plateau United,13.04.2025 | Nasarawa | Plateau United | 3 | 2
+33,13.04.2025,Remo Stars,Katsina Utd,13.04.2025 | Remo Stars | Katsina Utd | 0 | 0
+33,13.04.2025,Sunshine Stars,Enyimba,13.04.2025 | Sunshine Stars | Enyimba | 2 | 1
+33,13.04.2025,Rangers Int'l,Heartland,13.04.2025 | Rangers Int'l | Heartland | 0 | 2
+33,11.04.2025,Bayelsa United,Shooting,11.04.2025 | Bayelsa United | Shooting | 3 | 0
+31,10.04.2025,Ikorodu City,Katsina Utd,10.04.2025 | Ikorodu City | Katsina Utd | 6 | 0
+30,09.04.2025,Lobi Stars,Remo Stars,09.04.2025 | Lobi Stars | Remo Stars | 2 | 2
+32,06.04.2025,Shooting,Ikorodu City,06.04.2025 | Shooting | Ikorodu City | 0 | 0
+32,06.04.2025,Enyimba,Abia Warriors,06.04.2025 | Enyimba | Abia Warriors | 2 | 1
+32,06.04.2025,Katsina Utd,Bayelsa United,06.04.2025 | Katsina Utd | Bayelsa United | 1 | 1
+32,06.04.2025,Lobi Stars,Sunshine Stars,06.04.2025 | Lobi Stars | Sunshine Stars | 1 | 1
+32,06.04.2025,Nasarawa,Akwa United,06.04.2025 | Nasarawa | Akwa United | 2 | 0
+32,06.04.2025,Niger Tornadoes,El Kanemi,06.04.2025 | Niger Tornadoes | El Kanemi | 2 | 0
+32,06.04.2025,Plateau United,Kwara,06.04.2025 | Plateau United | Kwara | 0 | 0
+32,06.04.2025,Rivers United,Remo Stars,06.04.2025 | Rivers United | Remo Stars | 1 | 0
+32,05.04.2025,Bendel,Rangers Int'l,05.04.2025 | Bendel | Rangers Int'l | 0 | 0
+32,05.04.2025,Heartland,Kano Pillars,05.04.2025 | Heartland | Kano Pillars | 2 | 0
+31,27.03.2025,Akwa United,Niger Tornadoes,27.03.2025 | Akwa United | Niger Tornadoes | 2 | 0
+31,27.03.2025,Rangers Int'l,Plateau United,27.03.2025 | Rangers Int'l | Plateau United | 0 | 1
+31,27.03.2025,Remo Stars,Enyimba,27.03.2025 | Remo Stars | Enyimba | 2 | 0
+31,27.03.2025,El Kanemi,Shooting,27.03.2025 | El Kanemi | Shooting | 2 | 2
+31,26.03.2025,Abia Warriors,Lobi Stars,26.03.2025 | Abia Warriors | Lobi Stars | 2 | 0
+31,26.03.2025,Bayelsa United,Rivers United,26.03.2025 | Bayelsa United | Rivers United | 1 | 0
+31,26.03.2025,Kano Pillars,Bendel,26.03.2025 | Kano Pillars | Bendel | 0 | 0
+31,26.03.2025,Kwara,Nasarawa,26.03.2025 | Kwara | Nasarawa | 1 | 0
+31,26.03.2025,Sunshine Stars,Heartland,26.03.2025 | Sunshine Stars | Heartland | 0 | 0
+30,23.03.2025,Shooting,Niger Tornadoes,23.03.2025 | Shooting | Niger Tornadoes | 3 | 1
+30,23.03.2025,Enyimba,Bayelsa United,23.03.2025 | Enyimba | Bayelsa United | 1 | 1
+30,23.03.2025,Heartland,Abia Warriors,23.03.2025 | Heartland | Abia Warriors | 0 | 1
+30,23.03.2025,Katsina Utd,El Kanemi,23.03.2025 | Katsina Utd | El Kanemi | 3 | 0
+30,23.03.2025,Kwara,Akwa United,23.03.2025 | Kwara | Akwa United | 0 | 2
+30,23.03.2025,Rivers United,Ikorodu City,23.03.2025 | Rivers United | Ikorodu City | 1 | 0
+30,22.03.2025,Bendel,Sunshine Stars,22.03.2025 | Bendel | Sunshine Stars | 1 | 0
+30,22.03.2025,Plateau United,Kano Pillars,22.03.2025 | Plateau United | Kano Pillars | 2 | 1
+30,21.03.2025,Nasarawa,Rangers Int'l,21.03.2025 | Nasarawa | Rangers Int'l | 1 | 0
+29,17.03.2025,Sunshine Stars,Plateau United,17.03.2025 | Sunshine Stars | Plateau United | 2 | 2
+29,16.03.2025,Ikorodu City,Enyimba,16.03.2025 | Ikorodu City | Enyimba | 2 | 2
+29,16.03.2025,Remo Stars,Heartland,16.03.2025 | Remo Stars | Heartland | 2 | 0
+29,16.03.2025,Abia Warriors,Bendel,16.03.2025 | Abia Warriors | Bendel | 1 | 0
+29,16.03.2025,Akwa United,Shooting,16.03.2025 | Akwa United | Shooting | 2 | 0
+29,16.03.2025,Bayelsa United,Lobi Stars,16.03.2025 | Bayelsa United | Lobi Stars | 1 | 0
+29,16.03.2025,El Kanemi,Rivers United,16.03.2025 | El Kanemi | Rivers United | 1 | 2
+29,16.03.2025,Kano Pillars,Nasarawa,16.03.2025 | Kano Pillars | Nasarawa | 1 | 1
+29,15.03.2025,Rangers Int'l,Kwara,15.03.2025 | Rangers Int'l | Kwara | 3 | 0
+29,14.03.2025,Niger Tornadoes,Katsina Utd,14.03.2025 | Niger Tornadoes | Katsina Utd | 1 | 0
+28,09.03.2025,Heartland,Bayelsa United,09.03.2025 | Heartland | Bayelsa United | 1 | 1
+28,09.03.2025,Enyimba,El Kanemi,09.03.2025 | Enyimba | El Kanemi | 1 | 0
+28,09.03.2025,Kwara,Kano Pillars,09.03.2025 | Kwara | Kano Pillars | 2 | 0
+28,09.03.2025,Nasarawa,Sunshine Stars,09.03.2025 | Nasarawa | Sunshine Stars | 1 | 1
+28,09.03.2025,Rangers Int'l,Akwa United,09.03.2025 | Rangers Int'l | Akwa United | 1 | 1
+28,09.03.2025,Plateau United,Abia Warriors,09.03.2025 | Plateau United | Abia Warriors | 1 | 0
+28,08.03.2025,Bendel,Remo Stars,08.03.2025 | Bendel | Remo Stars | 2 | 1
+28,08.03.2025,Lobi Stars,Ikorodu City,08.03.2025 | Lobi Stars | Ikorodu City | 0 | 1
+28,08.03.2025,Rivers United,Niger Tornadoes,08.03.2025 | Rivers United | Niger Tornadoes | 1 | 0
+28,07.03.2025,Katsina Utd,Shooting,07.03.2025 | Katsina Utd | Shooting | 1 | 0
+27,03.03.2025,Shooting,Rivers United,03.03.2025 | Shooting | Rivers United | 0 | 0
+27,03.03.2025,Akwa United,Katsina Utd,03.03.2025 | Akwa United | Katsina Utd | 1 | 0
+27,03.03.2025,El Kanemi,Lobi Stars,03.03.2025 | El Kanemi | Lobi Stars | 1 | 0
+27,02.03.2025,Ikorodu City,Heartland,02.03.2025 | Ikorodu City | Heartland | 2 | 0
+27,02.03.2025,Remo Stars,Plateau United,02.03.2025 | Remo Stars | Plateau United | 1 | 0
+27,02.03.2025,Bayelsa United,Bendel,02.03.2025 | Bayelsa United | Bendel | 2 | 1
+27,02.03.2025,Kano Pillars,Rangers Int'l,02.03.2025 | Kano Pillars | Rangers Int'l | 2 | 1
+27,02.03.2025,Niger Tornadoes,Enyimba,02.03.2025 | Niger Tornadoes | Enyimba | 0 | 1
+27,02.03.2025,Abia Warriors,Nasarawa,02.03.2025 | Abia Warriors | Nasarawa | 1 | 1
+27,01.03.2025,Sunshine Stars,Kwara,01.03.2025 | Sunshine Stars | Kwara | 4 | 2
+26,28.02.2025,Rivers United,Katsina Utd,28.02.2025 | Rivers United | Katsina Utd | 1 | 0
+26,27.02.2025,Bendel,Ikorodu City,27.02.2025 | Bendel | Ikorodu City | 2 | 1
+26,26.02.2025,Heartland,El Kanemi,26.02.2025 | Heartland | El Kanemi | 0 | 0
+26,26.02.2025,Kano Pillars,Akwa United,26.02.2025 | Kano Pillars | Akwa United | 1 | 0
+26,26.02.2025,Kwara,Abia Warriors,26.02.2025 | Kwara | Abia Warriors | 0 | 0
+26,26.02.2025,Lobi Stars,Niger Tornadoes,26.02.2025 | Lobi Stars | Niger Tornadoes | 0 | 2
+26,26.02.2025,Nasarawa,Remo Stars,26.02.2025 | Nasarawa | Remo Stars | 1 | 0
+26,26.02.2025,Plateau United,Bayelsa United,26.02.2025 | Plateau United | Bayelsa United | 1 | 0
+26,26.02.2025,Rangers Int'l,Sunshine Stars,26.02.2025 | Rangers Int'l | Sunshine Stars | 3 | 0
+26,26.02.2025,Enyimba,Shooting,26.02.2025 | Enyimba | Shooting | 1 | 1
+25,20.02.2025,Remo Stars,Kwara,20.02.2025 | Remo Stars | Kwara | 2 | 0
+25,20.02.2025,Katsina Utd,Enyimba,20.02.2025 | Katsina Utd | Enyimba | 2 | 1
+25,19.02.2025,Ikorodu City,Plateau United,19.02.2025 | Ikorodu City | Plateau United | 2 | 1
+25,19.02.2025,Shooting,Lobi Stars,19.02.2025 | Shooting | Lobi Stars | 2 | 2
+25,19.02.2025,Abia Warriors,Rangers Int'l,19.02.2025 | Abia Warriors | Rangers Int'l | 1 | 0
+25,19.02.2025,Akwa United,Rivers United,19.02.2025 | Akwa United | Rivers United | 1 | 1
+25,19.02.2025,Bayelsa United,Nasarawa,19.02.2025 | Bayelsa United | Nasarawa | 2 | 2
+25,19.02.2025,Niger Tornadoes,Heartland,19.02.2025 | Niger Tornadoes | Heartland | 2 | 1
+25,19.02.2025,Sunshine Stars,Kano Pillars,19.02.2025 | Sunshine Stars | Kano Pillars | 1 | 1
+25,19.02.2025,El Kanemi,Bendel,19.02.2025 | El Kanemi | Bendel | 0 | 0
+24,16.02.2025,Bendel,Niger Tornadoes,16.02.2025 | Bendel | Niger Tornadoes | 3 | 0
+24,16.02.2025,Heartland,Shooting,16.02.2025 | Heartland | Shooting | 2 | 1
+24,16.02.2025,Rangers Int'l,Remo Stars,16.02.2025 | Rangers Int'l | Remo Stars | 2 | 1
+24,15.02.2025,Sunshine Stars,Akwa United,15.02.2025 | Sunshine Stars | Akwa United | 1 | 0
+24,15.02.2025,Kano Pillars,Abia Warriors,15.02.2025 | Kano Pillars | Abia Warriors | 1 | 0
+24,15.02.2025,Kwara,Bayelsa United,15.02.2025 | Kwara | Bayelsa United | 1 | 0
+24,15.02.2025,Lobi Stars,Katsina Utd,15.02.2025 | Lobi Stars | Katsina Utd | 1 | 1
+24,15.02.2025,Nasarawa,Ikorodu City,15.02.2025 | Nasarawa | Ikorodu City | 0 | 0
+24,15.02.2025,Plateau United,El Kanemi,15.02.2025 | Plateau United | El Kanemi | 2 | 0
+24,15.02.2025,Enyimba,Rivers United,15.02.2025 | Enyimba | Rivers United | 1 | 0
+20,12.02.2025,Bendel,Enyimba,12.02.2025 | Bendel | Enyimba | 1 | 0
+20,12.02.2025,Kwara,Shooting,12.02.2025 | Kwara | Shooting | 2 | 0
+20,12.02.2025,Kano Pillars,El Kanemi,12.02.2025 | Kano Pillars | El Kanemi | 2 | 1
+23,09.02.2025,Ikorodu City,Kwara,09.02.2025 | Ikorodu City | Kwara | 2 | 1
+23,09.02.2025,Abia Warriors,Sunshine Stars,09.02.2025 | Abia Warriors | Sunshine Stars | 3 | 0
+23,09.02.2025,Akwa United,Enyimba,09.02.2025 | Akwa United | Enyimba | 2 | 1
+23,09.02.2025,Bayelsa United,Rangers Int'l,09.02.2025 | Bayelsa United | Rangers Int'l | 0 | 0
+23,09.02.2025,Rivers United,Lobi Stars,09.02.2025 | Rivers United | Lobi Stars | 1 | 0
+23,09.02.2025,Niger Tornadoes,Plateau United,09.02.2025 | Niger Tornadoes | Plateau United | 1 | 1
+23,08.02.2025,Shooting,Bendel,08.02.2025 | Shooting | Bendel | 1 | 0
+23,08.02.2025,Remo Stars,Kano Pillars,08.02.2025 | Remo Stars | Kano Pillars | 2 | 1
+23,08.02.2025,El Kanemi,Nasarawa,08.02.2025 | El Kanemi | Nasarawa | 1 | 0
+23,07.02.2025,Katsina Utd,Heartland,07.02.2025 | Katsina Utd | Heartland | 1 | 0
+22,03.02.2025,Kwara,El Kanemi,03.02.2025 | Kwara | El Kanemi | 2 | 0
+22,03.02.2025,Bendel,Katsina Utd,03.02.2025 | Bendel | Katsina Utd | 1 | 0
+22,03.02.2025,Rangers Int'l,Ikorodu City,03.02.2025 | Rangers Int'l | Ikorodu City | 2 | 0
+22,03.02.2025,Lobi Stars,Enyimba,03.02.2025 | Lobi Stars | Enyimba | 0 | 1
+22,02.02.2025,Abia Warriors,Akwa United,02.02.2025 | Abia Warriors | Akwa United | 2 | 0
+22,02.02.2025,Heartland,Rivers United,02.02.2025 | Heartland | Rivers United | 2 | 0
+22,02.02.2025,Nasarawa,Niger Tornadoes,02.02.2025 | Nasarawa | Niger Tornadoes | 2 | 0
+22,02.02.2025,Kano Pillars,Bayelsa United,02.02.2025 | Kano Pillars | Bayelsa United | 0 | 0
+22,02.02.2025,Plateau United,Shooting,02.02.2025 | Plateau United | Shooting | 1 | 1
+22,01.02.2025,Sunshine Stars,Remo Stars,01.02.2025 | Sunshine Stars | Remo Stars | 1 | 2
+21,30.01.2025,Katsina Utd,Plateau United,30.01.2025 | Katsina Utd | Plateau United | 1 | 0
+21,30.01.2025,Niger Tornadoes,Kwara,30.01.2025 | Niger Tornadoes | Kwara | 2 | 1
+21,30.01.2025,Rivers United,Bendel,30.01.2025 | Rivers United | Bendel | 2 | 2
+21,30.01.2025,Enyimba,Heartland,30.01.2025 | Enyimba | Heartland | 1 | 1
+21,29.01.2025,Shooting,Nasarawa,29.01.2025 | Shooting | Nasarawa | 2 | 0
+21,29.01.2025,Akwa United,Lobi Stars,29.01.2025 | Akwa United | Lobi Stars | 1 | 1
+21,29.01.2025,Ikorodu City,Kano Pillars,29.01.2025 | Ikorodu City | Kano Pillars | 4 | 1
+21,29.01.2025,Remo Stars,Abia Warriors,29.01.2025 | Remo Stars | Abia Warriors | 3 | 2
+21,29.01.2025,Bayelsa United,Sunshine Stars,29.01.2025 | Bayelsa United | Sunshine Stars | 4 | 1
+21,29.01.2025,El Kanemi,Rangers Int'l,29.01.2025 | El Kanemi | Rangers Int'l | 2 | 1
+16,27.01.2025,Kwara,Enyimba,27.01.2025 | Kwara | Enyimba | 2 | 0
+20,26.01.2025,Plateau United,Rivers United,26.01.2025 | Plateau United | Rivers United | 2 | 1
+20,26.01.2025,Akwa United,Remo Stars,26.01.2025 | Akwa United | Remo Stars | 1 | 2
+20,26.01.2025,Heartland,Lobi Stars,26.01.2025 | Heartland | Lobi Stars | 1 | 0
+20,25.01.2025,Abia Warriors,Bayelsa United,25.01.2025 | Abia Warriors | Bayelsa United | 1 | 0
+20,25.01.2025,Sunshine Stars,Ikorodu City,25.01.2025 | Sunshine Stars | Ikorodu City | 4 | 3
+20,25.01.2025,Rangers Int'l,Niger Tornadoes,25.01.2025 | Rangers Int'l | Niger Tornadoes | 1 | 2
+20,25.01.2025,Nasarawa,Katsina Utd,25.01.2025 | Nasarawa | Katsina Utd | 1 | 0
+14,23.01.2025,Kano Pillars,Enyimba,23.01.2025 | Kano Pillars | Enyimba | 2 | 0
+17,08.01.2025,Enyimba,Nasarawa,08.01.2025 | Enyimba | Nasarawa | 2 | 1
+19,31.12.2024,Enyimba,Bendel,31.12.2024 | Enyimba | Bendel | 0 | 0
+19,30.12.2024,Rivers United,Plateau United,30.12.2024 | Rivers United | Plateau United | 1 | 1
+19,29.12.2024,Remo Stars,Akwa United,29.12.2024 | Remo Stars | Akwa United | 2 | 1
+19,29.12.2024,Shooting,Kwara,29.12.2024 | Shooting | Kwara | 1 | 0
+19,29.12.2024,Ikorodu City,Sunshine Stars,29.12.2024 | Ikorodu City | Sunshine Stars | 2 | 1
+19,29.12.2024,Katsina Utd,Nasarawa,29.12.2024 | Katsina Utd | Nasarawa | 1 | 0
+19,29.12.2024,Lobi Stars,Heartland,29.12.2024 | Lobi Stars | Heartland | 0 | 0
+19,29.12.2024,El Kanemi,Kano Pillars,29.12.2024 | El Kanemi | Kano Pillars | 1 | 0
+19,29.12.2024,Niger Tornadoes,Rangers Int'l,29.12.2024 | Niger Tornadoes | Rangers Int'l | 0 | 1
+19,28.12.2024,Bayelsa United,Abia Warriors,28.12.2024 | Bayelsa United | Abia Warriors | 0 | 1
+18,26.12.2024,Plateau United,Enyimba,26.12.2024 | Plateau United | Enyimba | 0 | 0
+18,23.12.2024,Akwa United,Heartland,23.12.2024 | Akwa United | Heartland | 2 | 0
+18,22.12.2024,Kwara,Katsina Utd,22.12.2024 | Kwara | Katsina Utd | 1 | 0
+18,22.12.2024,Abia Warriors,Ikorodu City,22.12.2024 | Abia Warriors | Ikorodu City | 2 | 0
+18,22.12.2024,Nasarawa,Rivers United,22.12.2024 | Nasarawa | Rivers United | 1 | 1
+18,22.12.2024,Rangers Int'l,Shooting,22.12.2024 | Rangers Int'l | Shooting | 0 | 1
+18,22.12.2024,Remo Stars,Bayelsa United,22.12.2024 | Remo Stars | Bayelsa United | 2 | 0
+18,21.12.2024,Bendel,Lobi Stars,21.12.2024 | Bendel | Lobi Stars | 1 | 0
+18,21.12.2024,Sunshine Stars,El Kanemi,21.12.2024 | Sunshine Stars | El Kanemi | 1 | 0
+18,21.12.2024,Kano Pillars,Niger Tornadoes,21.12.2024 | Kano Pillars | Niger Tornadoes | 2 | 1
+17,15.12.2024,Ikorodu City,Remo Stars,15.12.2024 | Ikorodu City | Remo Stars | 1 | 1
+17,15.12.2024,Bayelsa United,Akwa United,15.12.2024 | Bayelsa United | Akwa United | 2 | 1
+17,15.12.2024,Heartland,Bendel,15.12.2024 | Heartland | Bendel | 1 | 1
+17,15.12.2024,Rivers United,Kwara,15.12.2024 | Rivers United | Kwara | 2 | 1
+17,15.12.2024,El Kanemi,Abia Warriors,15.12.2024 | El Kanemi | Abia Warriors | 3 | 0
+17,15.12.2024,Katsina Utd,Rangers Int'l,15.12.2024 | Katsina Utd | Rangers Int'l | 0 | 0
+17,15.12.2024,Niger Tornadoes,Sunshine Stars,15.12.2024 | Niger Tornadoes | Sunshine Stars | 4 | 1
+17,14.12.2024,Shooting,Kano Pillars,14.12.2024 | Shooting | Kano Pillars | 2 | 0
+17,14.12.2024,Lobi Stars,Plateau United,14.12.2024 | Lobi Stars | Plateau United | 1 | 0
+13,11.12.2024,Enyimba,Sunshine Stars,11.12.2024 | Enyimba | Sunshine Stars | 0 | 0
+16,09.12.2024,Akwa United,Bendel,09.12.2024 | Akwa United | Bendel | 1 | 1
+16,08.12.2024,Remo Stars,El Kanemi,08.12.2024 | Remo Stars | El Kanemi | 2 | 0
+16,08.12.2024,Abia Warriors,Niger Tornadoes,08.12.2024 | Abia Warriors | Niger Tornadoes | 2 | 1
+16,08.12.2024,Bayelsa United,Ikorodu City,08.12.2024 | Bayelsa United | Ikorodu City | 1 | 0
+16,08.12.2024,Rangers Int'l,Rivers United,08.12.2024 | Rangers Int'l | Rivers United | 1 | 0
+16,08.12.2024,Kano Pillars,Katsina Utd,08.12.2024 | Kano Pillars | Katsina Utd | 1 | 0
+16,08.12.2024,Plateau United,Heartland,08.12.2024 | Plateau United | Heartland | 3 | 2
+16,07.12.2024,Sunshine Stars,Shooting,07.12.2024 | Sunshine Stars | Shooting | 0 | 1
+16,07.12.2024,Nasarawa,Lobi Stars,07.12.2024 | Nasarawa | Lobi Stars | 1 | 0
+15,03.12.2024,Enyimba,Rangers Int'l,03.12.2024 | Enyimba | Rangers Int'l | 0 | 0
+15,01.12.2024,Shooting,Abia Warriors,01.12.2024 | Shooting | Abia Warriors | 2 | 0
+15,01.12.2024,Heartland,Nasarawa,01.12.2024 | Heartland | Nasarawa | 3 | 2
+15,01.12.2024,Ikorodu City,Akwa United,01.12.2024 | Ikorodu City | Akwa United | 4 | 1
+15,01.12.2024,Katsina Utd,Sunshine Stars,01.12.2024 | Katsina Utd | Sunshine Stars | 1 | 0
+15,01.12.2024,Niger Tornadoes,Remo Stars,01.12.2024 | Niger Tornadoes | Remo Stars | 2 | 1
+15,01.12.2024,Rivers United,Kano Pillars,01.12.2024 | Rivers United | Kano Pillars | 1 | 0
+15,01.12.2024,El Kanemi,Bayelsa United,01.12.2024 | El Kanemi | Bayelsa United | 0 | 0
+15,30.11.2024,Bendel,Plateau United,30.11.2024 | Bendel | Plateau United | 2 | 1
+15,30.11.2024,Lobi Stars,Kwara,30.11.2024 | Lobi Stars | Kwara | 1 | 0
+14,27.11.2024,Abia Warriors,Katsina Utd,27.11.2024 | Abia Warriors | Katsina Utd | 2 | 0
+14,27.11.2024,Akwa United,Plateau United,27.11.2024 | Akwa United | Plateau United | 1 | 0
+14,27.11.2024,Bayelsa United,Niger Tornadoes,27.11.2024 | Bayelsa United | Niger Tornadoes | 4 | 1
+14,27.11.2024,Ikorodu City,El Kanemi,27.11.2024 | Ikorodu City | El Kanemi | 2 | 0
+14,27.11.2024,Kwara,Heartland,27.11.2024 | Kwara | Heartland | 1 | 0
+14,27.11.2024,Nasarawa,Bendel,27.11.2024 | Nasarawa | Bendel | 2 | 1
+14,27.11.2024,Rangers Int'l,Lobi Stars,27.11.2024 | Rangers Int'l | Lobi Stars | 3 | 0
+14,27.11.2024,Remo Stars,Shooting,27.11.2024 | Remo Stars | Shooting | 2 | 0
+14,27.11.2024,Sunshine Stars,Rivers United,27.11.2024 | Sunshine Stars | Rivers United | 1 | 1
+13,24.11.2024,Shooting,Bayelsa United,24.11.2024 | Shooting | Bayelsa United | 1 | 0
+13,24.11.2024,Katsina Utd,Remo Stars,24.11.2024 | Katsina Utd | Remo Stars | 2 | 0
+13,24.11.2024,Rivers United,Abia Warriors,24.11.2024 | Rivers United | Abia Warriors | 1 | 0
+13,24.11.2024,Plateau United,Nasarawa,24.11.2024 | Plateau United | Nasarawa | 2 | 0
+13,23.11.2024,Bendel,Kwara,23.11.2024 | Bendel | Kwara | 3 | 1
+13,23.11.2024,Heartland,Rangers Int'l,23.11.2024 | Heartland | Rangers Int'l | 0 | 0
+13,23.11.2024,Lobi Stars,Kano Pillars,23.11.2024 | Lobi Stars | Kano Pillars | 2 | 2
+13,23.11.2024,Niger Tornadoes,Ikorodu City,23.11.2024 | Niger Tornadoes | Ikorodu City | 0 | 0
+13,23.11.2024,El Kanemi,Akwa United,23.11.2024 | El Kanemi | Akwa United | 1 | 0
+12,17.11.2024,Abia Warriors,Enyimba,17.11.2024 | Abia Warriors | Enyimba | 1 | 1
+12,17.11.2024,Bayelsa United,Katsina Utd,17.11.2024 | Bayelsa United | Katsina Utd | 1 | 1
+12,17.11.2024,Ikorodu City,Shooting,17.11.2024 | Ikorodu City | Shooting | 2 | 1
+12,17.11.2024,Kwara,Plateau United,17.11.2024 | Kwara | Plateau United | 2 | 0
+12,17.11.2024,Rangers Int'l,Bendel,17.11.2024 | Rangers Int'l | Bendel | 3 | 2
+12,17.11.2024,Remo Stars,Rivers United,17.11.2024 | Remo Stars | Rivers United | 0 | 0
+12,17.11.2024,Sunshine Stars,Lobi Stars,17.11.2024 | Sunshine Stars | Lobi Stars | 1 | 0
+12,17.11.2024,Kano Pillars,Heartland,17.11.2024 | Kano Pillars | Heartland | 2 | 2
+12,17.11.2024,El Kanemi,Niger Tornadoes,17.11.2024 | El Kanemi | Niger Tornadoes | 1 | 0
+12,16.11.2024,Akwa United,Nasarawa,16.11.2024 | Akwa United | Nasarawa | 1 | 0
+11,10.11.2024,Shooting,El Kanemi,10.11.2024 | Shooting | El Kanemi | 3 | 0
+11,10.11.2024,Enyimba,Remo Stars,10.11.2024 | Enyimba | Remo Stars | 0 | 0
+11,10.11.2024,Heartland,Sunshine Stars,10.11.2024 | Heartland | Sunshine Stars | 1 | 0
+11,10.11.2024,Nasarawa,Kwara,10.11.2024 | Nasarawa | Kwara | 0 | 1
+11,10.11.2024,Niger Tornadoes,Akwa United,10.11.2024 | Niger Tornadoes | Akwa United | 1 | 0
+11,10.11.2024,Plateau United,Rangers Int'l,10.11.2024 | Plateau United | Rangers Int'l | 0 | 0
+11,10.11.2024,Rivers United,Bayelsa United,10.11.2024 | Rivers United | Bayelsa United | 0 | 1
+11,10.11.2024,Katsina Utd,Ikorodu City,10.11.2024 | Katsina Utd | Ikorodu City | 1 | 2
+11,09.11.2024,Bendel,Kano Pillars,09.11.2024 | Bendel | Kano Pillars | 0 | 1
+11,09.11.2024,Lobi Stars,Abia Warriors,09.11.2024 | Lobi Stars | Abia Warriors | 3 | 1
+10,03.11.2024,Abia Warriors,Heartland,03.11.2024 | Abia Warriors | Heartland | 0 | 2
+10,03.11.2024,Akwa United,Kwara,03.11.2024 | Akwa United | Kwara | 2 | 1
+10,03.11.2024,Bayelsa United,Enyimba,03.11.2024 | Bayelsa United | Enyimba | 1 | 1
+10,03.11.2024,Ikorodu City,Rivers United,03.11.2024 | Ikorodu City | Rivers United | 2 | 0
+10,03.11.2024,Kano Pillars,Plateau United,03.11.2024 | Kano Pillars | Plateau United | 2 | 1
+10,03.11.2024,Niger Tornadoes,Shooting,03.11.2024 | Niger Tornadoes | Shooting | 2 | 0
+10,03.11.2024,Rangers Int'l,Nasarawa,03.11.2024 | Rangers Int'l | Nasarawa | 2 | 0
+10,03.11.2024,Remo Stars,Lobi Stars,03.11.2024 | Remo Stars | Lobi Stars | 1 | 0
+10,03.11.2024,Sunshine Stars,Bendel,03.11.2024 | Sunshine Stars | Bendel | 1 | 2
+10,03.11.2024,El Kanemi,Katsina Utd,03.11.2024 | El Kanemi | Katsina Utd | 1 | 0
+9,28.10.2024,Kwara,Rangers Int'l,28.10.2024 | Kwara | Rangers Int'l | 1 | 1
+9,28.10.2024,Lobi Stars,Bayelsa United,28.10.2024 | Lobi Stars | Bayelsa United | 2 | 1
+9,27.10.2024,Enyimba,Ikorodu City,27.10.2024 | Enyimba | Ikorodu City | 2 | 1
+9,27.10.2024,Heartland,Remo Stars,27.10.2024 | Heartland | Remo Stars | 1 | 0
+9,27.10.2024,Nasarawa,Kano Pillars,27.10.2024 | Nasarawa | Kano Pillars | 1 | 0
+9,27.10.2024,Plateau United,Sunshine Stars,27.10.2024 | Plateau United | Sunshine Stars | 3 | 0
+9,27.10.2024,Rivers United,El Kanemi,27.10.2024 | Rivers United | El Kanemi | 1 | 1
+9,27.10.2024,Shooting,Akwa United,27.10.2024 | Shooting | Akwa United | 2 | 1
+9,26.10.2024,Bendel,Abia Warriors,26.10.2024 | Bendel | Abia Warriors | 0 | 1
+9,26.10.2024,Katsina Utd,Niger Tornadoes,26.10.2024 | Katsina Utd | Niger Tornadoes | 1 | 1
+2,23.10.2024,El Kanemi,Kwara,23.10.2024 | El Kanemi | Kwara | 1 | 1
+8,21.10.2024,Akwa United,Rangers Int'l,21.10.2024 | Akwa United | Rangers Int'l | 0 | 0
+8,21.10.2024,Shooting,Katsina Utd,21.10.2024 | Shooting | Katsina Utd | 1 | 0
+8,21.10.2024,Niger Tornadoes,Rivers United,21.10.2024 | Niger Tornadoes | Rivers United | 0 | 1
+8,21.10.2024,Ikorodu City,Lobi Stars,21.10.2024 | Ikorodu City | Lobi Stars | 4 | 2
+8,20.10.2024,Remo Stars,Bendel,20.10.2024 | Remo Stars | Bendel | 1 | 0
+8,20.10.2024,Abia Warriors,Plateau United,20.10.2024 | Abia Warriors | Plateau United | 3 | 1
+8,20.10.2024,Kano Pillars,Kwara,20.10.2024 | Kano Pillars | Kwara | 1 | 1
+8,20.10.2024,Sunshine Stars,Nasarawa,20.10.2024 | Sunshine Stars | Nasarawa | 1 | 0
+8,20.10.2024,Bayelsa United,Heartland,20.10.2024 | Bayelsa United | Heartland | 1 | 0
+8,20.10.2024,El Kanemi,Enyimba,20.10.2024 | El Kanemi | Enyimba | 1 | 0
+7,17.10.2024,Heartland,Ikorodu City,17.10.2024 | Heartland | Ikorodu City | 1 | 1
+7,17.10.2024,Katsina Utd,Akwa United,17.10.2024 | Katsina Utd | Akwa United | 1 | 0
+7,17.10.2024,Plateau United,Remo Stars,17.10.2024 | Plateau United | Remo Stars | 3 | 1
+7,17.10.2024,Rivers United,Shooting,17.10.2024 | Rivers United | Shooting | 2 | 0
+7,17.10.2024,Bendel,Bayelsa United,17.10.2024 | Bendel | Bayelsa United | 3 | 0
+7,16.10.2024,Enyimba,Niger Tornadoes,16.10.2024 | Enyimba | Niger Tornadoes | 1 | 1
+7,16.10.2024,Kwara,Sunshine Stars,16.10.2024 | Kwara | Sunshine Stars | 3 | 0
+7,16.10.2024,Nasarawa,Abia Warriors,16.10.2024 | Nasarawa | Abia Warriors | 3 | 0
+7,16.10.2024,Rangers Int'l,Kano Pillars,16.10.2024 | Rangers Int'l | Kano Pillars | 3 | 4
+7,16.10.2024,Lobi Stars,El Kanemi,16.10.2024 | Lobi Stars | El Kanemi | 2 | 2
+6,13.10.2024,Shooting,Enyimba,13.10.2024 | Shooting | Enyimba | 0 | 0
+6,13.10.2024,Akwa United,Kano Pillars,13.10.2024 | Akwa United | Kano Pillars | 2 | 0
+6,13.10.2024,Katsina Utd,Rivers United,13.10.2024 | Katsina Utd | Rivers United | 0 | 0
+6,13.10.2024,Niger Tornadoes,Lobi Stars,13.10.2024 | Niger Tornadoes | Lobi Stars | 1 | 1
+6,13.10.2024,Remo Stars,Nasarawa,13.10.2024 | Remo Stars | Nasarawa | 3 | 0
+6,13.10.2024,Bayelsa United,Plateau United,13.10.2024 | Bayelsa United | Plateau United | 1 | 0
+6,13.10.2024,El Kanemi,Heartland,13.10.2024 | El Kanemi | Heartland | 0 | 0
+6,13.10.2024,Abia Warriors,Kwara,13.10.2024 | Abia Warriors | Kwara | 1 | 0
+6,12.10.2024,Ikorodu City,Bendel,12.10.2024 | Ikorodu City | Bendel | 3 | 0
+6,12.10.2024,Sunshine Stars,Rangers Int'l,12.10.2024 | Sunshine Stars | Rangers Int'l | 1 | 0
+5,07.10.2024,Enyimba,Katsina Utd,07.10.2024 | Enyimba | Katsina Utd | 3 | 0
+5,06.10.2024,Heartland,Niger Tornadoes,06.10.2024 | Heartland | Niger Tornadoes | 2 | 0
+5,06.10.2024,Kano Pillars,Sunshine Stars,06.10.2024 | Kano Pillars | Sunshine Stars | 2 | 0
+5,06.10.2024,Kwara,Remo Stars,06.10.2024 | Kwara | Remo Stars | 1 | 0
+5,06.10.2024,Plateau United,Ikorodu City,06.10.2024 | Plateau United | Ikorodu City | 1 | 0
+5,06.10.2024,Rangers Int'l,Abia Warriors,06.10.2024 | Rangers Int'l | Abia Warriors | 1 | 0
+5,06.10.2024,Rivers United,Akwa United,06.10.2024 | Rivers United | Akwa United | 2 | 1
+5,06.10.2024,Nasarawa,Bayelsa United,06.10.2024 | Nasarawa | Bayelsa United | 0 | 0
+5,05.10.2024,Bendel,El Kanemi,05.10.2024 | Bendel | El Kanemi | 1 | 1
+5,05.10.2024,Lobi Stars,Shooting,05.10.2024 | Lobi Stars | Shooting | 1 | 0
+3,03.10.2024,Rangers Int'l,Bayelsa United,03.10.2024 | Rangers Int'l | Bayelsa United | 1 | 0
+3,02.10.2024,Bendel,Shooting,02.10.2024 | Bendel | Shooting | 1 | 0
+3,02.10.2024,Enyimba,Akwa United,02.10.2024 | Enyimba | Akwa United | 1 | 0
+4,29.09.2024,Remo Stars,Rangers Int'l,29.09.2024 | Remo Stars | Rangers Int'l | 2 | 1
+4,29.09.2024,Shooting,Heartland,29.09.2024 | Shooting | Heartland | 1 | 0
+4,29.09.2024,Abia Warriors,Kano Pillars,29.09.2024 | Abia Warriors | Kano Pillars | 2 | 0
+4,29.09.2024,Bayelsa United,Kwara,29.09.2024 | Bayelsa United | Kwara | 1 | 1
+4,29.09.2024,Katsina Utd,Lobi Stars,29.09.2024 | Katsina Utd | Lobi Stars | 3 | 0
+4,29.09.2024,El Kanemi,Plateau United,29.09.2024 | El Kanemi | Plateau United | 2 | 2
+4,29.09.2024,Niger Tornadoes,Bendel,29.09.2024 | Niger Tornadoes | Bendel | 1 | 1
+4,29.09.2024,Rivers United,Enyimba,29.09.2024 | Rivers United | Enyimba | 2 | 0
+4,28.09.2024,Akwa United,Sunshine Stars,28.09.2024 | Akwa United | Sunshine Stars | 1 | 2
+4,28.09.2024,Ikorodu City,Nasarawa,28.09.2024 | Ikorodu City | Nasarawa | 1 | 2
+2,25.09.2024,Enyimba,Lobi Stars,25.09.2024 | Enyimba | Lobi Stars | 2 | 1
+2,25.09.2024,Ikorodu City,Rangers Int'l,25.09.2024 | Ikorodu City | Rangers Int'l | 0 | 1
+3,22.09.2024,Kwara,Ikorodu City,22.09.2024 | Kwara | Ikorodu City | 0 | 0
+3,22.09.2024,Heartland,Katsina Utd,22.09.2024 | Heartland | Katsina Utd | 0 | 0
+3,22.09.2024,Kano Pillars,Remo Stars,22.09.2024 | Kano Pillars | Remo Stars | 0 | 2
+3,22.09.2024,Sunshine Stars,Abia Warriors,22.09.2024 | Sunshine Stars | Abia Warriors | 0 | 0
+3,22.09.2024,Plateau United,Niger Tornadoes,22.09.2024 | Plateau United | Niger Tornadoes | 1 | 2
+3,21.09.2024,Nasarawa,El Kanemi,21.09.2024 | Nasarawa | El Kanemi | 3 | 4
+3,21.09.2024,Lobi Stars,Rivers United,21.09.2024 | Lobi Stars | Rivers United | 0 | 1
+2,15.09.2024,Shooting,Plateau United,15.09.2024 | Shooting | Plateau United | 1 | 1
+2,15.09.2024,Bayelsa United,Kano Pillars,15.09.2024 | Bayelsa United | Kano Pillars | 1 | 1
+2,15.09.2024,Katsina Utd,Bendel,15.09.2024 | Katsina Utd | Bendel | 2 | 1
+2,15.09.2024,Niger Tornadoes,Nasarawa,15.09.2024 | Niger Tornadoes | Nasarawa | 0 | 0
+2,15.09.2024,Akwa United,Abia Warriors,15.09.2024 | Akwa United | Abia Warriors | 1 | 1
+2,14.09.2024,Remo Stars,Sunshine Stars,14.09.2024 | Remo Stars | Sunshine Stars | 1 | 0
+2,14.09.2024,Rivers United,Heartland,14.09.2024 | Rivers United | Heartland | 3 | 1
+1,09.09.2024,Lobi Stars,Akwa United,09.09.2024 | Lobi Stars | Akwa United | 0 | 0
+1,08.09.2024,Abia Warriors,Remo Stars,08.09.2024 | Abia Warriors | Remo Stars | 0 | 2
+1,08.09.2024,Bendel,Rivers United,08.09.2024 | Bendel | Rivers United | 0 | 0
+1,08.09.2024,Heartland,Enyimba,08.09.2024 | Heartland | Enyimba | 1 | 3
+1,08.09.2024,Kano Pillars,Ikorodu City,08.09.2024 | Kano Pillars | Ikorodu City | 3 | 0
+1,08.09.2024,Kwara,Niger Tornadoes,08.09.2024 | Kwara | Niger Tornadoes | 1 | 2
+1,08.09.2024,Nasarawa,Shooting,08.09.2024 | Nasarawa | Shooting | 1 | 1
+1,08.09.2024,Plateau United,Katsina Utd,08.09.2024 | Plateau United | Katsina Utd | 1 | 0
+1,08.09.2024,Sunshine Stars,Bayelsa United,08.09.2024 | Sunshine Stars | Bayelsa United | 3 | 0
+1,31.08.2024,Rangers Int'l,El Kanemi,31.08.2024 | Rangers Int'l | El Kanemi | 0 | 0

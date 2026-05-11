@@ -1,0 +1,241 @@
+round,date,team_home,team_away,full_text
+30,21.06.2025,Kabylie,ASO Chlef,21.06.2025 | Kabylie | ASO Chlef | 1 | 0
+30,21.06.2025,MC Alger,Magra,21.06.2025 | MC Alger | Magra | 0 | 0
+30,21.06.2025,Olympique Akbou,CR Belouizdad,21.06.2025 | Olympique Akbou | CR Belouizdad | 0 | 0
+30,21.06.2025,Paradou,Mostaganem,21.06.2025 | Paradou | Mostaganem | 1 | 3
+30,21.06.2025,Khenchela,El Bayadh,21.06.2025 | Khenchela | El Bayadh | 1 | 0
+30,20.06.2025,Constantine,Saoura,20.06.2025 | Constantine | Saoura | 2 | 2
+30,20.06.2025,Oran,USM Alger,20.06.2025 | Oran | USM Alger | 4 | 0
+30,20.06.2025,ES Setif,Biskra,20.06.2025 | ES Setif | Biskra | 1 | 0
+29,17.06.2025,Saoura,Paradou,17.06.2025 | Saoura | Paradou | 3 | 2
+29,17.06.2025,ASO Chlef,MC Alger,17.06.2025 | ASO Chlef | MC Alger | 0 | 0
+29,17.06.2025,CR Belouizdad,Oran,17.06.2025 | CR Belouizdad | Oran | 2 | 0
+29,17.06.2025,El Bayadh,Olympique Akbou,17.06.2025 | El Bayadh | Olympique Akbou | 0 | 1
+29,17.06.2025,Magra,Constantine,17.06.2025 | Magra | Constantine | 2 | 1
+29,17.06.2025,Mostaganem,Kabylie,17.06.2025 | Mostaganem | Kabylie | 0 | 0
+29,16.06.2025,USM Alger,ES Setif,16.06.2025 | USM Alger | ES Setif | 1 | 0
+29,16.06.2025,Biskra,Khenchela,16.06.2025 | Biskra | Khenchela | 1 | 2
+28,12.06.2025,Constantine,CR Belouizdad,12.06.2025 | Constantine | CR Belouizdad | 0 | 2
+28,12.06.2025,Kabylie,ES Setif,12.06.2025 | Kabylie | ES Setif | 2 | 0
+28,12.06.2025,MC Alger,Mostaganem,12.06.2025 | MC Alger | Mostaganem | 5 | 2
+28,12.06.2025,Paradou,Magra,12.06.2025 | Paradou | Magra | 2 | 0
+28,11.06.2025,ASO Chlef,Saoura,11.06.2025 | ASO Chlef | Saoura | 1 | 2
+28,11.06.2025,Khenchela,USM Alger,11.06.2025 | Khenchela | USM Alger | 1 | 0
+28,11.06.2025,Olympique Akbou,Biskra,11.06.2025 | Olympique Akbou | Biskra | 2 | 0
+28,11.06.2025,Oran,El Bayadh,11.06.2025 | Oran | El Bayadh | 3 | 2
+24,03.06.2025,Constantine,Khenchela,03.06.2025 | Constantine | Khenchela | 2 | 1
+23,30.05.2025,Olympique Akbou,Constantine,30.05.2025 | Olympique Akbou | Constantine | 0 | 0
+27,27.05.2025,CR Belouizdad,Paradou,27.05.2025 | CR Belouizdad | Paradou | 2 | 1
+27,27.05.2025,Saoura,MC Alger,27.05.2025 | Saoura | MC Alger | 0 | 0
+27,27.05.2025,El Bayadh,Constantine,27.05.2025 | El Bayadh | Constantine | 1 | 1
+27,26.05.2025,USM Alger,Olympique Akbou,26.05.2025 | USM Alger | Olympique Akbou | 1 | 1
+27,26.05.2025,Biskra,Oran,26.05.2025 | Biskra | Oran | 0 | 2
+27,25.05.2025,ES Setif,Khenchela,25.05.2025 | ES Setif | Khenchela | 0 | 1
+27,25.05.2025,Magra,Kabylie,25.05.2025 | Magra | Kabylie | 1 | 3
+27,25.05.2025,Mostaganem,ASO Chlef,25.05.2025 | Mostaganem | ASO Chlef | 1 | 0
+22,23.05.2025,MC Alger,USM Alger,23.05.2025 | MC Alger | USM Alger | 1 | 0
+22,22.05.2025,Constantine,Oran,22.05.2025 | Constantine | Oran | 2 | 2
+26,19.05.2025,ASO Chlef,CR Belouizdad,19.05.2025 | ASO Chlef | CR Belouizdad | 1 | 1
+26,19.05.2025,MC Alger,ES Setif,19.05.2025 | MC Alger | ES Setif | 4 | 1
+26,18.05.2025,Constantine,Biskra,18.05.2025 | Constantine | Biskra | 3 | 0
+26,18.05.2025,Mostaganem,El Bayadh,18.05.2025 | Mostaganem | El Bayadh | 0 | 0
+26,17.05.2025,Paradou,USM Alger,17.05.2025 | Paradou | USM Alger | 3 | 1
+26,17.05.2025,Kabylie,Saoura,17.05.2025 | Kabylie | Saoura | 1 | 2
+26,16.05.2025,Olympique Akbou,Khenchela,16.05.2025 | Olympique Akbou | Khenchela | 2 | 1
+26,16.05.2025,Oran,Magra,16.05.2025 | Oran | Magra | 2 | 1
+21,15.05.2025,ES Setif,Constantine,15.05.2025 | ES Setif | Constantine | 0 | 1
+25,12.05.2025,Biskra,Paradou,12.05.2025 | Biskra | Paradou | 0 | 1
+25,12.05.2025,CR Belouizdad,MC Alger,12.05.2025 | CR Belouizdad | MC Alger | 1 | 1
+25,12.05.2025,El Bayadh,Kabylie,12.05.2025 | El Bayadh | Kabylie | 1 | 2
+25,11.05.2025,USM Alger,Constantine,11.05.2025 | USM Alger | Constantine | 2 | 1
+25,11.05.2025,ES Setif,Olympique Akbou,11.05.2025 | ES Setif | Olympique Akbou | 1 | 0
+25,10.05.2025,Saoura,Mostaganem,10.05.2025 | Saoura | Mostaganem | 0 | 0
+25,10.05.2025,Khenchela,Oran,10.05.2025 | Khenchela | Oran | 2 | 1
+25,10.05.2025,Magra,ASO Chlef,10.05.2025 | Magra | ASO Chlef | 2 | 0
+21,30.04.2025,USM Alger,ASO Chlef,30.04.2025 | USM Alger | ASO Chlef | 1 | 2
+24,26.04.2025,Kabylie,CR Belouizdad,26.04.2025 | Kabylie | CR Belouizdad | 3 | 2
+24,26.04.2025,Saoura,USM Alger,26.04.2025 | Saoura | USM Alger | 2 | 1
+24,26.04.2025,MC Alger,El Bayadh,26.04.2025 | MC Alger | El Bayadh | 0 | 0
+24,26.04.2025,Mostaganem,Magra,26.04.2025 | Mostaganem | Magra | 2 | 1
+24,25.04.2025,Oran,Olympique Akbou,25.04.2025 | Oran | Olympique Akbou | 1 | 0
+24,25.04.2025,ASO Chlef,Biskra,25.04.2025 | ASO Chlef | Biskra | 1 | 1
+24,24.04.2025,Paradou,ES Setif,24.04.2025 | Paradou | ES Setif | 0 | 0
+23,19.04.2025,USM Alger,Kabylie,19.04.2025 | USM Alger | Kabylie | 0 | 1
+23,19.04.2025,CR Belouizdad,Mostaganem,19.04.2025 | CR Belouizdad | Mostaganem | 3 | 2
+23,19.04.2025,Biskra,MC Alger,19.04.2025 | Biskra | MC Alger | 0 | 1
+23,19.04.2025,El Bayadh,ASO Chlef,19.04.2025 | El Bayadh | ASO Chlef | 2 | 1
+23,18.04.2025,ES Setif,Oran,18.04.2025 | ES Setif | Oran | 1 | 0
+23,18.04.2025,Khenchela,Paradou,18.04.2025 | Khenchela | Paradou | 2 | 2
+23,18.04.2025,Magra,Saoura,18.04.2025 | Magra | Saoura | 2 | 0
+21,15.04.2025,Olympique Akbou,MC Alger,15.04.2025 | Olympique Akbou | MC Alger | 1 | 0
+22,12.04.2025,Kabylie,Biskra,12.04.2025 | Kabylie | Biskra | 0 | 0
+22,12.04.2025,Magra,Khenchela,12.04.2025 | Magra | Khenchela | 2 | 0
+22,11.04.2025,Paradou,El Bayadh,11.04.2025 | Paradou | El Bayadh | 0 | 0
+22,11.04.2025,ASO Chlef,ES Setif,11.04.2025 | ASO Chlef | ES Setif | 2 | 0 | 1
+22,10.04.2025,Mostaganem,Olympique Akbou,10.04.2025 | Mostaganem | Olympique Akbou | 1 | 1
+22,10.04.2025,Saoura,CR Belouizdad,10.04.2025 | Saoura | CR Belouizdad | 1 | 3
+21,05.04.2025,CR Belouizdad,Magra,05.04.2025 | CR Belouizdad | Magra | 4 | 0
+21,05.04.2025,El Bayadh,Saoura,05.04.2025 | El Bayadh | Saoura | 1 | 0
+21,04.04.2025,Oran,Paradou,04.04.2025 | Oran | Paradou | 2 | 0
+21,04.04.2025,Biskra,Mostaganem,04.04.2025 | Biskra | Mostaganem | 0 | 0
+21,04.04.2025,Khenchela,Kabylie,04.04.2025 | Khenchela | Kabylie | 0 | 1
+20,16.03.2025,CR Belouizdad,USM Alger,16.03.2025 | CR Belouizdad | USM Alger | 1 | 1
+20,16.03.2025,Magra,El Bayadh,16.03.2025 | Magra | El Bayadh | 0 | 0
+20,15.03.2025,MC Alger,Khenchela,15.03.2025 | MC Alger | Khenchela | 2 | 2
+20,15.03.2025,ASO Chlef,Olympique Akbou,15.03.2025 | ASO Chlef | Olympique Akbou | 0 | 0
+20,14.03.2025,Kabylie,Oran,14.03.2025 | Kabylie | Oran | 2 | 1
+20,14.03.2025,Mostaganem,ES Setif,14.03.2025 | Mostaganem | ES Setif | 1 | 0
+20,14.03.2025,Paradou,Constantine,14.03.2025 | Paradou | Constantine | 2 | 0
+20,14.03.2025,Saoura,Biskra,14.03.2025 | Saoura | Biskra | 2 | 0
+19,08.03.2025,Constantine,Kabylie,08.03.2025 | Constantine | Kabylie | 1 | 1
+19,07.03.2025,Biskra,Magra,07.03.2025 | Biskra | Magra | 1 | 0
+19,07.03.2025,ES Setif,Saoura,07.03.2025 | ES Setif | Saoura | 1 | 0
+19,07.03.2025,Khenchela,ASO Chlef,07.03.2025 | Khenchela | ASO Chlef | 3 | 2
+19,06.03.2025,Olympique Akbou,Paradou,06.03.2025 | Olympique Akbou | Paradou | 1 | 2
+19,06.03.2025,Oran,MC Alger,06.03.2025 | Oran | MC Alger | 0 | 2
+19,06.03.2025,USM Alger,Mostaganem,06.03.2025 | USM Alger | Mostaganem | 1 | 0
+19,06.03.2025,El Bayadh,CR Belouizdad,06.03.2025 | El Bayadh | CR Belouizdad | 0 | 0
+18,28.02.2025,MC Alger,Constantine,28.02.2025 | MC Alger | Constantine | 2 | 1
+18,28.02.2025,Kabylie,Paradou,28.02.2025 | Kabylie | Paradou | 2 | 1
+18,27.02.2025,Saoura,Olympique Akbou,27.02.2025 | Saoura | Olympique Akbou | 2 | 1
+18,27.02.2025,El Bayadh,USM Alger,27.02.2025 | El Bayadh | USM Alger | 2 | 1
+18,26.02.2025,CR Belouizdad,Biskra,26.02.2025 | CR Belouizdad | Biskra | 2 | 0
+18,26.02.2025,Magra,ES Setif,26.02.2025 | Magra | ES Setif | 0 | 0
+18,25.02.2025,Mostaganem,Khenchela,25.02.2025 | Mostaganem | Khenchela | 2 | 0
+18,25.02.2025,ASO Chlef,Oran,25.02.2025 | ASO Chlef | Oran | 1 | 0
+17,23.02.2025,Paradou,MC Alger,23.02.2025 | Paradou | MC Alger | 1 | 3
+17,20.02.2025,ES Setif,CR Belouizdad,20.02.2025 | ES Setif | CR Belouizdad | 1 | 0
+17,19.02.2025,Biskra,El Bayadh,19.02.2025 | Biskra | El Bayadh | 0 | 0
+17,19.02.2025,Oran,Mostaganem,19.02.2025 | Oran | Mostaganem | 1 | 0
+17,19.02.2025,Olympique Akbou,Kabylie,19.02.2025 | Olympique Akbou | Kabylie | 0 | 0
+17,18.02.2025,USM Alger,Magra,18.02.2025 | USM Alger | Magra | 2 | 0
+17,18.02.2025,Constantine,ASO Chlef,18.02.2025 | Constantine | ASO Chlef | 2 | 2
+17,18.02.2025,Khenchela,Saoura,18.02.2025 | Khenchela | Saoura | 1 | 3
+16,14.02.2025,Biskra,USM Alger,14.02.2025 | Biskra | USM Alger | 0 | 0
+16,14.02.2025,Magra,Olympique Akbou,14.02.2025 | Magra | Olympique Akbou | 1 | 1
+16,13.02.2025,MC Alger,Kabylie,13.02.2025 | MC Alger | Kabylie | 3 | 2
+16,13.02.2025,Mostaganem,Constantine,13.02.2025 | Mostaganem | Constantine | 0 | 0
+16,12.02.2025,CR Belouizdad,Khenchela,12.02.2025 | CR Belouizdad | Khenchela | 3 | 0
+16,12.02.2025,Saoura,Oran,12.02.2025 | Saoura | Oran | 2 | 2 | 0
+16,11.02.2025,ASO Chlef,Paradou,11.02.2025 | ASO Chlef | Paradou | 2 | 0
+16,11.02.2025,El Bayadh,ES Setif,11.02.2025 | El Bayadh | ES Setif | 1 | 0
+13,05.02.2025,USM Alger,Khenchela,05.02.2025 | USM Alger | Khenchela | 3 | 0
+14,03.02.2025,Oran,CR Belouizdad,03.02.2025 | Oran | CR Belouizdad | 1 | 2
+13,02.02.2025,Mostaganem,MC Alger,02.02.2025 | Mostaganem | MC Alger | 1 | 1
+12,01.02.2025,Olympique Akbou,USM Alger,01.02.2025 | Olympique Akbou | USM Alger | 0 | 0
+13,30.01.2025,CR Belouizdad,Constantine,30.01.2025 | CR Belouizdad | Constantine | 0 | 2
+12,29.01.2025,MC Alger,Saoura,29.01.2025 | MC Alger | Saoura | 1 | 0
+11,28.01.2025,USM Alger,Paradou,28.01.2025 | USM Alger | Paradou | 1 | 1
+12,25.01.2025,Paradou,CR Belouizdad,25.01.2025 | Paradou | CR Belouizdad | 1 | 2
+12,25.01.2025,Constantine,El Bayadh,25.01.2025 | Constantine | El Bayadh | 0 | 1
+7,24.01.2025,USM Alger,MC Alger,24.01.2025 | USM Alger | MC Alger | 0 | 3
+9,21.01.2025,CR Belouizdad,Kabylie,21.01.2025 | CR Belouizdad | Kabylie | 1 | 1
+10,01.01.2025,Paradou,Biskra,01.01.2025 | Paradou | Biskra | 2 | 1
+15,28.12.2024,ASO Chlef,Kabylie,28.12.2024 | ASO Chlef | Kabylie | 1 | 0
+15,28.12.2024,El Bayadh,Khenchela,28.12.2024 | El Bayadh | Khenchela | 1 | 2
+15,27.12.2024,Biskra,ES Setif,27.12.2024 | Biskra | ES Setif | 0 | 0
+15,27.12.2024,CR Belouizdad,Olympique Akbou,27.12.2024 | CR Belouizdad | Olympique Akbou | 1 | 0
+15,27.12.2024,Saoura,Constantine,27.12.2024 | Saoura | Constantine | 2 | 0
+15,26.12.2024,USM Alger,Oran,26.12.2024 | USM Alger | Oran | 3 | 0
+15,26.12.2024,Mostaganem,Paradou,26.12.2024 | Mostaganem | Paradou | 0 | 2
+15,26.12.2024,Magra,MC Alger,26.12.2024 | Magra | MC Alger | 1 | 2
+14,21.12.2024,ES Setif,USM Alger,21.12.2024 | ES Setif | USM Alger | 1 | 1
+14,21.12.2024,Kabylie,Mostaganem,21.12.2024 | Kabylie | Mostaganem | 2 | 1
+14,21.12.2024,Constantine,Magra,21.12.2024 | Constantine | Magra | 0 | 0
+14,21.12.2024,Paradou,Saoura,21.12.2024 | Paradou | Saoura | 2 | 0
+14,21.12.2024,Olympique Akbou,El Bayadh,21.12.2024 | Olympique Akbou | El Bayadh | 0 | 1
+14,20.12.2024,MC Alger,ASO Chlef,20.12.2024 | MC Alger | ASO Chlef | 0 | 0
+14,20.12.2024,Khenchela,Biskra,20.12.2024 | Khenchela | Biskra | 0 | 0
+9,17.12.2024,ES Setif,Paradou,17.12.2024 | ES Setif | Paradou | 1 | 2
+10,17.12.2024,Kabylie,El Bayadh,17.12.2024 | Kabylie | El Bayadh | 3 | 0
+7,17.12.2024,CR Belouizdad,Saoura,17.12.2024 | CR Belouizdad | Saoura | 3 | 0
+13,14.12.2024,Biskra,Olympique Akbou,14.12.2024 | Biskra | Olympique Akbou | 0 | 1
+13,13.12.2024,ES Setif,Kabylie,13.12.2024 | ES Setif | Kabylie | 2 | 2
+13,13.12.2024,Saoura,ASO Chlef,13.12.2024 | Saoura | ASO Chlef | 1 | 1
+13,13.12.2024,El Bayadh,Oran,13.12.2024 | El Bayadh | Oran | 1 | 0
+13,13.12.2024,Magra,Paradou,13.12.2024 | Magra | Paradou | 1 | 1
+12,08.12.2024,Oran,Biskra,08.12.2024 | Oran | Biskra | 1 | 0
+12,08.12.2024,Kabylie,Magra,08.12.2024 | Kabylie | Magra | 2 | 1
+12,07.12.2024,ASO Chlef,Mostaganem,07.12.2024 | ASO Chlef | Mostaganem | 2 | 0
+12,07.12.2024,Khenchela,ES Setif,07.12.2024 | Khenchela | ES Setif | 2 | 3
+11,02.12.2024,Biskra,Constantine,02.12.2024 | Biskra | Constantine | 1 | 1
+11,02.12.2024,Saoura,Kabylie,02.12.2024 | Saoura | Kabylie | 1 | 1
+11,01.12.2024,CR Belouizdad,ASO Chlef,01.12.2024 | CR Belouizdad | ASO Chlef | 2 | 0
+11,01.12.2024,ES Setif,MC Alger,01.12.2024 | ES Setif | MC Alger | 0 | 0
+11,30.11.2024,El Bayadh,Mostaganem,30.11.2024 | El Bayadh | Mostaganem | 1 | 1
+11,30.11.2024,Khenchela,Olympique Akbou,30.11.2024 | Khenchela | Olympique Akbou | 1 | 0
+11,30.11.2024,Magra,Oran,30.11.2024 | Magra | Oran | 2 | 1
+10,23.11.2024,Mostaganem,Saoura,23.11.2024 | Mostaganem | Saoura | 1 | 1
+10,23.11.2024,ASO Chlef,Magra,23.11.2024 | ASO Chlef | Magra | 2 | 2
+10,23.11.2024,Olympique Akbou,ES Setif,23.11.2024 | Olympique Akbou | ES Setif | 0 | 1
+10,22.11.2024,Oran,Khenchela,22.11.2024 | Oran | Khenchela | 0 | 0
+10,21.11.2024,Constantine,USM Alger,21.11.2024 | Constantine | USM Alger | 1 | 0
+10,20.11.2024,MC Alger,CR Belouizdad,20.11.2024 | MC Alger | CR Belouizdad | 1 | 3
+9,16.11.2024,USM Alger,Saoura,16.11.2024 | USM Alger | Saoura | 2 | 0
+9,16.11.2024,Biskra,ASO Chlef,16.11.2024 | Biskra | ASO Chlef | 1 | 2
+9,16.11.2024,Magra,Mostaganem,16.11.2024 | Magra | Mostaganem | 1 | 0
+9,15.11.2024,El Bayadh,MC Alger,15.11.2024 | El Bayadh | MC Alger | 0 | 1
+9,15.11.2024,Khenchela,Constantine,15.11.2024 | Khenchela | Constantine | 1 | 0
+9,15.11.2024,Olympique Akbou,Oran,15.11.2024 | Olympique Akbou | Oran | 2 | 3 | 1
+8,09.11.2024,Mostaganem,CR Belouizdad,09.11.2024 | Mostaganem | CR Belouizdad | 0 | 2
+8,09.11.2024,MC Alger,Biskra,09.11.2024 | MC Alger | Biskra | 0 | 0
+8,09.11.2024,Kabylie,USM Alger,09.11.2024 | Kabylie | USM Alger | 0 | 0
+8,09.11.2024,Saoura,Magra,09.11.2024 | Saoura | Magra | 1 | 0
+8,08.11.2024,Constantine,Olympique Akbou,08.11.2024 | Constantine | Olympique Akbou | 2 | 1
+8,08.11.2024,Paradou,Khenchela,08.11.2024 | Paradou | Khenchela | 4 | 0
+8,08.11.2024,ASO Chlef,El Bayadh,08.11.2024 | ASO Chlef | El Bayadh | 2 | 0
+8,07.11.2024,Oran,ES Setif,07.11.2024 | Oran | ES Setif | 1 | 0
+7,03.11.2024,Olympique Akbou,Mostaganem,03.11.2024 | Olympique Akbou | Mostaganem | 1 | 2
+7,03.11.2024,Biskra,Kabylie,03.11.2024 | Biskra | Kabylie | 0 | 1
+7,02.11.2024,ES Setif,ASO Chlef,02.11.2024 | ES Setif | ASO Chlef | 1 | 0
+7,02.11.2024,Oran,Constantine,02.11.2024 | Oran | Constantine | 1 | 0
+7,02.11.2024,El Bayadh,Paradou,02.11.2024 | El Bayadh | Paradou | 1 | 1
+7,02.11.2024,Khenchela,Magra,02.11.2024 | Khenchela | Magra | 1 | 0
+6,26.10.2024,Mostaganem,Biskra,26.10.2024 | Mostaganem | Biskra | 1 | 0
+6,26.10.2024,Kabylie,Khenchela,26.10.2024 | Kabylie | Khenchela | 1 | 0
+6,26.10.2024,ASO Chlef,USM Alger,26.10.2024 | ASO Chlef | USM Alger | 0 | 0
+6,25.10.2024,Paradou,Oran,25.10.2024 | Paradou | Oran | 2 | 2
+6,25.10.2024,Constantine,ES Setif,25.10.2024 | Constantine | ES Setif | 2 | 1
+6,25.10.2024,Saoura,El Bayadh,25.10.2024 | Saoura | El Bayadh | 1 | 0
+6,25.10.2024,Magra,CR Belouizdad,25.10.2024 | Magra | CR Belouizdad | 1 | 0
+6,24.10.2024,MC Alger,Olympique Akbou,24.10.2024 | MC Alger | Olympique Akbou | 0 | 0
+4,22.10.2024,Mostaganem,USM Alger,22.10.2024 | Mostaganem | USM Alger | 0 | 1
+4,22.10.2024,ASO Chlef,Khenchela,22.10.2024 | ASO Chlef | Khenchela | 1 | 1
+5,19.10.2024,Oran,Kabylie,19.10.2024 | Oran | Kabylie | 2 | 0
+5,19.10.2024,Biskra,Saoura,19.10.2024 | Biskra | Saoura | 2 | 1
+5,19.10.2024,Constantine,Paradou,19.10.2024 | Constantine | Paradou | 2 | 1
+5,19.10.2024,El Bayadh,Magra,19.10.2024 | El Bayadh | Magra | 4 | 0
+5,18.10.2024,USM Alger,CR Belouizdad,18.10.2024 | USM Alger | CR Belouizdad | 0 | 0
+5,18.10.2024,ES Setif,Mostaganem,18.10.2024 | ES Setif | Mostaganem | 1 | 0
+5,18.10.2024,Khenchela,MC Alger,18.10.2024 | Khenchela | MC Alger | 0 | 1
+5,18.10.2024,Olympique Akbou,ASO Chlef,18.10.2024 | Olympique Akbou | ASO Chlef | 0 | 0
+4,12.10.2024,CR Belouizdad,El Bayadh,12.10.2024 | CR Belouizdad | El Bayadh | 2 | 3
+4,12.10.2024,Kabylie,Constantine,12.10.2024 | Kabylie | Constantine | 2 | 3
+4,12.10.2024,Magra,Biskra,12.10.2024 | Magra | Biskra | 2 | 2
+4,11.10.2024,MC Alger,Oran,11.10.2024 | MC Alger | Oran | 1 | 0
+4,11.10.2024,Paradou,Olympique Akbou,11.10.2024 | Paradou | Olympique Akbou | 1 | 3
+4,11.10.2024,Saoura,ES Setif,11.10.2024 | Saoura | ES Setif | 3 | 2
+3,06.10.2024,USM Alger,El Bayadh,06.10.2024 | USM Alger | El Bayadh | 1 | 0
+3,06.10.2024,Biskra,CR Belouizdad,06.10.2024 | Biskra | CR Belouizdad | 0 | 0
+3,06.10.2024,Constantine,MC Alger,06.10.2024 | Constantine | MC Alger | 1 | 1
+3,06.10.2024,Khenchela,Mostaganem,06.10.2024 | Khenchela | Mostaganem | 2 | 0
+3,06.10.2024,Paradou,Kabylie,06.10.2024 | Paradou | Kabylie | 0 | 3
+3,04.10.2024,Oran,ASO Chlef,04.10.2024 | Oran | ASO Chlef | 0 | 0
+3,04.10.2024,ES Setif,Magra,04.10.2024 | ES Setif | Magra | 0 | 0
+3,04.10.2024,Olympique Akbou,Saoura,04.10.2024 | Olympique Akbou | Saoura | 2 | 1
+1,02.10.2024,USM Alger,Biskra,02.10.2024 | USM Alger | Biskra | 2 | 1
+1,02.10.2024,Constantine,Mostaganem,02.10.2024 | Constantine | Mostaganem | 0 | 0
+1,02.10.2024,Khenchela,CR Belouizdad,02.10.2024 | Khenchela | CR Belouizdad | 0 | 0
+1,01.10.2024,Kabylie,MC Alger,01.10.2024 | Kabylie | MC Alger | 1 | 2
+2,28.09.2024,Mostaganem,Oran,28.09.2024 | Mostaganem | Oran | 2 | 1
+2,28.09.2024,Magra,USM Alger,28.09.2024 | Magra | USM Alger | 0 | 0
+2,28.09.2024,Saoura,Khenchela,28.09.2024 | Saoura | Khenchela | 1 | 1
+2,27.09.2024,ASO Chlef,Constantine,27.09.2024 | ASO Chlef | Constantine | 0 | 0
+2,27.09.2024,Kabylie,Olympique Akbou,27.09.2024 | Kabylie | Olympique Akbou | 2 | 1
+2,27.09.2024,CR Belouizdad,ES Setif,27.09.2024 | CR Belouizdad | ES Setif | 0 | 0
+2,27.09.2024,El Bayadh,Biskra,27.09.2024 | El Bayadh | Biskra | 0 | 1
+2,27.09.2024,MC Alger,Paradou,27.09.2024 | MC Alger | Paradou | 1 | 1
+1,24.09.2024,Oran,Saoura,24.09.2024 | Oran | Saoura | 2 | 0
+1,21.09.2024,Paradou,ASO Chlef,21.09.2024 | Paradou | ASO Chlef | 2 | 0
+1,20.09.2024,Olympique Akbou,Magra,20.09.2024 | Olympique Akbou | Magra | 1 | 0
+1,19.09.2024,ES Setif,El Bayadh,19.09.2024 | ES Setif | El Bayadh | 1 | 0

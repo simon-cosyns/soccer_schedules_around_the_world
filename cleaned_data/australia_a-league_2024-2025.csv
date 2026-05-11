@@ -1,0 +1,170 @@
+round,date,team_home,team_away,full_text
+29,04.05.2025,Melbourne Victory,Newcastle Jets,04.05.2025 | Melbourne Victory | Newcastle Jets | 1 | 1
+29,04.05.2025,Wellington Phoenix,Perth Glory,04.05.2025 | Wellington Phoenix | Perth Glory | 0 | 2
+29,03.05.2025,Macarthur FC,WS Wanderers,03.05.2025 | Macarthur FC | WS Wanderers | 1 | 3
+29,03.05.2025,Western United,Auckland FC,03.05.2025 | Western United | Auckland FC | 4 | 2
+29,03.05.2025,Melbourne City,Sydney FC,03.05.2025 | Melbourne City | Sydney FC | 5 | 1
+29,02.05.2025,Central Coast Mariners,Brisbane Roar,02.05.2025 | Central Coast Mariners | Brisbane Roar | 1 | 2
+28,27.04.2025,Western United,Sydney FC,27.04.2025 | Western United | Sydney FC | 1 | 0
+28,27.04.2025,Auckland FC,Perth Glory,27.04.2025 | Auckland FC | Perth Glory | 1 | 0
+28,26.04.2025,Melbourne City,Adelaide United,26.04.2025 | Melbourne City | Adelaide United | 0 | 0
+28,26.04.2025,Newcastle Jets,WS Wanderers,26.04.2025 | Newcastle Jets | WS Wanderers | 0 | 1
+28,26.04.2025,Brisbane Roar,Wellington Phoenix,26.04.2025 | Brisbane Roar | Wellington Phoenix | 1 | 0
+28,25.04.2025,Macarthur FC,Melbourne Victory,25.04.2025 | Macarthur FC | Melbourne Victory | 1 | 2
+16,22.04.2025,Brisbane Roar,Adelaide United,22.04.2025 | Brisbane Roar | Adelaide United | 1 | 1
+27,20.04.2025,Central Coast Mariners,Macarthur FC,20.04.2025 | Central Coast Mariners | Macarthur FC | 2 | 2
+27,20.04.2025,Sydney FC,Newcastle Jets,20.04.2025 | Sydney FC | Newcastle Jets | 3 | 2
+27,19.04.2025,WS Wanderers,Melbourne City,19.04.2025 | WS Wanderers | Melbourne City | 2 | 2
+27,19.04.2025,Melbourne Victory,Auckland FC,19.04.2025 | Melbourne Victory | Auckland FC | 0 | 2
+27,18.04.2025,Adelaide United,Wellington Phoenix,18.04.2025 | Adelaide United | Wellington Phoenix | 3 | 2
+27,17.04.2025,Brisbane Roar,Western United,17.04.2025 | Brisbane Roar | Western United | 2 | 1
+26,13.04.2025,WS Wanderers,Western United,13.04.2025 | WS Wanderers | Western United | 2 | 0
+26,12.04.2025,Perth Glory,Adelaide United,12.04.2025 | Perth Glory | Adelaide United | 4 | 1
+26,12.04.2025,Newcastle Jets,Central Coast Mariners,12.04.2025 | Newcastle Jets | Central Coast Mariners | 6 | 0
+26,12.04.2025,Sydney FC,Auckland FC,12.04.2025 | Sydney FC | Auckland FC | 2 | 2
+26,12.04.2025,Wellington Phoenix,Melbourne Victory,12.04.2025 | Wellington Phoenix | Melbourne Victory | 2 | 3
+26,11.04.2025,Melbourne City,Brisbane Roar,11.04.2025 | Melbourne City | Brisbane Roar | 3 | 2
+25,06.04.2025,Newcastle Jets,Wellington Phoenix,06.04.2025 | Newcastle Jets | Wellington Phoenix | 1 | 2
+25,05.04.2025,Adelaide United,Sydney FC,05.04.2025 | Adelaide United | Sydney FC | 2 | 3
+25,05.04.2025,Western United,Perth Glory,05.04.2025 | Western United | Perth Glory | 3 | 1
+25,05.04.2025,Melbourne City,Central Coast Mariners,05.04.2025 | Melbourne City | Central Coast Mariners | 1 | 0
+25,05.04.2025,Auckland FC,WS Wanderers,05.04.2025 | Auckland FC | WS Wanderers | 1 | 1
+25,04.04.2025,Brisbane Roar,Macarthur FC,04.04.2025 | Brisbane Roar | Macarthur FC | 1 | 5
+24,30.03.2025,Brisbane Roar,Auckland FC,30.03.2025 | Brisbane Roar | Auckland FC | 0 | 2
+24,30.03.2025,Central Coast Mariners,Perth Glory,30.03.2025 | Central Coast Mariners | Perth Glory | 3 | 1
+24,29.03.2025,Melbourne Victory,Adelaide United,29.03.2025 | Melbourne Victory | Adelaide United | 5 | 3
+24,29.03.2025,Sydney FC,Melbourne City,29.03.2025 | Sydney FC | Melbourne City | 2 | 3
+24,29.03.2025,Wellington Phoenix,WS Wanderers,29.03.2025 | Wellington Phoenix | WS Wanderers | 2 | 2
+24,28.03.2025,Macarthur FC,Newcastle Jets,28.03.2025 | Macarthur FC | Newcastle Jets | 3 | 3
+23,16.03.2025,Sydney FC,Wellington Phoenix,16.03.2025 | Sydney FC | Wellington Phoenix | 1 | 1
+23,16.03.2025,Newcastle Jets,Western United,16.03.2025 | Newcastle Jets | Western United | 2 | 6
+23,16.03.2025,Auckland FC,Central Coast Mariners,16.03.2025 | Auckland FC | Central Coast Mariners | 2 | 2
+23,15.03.2025,Perth Glory,Brisbane Roar,15.03.2025 | Perth Glory | Brisbane Roar | 1 | 3
+23,15.03.2025,WS Wanderers,Melbourne Victory,15.03.2025 | WS Wanderers | Melbourne Victory | 4 | 2
+23,14.03.2025,Adelaide United,Macarthur FC,14.03.2025 | Adelaide United | Macarthur FC | 4 | 5
+14,12.03.2025,Melbourne City,Newcastle Jets,12.03.2025 | Melbourne City | Newcastle Jets | 0 | 1
+22,09.03.2025,Newcastle Jets,Auckland FC,09.03.2025 | Newcastle Jets | Auckland FC | 1 | 1
+22,08.03.2025,Melbourne Victory,Central Coast Mariners,08.03.2025 | Melbourne Victory | Central Coast Mariners | 3 | 0
+22,08.03.2025,Western United,Wellington Phoenix,08.03.2025 | Western United | Wellington Phoenix | 4 | 1
+22,08.03.2025,Adelaide United,Brisbane Roar,08.03.2025 | Adelaide United | Brisbane Roar | 1 | 1
+22,07.03.2025,Melbourne City,Macarthur FC,07.03.2025 | Melbourne City | Macarthur FC | 2 | 0
+21,02.03.2025,WS Wanderers,Perth Glory,02.03.2025 | WS Wanderers | Perth Glory | 4 | 1
+21,01.03.2025,Macarthur FC,Sydney FC,01.03.2025 | Macarthur FC | Sydney FC | 0 | 2
+21,01.03.2025,Brisbane Roar,Melbourne Victory,01.03.2025 | Brisbane Roar | Melbourne Victory | 1 | 1
+21,01.03.2025,Auckland FC,Adelaide United,01.03.2025 | Auckland FC | Adelaide United | 4 | 4
+21,28.02.2025,Central Coast Mariners,Western United,28.02.2025 | Central Coast Mariners | Western United | 1 | 3
+21,28.02.2025,Wellington Phoenix,Melbourne City,28.02.2025 | Wellington Phoenix | Melbourne City | 0 | 1
+20,23.02.2025,Western United,Adelaide United,23.02.2025 | Western United | Adelaide United | 3 | 0
+20,22.02.2025,Perth Glory,Sydney FC,22.02.2025 | Perth Glory | Sydney FC | 0 | 0
+20,22.02.2025,Melbourne Victory,Melbourne City,22.02.2025 | Melbourne Victory | Melbourne City | 2 | 2
+20,22.02.2025,Central Coast Mariners,WS Wanderers,22.02.2025 | Central Coast Mariners | WS Wanderers | 0 | 4
+20,22.02.2025,Auckland FC,Wellington Phoenix,22.02.2025 | Auckland FC | Wellington Phoenix | 6 | 1
+20,21.02.2025,Newcastle Jets,Brisbane Roar,21.02.2025 | Newcastle Jets | Brisbane Roar | 3 | 1
+19,16.02.2025,WS Wanderers,Macarthur FC,16.02.2025 | WS Wanderers | Macarthur FC | 2 | 1
+19,15.02.2025,Adelaide United,Newcastle Jets,15.02.2025 | Adelaide United | Newcastle Jets | 1 | 2
+19,15.02.2025,Western United,Auckland FC,15.02.2025 | Western United | Auckland FC | 0 | 2
+19,15.02.2025,Melbourne City,Perth Glory,15.02.2025 | Melbourne City | Perth Glory | 1 | 0
+19,14.02.2025,Melbourne Victory,Wellington Phoenix,14.02.2025 | Melbourne Victory | Wellington Phoenix | 1 | 0
+18,09.02.2025,Macarthur FC,Western United,09.02.2025 | Macarthur FC | Western United | 2 | 2
+18,08.02.2025,Sydney FC,WS Wanderers,08.02.2025 | Sydney FC | WS Wanderers | 3 | 3
+18,08.02.2025,Newcastle Jets,Melbourne Victory,08.02.2025 | Newcastle Jets | Melbourne Victory | 3 | 0
+18,07.02.2025,Perth Glory,Central Coast Mariners,07.02.2025 | Perth Glory | Central Coast Mariners | 1 | 1
+18,07.02.2025,Adelaide United,Melbourne City,07.02.2025 | Adelaide United | Melbourne City | 1 | 0
+18,06.02.2025,Wellington Phoenix,Brisbane Roar,06.02.2025 | Wellington Phoenix | Brisbane Roar | 1 | 1
+17,01.02.2025,Perth Glory,Melbourne Victory,01.02.2025 | Perth Glory | Melbourne Victory | 0 | 2
+17,01.02.2025,Central Coast Mariners,Newcastle Jets,01.02.2025 | Central Coast Mariners | Newcastle Jets | 2 | 2
+17,01.02.2025,Sydney FC,Adelaide United,01.02.2025 | Sydney FC | Adelaide United | 4 | 1
+17,01.02.2025,Auckland FC,Macarthur FC,01.02.2025 | Auckland FC | Macarthur FC | 2 | 1
+17,31.01.2025,Brisbane Roar,WS Wanderers,31.01.2025 | Brisbane Roar | WS Wanderers | 0 | 1
+14,29.01.2025,Western United,Central Coast Mariners,29.01.2025 | Western United | Central Coast Mariners | 2 | 2
+16,26.01.2025,WS Wanderers,Auckland FC,26.01.2025 | WS Wanderers | Auckland FC | 0 | 1
+16,25.01.2025,Macarthur FC,Melbourne City,25.01.2025 | Macarthur FC | Melbourne City | 1 | 0
+16,25.01.2025,Newcastle Jets,Perth Glory,25.01.2025 | Newcastle Jets | Perth Glory | 2 | 2
+16,25.01.2025,Wellington Phoenix,Central Coast Mariners,25.01.2025 | Wellington Phoenix | Central Coast Mariners | 0 | 0
+16,24.01.2025,Melbourne Victory,Sydney FC,24.01.2025 | Melbourne Victory | Sydney FC | 2 | 0
+14,22.01.2025,Adelaide United,Auckland FC,22.01.2025 | Adelaide United | Auckland FC | 2 | 2
+15,20.01.2025,Macarthur FC,Wellington Phoenix,20.01.2025 | Macarthur FC | Wellington Phoenix | 1 | 2
+15,18.01.2025,Adelaide United,Melbourne Victory,18.01.2025 | Adelaide United | Melbourne Victory | 3 | 2
+15,18.01.2025,Sydney FC,Brisbane Roar,18.01.2025 | Sydney FC | Brisbane Roar | 3 | 4
+15,18.01.2025,Auckland FC,Melbourne City,18.01.2025 | Auckland FC | Melbourne City | 3 | 0
+15,17.01.2025,WS Wanderers,Central Coast Mariners,17.01.2025 | WS Wanderers | Central Coast Mariners | 1 | 3
+15,17.01.2025,Western United,Newcastle Jets,17.01.2025 | Western United | Newcastle Jets | 3 | 1
+14,15.01.2025,Wellington Phoenix,Sydney FC,15.01.2025 | Wellington Phoenix | Sydney FC | 0 | 0
+14,14.01.2025,Perth Glory,WS Wanderers,14.01.2025 | Perth Glory | WS Wanderers | 1 | 2
+13,12.01.2025,Newcastle Jets,Macarthur FC,12.01.2025 | Newcastle Jets | Macarthur FC | 1 | 3
+13,11.01.2025,Perth Glory,Auckland FC,11.01.2025 | Perth Glory | Auckland FC | 1 | 0
+13,11.01.2025,Sydney FC,Central Coast Mariners,11.01.2025 | Sydney FC | Central Coast Mariners | 4 | 1
+13,11.01.2025,Melbourne City,Brisbane Roar,11.01.2025 | Melbourne City | Brisbane Roar | 1 | 0
+13,11.01.2025,Wellington Phoenix,Adelaide United,11.01.2025 | Wellington Phoenix | Adelaide United | 1 | 2
+13,10.01.2025,Melbourne Victory,Western United,10.01.2025 | Melbourne Victory | Western United | 3 | 4
+11,08.01.2025,Sydney FC,Perth Glory,08.01.2025 | Sydney FC | Perth Glory | 3 | 0
+11,07.01.2025,Brisbane Roar,Newcastle Jets,07.01.2025 | Brisbane Roar | Newcastle Jets | 0 | 1
+17,07.01.2025,Melbourne City,Western United,07.01.2025 | Melbourne City | Western United | 2 | 0
+12,06.01.2025,Macarthur FC,Adelaide United,06.01.2025 | Macarthur FC | Adelaide United | 1 | 2
+12,04.01.2025,Melbourne Victory,WS Wanderers,04.01.2025 | Melbourne Victory | WS Wanderers | 2 | 2
+12,04.01.2025,Newcastle Jets,Sydney FC,04.01.2025 | Newcastle Jets | Sydney FC | 2 | 2
+12,03.01.2025,Perth Glory,Western United,03.01.2025 | Perth Glory | Western United | 2 | 3
+12,03.01.2025,Brisbane Roar,Central Coast Mariners,03.01.2025 | Brisbane Roar | Central Coast Mariners | 1 | 3
+12,03.01.2025,Melbourne City,Wellington Phoenix,03.01.2025 | Melbourne City | Wellington Phoenix | 2 | 0
+11,01.01.2025,WS Wanderers,Macarthur FC,01.01.2025 | WS Wanderers | Macarthur FC | 2 | 3
+11,01.01.2025,Auckland FC,Melbourne Victory,01.01.2025 | Auckland FC | Melbourne Victory | 0 | 0
+11,31.12.2024,Central Coast Mariners,Melbourne City,31.12.2024 | Central Coast Mariners | Melbourne City | 1 | 1
+10,29.12.2024,Western United,Brisbane Roar,29.12.2024 | Western United | Brisbane Roar | 1 | 0
+10,28.12.2024,Sydney FC,Melbourne Victory,28.12.2024 | Sydney FC | Melbourne Victory | 3 | 0
+10,28.12.2024,Central Coast Mariners,Auckland FC,28.12.2024 | Central Coast Mariners | Auckland FC | 1 | 4
+10,28.12.2024,Wellington Phoenix,Newcastle Jets,28.12.2024 | Wellington Phoenix | Newcastle Jets | 2 | 1
+10,27.12.2024,Perth Glory,Macarthur FC,27.12.2024 | Perth Glory | Macarthur FC | 0 | 3
+10,27.12.2024,Adelaide United,WS Wanderers,27.12.2024 | Adelaide United | WS Wanderers | 2 | 3
+9,23.12.2024,Macarthur FC,Central Coast Mariners,23.12.2024 | Macarthur FC | Central Coast Mariners | 1 | 1
+9,22.12.2024,WS Wanderers,Wellington Phoenix,22.12.2024 | WS Wanderers | Wellington Phoenix | 4 | 1
+9,21.12.2024,Melbourne Victory,Melbourne City,21.12.2024 | Melbourne Victory | Melbourne City | 1 | 1
+9,21.12.2024,Brisbane Roar,Perth Glory,21.12.2024 | Brisbane Roar | Perth Glory | 0 | 1
+9,21.12.2024,Auckland FC,Western United,21.12.2024 | Auckland FC | Western United | 0 | 4
+9,20.12.2024,Adelaide United,Sydney FC,20.12.2024 | Adelaide United | Sydney FC | 3 | 3
+8,15.12.2024,Melbourne City,Auckland FC,15.12.2024 | Melbourne City | Auckland FC | 2 | 2
+8,14.12.2024,Perth Glory,Newcastle Jets,14.12.2024 | Perth Glory | Newcastle Jets | 0 | 4
+8,14.12.2024,WS Wanderers,Brisbane Roar,14.12.2024 | WS Wanderers | Brisbane Roar | 2 | 2
+8,14.12.2024,Sydney FC,Western United,14.12.2024 | Sydney FC | Western United | 3 | 4
+8,14.12.2024,Wellington Phoenix,Macarthur FC,14.12.2024 | Wellington Phoenix | Macarthur FC | 1 | 2
+8,13.12.2024,Central Coast Mariners,Adelaide United,13.12.2024 | Central Coast Mariners | Adelaide United | 0 | 4
+7,08.12.2024,Central Coast Mariners,Sydney FC,08.12.2024 | Central Coast Mariners | Sydney FC | 2 | 1
+7,08.12.2024,Melbourne Victory,Perth Glory,08.12.2024 | Melbourne Victory | Perth Glory | 2 | 0
+7,07.12.2024,Newcastle Jets,Adelaide United,07.12.2024 | Newcastle Jets | Adelaide United | 0 | 1
+7,07.12.2024,Western United,Macarthur FC,07.12.2024 | Western United | Macarthur FC | 0 | 0
+7,07.12.2024,Auckland FC,Wellington Phoenix,07.12.2024 | Auckland FC | Wellington Phoenix | 2 | 1
+7,06.12.2024,Brisbane Roar,Melbourne City,06.12.2024 | Brisbane Roar | Melbourne City | 1 | 4
+6,01.12.2024,Western United,Melbourne Victory,01.12.2024 | Western United | Melbourne Victory | 1 | 3
+6,30.11.2024,Macarthur FC,Brisbane Roar,30.11.2024 | Macarthur FC | Brisbane Roar | 4 | 4
+6,30.11.2024,Melbourne City,WS Wanderers,30.11.2024 | Melbourne City | WS Wanderers | 0 | 2
+6,30.11.2024,Auckland FC,Newcastle Jets,30.11.2024 | Auckland FC | Newcastle Jets | 2 | 0
+6,29.11.2024,Adelaide United,Perth Glory,29.11.2024 | Adelaide United | Perth Glory | 2 | 2
+5,24.11.2024,Macarthur FC,Auckland FC,24.11.2024 | Macarthur FC | Auckland FC | 0 | 1
+5,24.11.2024,Wellington Phoenix,Melbourne Victory,24.11.2024 | Wellington Phoenix | Melbourne Victory | 1 | 0
+5,23.11.2024,Sydney FC,WS Wanderers,23.11.2024 | Sydney FC | WS Wanderers | 4 | 2
+5,23.11.2024,Brisbane Roar,Adelaide United,23.11.2024 | Brisbane Roar | Adelaide United | 2 | 3
+5,22.11.2024,Newcastle Jets,Central Coast Mariners,22.11.2024 | Newcastle Jets | Central Coast Mariners | 1 | 2
+5,22.11.2024,Perth Glory,Western United,22.11.2024 | Perth Glory | Western United | 1 | 3
+4,10.11.2024,Perth Glory,Melbourne City,10.11.2024 | Perth Glory | Melbourne City | 0 | 5
+4,10.11.2024,Sydney FC,Macarthur FC,10.11.2024 | Sydney FC | Macarthur FC | 1 | 2
+4,10.11.2024,Central Coast Mariners,Wellington Phoenix,10.11.2024 | Central Coast Mariners | Wellington Phoenix | 0 | 3
+4,09.11.2024,Adelaide United,Western United,09.11.2024 | Adelaide United | Western United | 2 | 1
+4,09.11.2024,Melbourne Victory,Brisbane Roar,09.11.2024 | Melbourne Victory | Brisbane Roar | 2 | 0
+4,08.11.2024,WS Wanderers,Newcastle Jets,08.11.2024 | WS Wanderers | Newcastle Jets | 4 | 1
+3,04.11.2024,Western United,Melbourne City,04.11.2024 | Western United | Melbourne City | 0 | 1
+3,03.11.2024,Melbourne Victory,Macarthur FC,03.11.2024 | Melbourne Victory | Macarthur FC | 2 | 1
+3,02.11.2024,WS Wanderers,Adelaide United,02.11.2024 | WS Wanderers | Adelaide United | 3 | 4
+3,02.11.2024,Central Coast Mariners,Perth Glory,02.11.2024 | Central Coast Mariners | Perth Glory | 0 | 0
+3,02.11.2024,Wellington Phoenix,Auckland FC,02.11.2024 | Wellington Phoenix | Auckland FC | 0 | 2
+3,01.11.2024,Brisbane Roar,Sydney FC,01.11.2024 | Brisbane Roar | Sydney FC | 2 | 3
+2,27.10.2024,Western United,WS Wanderers,27.10.2024 | Western United | WS Wanderers | 1 | 1
+2,27.10.2024,Auckland FC,Sydney FC,27.10.2024 | Auckland FC | Sydney FC | 1 | 0
+2,26.10.2024,Perth Glory,Wellington Phoenix,26.10.2024 | Perth Glory | Wellington Phoenix | 0 | 2
+2,26.10.2024,Melbourne City,Melbourne Victory,26.10.2024 | Melbourne City | Melbourne Victory | 1 | 3
+2,26.10.2024,Adelaide United,Central Coast Mariners,26.10.2024 | Adelaide United | Central Coast Mariners | 1 | 1
+2,25.10.2024,Macarthur FC,Newcastle Jets,25.10.2024 | Macarthur FC | Newcastle Jets | 1 | 2
+1,20.10.2024,Macarthur FC,Perth Glory,20.10.2024 | Macarthur FC | Perth Glory | 6 | 1
+1,20.10.2024,Wellington Phoenix,Western United,20.10.2024 | Wellington Phoenix | Western United | 1 | 1
+1,19.10.2024,WS Wanderers,Sydney FC,19.10.2024 | WS Wanderers | Sydney FC | 1 | 2
+1,19.10.2024,Newcastle Jets,Melbourne City,19.10.2024 | Newcastle Jets | Melbourne City | 0 | 1
+1,19.10.2024,Auckland FC,Brisbane Roar,19.10.2024 | Auckland FC | Brisbane Roar | 2 | 0
+1,18.10.2024,Central Coast Mariners,Melbourne Victory,18.10.2024 | Central Coast Mariners | Melbourne Victory | 0 | 0

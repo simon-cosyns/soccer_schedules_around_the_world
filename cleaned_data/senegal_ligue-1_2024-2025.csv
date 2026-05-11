@@ -1,0 +1,241 @@
+round,date,team_home,team_away,full_text
+30,29.06.2025,ASC HLM,Jaraaf,29.06.2025 | ASC HLM | Jaraaf | 1 | 4
+30,29.06.2025,Generation F.,Pikine,29.06.2025 | Generation F. | Pikine | 4 | 0
+30,29.06.2025,Guediawaye,US Goree,29.06.2025 | Guediawaye | US Goree | 2 | 0
+30,29.06.2025,Jamono Fatick,Dakar SC,29.06.2025 | Jamono Fatick | Dakar SC | 4 | 0
+30,29.06.2025,Oslo Football Academy,AJEL,29.06.2025 | Oslo Football Academy | AJEL | 3 | 2
+30,29.06.2025,Ouakam,Casa,29.06.2025 | Ouakam | Casa | 1 | 1
+30,29.06.2025,Sonacos,Teungueth,29.06.2025 | Sonacos | Teungueth | 0 | 1
+30,29.06.2025,Wally Daan,Linguere,29.06.2025 | Wally Daan | Linguere | 1 | 1
+29,26.06.2025,Casa,Guediawaye,26.06.2025 | Casa | Guediawaye | 0 | 0
+29,26.06.2025,Dakar SC,Wally Daan,26.06.2025 | Dakar SC | Wally Daan | 1 | 1
+29,26.06.2025,Generation F.,Jamono Fatick,26.06.2025 | Generation F. | Jamono Fatick | 3 | 2
+29,26.06.2025,Jaraaf,Sonacos,26.06.2025 | Jaraaf | Sonacos | 2 | 0
+29,26.06.2025,Linguere,Oslo Football Academy,26.06.2025 | Linguere | Oslo Football Academy | 1 | 2
+29,26.06.2025,Pikine,ASC HLM,26.06.2025 | Pikine | ASC HLM | 0 | 0
+29,26.06.2025,Teungueth,Ouakam,26.06.2025 | Teungueth | Ouakam | 2 | 0
+29,26.06.2025,US Goree,AJEL,26.06.2025 | US Goree | AJEL | 2 | 1
+28,22.06.2025,ASC HLM,Jamono Fatick,22.06.2025 | ASC HLM | Jamono Fatick | 0 | 0
+28,22.06.2025,Casa,US Goree,22.06.2025 | Casa | US Goree | 0 | 0
+28,22.06.2025,Guediawaye,Teungueth,22.06.2025 | Guediawaye | Teungueth | 2 | 2
+28,22.06.2025,Sonacos,Pikine,22.06.2025 | Sonacos | Pikine | 2 | 1
+28,22.06.2025,Wally Daan,Generation F.,22.06.2025 | Wally Daan | Generation F. | 0 | 2
+28,21.06.2025,AJEL,Linguere,21.06.2025 | AJEL | Linguere | 1 | 0
+28,21.06.2025,Oslo Football Academy,Dakar SC,21.06.2025 | Oslo Football Academy | Dakar SC | 0 | 2
+28,21.06.2025,Ouakam,Jaraaf,21.06.2025 | Ouakam | Jaraaf | 1 | 1
+27,15.06.2025,ASC HLM,Wally Daan,15.06.2025 | ASC HLM | Wally Daan | 0 | 0
+27,15.06.2025,Jamono Fatick,Sonacos,15.06.2025 | Jamono Fatick | Sonacos | 2 | 1
+27,15.06.2025,Jaraaf,Guediawaye,15.06.2025 | Jaraaf | Guediawaye | 1 | 0
+27,15.06.2025,Pikine,Ouakam,15.06.2025 | Pikine | Ouakam | 1 | 1
+27,14.06.2025,Dakar SC,AJEL,14.06.2025 | Dakar SC | AJEL | 3 | 0
+27,14.06.2025,Generation F.,Oslo Football Academy,14.06.2025 | Generation F. | Oslo Football Academy | 0 | 1
+27,14.06.2025,Teungueth,Casa,14.06.2025 | Teungueth | Casa | 1 | 1
+27,14.06.2025,US Goree,Linguere,14.06.2025 | US Goree | Linguere | 0 | 1
+26,04.06.2025,Guediawaye,Pikine,04.06.2025 | Guediawaye | Pikine | 1 | 1
+26,01.06.2025,AJEL,Generation F.,01.06.2025 | AJEL | Generation F. | 1 | 1
+26,01.06.2025,ASC HLM,Oslo Football Academy,01.06.2025 | ASC HLM | Oslo Football Academy | 1 | 0
+26,01.06.2025,Casa,Jaraaf,01.06.2025 | Casa | Jaraaf | 1 | 0
+26,01.06.2025,Wally Daan,Sonacos,01.06.2025 | Wally Daan | Sonacos | 1 | 1
+26,31.05.2025,Linguere,Dakar SC,31.05.2025 | Linguere | Dakar SC | 1 | 1
+26,31.05.2025,Ouakam,Jamono Fatick,31.05.2025 | Ouakam | Jamono Fatick | 2 | 1
+26,31.05.2025,Teungueth,US Goree,31.05.2025 | Teungueth | US Goree | 0 | 1
+25,26.05.2025,Generation F.,Linguere,26.05.2025 | Generation F. | Linguere | 1 | 1
+25,26.05.2025,Ouakam,Wally Daan,26.05.2025 | Ouakam | Wally Daan | 1 | 0
+25,25.05.2025,AJEL,ASC HLM,25.05.2025 | AJEL | ASC HLM | 0 | 0
+25,25.05.2025,Jamono Fatick,Guediawaye,25.05.2025 | Jamono Fatick | Guediawaye | 2 | 2
+25,25.05.2025,Jaraaf,Teungueth,25.05.2025 | Jaraaf | Teungueth | 1 | 0
+25,25.05.2025,Pikine,Casa,25.05.2025 | Pikine | Casa | 2 | 0
+25,25.05.2025,Sonacos,Oslo Football Academy,25.05.2025 | Sonacos | Oslo Football Academy | 0 | 0
+25,25.05.2025,US Goree,Dakar SC,25.05.2025 | US Goree | Dakar SC | 0 | 2
+24,22.05.2025,Dakar SC,Generation F.,22.05.2025 | Dakar SC | Generation F. | 1 | 2
+24,22.05.2025,Guediawaye,Wally Daan,22.05.2025 | Guediawaye | Wally Daan | 0 | 0
+24,21.05.2025,Casa,Jamono Fatick,21.05.2025 | Casa | Jamono Fatick | 1 | 0
+24,21.05.2025,Jaraaf,US Goree,21.05.2025 | Jaraaf | US Goree | 0 | 1
+24,20.05.2025,AJEL,Sonacos,20.05.2025 | AJEL | Sonacos | 0 | 0
+24,20.05.2025,Linguere,ASC HLM,20.05.2025 | Linguere | ASC HLM | 1 | 1
+24,17.05.2025,Oslo Football Academy,Ouakam,17.05.2025 | Oslo Football Academy | Ouakam | 0 | 2
+24,17.05.2025,Teungueth,Pikine,17.05.2025 | Teungueth | Pikine | 0 | 1
+23,12.05.2025,Sonacos,Linguere,12.05.2025 | Sonacos | Linguere | 1 | 2
+23,11.05.2025,ASC HLM,Dakar SC,11.05.2025 | ASC HLM | Dakar SC | 2 | 2
+23,11.05.2025,Ouakam,AJEL,11.05.2025 | Ouakam | AJEL | 0 | 0
+23,11.05.2025,Pikine,Jaraaf,11.05.2025 | Pikine | Jaraaf | 0 | 0
+23,10.05.2025,Jamono Fatick,Teungueth,10.05.2025 | Jamono Fatick | Teungueth | 0 | 0
+23,10.05.2025,Oslo Football Academy,Guediawaye,10.05.2025 | Oslo Football Academy | Guediawaye | 0 | 1
+23,10.05.2025,US Goree,Generation F.,10.05.2025 | US Goree | Generation F. | 2 | 1
+23,10.05.2025,Wally Daan,Casa,10.05.2025 | Wally Daan | Casa | 0 | 1
+22,05.05.2025,Linguere,Ouakam,05.05.2025 | Linguere | Ouakam | 1 | 1
+22,04.05.2025,Casa,Oslo Football Academy,04.05.2025 | Casa | Oslo Football Academy | 0 | 0
+22,04.05.2025,AJEL,Guediawaye,04.05.2025 | AJEL | Guediawaye | 1 | 1
+22,04.05.2025,Jaraaf,Jamono Fatick,04.05.2025 | Jaraaf | Jamono Fatick | 1 | 1
+22,03.05.2025,Generation F.,ASC HLM,03.05.2025 | Generation F. | ASC HLM | 1 | 3
+22,03.05.2025,Pikine,US Goree,03.05.2025 | Pikine | US Goree | 0 | 0
+22,03.05.2025,Teungueth,Wally Daan,03.05.2025 | Teungueth | Wally Daan | 1 | 0
+22,02.05.2025,Dakar SC,Sonacos,02.05.2025 | Dakar SC | Sonacos | 0 | 2
+21,28.04.2025,AJEL,Casa,28.04.2025 | AJEL | Casa | 1 | 0
+21,28.04.2025,Jamono Fatick,Pikine,28.04.2025 | Jamono Fatick | Pikine | 0 | 2
+21,27.04.2025,Oslo Football Academy,Teungueth,27.04.2025 | Oslo Football Academy | Teungueth | 0 | 0
+21,27.04.2025,Ouakam,Dakar SC,27.04.2025 | Ouakam | Dakar SC | 0 | 1
+21,27.04.2025,Wally Daan,Jaraaf,27.04.2025 | Wally Daan | Jaraaf | 1 | 0
+21,26.04.2025,Guediawaye,Linguere,26.04.2025 | Guediawaye | Linguere | 1 | 2
+21,26.04.2025,Sonacos,Generation F.,26.04.2025 | Sonacos | Generation F. | 0 | 1
+21,26.04.2025,US Goree,ASC HLM,26.04.2025 | US Goree | ASC HLM | 1 | 0
+20,24.04.2025,Jaraaf,Oslo Football Academy,24.04.2025 | Jaraaf | Oslo Football Academy | 2 | 0
+20,24.04.2025,Pikine,Wally Daan,24.04.2025 | Pikine | Wally Daan | 1 | 0
+20,23.04.2025,ASC HLM,Sonacos,23.04.2025 | ASC HLM | Sonacos | 0 | 0
+20,23.04.2025,Dakar SC,Guediawaye,23.04.2025 | Dakar SC | Guediawaye | 1 | 1
+20,23.04.2025,Generation F.,Ouakam,23.04.2025 | Generation F. | Ouakam | 0 | 2
+20,23.04.2025,Jamono Fatick,US Goree,23.04.2025 | Jamono Fatick | US Goree | 1 | 0
+20,23.04.2025,Linguere,Casa,23.04.2025 | Linguere | Casa | 4 | 3
+20,23.04.2025,Teungueth,AJEL,23.04.2025 | Teungueth | AJEL | 2 | 0
+19,14.04.2025,Guediawaye,Generation F.,14.04.2025 | Guediawaye | Generation F. | 0 | 3
+19,13.04.2025,Casa,Dakar SC,13.04.2025 | Casa | Dakar SC | 0 | 1
+19,13.04.2025,Wally Daan,Jamono Fatick,13.04.2025 | Wally Daan | Jamono Fatick | 1 | 0
+19,13.04.2025,Linguere,Teungueth,13.04.2025 | Linguere | Teungueth | 1 | 0
+19,12.04.2025,AJEL,Jaraaf,12.04.2025 | AJEL | Jaraaf | 0 | 1
+19,12.04.2025,Oslo Football Academy,Pikine,12.04.2025 | Oslo Football Academy | Pikine | 1 | 3
+19,12.04.2025,US Goree,Sonacos,12.04.2025 | US Goree | Sonacos | 0 | 0
+19,11.04.2025,Ouakam,ASC HLM,11.04.2025 | Ouakam | ASC HLM | 1 | 0
+18,17.03.2025,ASC HLM,Guediawaye,17.03.2025 | ASC HLM | Guediawaye | 0 | 0
+18,17.03.2025,Jamono Fatick,Oslo Football Academy,17.03.2025 | Jamono Fatick | Oslo Football Academy | 3 | 2
+18,16.03.2025,Generation F.,Casa,16.03.2025 | Generation F. | Casa | 0 | 0
+18,16.03.2025,Jaraaf,Linguere,16.03.2025 | Jaraaf | Linguere | 1 | 0
+18,16.03.2025,Pikine,AJEL,16.03.2025 | Pikine | AJEL | 0 | 1
+18,16.03.2025,Sonacos,Ouakam,16.03.2025 | Sonacos | Ouakam | 0 | 3
+18,15.03.2025,Wally Daan,US Goree,15.03.2025 | Wally Daan | US Goree | 0 | 0
+18,15.03.2025,Dakar SC,Teungueth,15.03.2025 | Dakar SC | Teungueth | 0 | 0
+17,09.03.2025,AJEL,Jamono Fatick,09.03.2025 | AJEL | Jamono Fatick | 3 | 0
+17,09.03.2025,Casa,ASC HLM,09.03.2025 | Casa | ASC HLM | 2 | 0
+17,09.03.2025,Linguere,Pikine,09.03.2025 | Linguere | Pikine | 0 | 0
+17,08.03.2025,US Goree,Ouakam,08.03.2025 | US Goree | Ouakam | 1 | 0
+17,08.03.2025,Dakar SC,Jaraaf,08.03.2025 | Dakar SC | Jaraaf | 0 | 2
+17,08.03.2025,Teungueth,Generation F.,08.03.2025 | Teungueth | Generation F. | 1 | 2
+17,07.03.2025,Guediawaye,Sonacos,07.03.2025 | Guediawaye | Sonacos | 1 | 0
+17,07.03.2025,Oslo Football Academy,Wally Daan,07.03.2025 | Oslo Football Academy | Wally Daan | 0 | 1
+16,02.03.2025,ASC HLM,Teungueth,02.03.2025 | ASC HLM | Teungueth | 0 | 2
+16,02.03.2025,Sonacos,Casa,02.03.2025 | Sonacos | Casa | 1 | 0
+16,02.03.2025,Generation F.,Jaraaf,02.03.2025 | Generation F. | Jaraaf | 0 | 0
+16,02.03.2025,Oslo Football Academy,US Goree,02.03.2025 | Oslo Football Academy | US Goree | 1 | 1
+16,02.03.2025,Ouakam,Guediawaye,02.03.2025 | Ouakam | Guediawaye | 3 | 1
+16,02.03.2025,Pikine,Dakar SC,02.03.2025 | Pikine | Dakar SC | 1 | 0
+16,01.03.2025,Wally Daan,AJEL,01.03.2025 | Wally Daan | AJEL | 0 | 1
+16,01.03.2025,Jamono Fatick,Linguere,01.03.2025 | Jamono Fatick | Linguere | 1 | 2
+15,27.02.2025,US Goree,Guediawaye,27.02.2025 | US Goree | Guediawaye | 0 | 1
+15,23.02.2025,AJEL,Oslo Football Academy,23.02.2025 | AJEL | Oslo Football Academy | 2 | 1
+12,23.02.2025,Guediawaye,Jaraaf,23.02.2025 | Guediawaye | Jaraaf | 0 | 0
+15,17.02.2025,Dakar SC,Jamono Fatick,17.02.2025 | Dakar SC | Jamono Fatick | 1 | 2
+15,17.02.2025,Jaraaf,ASC HLM,17.02.2025 | Jaraaf | ASC HLM | 1 | 2
+15,16.02.2025,Casa,Ouakam,16.02.2025 | Casa | Ouakam | 0 | 0
+15,15.02.2025,Linguere,Wally Daan,15.02.2025 | Linguere | Wally Daan | 0 | 1
+15,15.02.2025,Pikine,Generation F.,15.02.2025 | Pikine | Generation F. | 2 | 0 | 1
+15,15.02.2025,Teungueth,Sonacos,15.02.2025 | Teungueth | Sonacos | 1 | 1
+14,10.02.2025,ASC HLM,Pikine,10.02.2025 | ASC HLM | Pikine | 1 | 1
+14,09.02.2025,Sonacos,Jaraaf,09.02.2025 | Sonacos | Jaraaf | 1 | 0
+14,09.02.2025,AJEL,US Goree,09.02.2025 | AJEL | US Goree | 1 | 0
+14,09.02.2025,Ouakam,Teungueth,09.02.2025 | Ouakam | Teungueth | 1 | 0
+14,08.02.2025,Guediawaye,Casa,08.02.2025 | Guediawaye | Casa | 2 | 3
+14,08.02.2025,Jamono Fatick,Generation F.,08.02.2025 | Jamono Fatick | Generation F. | 1 | 1
+14,08.02.2025,Oslo Football Academy,Linguere,08.02.2025 | Oslo Football Academy | Linguere | 0 | 1
+14,07.02.2025,Wally Daan,Dakar SC,07.02.2025 | Wally Daan | Dakar SC | 2 | 0
+13,03.02.2025,Jaraaf,Ouakam,03.02.2025 | Jaraaf | Ouakam | 1 | 0
+13,03.02.2025,Linguere,AJEL,03.02.2025 | Linguere | AJEL | 2 | 1
+13,02.02.2025,Jamono Fatick,ASC HLM,02.02.2025 | Jamono Fatick | ASC HLM | 0 | 0
+13,02.02.2025,Pikine,Sonacos,02.02.2025 | Pikine | Sonacos | 1 | 0
+13,02.02.2025,Teungueth,Guediawaye,02.02.2025 | Teungueth | Guediawaye | 1 | 1
+13,01.02.2025,Generation F.,Wally Daan,01.02.2025 | Generation F. | Wally Daan | 1 | 0
+13,01.02.2025,US Goree,Casa,01.02.2025 | US Goree | Casa | 0 | 0
+13,01.02.2025,Dakar SC,Oslo Football Academy,01.02.2025 | Dakar SC | Oslo Football Academy | 3 | 0
+11,29.01.2025,Jaraaf,Casa,29.01.2025 | Jaraaf | Casa | 1 | 0
+11,26.01.2025,Pikine,Guediawaye,26.01.2025 | Pikine | Guediawaye | 0 | 1
+10,25.01.2025,Teungueth,Jaraaf,25.01.2025 | Teungueth | Jaraaf | 2 | 3
+12,21.01.2025,Wally Daan,ASC HLM,21.01.2025 | Wally Daan | ASC HLM | 1 | 1
+12,21.01.2025,Ouakam,Pikine,21.01.2025 | Ouakam | Pikine | 1 | 0
+12,20.01.2025,Linguere,US Goree,20.01.2025 | Linguere | US Goree | 0 | 0
+12,20.01.2025,Oslo Football Academy,Generation F.,20.01.2025 | Oslo Football Academy | Generation F. | 2 | 2
+12,19.01.2025,Sonacos,Jamono Fatick,19.01.2025 | Sonacos | Jamono Fatick | 1 | 1
+12,19.01.2025,Casa,Teungueth,19.01.2025 | Casa | Teungueth | 0 | 0
+12,18.01.2025,AJEL,Dakar SC,18.01.2025 | AJEL | Dakar SC | 2 | 1
+11,12.01.2025,Generation F.,AJEL,12.01.2025 | Generation F. | AJEL | 1 | 0
+11,11.01.2025,US Goree,Teungueth,11.01.2025 | US Goree | Teungueth | 1 | 0
+11,11.01.2025,Sonacos,Wally Daan,11.01.2025 | Sonacos | Wally Daan | 0 | 1
+11,11.01.2025,Dakar SC,Linguere,11.01.2025 | Dakar SC | Linguere | 0 | 0
+11,11.01.2025,Jamono Fatick,Ouakam,11.01.2025 | Jamono Fatick | Ouakam | 0 | 1
+11,11.01.2025,Oslo Football Academy,ASC HLM,11.01.2025 | Oslo Football Academy | ASC HLM | 1 | 0
+10,05.01.2025,ASC HLM,AJEL,05.01.2025 | ASC HLM | AJEL | 0 | 1
+10,05.01.2025,Casa,Pikine,05.01.2025 | Casa | Pikine | 1 | 0
+10,05.01.2025,Linguere,Generation F.,05.01.2025 | Linguere | Generation F. | 1 | 2
+10,04.01.2025,Wally Daan,Ouakam,04.01.2025 | Wally Daan | Ouakam | 0 | 0
+10,04.01.2025,Dakar SC,US Goree,04.01.2025 | Dakar SC | US Goree | 0 | 1
+10,04.01.2025,Guediawaye,Jamono Fatick,04.01.2025 | Guediawaye | Jamono Fatick | 2 | 0
+10,04.01.2025,Oslo Football Academy,Sonacos,04.01.2025 | Oslo Football Academy | Sonacos | 3 | 2
+8,31.12.2024,Jaraaf,Pikine,31.12.2024 | Jaraaf | Pikine | 0 | 0
+7,26.12.2024,Jamono Fatick,Jaraaf,26.12.2024 | Jamono Fatick | Jaraaf | 0 | 2
+9,23.12.2024,US Goree,Jaraaf,23.12.2024 | US Goree | Jaraaf | 2 | 0
+9,22.12.2024,ASC HLM,Linguere,22.12.2024 | ASC HLM | Linguere | 1 | 2
+9,22.12.2024,Ouakam,Oslo Football Academy,22.12.2024 | Ouakam | Oslo Football Academy | 0 | 1
+9,22.12.2024,Pikine,Teungueth,22.12.2024 | Pikine | Teungueth | 1 | 0
+9,22.12.2024,Generation F.,Dakar SC,22.12.2024 | Generation F. | Dakar SC | 0 | 1
+9,21.12.2024,Wally Daan,Guediawaye,21.12.2024 | Wally Daan | Guediawaye | 1 | 0
+9,21.12.2024,Sonacos,AJEL,21.12.2024 | Sonacos | AJEL | 2 | 2
+9,21.12.2024,Jamono Fatick,Casa,21.12.2024 | Jamono Fatick | Casa | 3 | 2
+8,16.12.2024,Teungueth,Jamono Fatick,16.12.2024 | Teungueth | Jamono Fatick | 0 | 0
+8,15.12.2024,Generation F.,US Goree,15.12.2024 | Generation F. | US Goree | 1 | 1
+8,15.12.2024,AJEL,Ouakam,15.12.2024 | AJEL | Ouakam | 0 | 0
+8,15.12.2024,Casa,Wally Daan,15.12.2024 | Casa | Wally Daan | 0 | 1
+8,15.12.2024,Linguere,Sonacos,15.12.2024 | Linguere | Sonacos | 0 | 1
+8,14.12.2024,Dakar SC,ASC HLM,14.12.2024 | Dakar SC | ASC HLM | 0 | 1
+8,14.12.2024,Guediawaye,Oslo Football Academy,14.12.2024 | Guediawaye | Oslo Football Academy | 1 | 1
+7,07.12.2024,Wally Daan,Teungueth,07.12.2024 | Wally Daan | Teungueth | 1 | 1
+7,07.12.2024,ASC HLM,Generation F.,07.12.2024 | ASC HLM | Generation F. | 0 | 0
+7,07.12.2024,Sonacos,Dakar SC,07.12.2024 | Sonacos | Dakar SC | 0 | 0
+7,07.12.2024,US Goree,Pikine,07.12.2024 | US Goree | Pikine | 1 | 0
+7,07.12.2024,Guediawaye,AJEL,07.12.2024 | Guediawaye | AJEL | 2 | 1
+7,07.12.2024,Oslo Football Academy,Casa,07.12.2024 | Oslo Football Academy | Casa | 0 | 1
+7,07.12.2024,Ouakam,Linguere,07.12.2024 | Ouakam | Linguere | 0 | 0
+6,02.12.2024,Jaraaf,Wally Daan,02.12.2024 | Jaraaf | Wally Daan | 1 | 1
+6,01.12.2024,ASC HLM,US Goree,01.12.2024 | ASC HLM | US Goree | 1 | 2
+6,01.12.2024,Generation F.,Sonacos,01.12.2024 | Generation F. | Sonacos | 1 | 2
+6,01.12.2024,Linguere,Guediawaye,01.12.2024 | Linguere | Guediawaye | 2 | 2
+6,01.12.2024,Pikine,Jamono Fatick,01.12.2024 | Pikine | Jamono Fatick | 0 | 0
+6,01.12.2024,Casa,AJEL,01.12.2024 | Casa | AJEL | 0 | 0
+6,30.11.2024,Teungueth,Oslo Football Academy,30.11.2024 | Teungueth | Oslo Football Academy | 1 | 2
+6,30.11.2024,Dakar SC,Ouakam,30.11.2024 | Dakar SC | Ouakam | 2 | 0
+5,24.11.2024,Casa,Linguere,24.11.2024 | Casa | Linguere | 0 | 0
+5,24.11.2024,Ouakam,Generation F.,24.11.2024 | Ouakam | Generation F. | 2 | 1
+5,23.11.2024,Wally Daan,Pikine,23.11.2024 | Wally Daan | Pikine | 1 | 1
+5,23.11.2024,Sonacos,ASC HLM,23.11.2024 | Sonacos | ASC HLM | 2 | 0
+5,23.11.2024,US Goree,Jamono Fatick,23.11.2024 | US Goree | Jamono Fatick | 2 | 0
+5,23.11.2024,AJEL,Teungueth,23.11.2024 | AJEL | Teungueth | 1 | 1
+5,23.11.2024,Guediawaye,Dakar SC,23.11.2024 | Guediawaye | 2 | Dakar SC | 0 | 2
+5,21.11.2024,Oslo Football Academy,Jaraaf,21.11.2024 | Oslo Football Academy | Jaraaf | 1 | 4
+4,10.11.2024,Generation F.,Guediawaye,10.11.2024 | Generation F. | Guediawaye | 1 | 1
+4,10.11.2024,ASC HLM,Ouakam,10.11.2024 | ASC HLM | Ouakam | 1 | 1
+4,10.11.2024,Jaraaf,AJEL,10.11.2024 | Jaraaf | AJEL | 1 | 1
+4,10.11.2024,Pikine,Oslo Football Academy,10.11.2024 | Pikine | Oslo Football Academy | 1 | 0
+4,10.11.2024,Sonacos,US Goree,10.11.2024 | Sonacos | US Goree | 0 | 1
+4,09.11.2024,Teungueth,Linguere,09.11.2024 | Teungueth | Linguere | 2 | 1
+4,09.11.2024,Dakar SC,Casa,09.11.2024 | Dakar SC | Casa | 0 | 0
+4,09.11.2024,Jamono Fatick,Wally Daan,09.11.2024 | Jamono Fatick | Wally Daan | 0 | 1
+3,03.11.2024,AJEL,Pikine,03.11.2024 | AJEL | Pikine | 0 | 0
+3,03.11.2024,Casa,Generation F.,03.11.2024 | Casa | Generation F. | 1 | 2
+3,03.11.2024,Guediawaye,ASC HLM,03.11.2024 | Guediawaye | ASC HLM | 0 | 1
+3,03.11.2024,Linguere,Jaraaf,03.11.2024 | Linguere | Jaraaf | 1 | 3
+3,03.11.2024,Ouakam,Sonacos,03.11.2024 | Ouakam | Sonacos | 0 | 0
+3,02.11.2024,Oslo Football Academy,Jamono Fatick,02.11.2024 | Oslo Football Academy | Jamono Fatick | 1 | 0
+3,02.11.2024,Teungueth,Dakar SC,02.11.2024 | Teungueth | Dakar SC | 3 | 0
+3,02.11.2024,US Goree,Wally Daan,02.11.2024 | US Goree | Wally Daan | 2 | 3
+2,27.10.2024,ASC HLM,Casa,27.10.2024 | ASC HLM | Casa | 2 | 1
+2,27.10.2024,Generation F.,Teungueth,27.10.2024 | Generation F. | Teungueth | 0 | 0
+2,27.10.2024,Jaraaf,Dakar SC,27.10.2024 | Jaraaf | Dakar SC | 1 | 1
+2,27.10.2024,Pikine,Linguere,27.10.2024 | Pikine | Linguere | 0 | 0
+2,27.10.2024,Sonacos,Guediawaye,27.10.2024 | Sonacos | Guediawaye | 0 | 1
+2,26.10.2024,Jamono Fatick,AJEL,26.10.2024 | Jamono Fatick | AJEL | 0 | 0
+2,26.10.2024,Ouakam,US Goree,26.10.2024 | Ouakam | US Goree | 2 | 2
+2,26.10.2024,Wally Daan,Oslo Football Academy,26.10.2024 | Wally Daan | Oslo Football Academy | 1 | 1
+1,20.10.2024,AJEL,Wally Daan,20.10.2024 | AJEL | Wally Daan | 1 | 0
+1,20.10.2024,Casa,Sonacos,20.10.2024 | Casa | Sonacos | 0 | 0
+1,20.10.2024,Guediawaye,Ouakam,20.10.2024 | Guediawaye | Ouakam | 1 | 1
+1,20.10.2024,Jaraaf,Generation F.,20.10.2024 | Jaraaf | Generation F. | 2 | 1
+1,20.10.2024,Linguere,Jamono Fatick,20.10.2024 | Linguere | Jamono Fatick | 1 | 1
+1,19.10.2024,Dakar SC,Pikine,19.10.2024 | Dakar SC | Pikine | 4 | 1
+1,19.10.2024,Teungueth,ASC HLM,19.10.2024 | Teungueth | ASC HLM | 2 | 1
+1,19.10.2024,US Goree,Oslo Football Academy,19.10.2024 | US Goree | Oslo Football Academy | 3 | 1

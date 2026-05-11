@@ -4,12 +4,12 @@ mexico;2024-2025;liga-mx;1;1;0.0;Apertura en Clausura dus vreemd seizoen. Twee s
 japan;2025;j1-league;1;1;;Normale DRR met 20 teams
 iran;2024-2025;persian-gulf-pro-league;1;1;;Normale DRR met 16 teams
 south-korea;2025;k-league-1;1;1;;12 teams doen eerst 3RR. Dan hebben de eerste 6 een SRR voor de titel en de laatste 6 voor degradatie. Laatste daalt automatisch. 5de speelt tegen de 2de van de tweedeklasse en 4de tegen winnaar uit toernooi (4vs5 eerst winnaar vs 3 tweede klasse, heen en terug duel).                Voor cleaned data alleen main 3RR toernooi gepakt.
-australia;2024-2025;a-league;1;0;;
-morocco;2024-2025;botola-pro;1;0;;
-senegal;2024-2025;ligue-1;1;0;;
-nigeria;2024-2025;npfl;1;0;;
-algeria;2024-2025;ligue-1;1;0;;
-egypt;2024-2025;premier-league;1;0;;
+australia;2024-2025;a-league;1;1;;13 teams, eerst 2RR plus 2 matches, Union round in Sydney en een match tussen rivalen -> 26 games dus in het regular season. Dan knockout toernooi voor de champioship 3-6 spelen eers quarter final, 1-2 direct naar semi. 29 rondes dus temporal relaxed
+morocco;2024-2025;botola-pro;1;1;;Normale DRR met 16 teams, relagation play-offs 15-16 direct degraderen 13-14 spelen heen en terug ronde tegen 4-3 in botola 2 respectievelijk. 
+senegal;2024-2025;ligue-1;1;1;;Normale DRR met 16 teams, laatste 2 degraderen
+nigeria;2024-2025;npfl;1;1;;Normale DRR met 20 teams, laatste 4 degraderen
+algeria;2024-2025;ligue-1;1;1;;Normale DRR met 16 teams, laatste 2 degraderen
+egypt;2024-2025;premier-league;1;1;;Eerst Normale SRR met 18 teams, daarna bovenste helft spelen voor de titel in een SRR (met 9 teams) en de onderste SRR tegen degradatie, punten van eerste deel blijven behouden. Voor cleaned data alleen eerste deel gehouden (n=18)
 ivory-coast;2024-2025;ligue-1;1;0;;
 usa;2025;mls;1;0;;
 canada;2025;canadian-premier-league;1;0;;
