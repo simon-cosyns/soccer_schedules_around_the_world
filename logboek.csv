@@ -10,11 +10,11 @@ senegal;2024-2025;ligue-1;1;1;;Normale DRR met 16 teams, laatste 2 degraderen
 nigeria;2024-2025;npfl;1;1;;Normale DRR met 20 teams, laatste 4 degraderen
 algeria;2024-2025;ligue-1;1;1;;Normale DRR met 16 teams, laatste 2 degraderen
 egypt;2024-2025;premier-league;1;1;;Eerst Normale SRR met 18 teams, daarna bovenste helft spelen voor de titel in een SRR (met 9 teams) en de onderste SRR tegen degradatie, punten van eerste deel blijven behouden. Voor cleaned data alleen eerste deel gehouden (n=18)
-ivory-coast;2024-2025;ligue-1;1;0;;
-usa;2025;mls;1;0;;
-canada;2025;canadian-premier-league;1;0;;
-panama;2025;lpf;1;0;;
-argentina;2025;liga-profesional;1;0;;
+ivory-coast;2024-2025;ligue-1;1;1;;Normal DRR met 16 teams, ISCA speelt 2x thuis tegen SOL, fout op soccerway?, ronde 18 lijkt omgekeerd SOL vs ISCA aangepast. Bron eurosport, tnt, rsssf
+usa;2025;mls;1;0;;andere vorm op soccerway. Rounds niet aangegeven voor regular season. Met twee conferences zoals NBA
+canada;2025;canadian-premier-league;1;0;;ook andere vorm, 4RR regular season met 8 teams dan knockout toernooi voor de titel, geen degradatie/promotie
+panama;2025;lpf;1;0;;Aperturea clausura systeem, twee conferences in regular season
+argentina;2025;liga-profesional;1;0;;Heel speciaal
 brazil;2025;serie-a-betano;1;0;;
 colombia;2025;primera-a;1;0;;
 uruguay;2025;liga-auf-uruguaya;1;0;;

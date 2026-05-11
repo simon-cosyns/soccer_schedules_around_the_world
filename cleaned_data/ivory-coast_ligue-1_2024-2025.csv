@@ -1,0 +1,241 @@
+round,date,team_home,team_away,full_text
+30,19.05.2025,Racing d'Abidjan,Mouna,19.05.2025 | Racing d'Abidjan | Mouna | 2 | 1
+30,19.05.2025,Korhogo,Zoman,19.05.2025 | Korhogo | Zoman | 1 | 2
+30,19.05.2025,Olympique Sport,San Pedro,19.05.2025 | Olympique Sport | San Pedro | 1 | 3
+30,18.05.2025,Academie de FAD,ISCA,18.05.2025 | Academie de FAD | ISCA | 2 | 0
+30,18.05.2025,AS Denguele,Stella Adjame,18.05.2025 | AS Denguele | Stella Adjame | 0 | 2
+30,18.05.2025,Bouake,SOL,18.05.2025 | Bouake | SOL | 2 | 0
+30,18.05.2025,SO Armee,ASEC Mimosas,18.05.2025 | SO Armee | ASEC Mimosas | 1 | 2
+30,18.05.2025,Stade d'Abidjan,Lys Sassandra,18.05.2025 | Stade d'Abidjan | Lys Sassandra | 3 | 0
+29,11.05.2025,ASEC Mimosas,Bouake,11.05.2025 | ASEC Mimosas | Bouake | 2 | 0
+29,11.05.2025,Zoman,Stade d'Abidjan,11.05.2025 | Zoman | Stade d'Abidjan | 2 | 3
+29,11.05.2025,Lys Sassandra,Olympique Sport,11.05.2025 | Lys Sassandra | Olympique Sport | 1 | 1
+29,11.05.2025,Mouna,Korhogo,11.05.2025 | Mouna | Korhogo | 3 | 4
+29,11.05.2025,San Pedro,Racing d'Abidjan,11.05.2025 | San Pedro | Racing d'Abidjan | 1 | 1
+29,11.05.2025,SOL,Academie de FAD,11.05.2025 | SOL | Academie de FAD | 3 | 2
+29,09.05.2025,ISCA,AS Denguele,09.05.2025 | ISCA | AS Denguele | 1 | 1
+29,09.05.2025,Stella Adjame,SO Armee,09.05.2025 | Stella Adjame | SO Armee | 0 | 0
+28,04.05.2025,Academie de FAD,Stella Adjame,04.05.2025 | Academie de FAD | Stella Adjame | 0 | 0
+28,04.05.2025,Bouake,Zoman,04.05.2025 | Bouake | Zoman | 0 | 0
+28,04.05.2025,Korhogo,ISCA,04.05.2025 | Korhogo | ISCA | 0 | 1
+28,04.05.2025,Olympique Sport,SOL,04.05.2025 | Olympique Sport | SOL | 1 | 0
+28,04.05.2025,SO Armee,San Pedro,04.05.2025 | SO Armee | San Pedro | 0 | 0
+28,03.05.2025,Mouna,Stade d'Abidjan,03.05.2025 | Mouna | Stade d'Abidjan | 0 | 3
+28,03.05.2025,AS Denguele,ASEC Mimosas,03.05.2025 | AS Denguele | ASEC Mimosas | 2 | 4
+28,03.05.2025,Racing d'Abidjan,Lys Sassandra,03.05.2025 | Racing d'Abidjan | Lys Sassandra | 1 | 2
+27,20.04.2025,Lys Sassandra,ASEC Mimosas,20.04.2025 | Lys Sassandra | ASEC Mimosas | 2 | 2
+27,19.04.2025,Stade d'Abidjan,Academie de FAD,19.04.2025 | Stade d'Abidjan | Academie de FAD | 1 | 0
+27,19.04.2025,Stella Adjame,Korhogo,19.04.2025 | Stella Adjame | Korhogo | 0 | 2
+27,18.04.2025,SOL,SO Armee,18.04.2025 | SOL | SO Armee | 1 | 2
+27,18.04.2025,San Pedro,Bouake,18.04.2025 | San Pedro | Bouake | 0 | 1
+27,18.04.2025,Zoman,AS Denguele,18.04.2025 | Zoman | AS Denguele | 0 | 0
+27,17.04.2025,ISCA,Mouna,17.04.2025 | ISCA | Mouna | 2 | 1
+27,17.04.2025,Olympique Sport,Racing d'Abidjan,17.04.2025 | Olympique Sport | Racing d'Abidjan | 2 | 1
+26,14.04.2025,ASEC Mimosas,SOL,14.04.2025 | ASEC Mimosas | SOL | 3 | 1
+26,13.04.2025,Mouna,Stella Adjame,13.04.2025 | Mouna | Stella Adjame | 0 | 1
+26,13.04.2025,AS Denguele,Lys Sassandra,13.04.2025 | AS Denguele | Lys Sassandra | 2 | 0
+26,13.04.2025,Bouake,Stade d'Abidjan,13.04.2025 | Bouake | Stade d'Abidjan | 0 | 1
+26,12.04.2025,Racing d'Abidjan,Zoman,12.04.2025 | Racing d'Abidjan | Zoman | 1 | 1
+26,12.04.2025,Academie de FAD,San Pedro,12.04.2025 | Academie de FAD | San Pedro | 2 | 1
+26,12.04.2025,Korhogo,Olympique Sport,12.04.2025 | Korhogo | Olympique Sport | 1 | 1
+26,12.04.2025,SO Armee,ISCA,12.04.2025 | SO Armee | ISCA | 2 | 0
+25,01.04.2025,Lys Sassandra,Academie de FAD,01.04.2025 | Lys Sassandra | Academie de FAD | 0 | 1
+25,01.04.2025,Olympique Sport,SO Armee,01.04.2025 | Olympique Sport | SO Armee | 1 | 0
+25,01.04.2025,SOL,Racing d'Abidjan,01.04.2025 | SOL | Racing d'Abidjan | 1 | 2
+25,30.03.2025,Zoman,Mouna,30.03.2025 | Zoman | Mouna | 2 | 2
+25,30.03.2025,Stella Adjame,Bouake,30.03.2025 | Stella Adjame | Bouake | 0 | 1
+25,28.03.2025,ISCA,ASEC Mimosas,28.03.2025 | ISCA | ASEC Mimosas | 0 | 1
+25,28.03.2025,San Pedro,AS Denguele,28.03.2025 | San Pedro | AS Denguele | 2 | 0
+25,28.03.2025,Stade d'Abidjan,Korhogo,28.03.2025 | Stade d'Abidjan | Korhogo | 1 | 1
+24,23.03.2025,Stella Adjame,Stade d'Abidjan,23.03.2025 | Stella Adjame | Stade d'Abidjan | 1 | 0
+24,23.03.2025,AS Denguele,Academie de FAD,23.03.2025 | AS Denguele | Academie de FAD | 1 | 2
+24,23.03.2025,ASEC Mimosas,San Pedro,23.03.2025 | ASEC Mimosas | San Pedro | 3 | 0
+24,23.03.2025,Bouake,Olympique Sport,23.03.2025 | Bouake | Olympique Sport | 2 | 0
+24,23.03.2025,Korhogo,Racing d'Abidjan,23.03.2025 | Korhogo | Racing d'Abidjan | 2 | 2
+24,22.03.2025,Zoman,ISCA,22.03.2025 | Zoman | ISCA | 1 | 1
+24,22.03.2025,Mouna,SOL,22.03.2025 | Mouna | SOL | 2 | 0
+24,22.03.2025,SO Armee,Lys Sassandra,22.03.2025 | SO Armee | Lys Sassandra | 1 | 0
+23,13.03.2025,Olympique Sport,Mouna,13.03.2025 | Olympique Sport | Mouna | 2 | 2
+23,13.03.2025,San Pedro,Zoman,13.03.2025 | San Pedro | Zoman | 3 | 2
+23,12.03.2025,Stade d'Abidjan,ASEC Mimosas,12.03.2025 | Stade d'Abidjan | ASEC Mimosas | 0 | 0
+23,12.03.2025,Racing d'Abidjan,Bouake,12.03.2025 | Racing d'Abidjan | Bouake | 1 | 1
+23,12.03.2025,Lys Sassandra,Korhogo,12.03.2025 | Lys Sassandra | Korhogo | 1 | 2
+23,12.03.2025,SOL,AS Denguele,12.03.2025 | SOL | AS Denguele | 3 | 0
+23,11.03.2025,ISCA,Stella Adjame,11.03.2025 | ISCA | Stella Adjame | 0 | 1
+23,11.03.2025,Academie de FAD,SO Armee,11.03.2025 | Academie de FAD | SO Armee | 1 | 1
+22,09.03.2025,ASEC Mimosas,Zoman,09.03.2025 | ASEC Mimosas | Zoman | 3 | 1
+22,09.03.2025,AS Denguele,Stade d'Abidjan,09.03.2025 | AS Denguele | Stade d'Abidjan | 1 | 0
+22,09.03.2025,Mouna,Lys Sassandra,09.03.2025 | Mouna | Lys Sassandra | 1 | 2
+22,08.03.2025,ISCA,San Pedro,08.03.2025 | ISCA | San Pedro | 0 | 2
+22,08.03.2025,Korhogo,SOL,08.03.2025 | Korhogo | SOL | 1 | 1
+22,08.03.2025,SO Armee,Racing d'Abidjan,08.03.2025 | SO Armee | Racing d'Abidjan | 1 | 1
+22,07.03.2025,Stella Adjame,Olympique Sport,07.03.2025 | Stella Adjame | Olympique Sport | 0 | 2
+22,07.03.2025,Academie de FAD,Bouake,07.03.2025 | Academie de FAD | Bouake | 3 | 2
+21,03.03.2025,Olympique Sport,Academie de FAD,03.03.2025 | Olympique Sport | Academie de FAD | 1 | 1
+21,03.03.2025,SOL,Stade d'Abidjan,03.03.2025 | SOL | Stade d'Abidjan | 1 | 4
+21,02.03.2025,Zoman,SO Armee,02.03.2025 | Zoman | SO Armee | 0 | 2
+21,02.03.2025,Mouna,ASEC Mimosas,02.03.2025 | Mouna | ASEC Mimosas | 0 | 1
+21,02.03.2025,Racing d'Abidjan,AS Denguele,02.03.2025 | Racing d'Abidjan | AS Denguele | 2 | 1
+21,02.03.2025,San Pedro,Stella Adjame,02.03.2025 | San Pedro | Stella Adjame | 2 | 0
+21,01.03.2025,Bouake,Korhogo,01.03.2025 | Bouake | Korhogo | 0 | 0
+21,01.03.2025,Lys Sassandra,ISCA,01.03.2025 | Lys Sassandra | ISCA | 0 | 1
+19,26.02.2025,AS Denguele,Olympique Sport,26.02.2025 | AS Denguele | Olympique Sport | 0 | 1
+20,23.02.2025,ISCA,Bouake,23.02.2025 | ISCA | Bouake | 0 | 2
+20,23.02.2025,Academie de FAD,Zoman,23.02.2025 | Academie de FAD | Zoman | 0 | 0
+20,23.02.2025,AS Denguele,Mouna,23.02.2025 | AS Denguele | Mouna | 1 | 1
+20,23.02.2025,ASEC Mimosas,Racing d'Abidjan,23.02.2025 | ASEC Mimosas | Racing d'Abidjan | 0 | 1
+20,23.02.2025,San Pedro,SOL,23.02.2025 | San Pedro | SOL | 1 | 2
+20,23.02.2025,SO Armee,Korhogo,23.02.2025 | SO Armee | Korhogo | 0 | 0
+20,22.02.2025,Stade d'Abidjan,Olympique Sport,22.02.2025 | Stade d'Abidjan | Olympique Sport | 2 | 1
+20,22.02.2025,Stella Adjame,Lys Sassandra,22.02.2025 | Stella Adjame | Lys Sassandra | 0 | 0
+19,20.02.2025,Racing d'Abidjan,ISCA,20.02.2025 | Racing d'Abidjan | ISCA | 0 | 1
+19,19.02.2025,Mouna,San Pedro,19.02.2025 | Mouna | San Pedro | 2 | 1
+19,19.02.2025,ASEC Mimosas,Stella Adjame,19.02.2025 | ASEC Mimosas | Stella Adjame | 1 | 0
+19,19.02.2025,Bouake,Lys Sassandra,19.02.2025 | Bouake | Lys Sassandra | 2 | 0
+19,19.02.2025,Korhogo,Academie de FAD,19.02.2025 | Korhogo | Academie de FAD | 0 | 1
+19,19.02.2025,SO Armee,Stade d'Abidjan,19.02.2025 | SO Armee | Stade d'Abidjan | 0 | 2
+19,19.02.2025,Zoman,SOL,19.02.2025 | Zoman | SOL | 1 | 1
+18,16.02.2025,SOL,ISCA,16.02.2025 | ISCA | SOL | 0 | 0
+18,16.02.2025,Korhogo,AS Denguele,16.02.2025 | Korhogo | AS Denguele | 3 | 1
+18,16.02.2025,Stella Adjame,Zoman,16.02.2025 | Stella Adjame | Zoman | 0 | 1
+18,15.02.2025,Stade d'Abidjan,Racing d'Abidjan,15.02.2025 | Stade d'Abidjan | Racing d'Abidjan | 1 | 2
+18,15.02.2025,Academie de FAD,Mouna,15.02.2025 | Academie de FAD | Mouna | 0 | 1
+18,15.02.2025,Bouake,SO Armee,15.02.2025 | Bouake | SO Armee | 1 | 3
+18,15.02.2025,Lys Sassandra,San Pedro,15.02.2025 | Lys Sassandra | San Pedro | 1 | 2
+18,15.02.2025,Olympique Sport,ASEC Mimosas,15.02.2025 | Olympique Sport | ASEC Mimosas | 0 | 5
+17,09.02.2025,Zoman,Olympique Sport,09.02.2025 | Zoman | Olympique Sport | 1 | 1
+17,09.02.2025,AS Denguele,Bouake,09.02.2025 | AS Denguele | Bouake | 0 | 0
+17,09.02.2025,ASEC Mimosas,Academie de FAD,09.02.2025 | ASEC Mimosas | Academie de FAD | 1 | 2
+17,09.02.2025,ISCA,Stade d'Abidjan,09.02.2025 | ISCA | Stade d'Abidjan | 0 | 3
+17,09.02.2025,San Pedro,Korhogo,09.02.2025 | San Pedro | Korhogo | 1 | 3
+17,08.02.2025,Racing d'Abidjan,Stella Adjame,08.02.2025 | Racing d'Abidjan | Stella Adjame | 3 | 0
+17,08.02.2025,Mouna,SO Armee,08.02.2025 | Mouna | SO Armee | 0 | 1
+17,08.02.2025,SOL,Lys Sassandra,08.02.2025 | SOL | Lys Sassandra | 1 | 0
+16,02.02.2025,Stella Adjame,SOL,02.02.2025 | Stella Adjame | SOL | 1 | 1
+16,02.02.2025,Academie de FAD,Racing d'Abidjan,02.02.2025 | Academie de FAD | Racing d'Abidjan | 0 | 1
+16,02.02.2025,Korhogo,ASEC Mimosas,02.02.2025 | Korhogo | ASEC Mimosas | 1 | 1
+16,02.02.2025,Lys Sassandra,Zoman,02.02.2025 | Lys Sassandra | Zoman | 1 | 1
+16,01.02.2025,Olympique Sport,ISCA,01.02.2025 | Olympique Sport | ISCA | 1 | 2
+16,01.02.2025,Bouake,Mouna,01.02.2025 | Bouake | Mouna | 0 | 1
+16,01.02.2025,SO Armee,AS Denguele,01.02.2025 | SO Armee | AS Denguele | 0 | 1
+16,01.02.2025,Stade d'Abidjan,San Pedro,01.02.2025 | Stade d'Abidjan | San Pedro | 1 | 0
+15,31.12.2024,Stella Adjame,AS Denguele,31.12.2024 | Stella Adjame | AS Denguele | 1 | 1
+15,31.12.2024,ASEC Mimosas,SO Armee,31.12.2024 | ASEC Mimosas | SO Armee | 3 | 1
+15,31.12.2024,ISCA,Academie de FAD,31.12.2024 | ISCA | Academie de FAD | 2 | 1
+15,31.12.2024,Mouna,Racing d'Abidjan,31.12.2024 | Mouna | Racing d'Abidjan | 2 | 0
+15,31.12.2024,SOL,Bouake,31.12.2024 | SOL | Bouake | 0 | 2
+15,31.12.2024,Zoman,Korhogo,31.12.2024 | Zoman | 2 | Korhogo | 1 | 2
+15,30.12.2024,San Pedro,Olympique Sport,30.12.2024 | San Pedro | Olympique Sport | 2 | 1
+15,30.12.2024,Lys Sassandra,Stade d'Abidjan,30.12.2024 | Lys Sassandra | Stade d'Abidjan | 1 | 4
+14,28.12.2024,Bouake,ASEC Mimosas,28.12.2024 | Bouake | ASEC Mimosas | 0 | 0
+14,27.12.2024,Stade d'Abidjan,Zoman,27.12.2024 | Stade d'Abidjan | Zoman | 3 | 2
+13,24.12.2024,ASEC Mimosas,AS Denguele,24.12.2024 | ASEC Mimosas | AS Denguele | 2 | 0
+10,24.12.2024,Korhogo,Stade d'Abidjan,24.12.2024 | Korhogo | Stade d'Abidjan | 2 | 2
+13,21.12.2024,Stade d'Abidjan,Mouna,21.12.2024 | Stade d'Abidjan | Mouna | 1 | 1
+12,19.12.2024,ASEC Mimosas,Lys Sassandra,19.12.2024 | ASEC Mimosas | Lys Sassandra | 2 | 0
+12,18.12.2024,Academie de FAD,Stade d'Abidjan,18.12.2024 | Academie de FAD | Stade d'Abidjan | 1 | 3
+3,18.12.2024,ISCA,SOL,18.12.2024 | ISCA | SOL | 1 | 2
+14,13.12.2024,Olympique Sport,Lys Sassandra,13.12.2024 | Olympique Sport | Lys Sassandra | 0 | 0
+14,13.12.2024,Korhogo,Mouna,13.12.2024 | Korhogo | Mouna | 1 | 1
+14,13.12.2024,Racing d'Abidjan,San Pedro,13.12.2024 | Racing d'Abidjan | San Pedro | 0 | 3
+14,12.12.2024,AS Denguele,ISCA,12.12.2024 | AS Denguele | ISCA | 0 | 1
+14,12.12.2024,Academie de FAD,SOL,12.12.2024 | Academie de FAD | SOL | 2 | 3
+14,12.12.2024,SO Armee,Stella Adjame,12.12.2024 | SO Armee | Stella Adjame | 1 | 2
+13,09.12.2024,ISCA,Korhogo,09.12.2024 | ISCA | Korhogo | 1 | 1
+13,09.12.2024,SOL,Olympique Sport,09.12.2024 | SOL | Olympique Sport | 2 | 2
+13,08.12.2024,San Pedro,SO Armee,08.12.2024 | San Pedro | SO Armee | 4 | 1
+13,08.12.2024,Lys Sassandra,Racing d'Abidjan,08.12.2024 | Lys Sassandra | Racing d'Abidjan | 0 | 1
+13,08.12.2024,Stella Adjame,Academie de FAD,08.12.2024 | Stella Adjame | Academie de FAD | 0 | 1
+13,08.12.2024,Zoman,Bouake,08.12.2024 | Zoman | Bouake | 1 | 0
+12,05.12.2024,Racing d'Abidjan,Olympique Sport,05.12.2024 | Racing d'Abidjan | Olympique Sport | 0 | 0
+12,05.12.2024,SO Armee,SOL,05.12.2024 | SO Armee | SOL | 3 | 0
+12,04.12.2024,Mouna,ISCA,04.12.2024 | Mouna | ISCA | 1 | 1
+12,04.12.2024,Bouake,San Pedro,04.12.2024 | Bouake | San Pedro | 0 | 6
+12,04.12.2024,Korhogo,Stella Adjame,04.12.2024 | Korhogo | Stella Adjame | 1 | 4
+12,03.12.2024,AS Denguele,Zoman,03.12.2024 | AS Denguele | Zoman | 1 | 2
+11,01.12.2024,ISCA,SO Armee,01.12.2024 | ISCA | SO Armee | 0 | 1
+11,01.12.2024,Olympique Sport,Korhogo,01.12.2024 | Olympique Sport | Korhogo | 0 | 2
+11,01.12.2024,San Pedro,Academie de FAD,01.12.2024 | San Pedro | Academie de FAD | 2 | 3
+11,01.12.2024,SOL,ASEC Mimosas,01.12.2024 | SOL | ASEC Mimosas | 1 | 1
+11,01.12.2024,Stade d'Abidjan,Bouake,01.12.2024 | Stade d'Abidjan | Bouake | 0 | 2
+11,30.11.2024,Lys Sassandra,AS Denguele,30.11.2024 | Lys Sassandra | AS Denguele | 1 | 0
+11,30.11.2024,Stella Adjame,Mouna,30.11.2024 | Stella Adjame | Mouna | 1 | 1
+11,28.11.2024,Zoman,Racing d'Abidjan,28.11.2024 | Zoman | Racing d'Abidjan | 2 | 1
+10,22.11.2024,AS Denguele,San Pedro,22.11.2024 | AS Denguele | San Pedro | 0 | 1
+10,22.11.2024,ASEC Mimosas,ISCA,22.11.2024 | ASEC Mimosas | ISCA | 1 | 1
+10,22.11.2024,Bouake,Stella Adjame,22.11.2024 | Bouake | Stella Adjame | 1 | 3
+10,22.11.2024,Mouna,Zoman,22.11.2024 | Mouna | Zoman | 1 | 2
+10,22.11.2024,SO Armee,Olympique Sport,22.11.2024 | SO Armee | Olympique Sport | 0 | 0
+10,18.11.2024,Academie de FAD,Lys Sassandra,18.11.2024 | Academie de FAD | Lys Sassandra | 0 | 0
+10,17.11.2024,Racing d'Abidjan,SOL,17.11.2024 | Racing d'Abidjan | SOL | 1 | 5
+9,14.11.2024,SOL,Mouna,14.11.2024 | SOL | Mouna | 1 | 2
+9,14.11.2024,Lys Sassandra,SO Armee,14.11.2024 | Lys Sassandra | SO Armee | 0 | 0
+9,14.11.2024,Racing d'Abidjan,Korhogo,14.11.2024 | Racing d'Abidjan | Korhogo | 1 | 0
+9,14.11.2024,San Pedro,ASEC Mimosas,14.11.2024 | San Pedro | ASEC Mimosas | 0 | 1
+9,14.11.2024,Stade d'Abidjan,Stella Adjame,14.11.2024 | Stade d'Abidjan | Stella Adjame | 0 | 0
+9,13.11.2024,Olympique Sport,Bouake,13.11.2024 | Olympique Sport | Bouake | 0 | 0
+9,13.11.2024,Academie de FAD,AS Denguele,13.11.2024 | Academie de FAD | AS Denguele | 2 | 0
+9,13.11.2024,ISCA,Zoman,13.11.2024 | ISCA | Zoman | 1 | 1
+8,10.11.2024,ASEC Mimosas,Stade d'Abidjan,10.11.2024 | ASEC Mimosas | Stade d'Abidjan | 0 | 1
+8,10.11.2024,Korhogo,Lys Sassandra,10.11.2024 | Korhogo | Lys Sassandra | 0 | 0
+8,10.11.2024,Stella Adjame,ISCA,10.11.2024 | Stella Adjame | ISCA | 2 | 1
+8,08.11.2024,SO Armee,Academie de FAD,08.11.2024 | SO Armee | Academie de FAD | 0 | 2
+8,08.11.2024,AS Denguele,SOL,08.11.2024 | AS Denguele | SOL | 1 | 1
+8,08.11.2024,Bouake,Racing d'Abidjan,08.11.2024 | Bouake | Racing d'Abidjan | 0 | 0
+8,08.11.2024,Mouna,Olympique Sport,08.11.2024 | Mouna | Olympique Sport | 2 | 0
+8,08.11.2024,Zoman,San Pedro,08.11.2024 | Zoman | San Pedro | 4 | 1
+2,06.11.2024,Stade d'Abidjan,ISCA,06.11.2024 | Stade d'Abidjan | ISCA | 2 | 1
+7,03.11.2024,SOL,Korhogo,03.11.2024 | SOL | Korhogo | 0 | 1
+7,03.11.2024,Zoman,ASEC Mimosas,03.11.2024 | Zoman | ASEC Mimosas | 1 | 0
+7,02.11.2024,Olympique Sport,Stella Adjame,02.11.2024 | Olympique Sport | Stella Adjame | 0 | 1
+7,02.11.2024,San Pedro,ISCA,02.11.2024 | San Pedro | ISCA | 0 | 0
+7,02.11.2024,Bouake,Academie de FAD,02.11.2024 | Bouake | Academie de FAD | 0 | 0
+7,02.11.2024,Lys Sassandra,Mouna,02.11.2024 | Lys Sassandra | Mouna | 1 | 1
+7,02.11.2024,Racing d'Abidjan,SO Armee,02.11.2024 | Racing d'Abidjan | SO Armee | 0 | 0
+7,01.11.2024,Stade d'Abidjan,AS Denguele,01.11.2024 | Stade d'Abidjan | AS Denguele | 1 | 0
+1,29.10.2024,ISCA,Olympique Sport,29.10.2024 | ISCA | Olympique Sport | 0 | 1
+6,27.10.2024,Stade d'Abidjan,SOL,27.10.2024 | Stade d'Abidjan | SOL | 1 | 0
+6,27.10.2024,ASEC Mimosas,Mouna,27.10.2024 | ASEC Mimosas | Mouna | 1 | 1
+6,27.10.2024,Korhogo,Bouake,27.10.2024 | Korhogo | Bouake | 0 | 0
+6,26.10.2024,AS Denguele,Racing d'Abidjan,26.10.2024 | AS Denguele | Racing d'Abidjan | 4 | 1
+6,26.10.2024,SO Armee,Zoman,26.10.2024 | SO Armee | Zoman | 1 | 1
+6,26.10.2024,Stella Adjame,San Pedro,26.10.2024 | Stella Adjame | San Pedro | 1 | 0
+6,25.10.2024,Academie de FAD,Olympique Sport,25.10.2024 | Academie de FAD | Olympique Sport | 0 | 0
+6,25.10.2024,ISCA,Lys Sassandra,25.10.2024 | ISCA | Lys Sassandra | 2 | 0
+5,20.10.2024,SOL,San Pedro,20.10.2024 | SOL | San Pedro | 0 | 1
+5,20.10.2024,Bouake,ISCA,20.10.2024 | Bouake | ISCA | 1 | 1
+5,20.10.2024,Korhogo,SO Armee,20.10.2024 | Korhogo | SO Armee | 0 | 2
+5,20.10.2024,Zoman,Academie de FAD,20.10.2024 | Zoman | Academie de FAD | 0 | 2
+5,19.10.2024,Lys Sassandra,Stella Adjame,19.10.2024 | Lys Sassandra | Stella Adjame | 1 | 1
+5,19.10.2024,Mouna,AS Denguele,19.10.2024 | Mouna | AS Denguele | 1 | 1
+5,18.10.2024,Racing d'Abidjan,ASEC Mimosas,18.10.2024 | Racing d'Abidjan | ASEC Mimosas | 1 | 2
+5,18.10.2024,Olympique Sport,Stade d'Abidjan,18.10.2024 | Olympique Sport | Stade d'Abidjan | 2 | 3
+4,13.10.2024,Stade d'Abidjan,SO Armee,13.10.2024 | Stade d'Abidjan | SO Armee | 0 | 1
+4,13.10.2024,Lys Sassandra,Bouake,13.10.2024 | Lys Sassandra | Bouake | 1 | 0
+4,13.10.2024,Olympique Sport,AS Denguele,13.10.2024 | Olympique Sport | AS Denguele | 3 | 1
+4,13.10.2024,San Pedro,Mouna,13.10.2024 | San Pedro | Mouna | 0 | 1
+4,13.10.2024,SOL,Zoman,13.10.2024 | SOL | Zoman | 1 | 0
+4,12.10.2024,Stella Adjame,ASEC Mimosas,12.10.2024 | Stella Adjame | ASEC Mimosas | 0 | 0
+4,12.10.2024,Academie de FAD,Korhogo,12.10.2024 | Academie de FAD | Korhogo | 1 | 0
+4,12.10.2024,ISCA,Racing d'Abidjan,12.10.2024 | ISCA | Racing d'Abidjan | 1 | 0
+3,06.10.2024,Zoman,Stella Adjame,06.10.2024 | Zoman | Stella Adjame | 1 | 1
+3,06.10.2024,AS Denguele,Korhogo,06.10.2024 | AS Denguele | Korhogo | 1 | 0
+3,06.10.2024,Racing d'Abidjan,Stade d'Abidjan,06.10.2024 | Racing d'Abidjan | Stade d'Abidjan | 0 | 1
+3,06.10.2024,San Pedro,Lys Sassandra,06.10.2024 | San Pedro | Lys Sassandra | 1 | 2
+3,05.10.2024,Mouna,Academie de FAD,05.10.2024 | Mouna | Academie de FAD | 0 | 2
+3,05.10.2024,ASEC Mimosas,Olympique Sport,05.10.2024 | ASEC Mimosas | Olympique Sport | 1 | 0
+3,05.10.2024,SO Armee,Bouake,05.10.2024 | SO Armee | Bouake | 1 | 1
+1,03.10.2024,San Pedro,Stade d'Abidjan,03.10.2024 | San Pedro | Stade d'Abidjan | 4 | 0
+2,29.09.2024,Academie de FAD,ASEC Mimosas,29.09.2024 | Academie de FAD | ASEC Mimosas | 2 | 0
+2,29.09.2024,Korhogo,San Pedro,29.09.2024 | Korhogo | San Pedro | 0 | 5
+2,29.09.2024,Olympique Sport,Zoman,29.09.2024 | Olympique Sport | Zoman | 1 | 1
+2,28.09.2024,Bouake,AS Denguele,28.09.2024 | Bouake | AS Denguele | 1 | 0
+2,28.09.2024,Lys Sassandra,SOL,28.09.2024 | Lys Sassandra | SOL | 0 | 1
+2,28.09.2024,SO Armee,Mouna,28.09.2024 | SO Armee | Mouna | 1 | 2
+2,28.09.2024,Stella Adjame,Racing d'Abidjan,28.09.2024 | Stella Adjame | Racing d'Abidjan | 1 | 1
+1,25.09.2024,Racing d'Abidjan,Academie de FAD,25.09.2024 | Racing d'Abidjan | Academie de FAD | 1 | 2
+1,25.09.2024,ASEC Mimosas,Korhogo,25.09.2024 | ASEC Mimosas | Korhogo | 3 | 1
+1,21.09.2024,Zoman,Lys Sassandra,21.09.2024 | Zoman | Lys Sassandra | 0 | 3
+1,21.09.2024,AS Denguele,SO Armee,21.09.2024 | AS Denguele | SO Armee | 3 | 1
+1,21.09.2024,Mouna,Bouake,21.09.2024 | Mouna | Bouake | 1 | 1
+1,20.09.2024,SOL,Stella Adjame,20.09.2024 | SOL | Stella Adjame | 1 | 1
