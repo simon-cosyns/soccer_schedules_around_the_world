@@ -1,0 +1,307 @@
+round,date,team_home,team_away,full_text
+34,17.05.2025,Augsburg,Union Berlin,17.05.2025 | Augsburg | Union Berlin | 1 | 2
+34,17.05.2025,B. Monchengladbach,Wolfsburg,17.05.2025 | B. Monchengladbach | Wolfsburg | 0 | 1
+34,17.05.2025,Dortmund,Holstein Kiel,17.05.2025 | Dortmund | Holstein Kiel | 3 | 0
+34,17.05.2025,Freiburg,Eintracht Frankfurt,17.05.2025 | Freiburg | Eintracht Frankfurt | 1 | 3
+34,17.05.2025,Heidenheim,Werder Bremen,17.05.2025 | Heidenheim | Werder Bremen | 1 | 4
+34,17.05.2025,Hoffenheim,Bayern Munich,17.05.2025 | Hoffenheim | Bayern Munich | 0 | 4
+34,17.05.2025,Mainz,Bayer Leverkusen,17.05.2025 | Mainz | Bayer Leverkusen | 2 | 2
+34,17.05.2025,RB Leipzig,Stuttgart,17.05.2025 | RB Leipzig | Stuttgart | 2 | 3
+34,17.05.2025,St. Pauli,Bochum,17.05.2025 | St. Pauli | Bochum | 0 | 2
+33,11.05.2025,Stuttgart,Augsburg,11.05.2025 | Stuttgart | Augsburg | 4 | 0
+33,11.05.2025,Eintracht Frankfurt,St. Pauli,11.05.2025 | Eintracht Frankfurt | St. Pauli | 2 | 2
+33,11.05.2025,Bayer Leverkusen,Dortmund,11.05.2025 | Bayer Leverkusen | Dortmund | 2 | 4
+33,10.05.2025,Bayern Munich,B. Monchengladbach,10.05.2025 | Bayern Munich | B. Monchengladbach | 2 | 0
+33,10.05.2025,Bochum,Mainz,10.05.2025 | Bochum | Mainz | 1 | 4
+33,10.05.2025,Holstein Kiel,Freiburg,10.05.2025 | Holstein Kiel | Freiburg | 1 | 2
+33,10.05.2025,Union Berlin,Heidenheim,10.05.2025 | Union Berlin | Heidenheim | 0 | 3
+33,10.05.2025,Werder Bremen,RB Leipzig,10.05.2025 | Werder Bremen | RB Leipzig | 0 | 0
+33,09.05.2025,Wolfsburg,Hoffenheim,09.05.2025 | Wolfsburg | Hoffenheim | 2 | 2
+32,04.05.2025,Mainz,Eintracht Frankfurt,04.05.2025 | Mainz | Eintracht Frankfurt | 1 | 1
+32,04.05.2025,Freiburg,Bayer Leverkusen,04.05.2025 | Freiburg | Bayer Leverkusen | 2 | 2
+32,04.05.2025,Augsburg,Holstein Kiel,04.05.2025 | Augsburg | Holstein Kiel | 1 | 3
+32,03.05.2025,Dortmund,Wolfsburg,03.05.2025 | Dortmund | Wolfsburg | 4 | 0
+32,03.05.2025,B. Monchengladbach,Hoffenheim,03.05.2025 | B. Monchengladbach | Hoffenheim | 4 | 4
+32,03.05.2025,RB Leipzig,Bayern Munich,03.05.2025 | RB Leipzig | Bayern Munich | 3 | 3
+32,03.05.2025,St. Pauli,Stuttgart,03.05.2025 | St. Pauli | 2 | Stuttgart | 0 | 1
+32,03.05.2025,Union Berlin,Werder Bremen,03.05.2025 | Union Berlin | Werder Bremen | 2 | 2
+32,02.05.2025,Heidenheim,Bochum,02.05.2025 | Heidenheim | Bochum | 0 | 0
+31,27.04.2025,Werder Bremen,St. Pauli,27.04.2025 | Werder Bremen | St. Pauli | 0 | 0
+31,27.04.2025,Bochum,Union Berlin,27.04.2025 | Bochum | Union Berlin | 1 | 1
+31,26.04.2025,Eintracht Frankfurt,RB Leipzig,26.04.2025 | Eintracht Frankfurt | RB Leipzig | 4 | 0
+31,26.04.2025,Bayer Leverkusen,Augsburg,26.04.2025 | Bayer Leverkusen | Augsburg | 2 | 0
+31,26.04.2025,Bayern Munich,Mainz,26.04.2025 | Bayern Munich | Mainz | 3 | 0
+31,26.04.2025,Hoffenheim,Dortmund,26.04.2025 | Hoffenheim | Dortmund | 2 | 3
+31,26.04.2025,Holstein Kiel,B. Monchengladbach,26.04.2025 | Holstein Kiel | B. Monchengladbach | 4 | 3
+31,26.04.2025,Wolfsburg,Freiburg,26.04.2025 | Wolfsburg | Freiburg | 0 | 1
+31,25.04.2025,Stuttgart,Heidenheim,25.04.2025 | Stuttgart | Heidenheim | 0 | 1
+30,20.04.2025,St. Pauli,Bayer Leverkusen,20.04.2025 | St. Pauli | Bayer Leverkusen | 1 | 1
+30,20.04.2025,Dortmund,B. Monchengladbach,20.04.2025 | Dortmund | B. Monchengladbach | 3 | 2
+30,20.04.2025,Augsburg,Eintracht Frankfurt,20.04.2025 | Augsburg | Eintracht Frankfurt | 0 | 0
+30,19.04.2025,Union Berlin,Stuttgart,19.04.2025 | Union Berlin | Stuttgart | 4 | 4
+30,19.04.2025,Freiburg,Hoffenheim,19.04.2025 | Freiburg | Hoffenheim | 3 | 2
+30,19.04.2025,Heidenheim,Bayern Munich,19.04.2025 | Heidenheim | Bayern Munich | 0 | 4
+30,19.04.2025,Mainz,Wolfsburg,19.04.2025 | Mainz | Wolfsburg | 2 | 2
+30,19.04.2025,RB Leipzig,Holstein Kiel,19.04.2025 | RB Leipzig | Holstein Kiel | 1 | 1
+30,19.04.2025,Werder Bremen,Bochum,19.04.2025 | Werder Bremen | Bochum | 1 | 0
+29,13.04.2025,Eintracht Frankfurt,Heidenheim,13.04.2025 | Eintracht Frankfurt | Heidenheim | 3 | 0
+29,13.04.2025,Stuttgart,Werder Bremen,13.04.2025 | Stuttgart | Werder Bremen | 1 | 2
+29,12.04.2025,Bayern Munich,Dortmund,12.04.2025 | Bayern Munich | Dortmund | 2 | 2
+29,12.04.2025,B. Monchengladbach,Freiburg,12.04.2025 | B. Monchengladbach | Freiburg | 1 | 2
+29,12.04.2025,Bayer Leverkusen,Union Berlin,12.04.2025 | Bayer Leverkusen | Union Berlin | 0 | 0
+29,12.04.2025,Bochum,Augsburg,12.04.2025 | Bochum | Augsburg | 1 | 2
+29,12.04.2025,Hoffenheim,Mainz,12.04.2025 | Hoffenheim | Mainz | 2 | 0
+29,12.04.2025,Holstein Kiel,St. Pauli,12.04.2025 | Holstein Kiel | St. Pauli | 1 | 2
+29,11.04.2025,Wolfsburg,RB Leipzig,11.04.2025 | Wolfsburg | RB Leipzig | 2 | 3
+28,06.04.2025,Union Berlin,Wolfsburg,06.04.2025 | Union Berlin | Wolfsburg | 1 | 0
+28,06.04.2025,St. Pauli,B. Monchengladbach,06.04.2025 | St. Pauli | B. Monchengladbach | 1 | 1
+28,05.04.2025,Werder Bremen,Eintracht Frankfurt,05.04.2025 | Werder Bremen | Eintracht Frankfurt | 2 | 0
+28,05.04.2025,Bochum,Stuttgart,05.04.2025 | Bochum | Stuttgart | 0 | 4
+28,05.04.2025,Freiburg,Dortmund,05.04.2025 | Freiburg | Dortmund | 1 | 4
+28,05.04.2025,Heidenheim,Bayer Leverkusen,05.04.2025 | Heidenheim | Bayer Leverkusen | 0 | 1
+28,05.04.2025,Mainz,Holstein Kiel,05.04.2025 | Mainz | Holstein Kiel | 1 | 1
+28,05.04.2025,RB Leipzig,Hoffenheim,05.04.2025 | RB Leipzig | Hoffenheim | 3 | 1
+28,04.04.2025,Augsburg,Bayern Munich,04.04.2025 | Augsburg | Bayern Munich | 1 | 3
+27,30.03.2025,Dortmund,Mainz,30.03.2025 | Dortmund | Mainz | 3 | 1
+27,30.03.2025,Freiburg,Union Berlin,30.03.2025 | Freiburg | Union Berlin | 1 | 2
+27,29.03.2025,Eintracht Frankfurt,Stuttgart,29.03.2025 | Eintracht Frankfurt | Stuttgart | 1 | 0
+27,29.03.2025,B. Monchengladbach,RB Leipzig,29.03.2025 | B. Monchengladbach | RB Leipzig | 1 | 0
+27,29.03.2025,Bayern Munich,St. Pauli,29.03.2025 | Bayern Munich | St. Pauli | 3 | 2
+27,29.03.2025,Hoffenheim,Augsburg,29.03.2025 | Hoffenheim | Augsburg | 1 | 1
+27,29.03.2025,Holstein Kiel,Werder Bremen,29.03.2025 | Holstein Kiel | Werder Bremen | 0 | 3
+27,29.03.2025,Wolfsburg,Heidenheim,29.03.2025 | Wolfsburg | Heidenheim | 0 | 1
+27,28.03.2025,Bayer Leverkusen,Bochum,28.03.2025 | Bayer Leverkusen | Bochum | 3 | 1
+26,16.03.2025,Stuttgart,Bayer Leverkusen,16.03.2025 | Stuttgart | Bayer Leverkusen | 3 | 4
+26,16.03.2025,Heidenheim,Holstein Kiel,16.03.2025 | Heidenheim | Holstein Kiel | 3 | 1
+26,16.03.2025,Bochum,Eintracht Frankfurt,16.03.2025 | Bochum | Eintracht Frankfurt | 1 | 3
+26,15.03.2025,RB Leipzig,Dortmund,15.03.2025 | RB Leipzig | Dortmund | 2 | 0
+26,15.03.2025,Augsburg,Wolfsburg,15.03.2025 | Augsburg | Wolfsburg | 1 | 0
+26,15.03.2025,Mainz,Freiburg,15.03.2025 | Mainz | Freiburg | 2 | 2
+26,15.03.2025,Union Berlin,Bayern Munich,15.03.2025 | Union Berlin | Bayern Munich | 1 | 1
+26,15.03.2025,Werder Bremen,B. Monchengladbach,15.03.2025 | Werder Bremen | B. Monchengladbach | 2 | 4
+26,14.03.2025,St. Pauli,Hoffenheim,14.03.2025 | St. Pauli | Hoffenheim | 1 | 0
+25,09.03.2025,Hoffenheim,Heidenheim,09.03.2025 | Hoffenheim | Heidenheim | 1 | 1
+25,09.03.2025,Eintracht Frankfurt,Union Berlin,09.03.2025 | Eintracht Frankfurt | Union Berlin | 1 | 2
+25,08.03.2025,Freiburg,RB Leipzig,08.03.2025 | Freiburg | RB Leipzig | 0 | 0
+25,08.03.2025,Bayer Leverkusen,Werder Bremen,08.03.2025 | Bayer Leverkusen | Werder Bremen | 0 | 2
+25,08.03.2025,Bayern Munich,Bochum,08.03.2025 | Bayern Munich | Bochum | 2 | 3
+25,08.03.2025,Dortmund,Augsburg,08.03.2025 | Dortmund | Augsburg | 0 | 1
+25,08.03.2025,Holstein Kiel,Stuttgart,08.03.2025 | Holstein Kiel | Stuttgart | 2 | 2
+25,08.03.2025,Wolfsburg,St. Pauli,08.03.2025 | Wolfsburg | St. Pauli | 1 | 1
+25,07.03.2025,B. Monchengladbach,Mainz,07.03.2025 | B. Monchengladbach | Mainz | 1 | 3
+24,02.03.2025,Augsburg,Freiburg,02.03.2025 | Augsburg | Freiburg | 0 | 0
+24,02.03.2025,Union Berlin,Holstein Kiel,02.03.2025 | Union Berlin | Holstein Kiel | 0 | 1
+24,01.03.2025,Eintracht Frankfurt,Bayer Leverkusen,01.03.2025 | Eintracht Frankfurt | Bayer Leverkusen | 1 | 4
+24,01.03.2025,Bochum,Hoffenheim,01.03.2025 | Bochum | Hoffenheim | 0 | 1
+24,01.03.2025,Heidenheim,B. Monchengladbach,01.03.2025 | Heidenheim | B. Monchengladbach | 0 | 3
+24,01.03.2025,RB Leipzig,Mainz,01.03.2025 | RB Leipzig | Mainz | 1 | 2
+24,01.03.2025,St. Pauli,Dortmund,01.03.2025 | St. Pauli | Dortmund | 0 | 2
+24,01.03.2025,Werder Bremen,Wolfsburg,01.03.2025 | Werder Bremen | Wolfsburg | 1 | 2
+24,28.02.2025,Stuttgart,Bayern Munich,28.02.2025 | Stuttgart | Bayern Munich | 1 | 3
+23,23.02.2025,Hoffenheim,Stuttgart,23.02.2025 | Hoffenheim | Stuttgart | 1 | 1
+23,23.02.2025,Bayern Munich,Eintracht Frankfurt,23.02.2025 | Bayern Munich | Eintracht Frankfurt | 4 | 0
+23,23.02.2025,RB Leipzig,Heidenheim,23.02.2025 | RB Leipzig | Heidenheim | 2 | 2
+23,22.02.2025,Dortmund,Union Berlin,22.02.2025 | Dortmund | Union Berlin | 6 | 0
+23,22.02.2025,B. Monchengladbach,Augsburg,22.02.2025 | B. Monchengladbach | Augsburg | 0 | 3
+23,22.02.2025,Holstein Kiel,Bayer Leverkusen,22.02.2025 | Holstein Kiel | Bayer Leverkusen | 0 | 2
+23,22.02.2025,Mainz,St. Pauli,22.02.2025 | Mainz | St. Pauli | 2 | 0
+23,22.02.2025,Wolfsburg,Bochum,22.02.2025 | Wolfsburg | Bochum | 1 | 1
+23,21.02.2025,Freiburg,Werder Bremen,21.02.2025 | Freiburg | Werder Bremen | 5 | 0
+22,16.02.2025,Heidenheim,Mainz,16.02.2025 | Heidenheim | Mainz | 0 | 2
+22,16.02.2025,Eintracht Frankfurt,Holstein Kiel,16.02.2025 | Eintracht Frankfurt | Holstein Kiel | 3 | 1
+22,16.02.2025,Werder Bremen,Hoffenheim,16.02.2025 | Werder Bremen | Hoffenheim | 1 | 3
+22,15.02.2025,Bayer Leverkusen,Bayern Munich,15.02.2025 | Bayer Leverkusen | Bayern Munich | 0 | 0
+22,15.02.2025,Bochum,Dortmund,15.02.2025 | Bochum | Dortmund | 2 | 0
+22,15.02.2025,St. Pauli,Freiburg,15.02.2025 | St. Pauli | Freiburg | 0 | 1
+22,15.02.2025,Stuttgart,Wolfsburg,15.02.2025 | Stuttgart | Wolfsburg | 1 | 2
+22,15.02.2025,Union Berlin,B. Monchengladbach,15.02.2025 | Union Berlin | B. Monchengladbach | 1 | 2
+22,14.02.2025,Augsburg,RB Leipzig,14.02.2025 | Augsburg | RB Leipzig | 0 | 0
+21,09.02.2025,RB Leipzig,St. Pauli,09.02.2025 | RB Leipzig | St. Pauli | 2 | 0
+21,09.02.2025,Holstein Kiel,Bochum,09.02.2025 | Holstein Kiel | Bochum | 2 | 2
+21,08.02.2025,B. Monchengladbach,Eintracht Frankfurt,08.02.2025 | B. Monchengladbach | Eintracht Frankfurt | 1 | 1
+21,08.02.2025,Dortmund,Stuttgart,08.02.2025 | Dortmund | Stuttgart | 1 | 2
+21,08.02.2025,Freiburg,Heidenheim,08.02.2025 | Freiburg | Heidenheim | 1 | 0
+21,08.02.2025,Hoffenheim,Union Berlin,08.02.2025 | Hoffenheim | Union Berlin | 0 | 4
+21,08.02.2025,Mainz,Augsburg,08.02.2025 | Mainz | Augsburg | 0 | 0
+21,08.02.2025,Wolfsburg,Bayer Leverkusen,08.02.2025 | Wolfsburg | Bayer Leverkusen | 0 | 0
+21,07.02.2025,Bayern Munich,Werder Bremen,07.02.2025 | Bayern Munich | Werder Bremen | 3 | 0
+20,02.02.2025,Bayer Leverkusen,Hoffenheim,02.02.2025 | Bayer Leverkusen | Hoffenheim | 3 | 1
+20,02.02.2025,Eintracht Frankfurt,Wolfsburg,02.02.2025 | Eintracht Frankfurt | Wolfsburg | 1 | 1
+20,01.02.2025,Union Berlin,RB Leipzig,01.02.2025 | Union Berlin | RB Leipzig | 0 | 0
+20,01.02.2025,Bayern Munich,Holstein Kiel,01.02.2025 | Bayern Munich | Holstein Kiel | 4 | 3
+20,01.02.2025,Bochum,Freiburg,01.02.2025 | Bochum | Freiburg | 0 | 1
+20,01.02.2025,Heidenheim,Dortmund,01.02.2025 | Heidenheim | Dortmund | 1 | 2
+20,01.02.2025,St. Pauli,Augsburg,01.02.2025 | St. Pauli | Augsburg | 1 | 1
+20,01.02.2025,Stuttgart,B. Monchengladbach,01.02.2025 | Stuttgart | B. Monchengladbach | 1 | 2
+20,31.01.2025,Werder Bremen,Mainz,31.01.2025 | Werder Bremen | 2 | Mainz | 1 | 0
+19,26.01.2025,St. Pauli,Union Berlin,26.01.2025 | St. Pauli | Union Berlin | 3 | 0
+19,26.01.2025,Hoffenheim,Eintracht Frankfurt,26.01.2025 | Hoffenheim | Eintracht Frankfurt | 2 | 2
+19,25.01.2025,B. Monchengladbach,Bochum,25.01.2025 | B. Monchengladbach | Bochum | 3 | 0
+19,25.01.2025,Augsburg,Heidenheim,25.01.2025 | Augsburg | Heidenheim | 2 | 1
+19,25.01.2025,Dortmund,Werder Bremen,25.01.2025 | Dortmund | Werder Bremen | 2 | 2
+19,25.01.2025,Freiburg,Bayern Munich,25.01.2025 | Freiburg | Bayern Munich | 1 | 2
+19,25.01.2025,Mainz,Stuttgart,25.01.2025 | Mainz | Stuttgart | 2 | 0
+19,25.01.2025,RB Leipzig,Bayer Leverkusen,25.01.2025 | RB Leipzig | Bayer Leverkusen | 2 | 2
+19,24.01.2025,Wolfsburg,Holstein Kiel,24.01.2025 | Wolfsburg | Holstein Kiel | 2 | 2
+18,19.01.2025,Werder Bremen,Augsburg,19.01.2025 | Werder Bremen | Augsburg | 0 | 2
+18,19.01.2025,Union Berlin,Mainz,19.01.2025 | Union Berlin | Mainz | 2 | 1
+18,18.01.2025,Bayer Leverkusen,B. Monchengladbach,18.01.2025 | Bayer Leverkusen | B. Monchengladbach | 3 | 1
+18,18.01.2025,Bayern Munich,Wolfsburg,18.01.2025 | Bayern Munich | Wolfsburg | 3 | 2
+18,18.01.2025,Bochum,RB Leipzig,18.01.2025 | Bochum | RB Leipzig | 3 | 3
+18,18.01.2025,Heidenheim,St. Pauli,18.01.2025 | Heidenheim | St. Pauli | 0 | 2
+18,18.01.2025,Holstein Kiel,Hoffenheim,18.01.2025 | Holstein Kiel | Hoffenheim | 1 | 3
+18,18.01.2025,Stuttgart,Freiburg,18.01.2025 | Stuttgart | Freiburg | 4 | 0
+18,17.01.2025,Eintracht Frankfurt,Dortmund,17.01.2025 | Eintracht Frankfurt | Dortmund | 2 | 0
+17,15.01.2025,Bayern Munich,Hoffenheim,15.01.2025 | Bayern Munich | Hoffenheim | 5 | 0
+17,15.01.2025,Stuttgart,RB Leipzig,15.01.2025 | Stuttgart | RB Leipzig | 2 | 2 | 1
+17,15.01.2025,Union Berlin,Augsburg,15.01.2025 | Union Berlin | Augsburg | 0 | 2
+17,15.01.2025,Werder Bremen,Heidenheim,15.01.2025 | Werder Bremen | Heidenheim | 3 | 3
+17,15.01.2025,Bochum,St. Pauli,15.01.2025 | Bochum | St. Pauli | 1 | 0
+17,14.01.2025,Bayer Leverkusen,Mainz,14.01.2025 | Bayer Leverkusen | Mainz | 1 | 0
+17,14.01.2025,Eintracht Frankfurt,Freiburg,14.01.2025 | Eintracht Frankfurt | Freiburg | 4 | 1
+17,14.01.2025,Wolfsburg,B. Monchengladbach,14.01.2025 | Wolfsburg | B. Monchengladbach | 5 | 1
+17,14.01.2025,Holstein Kiel,Dortmund,14.01.2025 | Holstein Kiel | Dortmund | 4 | 2
+16,12.01.2025,Augsburg,Stuttgart,12.01.2025 | Augsburg | Stuttgart | 0 | 1
+16,12.01.2025,RB Leipzig,Werder Bremen,12.01.2025 | RB Leipzig | Werder Bremen | 4 | 2
+16,11.01.2025,B. Monchengladbach,Bayern Munich,11.01.2025 | B. Monchengladbach | Bayern Munich | 0 | 1
+16,11.01.2025,Freiburg,Holstein Kiel,11.01.2025 | Freiburg | Holstein Kiel | 3 | 2
+16,11.01.2025,Heidenheim,Union Berlin,11.01.2025 | Heidenheim | Union Berlin | 2 | 0
+16,11.01.2025,Hoffenheim,Wolfsburg,11.01.2025 | Hoffenheim | Wolfsburg | 0 | 1
+16,11.01.2025,Mainz,Bochum,11.01.2025 | Mainz | Bochum | 2 | 0
+16,11.01.2025,St. Pauli,Eintracht Frankfurt,11.01.2025 | St. Pauli | Eintracht Frankfurt | 0 | 1
+16,10.01.2025,Dortmund,Bayer Leverkusen,10.01.2025 | Dortmund | Bayer Leverkusen | 2 | 3
+15,22.12.2024,Wolfsburg,Dortmund,22.12.2024 | Wolfsburg | Dortmund | 1 | 3
+15,22.12.2024,Bochum,Heidenheim,22.12.2024 | Bochum | Heidenheim | 2 | 0
+15,21.12.2024,Bayer Leverkusen,Freiburg,21.12.2024 | Bayer Leverkusen | Freiburg | 5 | 1
+15,21.12.2024,Eintracht Frankfurt,Mainz,21.12.2024 | Eintracht Frankfurt | Mainz | 1 | 3
+15,21.12.2024,Hoffenheim,B. Monchengladbach,21.12.2024 | Hoffenheim | B. Monchengladbach | 1 | 2
+15,21.12.2024,Holstein Kiel,Augsburg,21.12.2024 | Holstein Kiel | Augsburg | 5 | 1
+15,21.12.2024,Stuttgart,St. Pauli,21.12.2024 | Stuttgart | St. Pauli | 0 | 1
+15,21.12.2024,Werder Bremen,Union Berlin,21.12.2024 | Werder Bremen | Union Berlin | 4 | 1
+15,20.12.2024,Bayern Munich,RB Leipzig,20.12.2024 | Bayern Munich | RB Leipzig | 5 | 1
+14,15.12.2024,RB Leipzig,Eintracht Frankfurt,15.12.2024 | RB Leipzig | Eintracht Frankfurt | 2 | 1
+14,15.12.2024,Dortmund,Hoffenheim,15.12.2024 | Dortmund | Hoffenheim | 1 | 1
+14,15.12.2024,Heidenheim,Stuttgart,15.12.2024 | Heidenheim | Stuttgart | 1 | 3
+14,14.12.2024,St. Pauli,Werder Bremen,14.12.2024 | St. Pauli | Werder Bremen | 0 | 2
+14,14.12.2024,Augsburg,Bayer Leverkusen,14.12.2024 | Augsburg | Bayer Leverkusen | 0 | 2
+14,14.12.2024,B. Monchengladbach,Holstein Kiel,14.12.2024 | B. Monchengladbach | Holstein Kiel | 4 | 1
+14,14.12.2024,Mainz,Bayern Munich,14.12.2024 | Mainz | Bayern Munich | 2 | 1
+14,14.12.2024,Union Berlin,Bochum,14.12.2024 | Awrd | Union Berlin | Bochum | 0 | 2
+14,13.12.2024,Freiburg,Wolfsburg,13.12.2024 | Freiburg | Wolfsburg | 3 | 2
+13,08.12.2024,Hoffenheim,Freiburg,08.12.2024 | Hoffenheim | Freiburg | 1 | 1
+13,08.12.2024,Wolfsburg,Mainz,08.12.2024 | Wolfsburg | Mainz | 4 | 3
+13,07.12.2024,B. Monchengladbach,Dortmund,07.12.2024 | B. Monchengladbach | Dortmund | 1 | 1
+13,07.12.2024,Bayer Leverkusen,St. Pauli,07.12.2024 | Bayer Leverkusen | St. Pauli | 2 | 1
+13,07.12.2024,Bayern Munich,Heidenheim,07.12.2024 | Bayern Munich | Heidenheim | 4 | 2
+13,07.12.2024,Bochum,Werder Bremen,07.12.2024 | Bochum | Werder Bremen | 0 | 1
+13,07.12.2024,Eintracht Frankfurt,Augsburg,07.12.2024 | Eintracht Frankfurt | Augsburg | 2 | 2
+13,07.12.2024,Holstein Kiel,RB Leipzig,07.12.2024 | Holstein Kiel | RB Leipzig | 0 | 2
+13,06.12.2024,Stuttgart,Union Berlin,06.12.2024 | Stuttgart | Union Berlin | 3 | 2
+12,01.12.2024,Heidenheim,Eintracht Frankfurt,01.12.2024 | Heidenheim | Eintracht Frankfurt | 0 | 4
+12,01.12.2024,Mainz,Hoffenheim,01.12.2024 | Mainz | Hoffenheim | 2 | 0
+12,30.11.2024,Dortmund,Bayern Munich,30.11.2024 | Dortmund | Bayern Munich | 1 | 1
+12,30.11.2024,Augsburg,Bochum,30.11.2024 | Augsburg | Bochum | 1 | 0
+12,30.11.2024,Freiburg,B. Monchengladbach,30.11.2024 | Freiburg | B. Monchengladbach | 3 | 1
+12,30.11.2024,RB Leipzig,Wolfsburg,30.11.2024 | RB Leipzig | Wolfsburg | 1 | 5
+12,30.11.2024,Union Berlin,Bayer Leverkusen,30.11.2024 | Union Berlin | Bayer Leverkusen | 1 | 2
+12,30.11.2024,Werder Bremen,Stuttgart,30.11.2024 | Werder Bremen | Stuttgart | 2 | 2
+12,29.11.2024,St. Pauli,Holstein Kiel,29.11.2024 | St. Pauli | Holstein Kiel | 3 | 1
+11,24.11.2024,B. Monchengladbach,St. Pauli,24.11.2024 | B. Monchengladbach | St. Pauli | 2 | 0
+11,24.11.2024,Holstein Kiel,Mainz,24.11.2024 | Holstein Kiel | Mainz | 0 | 3
+11,23.11.2024,Eintracht Frankfurt,Werder Bremen,23.11.2024 | Eintracht Frankfurt | Werder Bremen | 1 | 0
+11,23.11.2024,Bayer Leverkusen,Heidenheim,23.11.2024 | Bayer Leverkusen | Heidenheim | 5 | 2
+11,23.11.2024,Dortmund,Freiburg,23.11.2024 | Dortmund | Freiburg | 2 | 4 | 0
+11,23.11.2024,Hoffenheim,RB Leipzig,23.11.2024 | Hoffenheim | RB Leipzig | 4 | 3
+11,23.11.2024,Stuttgart,Bochum,23.11.2024 | Stuttgart | Bochum | 2 | 0
+11,23.11.2024,Wolfsburg,Union Berlin,23.11.2024 | Wolfsburg | Union Berlin | 1 | 0
+11,22.11.2024,Bayern Munich,Augsburg,22.11.2024 | Bayern Munich | Augsburg | 3 | 0
+10,10.11.2024,Heidenheim,Wolfsburg,10.11.2024 | Heidenheim | Wolfsburg | 1 | 3
+10,10.11.2024,Stuttgart,Eintracht Frankfurt,10.11.2024 | Stuttgart | Eintracht Frankfurt | 2 | 3
+10,10.11.2024,Augsburg,Hoffenheim,10.11.2024 | Augsburg | Hoffenheim | 0 | 0
+10,09.11.2024,RB Leipzig,B. Monchengladbach,09.11.2024 | RB Leipzig | B. Monchengladbach | 0 | 0
+10,09.11.2024,Bochum,Bayer Leverkusen,09.11.2024 | Bochum | Bayer Leverkusen | 1 | 1
+10,09.11.2024,Mainz,Dortmund,09.11.2024 | Mainz | Dortmund | 3 | 1
+10,09.11.2024,St. Pauli,Bayern Munich,09.11.2024 | St. Pauli | Bayern Munich | 0 | 1
+10,09.11.2024,Werder Bremen,Holstein Kiel,09.11.2024 | Werder Bremen | Holstein Kiel | 2 | 1
+10,08.11.2024,Union Berlin,Freiburg,08.11.2024 | Union Berlin | Freiburg | 0 | 0
+9,03.11.2024,B. Monchengladbach,Werder Bremen,03.11.2024 | B. Monchengladbach | Werder Bremen | 4 | 1
+9,03.11.2024,Freiburg,Mainz,03.11.2024 | Freiburg | Mainz | 0 | 0
+9,02.11.2024,Dortmund,RB Leipzig,02.11.2024 | Dortmund | RB Leipzig | 2 | 1
+9,02.11.2024,Bayern Munich,Union Berlin,02.11.2024 | Bayern Munich | Union Berlin | 3 | 0
+9,02.11.2024,Eintracht Frankfurt,Bochum,02.11.2024 | Eintracht Frankfurt | Bochum | 7 | 2
+9,02.11.2024,Hoffenheim,St. Pauli,02.11.2024 | Hoffenheim | St. Pauli | 0 | 2
+9,02.11.2024,Holstein Kiel,Heidenheim,02.11.2024 | Holstein Kiel | Heidenheim | 1 | 0
+9,02.11.2024,Wolfsburg,Augsburg,02.11.2024 | Wolfsburg | Augsburg | 1 | 1
+9,01.11.2024,Bayer Leverkusen,Stuttgart,01.11.2024 | Bayer Leverkusen | Stuttgart | 0 | 0
+8,27.10.2024,Heidenheim,Hoffenheim,27.10.2024 | Heidenheim | Hoffenheim | 0 | 0
+8,27.10.2024,Union Berlin,Eintracht Frankfurt,27.10.2024 | Union Berlin | Eintracht Frankfurt | 1 | 1
+8,27.10.2024,Bochum,Bayern Munich,27.10.2024 | Bochum | Bayern Munich | 0 | 5
+8,26.10.2024,Werder Bremen,Bayer Leverkusen,26.10.2024 | Werder Bremen | Bayer Leverkusen | 2 | 2
+8,26.10.2024,Augsburg,Dortmund,26.10.2024 | Augsburg | Dortmund | 2 | 1
+8,26.10.2024,RB Leipzig,Freiburg,26.10.2024 | RB Leipzig | Freiburg | 3 | 1
+8,26.10.2024,St. Pauli,Wolfsburg,26.10.2024 | St. Pauli | Wolfsburg | 0 | 0
+8,26.10.2024,Stuttgart,Holstein Kiel,26.10.2024 | Stuttgart | Holstein Kiel | 2 | 1
+8,25.10.2024,Mainz,B. Monchengladbach,25.10.2024 | Mainz | B. Monchengladbach | 1 | 1
+7,20.10.2024,Wolfsburg,Werder Bremen,20.10.2024 | Wolfsburg | Werder Bremen | 2 | 4
+7,20.10.2024,Holstein Kiel,Union Berlin,20.10.2024 | Holstein Kiel | Union Berlin | 0 | 2
+7,19.10.2024,Bayern Munich,Stuttgart,19.10.2024 | Bayern Munich | Stuttgart | 4 | 0
+7,19.10.2024,B. Monchengladbach,Heidenheim,19.10.2024 | B. Monchengladbach | Heidenheim | 3 | 2
+7,19.10.2024,Bayer Leverkusen,Eintracht Frankfurt,19.10.2024 | Bayer Leverkusen | Eintracht Frankfurt | 2 | 1
+7,19.10.2024,Freiburg,Augsburg,19.10.2024 | Freiburg | Augsburg | 3 | 1
+7,19.10.2024,Hoffenheim,Bochum,19.10.2024 | Hoffenheim | Bochum | 3 | 1
+7,19.10.2024,Mainz,RB Leipzig,19.10.2024 | Mainz | RB Leipzig | 0 | 2
+7,18.10.2024,Dortmund,St. Pauli,18.10.2024 | Dortmund | St. Pauli | 2 | 1
+6,06.10.2024,Stuttgart,Hoffenheim,06.10.2024 | Stuttgart | Hoffenheim | 1 | 1
+6,06.10.2024,Eintracht Frankfurt,Bayern Munich,06.10.2024 | Eintracht Frankfurt | Bayern Munich | 3 | 3
+6,06.10.2024,Heidenheim,RB Leipzig,06.10.2024 | Heidenheim | RB Leipzig | 0 | 1
+6,05.10.2024,St. Pauli,Mainz,05.10.2024 | St. Pauli | Mainz | 0 | 3
+6,05.10.2024,Bayer Leverkusen,Holstein Kiel,05.10.2024 | Bayer Leverkusen | Holstein Kiel | 2 | 2
+6,05.10.2024,Bochum,Wolfsburg,05.10.2024 | Bochum | Wolfsburg | 1 | 3
+6,05.10.2024,Union Berlin,Dortmund,05.10.2024 | Union Berlin | Dortmund | 2 | 1
+6,05.10.2024,Werder Bremen,Freiburg,05.10.2024 | Werder Bremen | Freiburg | 0 | 1
+6,04.10.2024,Augsburg,B. Monchengladbach,04.10.2024 | Augsburg | B. Monchengladbach | 2 | 1
+5,29.09.2024,Hoffenheim,Werder Bremen,29.09.2024 | Hoffenheim | Werder Bremen | 3 | 4
+5,29.09.2024,Holstein Kiel,Eintracht Frankfurt,29.09.2024 | Holstein Kiel | Eintracht Frankfurt | 2 | 4
+5,28.09.2024,Bayern Munich,Bayer Leverkusen,28.09.2024 | Bayern Munich | Bayer Leverkusen | 1 | 1
+5,28.09.2024,B. Monchengladbach,Union Berlin,28.09.2024 | B. Monchengladbach | Union Berlin | 1 | 0
+5,28.09.2024,Freiburg,St. Pauli,28.09.2024 | Freiburg | St. Pauli | 0 | 3
+5,28.09.2024,Mainz,Heidenheim,28.09.2024 | Mainz | Heidenheim | 0 | 2
+5,28.09.2024,RB Leipzig,Augsburg,28.09.2024 | RB Leipzig | Augsburg | 4 | 0
+5,28.09.2024,Wolfsburg,Stuttgart,28.09.2024 | Wolfsburg | Stuttgart | 2 | 2
+5,27.09.2024,Dortmund,Bochum,27.09.2024 | Dortmund | Bochum | 4 | 2
+4,22.09.2024,St. Pauli,RB Leipzig,22.09.2024 | St. Pauli | RB Leipzig | 0 | 0
+4,22.09.2024,Stuttgart,Dortmund,22.09.2024 | Stuttgart | Dortmund | 5 | 1
+4,22.09.2024,Bayer Leverkusen,Wolfsburg,22.09.2024 | Bayer Leverkusen | Wolfsburg | 4 | 3
+4,21.09.2024,Eintracht Frankfurt,B. Monchengladbach,21.09.2024 | Eintracht Frankfurt | B. Monchengladbach | 2 | 0
+4,21.09.2024,Bochum,Holstein Kiel,21.09.2024 | Bochum | Holstein Kiel | 2 | 2
+4,21.09.2024,Heidenheim,Freiburg,21.09.2024 | Heidenheim | Freiburg | 0 | 3
+4,21.09.2024,Union Berlin,Hoffenheim,21.09.2024 | Union Berlin | Hoffenheim | 2 | 1
+4,21.09.2024,Werder Bremen,Bayern Munich,21.09.2024 | Werder Bremen | Bayern Munich | 0 | 5
+4,20.09.2024,Augsburg,Mainz,20.09.2024 | Augsburg | Mainz | 2 | 3
+3,15.09.2024,Mainz,Werder Bremen,15.09.2024 | Mainz | Werder Bremen | 1 | 2
+3,15.09.2024,Augsburg,St. Pauli,15.09.2024 | Augsburg | St. Pauli | 3 | 1
+3,14.09.2024,Holstein Kiel,Bayern Munich,14.09.2024 | Holstein Kiel | Bayern Munich | 1 | 6
+3,14.09.2024,B. Monchengladbach,Stuttgart,14.09.2024 | B. Monchengladbach | Stuttgart | 1 | 3
+3,14.09.2024,Freiburg,Bochum,14.09.2024 | Freiburg | Bochum | 2 | 1
+3,14.09.2024,Hoffenheim,Bayer Leverkusen,14.09.2024 | Hoffenheim | Bayer Leverkusen | 1 | 4
+3,14.09.2024,RB Leipzig,Union Berlin,14.09.2024 | RB Leipzig | Union Berlin | 0 | 0
+3,14.09.2024,Wolfsburg,Eintracht Frankfurt,14.09.2024 | Wolfsburg | Eintracht Frankfurt | 1 | 2
+3,13.09.2024,Dortmund,Heidenheim,13.09.2024 | Dortmund | Heidenheim | 4 | 2
+2,01.09.2024,Bayern Munich,Freiburg,01.09.2024 | Bayern Munich | Freiburg | 2 | 0
+2,01.09.2024,Heidenheim,Augsburg,01.09.2024 | Heidenheim | Augsburg | 4 | 0
+2,31.08.2024,Bayer Leverkusen,RB Leipzig,31.08.2024 | Bayer Leverkusen | RB Leipzig | 2 | 3
+2,31.08.2024,Bochum,B. Monchengladbach,31.08.2024 | Bochum | B. Monchengladbach | 0 | 2
+2,31.08.2024,Eintracht Frankfurt,Hoffenheim,31.08.2024 | Eintracht Frankfurt | Hoffenheim | 3 | 1
+2,31.08.2024,Holstein Kiel,Wolfsburg,31.08.2024 | Holstein Kiel | Wolfsburg | 0 | 2
+2,31.08.2024,Stuttgart,Mainz,31.08.2024 | Stuttgart | Mainz | 3 | 3
+2,31.08.2024,Werder Bremen,Dortmund,31.08.2024 | Werder Bremen | Dortmund | 0 | 0
+2,30.08.2024,Union Berlin,St. Pauli,30.08.2024 | Union Berlin | St. Pauli | 1 | 0
+1,25.08.2024,St. Pauli,Heidenheim,25.08.2024 | St. Pauli | Heidenheim | 0 | 2
+1,25.08.2024,Wolfsburg,Bayern Munich,25.08.2024 | Wolfsburg | Bayern Munich | 2 | 3
+1,24.08.2024,Dortmund,Eintracht Frankfurt,24.08.2024 | Dortmund | Eintracht Frankfurt | 2 | 0
+1,24.08.2024,Augsburg,Werder Bremen,24.08.2024 | Augsburg | Werder Bremen | 2 | 2
+1,24.08.2024,Freiburg,Stuttgart,24.08.2024 | Freiburg | Stuttgart | 3 | 1
+1,24.08.2024,Hoffenheim,Holstein Kiel,24.08.2024 | Hoffenheim | Holstein Kiel | 3 | 2
+1,24.08.2024,Mainz,Union Berlin,24.08.2024 | Mainz | Union Berlin | 1 | 1
+1,24.08.2024,RB Leipzig,Bochum,24.08.2024 | RB Leipzig | Bochum | 1 | 0
+1,23.08.2024,B. Monchengladbach,Bayer Leverkusen,23.08.2024 | B. Monchengladbach | Bayer Leverkusen | 2 | 3

@@ -24,9 +24,9 @@ austria;2024-2025;bundesliga;1;1;;Eerst DRR met 12 teams dan 6 eerste naar champ
 belgium;2024-2025;jupiler-pro-league;1;1;;Eerst DRR met 16 teams, dan 1-6 DRR, 7-12 DRR (beide met puntehalvering naar boven afgerond), 13-16 DRR met puntenbehoud. 15-16 degraderen rechtsreeks. 14 speelt barrages. Alleen eerste deel gehouden voor cleaned data
 cyprus;2024-2025;cyprus-league;1;1;;Eerst DRR met 14 teams, dan 1-6 DRR, 7-14 SRR. Punten uit eerste deel blijven behouden. Alleen eerste deel gehouden voor cleaned data
 czech-republic;2024-2025;chance-liga;1;1;;Eerst DRR met 16 teams, dan 1-6 SRR met behoud van punten, 7-10 spelen een heen-en terug knock out toernooi, 11-16 SRR met behoud van punten. Voor cleaned data alleen eerste deel gehouden
-france;2024-2025;ligue-1;1;0;;
-germany;2024-2025;bundesliga;1;0;;
-hungary;2024-2025;nb-i;1;0;;
+france;2024-2025;ligue-1;1;1;;Normale DRR met 18 teams, team 17 en 18 zakken direct en 16 speelt knockout toernooi
+germany;2024-2025;bundesliga;1;1;;Normale DRR met 18 teams, team 17 en 18 zakken direct en 16 speelt heen en terug tegen nr 3 tweede klasse
+hungary;2024-2025;nb-i;1;0;;Normale 3RR met 12 teams
 ireland;2025;premier-division;1;0;;
 italy;2024-2025;serie-a;1;0;;
 luxembourg;2024-2025;bgl-ligue;1;0;;
