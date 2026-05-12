@@ -1,0 +1,241 @@
+round,date,team_home,team_away,full_text
+30,2025-03-16,Beerschot VA,Westerlo,16.03.2025 | Beerschot VA | Westerlo | 1 | 2
+30,2025-03-16,Anderlecht,Cercle Brugge KSV,16.03.2025 | Anderlecht | Cercle Brugge KSV | 3 | 0
+30,2025-03-16,Club Brugge KV,Charleroi,16.03.2025 | Club Brugge KV | Charleroi | 4 | 2
+30,2025-03-16,Gent,Kortrijk,16.03.2025 | Gent | Kortrijk | 1 | 2
+30,2025-03-16,KV Mechelen,Dender,16.03.2025 | KV Mechelen | Dender | 2 | 1
+30,2025-03-16,Leuven,St. Truiden,16.03.2025 | Leuven | St. Truiden | 3 | 2
+30,2025-03-16,St. Liege,Antwerp,16.03.2025 | St. Liege | Antwerp | 0 | 0
+30,2025-03-15,Genk,Royale Union SG,15.03.2025 | Genk | Royale Union SG | 2 | 1
+29,2025-03-09,Royale Union SG,St. Liege,09.03.2025 | Royale Union SG | St. Liege | 3 | 0
+29,2025-03-09,Antwerp,Gent,09.03.2025 | Antwerp | Gent | 0 | 1
+29,2025-03-09,Westerlo,Anderlecht,09.03.2025 | Westerlo | Anderlecht | 2 | 0
+29,2025-03-09,Cercle Brugge KSV,Club Brugge KV,09.03.2025 | Cercle Brugge KSV | Club Brugge KV | 1 | 3
+29,2025-03-08,Dender,Genk,08.03.2025 | Dender | Genk | 0 | 1
+29,2025-03-08,Charleroi,KV Mechelen,08.03.2025 | Charleroi | KV Mechelen | 0 | 1
+29,2025-03-08,Kortrijk,Leuven,08.03.2025 | Kortrijk | Leuven | 2 | 0
+29,2025-03-07,St. Truiden,Beerschot VA,07.03.2025 | St. Truiden | Beerschot VA | 2 | 0
+28,2025-03-02,Leuven,Westerlo,02.03.2025 | Leuven | Westerlo | 0 | 0
+28,2025-03-02,St. Liege,Anderlecht,02.03.2025 | St. Liege | Anderlecht | 0 | 2
+28,2025-03-02,Beerschot VA,KV Mechelen,02.03.2025 | Beerschot VA | KV Mechelen | 1 | 0
+28,2025-03-01,Royale Union SG,Dender,01.03.2025 | Royale Union SG | Dender | 4 | 1
+28,2025-03-01,St. Truiden,Kortrijk,01.03.2025 | St. Truiden | Kortrijk | 4 | 2
+28,2025-03-01,Cercle Brugge KSV,Antwerp,01.03.2025 | Cercle Brugge KSV | Antwerp | 0 | 0
+28,2025-03-01,Gent,Club Brugge KV,01.03.2025 | Gent | Club Brugge KV | 1 | 1
+28,2025-02-28,Charleroi,Genk,28.02.2025 | Charleroi | Genk | 1 | 1
+27,2025-02-23,Kortrijk,Cercle Brugge KSV,23.02.2025 | Kortrijk | Cercle Brugge KSV | 1 | 1
+27,2025-02-23,Anderlecht,Royale Union SG,23.02.2025 | Anderlecht | Royale Union SG | 0 | 2
+27,2025-02-23,Genk,Gent,23.02.2025 | Genk | Gent | 0 | 0
+27,2025-02-23,Club Brugge KV,St. Liege,23.02.2025 | Club Brugge KV | St. Liege | 1 | 2
+27,2025-02-22,Antwerp,Leuven,22.02.2025 | Antwerp | Leuven | 2 | 2
+27,2025-02-22,Westerlo,Charleroi,22.02.2025 | Westerlo | Charleroi | 1 | 3
+27,2025-02-22,Dender,Beerschot VA,22.02.2025 | Dender | Beerschot VA | 0 | 0
+27,2025-02-21,KV Mechelen,St. Truiden,21.02.2025 | KV Mechelen | St. Truiden | 1 | 1
+26,2025-02-16,Cercle Brugge KSV,Westerlo,16.02.2025 | Cercle Brugge KSV | Westerlo | 1 | 1
+26,2025-02-16,Charleroi,Anderlecht,16.02.2025 | Charleroi | Anderlecht | 0 | 1
+26,2025-02-16,Royale Union SG,KV Mechelen,16.02.2025 | Royale Union SG | KV Mechelen | 0 | 1
+26,2025-02-16,Gent,Beerschot VA,16.02.2025 | Gent | Beerschot VA | 3 | 2
+26,2025-02-15,St. Truiden,Club Brugge KV,15.02.2025 | St. Truiden | Club Brugge KV | 2 | 2
+26,2025-02-15,Antwerp,Kortrijk,15.02.2025 | Antwerp | Kortrijk | 2 | 1
+26,2025-02-15,Leuven,Dender,15.02.2025 | Leuven | Dender | 3 | 2
+26,2025-02-14,St. Liege,Genk,14.02.2025 | St. Liege | Genk | 1 | 2
+25,2025-02-09,Beerschot VA,Charleroi,09.02.2025 | Beerschot VA | Charleroi | 1 | 1
+25,2025-02-09,Westerlo,St. Liege,09.02.2025 | Westerlo | St. Liege | 4 | 2
+25,2025-02-09,Kortrijk,Royale Union SG,09.02.2025 | Kortrijk | Royale Union SG | 1 | 2
+25,2025-02-09,Anderlecht,Antwerp,09.02.2025 | Anderlecht | Antwerp | 2 | 0
+25,2025-02-08,Genk,Cercle Brugge KSV,08.02.2025 | Genk | Cercle Brugge KSV | 2 | 1
+25,2025-02-08,Dender,St. Truiden,08.02.2025 | Dender | St. Truiden | 2 | 1
+25,2025-02-08,Club Brugge KV,Leuven,08.02.2025 | Club Brugge KV | Leuven | 1 | 0
+25,2025-02-07,KV Mechelen,Gent,07.02.2025 | KV Mechelen | Gent | 3 | 3
+24,2025-02-02,Kortrijk,Westerlo,02.02.2025 | Kortrijk | Westerlo | 1 | 2
+24,2025-02-02,Gent,Anderlecht,02.02.2025 | Gent | Anderlecht | 1 | 0
+24,2025-02-02,Royale Union SG,St. Truiden,02.02.2025 | Royale Union SG | St. Truiden | 2 | 1
+24,2025-02-02,Antwerp,Club Brugge KV,02.02.2025 | Antwerp | Club Brugge KV | 2 | 1
+24,2025-02-01,Genk,Beerschot VA,01.02.2025 | Genk | Beerschot VA | 1 | 0
+24,2025-02-01,Cercle Brugge KSV,St. Liege,01.02.2025 | Cercle Brugge KSV | St. Liege | 1 | 1
+24,2025-02-01,Charleroi,Dender,01.02.2025 | Charleroi | Dender | 2 | 5 | 0
+24,2025-01-31,Leuven,KV Mechelen,31.01.2025 | Leuven | KV Mechelen | 1 | 0
+23,2025-01-26,Leuven,Gent,26.01.2025 | Leuven | Gent | 0 | 0
+23,2025-01-26,Anderlecht,KV Mechelen,26.01.2025 | Anderlecht | KV Mechelen | 4 | 1
+23,2025-01-26,Beerschot VA,Royale Union SG,26.01.2025 | Beerschot VA | Royale Union SG | 0 | 4
+23,2025-01-26,St. Liege,Dender,26.01.2025 | St. Liege | Dender | 1 | 0
+23,2025-01-25,Club Brugge KV,Kortrijk,25.01.2025 | Club Brugge KV | Kortrijk | 1 | 1
+23,2025-01-25,Charleroi,Cercle Brugge KSV,25.01.2025 | Charleroi | Cercle Brugge KSV | 1 | 1
+23,2025-01-25,Westerlo,Genk,25.01.2025 | Westerlo | Genk | 1 | 2
+23,2025-01-24,St. Truiden,Antwerp,24.01.2025 | St. Truiden | Antwerp | 1 | 1
+22,2025-01-19,Antwerp,Westerlo,19.01.2025 | Antwerp | Westerlo | 3 | 2
+22,2025-01-19,St. Truiden,St. Liege,19.01.2025 | St. Truiden | St. Liege | 1 | 2
+22,2025-01-19,Royale Union SG,Leuven,19.01.2025 | Royale Union SG | Leuven | 1 | 0
+22,2025-01-19,Kortrijk,Anderlecht,19.01.2025 | Kortrijk | Anderlecht | 0 | 2
+22,2025-01-18,Club Brugge KV,Beerschot VA,18.01.2025 | Club Brugge KV | Beerschot VA | 4 | 2
+22,2025-01-18,KV Mechelen,Genk,18.01.2025 | KV Mechelen | Genk | 1 | 2
+22,2025-01-18,Dender,Cercle Brugge KSV,18.01.2025 | Dender | Cercle Brugge KSV | 0 | 1
+22,2025-01-17,Gent,Charleroi,17.01.2025 | Gent | Charleroi | 1 | 1
+21,2025-01-12,Cercle Brugge KSV,KV Mechelen,12.01.2025 | Cercle Brugge KSV | KV Mechelen | 1 | 0
+21,2025-01-12,Anderlecht,Club Brugge KV,12.01.2025 | Anderlecht | Club Brugge KV | 0 | 3
+21,2025-01-12,Dender,Gent,12.01.2025 | Dender | Gent | 0 | 0
+21,2025-01-12,Beerschot VA,Antwerp,12.01.2025 | Beerschot VA | Antwerp | 1 | 1
+21,2025-01-11,Charleroi,Royale Union SG,11.01.2025 | Charleroi | Royale Union SG | 1 | 2
+21,2025-01-11,Genk,Leuven,11.01.2025 | Genk | Leuven | 2 | 0
+21,2025-01-11,Westerlo,St. Truiden,11.01.2025 | Westerlo | St. Truiden | 1 | 2
+21,2025-01-10,St. Liege,Kortrijk,10.01.2025 | St. Liege | Kortrijk | 1 | 0
+20,2024-12-27,Anderlecht,Dender,27.12.2024 | Anderlecht | Dender | 2 | 3
+20,2024-12-27,St. Truiden,Cercle Brugge KSV,27.12.2024 | St. Truiden | Cercle Brugge KSV | 1 | 1
+20,2024-12-27,Leuven,Beerschot VA,27.12.2024 | Leuven | Beerschot VA | 2 | 0
+20,2024-12-26,Gent,Royale Union SG,26.12.2024 | Gent | Royale Union SG | 1 | 3
+20,2024-12-26,KV Mechelen,St. Liege,26.12.2024 | KV Mechelen | St. Liege | 0 | 0
+20,2024-12-26,Club Brugge KV,Westerlo,26.12.2024 | Club Brugge KV | Westerlo | 4 | 3
+20,2024-12-26,Kortrijk,Charleroi,26.12.2024 | Kortrijk | Charleroi | 0 | 1
+20,2024-12-26,Antwerp,Genk,26.12.2024 | Antwerp | Genk | 2 | 2
+19,2024-12-22,Cercle Brugge KSV,Leuven,22.12.2024 | Cercle Brugge KSV | Leuven | 1 | 0
+19,2024-12-22,Royale Union SG,Club Brugge KV,22.12.2024 | Royale Union SG | Club Brugge KV | 2 | 2
+19,2024-12-22,St. Liege,Gent,22.12.2024 | St. Liege | Gent | 0 | 1
+19,2024-12-22,Genk,Anderlecht,22.12.2024 | Genk | Anderlecht | 2 | 0
+19,2024-12-21,Beerschot VA,Kortrijk,21.12.2024 | Beerschot VA | Kortrijk | 2 | 2
+19,2024-12-21,Dender,Antwerp,21.12.2024 | Dender | Antwerp | 1 | 3
+19,2024-12-21,Charleroi,St. Truiden,21.12.2024 | Charleroi | St. Truiden | 2 | 1
+19,2024-12-20,Westerlo,KV Mechelen,20.12.2024 | Westerlo | KV Mechelen | 1 | 1
+18,2024-12-15,Gent,Cercle Brugge KSV,15.12.2024 | Gent | Cercle Brugge KSV | 1 | 1
+18,2024-12-15,St. Truiden,Anderlecht,15.12.2024 | St. Truiden | Anderlecht | 0 | 2
+18,2024-12-15,Royale Union SG,Westerlo,15.12.2024 | Royale Union SG | Westerlo | 3 | 1
+18,2024-12-15,Club Brugge KV,Genk,15.12.2024 | Club Brugge KV | Genk | 2 | 0
+18,2024-12-14,Kortrijk,Dender,14.12.2024 | Kortrijk | Dender | 0 | 3
+18,2024-12-14,Leuven,Charleroi,14.12.2024 | Leuven | Charleroi | 2 | 1 | 0
+18,2024-12-14,Beerschot VA,St. Liege,14.12.2024 | Beerschot VA | St. Liege | 0 | 0
+18,2024-12-13,KV Mechelen,Antwerp,13.12.2024 | KV Mechelen | Antwerp | 1 | 1
+17,2024-12-08,Dender,Westerlo,08.12.2024 | Dender | Westerlo | 1 | 0
+17,2024-12-08,Anderlecht,Beerschot VA,08.12.2024 | Anderlecht | Beerschot VA | 2 | 1
+17,2024-12-08,Cercle Brugge KSV,Royale Union SG,08.12.2024 | Cercle Brugge KSV | Royale Union SG | 0 | 0
+17,2024-12-08,Antwerp,Charleroi,08.12.2024 | Antwerp | Charleroi | 1 | 3
+17,2024-12-07,Gent,St. Truiden,07.12.2024 | Gent | St. Truiden | 2 | 0
+17,2024-12-07,KV Mechelen,Club Brugge KV,07.12.2024 | KV Mechelen | Club Brugge KV | 1 | 2
+17,2024-12-07,St. Liege,Leuven,07.12.2024 | St. Liege | Leuven | 1 | 1
+17,2024-12-07,Genk,Kortrijk,07.12.2024 | Genk | Kortrijk | 3 | 2
+16,2024-12-01,Westerlo,Gent,01.12.2024 | Westerlo | Gent | 2 | 2
+16,2024-12-01,Royale Union SG,Antwerp,01.12.2024 | Royale Union SG | Antwerp | 2 | 1
+16,2024-12-01,Beerschot VA,Cercle Brugge KSV,01.12.2024 | Beerschot VA | Cercle Brugge KSV | 3 | 2
+16,2024-12-01,Leuven,Anderlecht,01.12.2024 | Leuven | Anderlecht | 0 | 0
+16,2024-12-01,St. Truiden,Genk,01.12.2024 | St. Truiden | Genk | 2 | 2
+16,2024-11-30,Charleroi,St. Liege,30.11.2024 | Charleroi | St. Liege | 1 | 1
+16,2024-11-30,Club Brugge KV,Dender,30.11.2024 | Club Brugge KV | Dender | 4 | 1
+16,2024-11-29,Kortrijk,KV Mechelen,29.11.2024 | Kortrijk | KV Mechelen | 3 | 1
+15,2024-11-24,Westerlo,Kortrijk,24.11.2024 | Westerlo | Kortrijk | 4 | 0
+15,2024-11-24,Anderlecht,Gent,24.11.2024 | Anderlecht | Gent | 2 | 6 | 0
+15,2024-11-24,Leuven,Royale Union SG,24.11.2024 | Leuven | Royale Union SG | 1 | 1
+15,2024-11-24,KV Mechelen,Beerschot VA,24.11.2024 | KV Mechelen | Beerschot VA | 3 | 0
+15,2024-11-23,Genk,Charleroi,23.11.2024 | Genk | Charleroi | 3 | 0
+15,2024-11-23,St. Liege,Cercle Brugge KSV,23.11.2024 | St. Liege | Cercle Brugge KSV | 1 | 0
+15,2024-11-23,Club Brugge KV,St. Truiden,23.11.2024 | Club Brugge KV | St. Truiden | 7 | 0
+15,2024-11-22,Antwerp,Dender,22.11.2024 | Antwerp | Dender | 1 | 1
+14,2024-11-10,Beerschot VA,Club Brugge KV,10.11.2024 | Beerschot VA | Club Brugge KV | 2 | 2
+14,2024-11-10,Royale Union SG,Genk,10.11.2024 | Royale Union SG | Genk | 4 | 0
+14,2024-11-10,Gent,St. Liege,10.11.2024 | Gent | St. Liege | 5 | 0
+14,2024-11-10,Cercle Brugge KSV,Anderlecht,10.11.2024 | Cercle Brugge KSV | Anderlecht | 0 | 5
+14,2024-11-09,Charleroi,Westerlo,09.11.2024 | Charleroi | Westerlo | 1 | 0
+14,2024-11-09,Dender,Leuven,09.11.2024 | Dender | Leuven | 1 | 1
+14,2024-11-09,Kortrijk,Antwerp,09.11.2024 | Kortrijk | Antwerp | 1 | 2
+14,2024-11-08,St. Truiden,KV Mechelen,08.11.2024 | St. Truiden | KV Mechelen | 2 | 1
+13,2024-11-03,Beerschot VA,Gent,03.11.2024 | Beerschot VA | Gent | 0 | 0
+13,2024-11-03,Anderlecht,Kortrijk,03.11.2024 | Anderlecht | Kortrijk | 4 | 0
+13,2024-11-03,Cercle Brugge KSV,Charleroi,03.11.2024 | Cercle Brugge KSV | Charleroi | 2 | 0
+13,2024-11-03,Genk,Antwerp,03.11.2024 | Genk | Antwerp | 2 | 0
+13,2024-11-02,KV Mechelen,Royale Union SG,02.11.2024 | KV Mechelen | Royale Union SG | 1 | 1
+13,2024-11-02,Leuven,Club Brugge KV,02.11.2024 | Leuven | Club Brugge KV | 0 | 1
+13,2024-11-02,St. Liege,St. Truiden,02.11.2024 | St. Liege | St. Truiden | 2 | 1
+13,2024-11-01,Westerlo,Dender,01.11.2024 | Westerlo | Dender | 2 | 0
+12,2024-10-27,Royale Union SG,Cercle Brugge KSV,27.10.2024 | Royale Union SG | Cercle Brugge KSV | 1 | 3
+12,2024-10-27,Gent,Genk,27.10.2024 | Gent | Genk | 0 | 2
+12,2024-10-27,Antwerp,St. Liege,27.10.2024 | Antwerp | St. Liege | 3 | 0
+12,2024-10-27,Club Brugge KV,Anderlecht,27.10.2024 | Club Brugge KV | Anderlecht | 2 | 1
+12,2024-10-26,St. Truiden,Westerlo,26.10.2024 | St. Truiden | Westerlo | 2 | 0
+12,2024-10-26,Dender,KV Mechelen,26.10.2024 | Dender | KV Mechelen | 2 | 5
+12,2024-10-26,Charleroi,Leuven,26.10.2024 | Charleroi | Leuven | 0 | 2
+12,2024-10-25,Kortrijk,Beerschot VA,25.10.2024 | Kortrijk | Beerschot VA | 1 | 0
+11,2024-10-20,KV Mechelen,Kortrijk,20.10.2024 | KV Mechelen | Kortrijk | 3 | 0
+11,2024-10-20,St. Liege,Charleroi,20.10.2024 | St. Liege | Charleroi | 2 | 1
+11,2024-10-20,Leuven,Antwerp,20.10.2024 | Leuven | Antwerp | 1 | 1
+11,2024-10-20,Genk,St. Truiden,20.10.2024 | Genk | St. Truiden | 2 | 3 | 2
+11,2024-10-19,Royale Union SG,Gent,19.10.2024 | Royale Union SG | Gent | 0 | 0
+11,2024-10-19,Cercle Brugge KSV,Dender,19.10.2024 | Cercle Brugge KSV | Dender | 0 | 0
+11,2024-10-19,Westerlo,Club Brugge KV,19.10.2024 | Westerlo | Club Brugge KV | 1 | 2
+11,2024-10-18,Beerschot VA,Anderlecht,18.10.2024 | Beerschot VA | Anderlecht | 2 | 1
+10,2024-10-06,St. Truiden,Gent,06.10.2024 | St. Truiden | Gent | 1 | 1
+10,2024-10-06,Club Brugge KV,Royale Union SG,06.10.2024 | Club Brugge KV | Royale Union SG | 1 | 1
+10,2024-10-06,Antwerp,Cercle Brugge KSV,06.10.2024 | Antwerp | Cercle Brugge KSV | 3 | 0
+10,2024-10-06,Anderlecht,St. Liege,06.10.2024 | Anderlecht | St. Liege | 3 | 0
+10,2024-10-05,Dender,Charleroi,05.10.2024 | Dender | Charleroi | 1 | 0
+10,2024-10-05,Kortrijk,Genk,05.10.2024 | Kortrijk | Genk | 2 | 1
+10,2024-10-05,KV Mechelen,Leuven,05.10.2024 | KV Mechelen | Leuven | 5 | 0
+10,2024-10-04,Westerlo,Beerschot VA,04.10.2024 | Westerlo | Beerschot VA | 2 | 2
+9,2024-09-29,Cercle Brugge KSV,St. Truiden,29.09.2024 | Cercle Brugge KSV | St. Truiden | 1 | 1
+9,2024-09-29,Gent,Leuven,29.09.2024 | Gent | Leuven | 3 | 0
+9,2024-09-29,Royale Union SG,Kortrijk,29.09.2024 | Royale Union SG | Kortrijk | 3 | 0
+9,2024-09-29,Antwerp,Beerschot VA,29.09.2024 | Awrd | Antwerp | Beerschot VA | 5 | 0
+9,2024-09-28,Dender,Anderlecht,28.09.2024 | Dender | Anderlecht | 1 | 1
+9,2024-09-28,St. Liege,Westerlo,28.09.2024 | St. Liege | Westerlo | 1 | 2
+9,2024-09-28,Genk,KV Mechelen,28.09.2024 | Genk | KV Mechelen | 2 | 1
+9,2024-09-27,Charleroi,Club Brugge KV,27.09.2024 | Charleroi | Club Brugge KV | 1 | 1
+5,2024-09-26,Cercle Brugge KSV,Gent,26.09.2024 | Cercle Brugge KSV | Gent | 2 | 1
+8,2024-09-22,Leuven,Kortrijk,22.09.2024 | Leuven | Kortrijk | 1 | 1
+8,2024-09-22,Genk,Dender,22.09.2024 | Genk | Dender | 4 | 0
+8,2024-09-22,KV Mechelen,Cercle Brugge KSV,22.09.2024 | KV Mechelen | Cercle Brugge KSV | 2 | 0
+8,2024-09-22,Club Brugge KV,Gent,22.09.2024 | Club Brugge KV | Gent | 2 | 4
+8,2024-09-21,Anderlecht,Charleroi,21.09.2024 | Anderlecht | Charleroi | 0 | 0
+8,2024-09-21,Westerlo,Antwerp,21.09.2024 | Westerlo | Antwerp | 1 | 2
+8,2024-09-21,Beerschot VA,St. Truiden,21.09.2024 | Beerschot VA | St. Truiden | 0 | 3
+8,2024-09-20,St. Liege,Royale Union SG,20.09.2024 | St. Liege | Royale Union SG | 0 | 0
+5,2024-09-17,Anderlecht,Genk,17.09.2024 | Anderlecht | Genk | 0 | 2
+7,2024-09-15,Gent,KV Mechelen,15.09.2024 | Gent | KV Mechelen | 2 | 0
+7,2024-09-15,Charleroi,Beerschot VA,15.09.2024 | Charleroi | Beerschot VA | 3 | 0
+7,2024-09-15,St. Truiden,Leuven,15.09.2024 | St. Truiden | Leuven | 2 | 1
+7,2024-09-15,Antwerp,Royale Union SG,15.09.2024 | Antwerp | Royale Union SG | 2 | 0
+7,2024-09-14,Anderlecht,Westerlo,14.09.2024 | Anderlecht | Westerlo | 2 | 2
+7,2024-09-14,Kortrijk,Club Brugge KV,14.09.2024 | Kortrijk | Club Brugge KV | 0 | 3
+7,2024-09-14,Cercle Brugge KSV,Genk,14.09.2024 | Cercle Brugge KSV | Genk | 2 | 3
+7,2024-09-13,Dender,St. Liege,13.09.2024 | Dender | St. Liege | 0 | 2
+6,2024-09-01,Kortrijk,St. Truiden,01.09.2024 | Kortrijk | St. Truiden | 1 | 1
+6,2024-09-01,Royale Union SG,Anderlecht,01.09.2024 | Royale Union SG | Anderlecht | 0 | 0
+6,2024-09-01,Gent,Antwerp,01.09.2024 | Gent | Antwerp | 1 | 1
+6,2024-09-01,Club Brugge KV,Cercle Brugge KSV,01.09.2024 | Club Brugge KV | Cercle Brugge KSV | 3 | 0
+6,2024-08-31,Leuven,St. Liege,31.08.2024 | Leuven | St. Liege | 2 | 0
+6,2024-08-31,Beerschot VA,Dender,31.08.2024 | Beerschot VA | Dender | 1 | 2
+6,2024-08-31,KV Mechelen,Charleroi,31.08.2024 | KV Mechelen | Charleroi | 5 | 2
+6,2024-08-30,Genk,Westerlo,30.08.2024 | Genk | Westerlo | 1 | 0
+5,2024-08-25,Charleroi,Kortrijk,25.08.2024 | Charleroi | Kortrijk | 1 | 0
+5,2024-08-25,St. Liege,Beerschot VA,25.08.2024 | St. Liege | Beerschot VA | 1 | 0
+5,2024-08-25,St. Truiden,Royale Union SG,25.08.2024 | St. Truiden | Royale Union SG | 0 | 0
+5,2024-08-25,Dender,Club Brugge KV,25.08.2024 | Dender | Club Brugge KV | 1 | 2
+5,2024-08-24,Antwerp,KV Mechelen,24.08.2024 | Antwerp | KV Mechelen | 0 | 1
+5,2024-08-24,Westerlo,Leuven,24.08.2024 | Westerlo | Leuven | 1 | 1
+4,2024-08-18,Gent,Westerlo,18.08.2024 | Gent | Westerlo | 4 | 1
+4,2024-08-18,Kortrijk,St. Liege,18.08.2024 | Kortrijk | St. Liege | 1 | 0
+4,2024-08-18,Leuven,Cercle Brugge KSV,18.08.2024 | Leuven | Cercle Brugge KSV | 1 | 1
+4,2024-08-18,Club Brugge KV,Antwerp,18.08.2024 | Club Brugge KV | Antwerp | 1 | 0
+4,2024-08-17,KV Mechelen,Anderlecht,17.08.2024 | KV Mechelen | Anderlecht | 1 | 3
+4,2024-08-17,St. Truiden,Dender,17.08.2024 | St. Truiden | Dender | 3 | 3
+4,2024-08-17,Beerschot VA,Genk,17.08.2024 | Beerschot VA | Genk | 3 | 4
+4,2024-08-16,Royale Union SG,Charleroi,16.08.2024 | Royale Union SG | Charleroi | 1 | 0
+3,2024-08-11,Cercle Brugge KSV,Beerschot VA,11.08.2024 | Cercle Brugge KSV | Beerschot VA | 4 | 1
+3,2024-08-11,Charleroi,Gent,11.08.2024 | Charleroi | Gent | 1 | 0
+3,2024-08-11,Antwerp,St. Truiden,11.08.2024 | Antwerp | St. Truiden | 6 | 1
+3,2024-08-11,Genk,Club Brugge KV,11.08.2024 | Genk | Club Brugge KV | 3 | 2
+3,2024-08-10,Anderlecht,Leuven,10.08.2024 | Anderlecht | Leuven | 1 | 1
+3,2024-08-10,Westerlo,Royale Union SG,10.08.2024 | Westerlo | Royale Union SG | 4 | 3
+3,2024-08-10,Dender,Kortrijk,10.08.2024 | Dender | Kortrijk | 4 | 1
+3,2024-08-09,St. Liege,KV Mechelen,09.08.2024 | St. Liege | KV Mechelen | 0 | 0
+2,2024-08-04,Gent,Dender,04.08.2024 | Gent | Dender | 1 | 2
+2,2024-08-04,St. Liege,Club Brugge KV,04.08.2024 | St. Liege | Club Brugge KV | 1 | 0
+2,2024-08-04,Cercle Brugge KSV,Kortrijk,04.08.2024 | Cercle Brugge KSV | Kortrijk | 1 | 2
+2,2024-08-04,Antwerp,Anderlecht,04.08.2024 | Antwerp | Anderlecht | 1 | 2
+2,2024-08-03,St. Truiden,Charleroi,03.08.2024 | St. Truiden | Charleroi | 1 | 4
+2,2024-08-03,Leuven,Genk,03.08.2024 | Leuven | Genk | 3 | 1
+2,2024-08-03,KV Mechelen,Westerlo,03.08.2024 | KV Mechelen | Westerlo | 2 | 4
+2,2024-08-02,Royale Union SG,Beerschot VA,02.08.2024 | Royale Union SG | Beerschot VA | 3 | 1
+1,2024-07-28,Westerlo,Cercle Brugge KSV,28.07.2024 | Westerlo | Cercle Brugge KSV | 3 | 0
+1,2024-07-28,Charleroi,Antwerp,28.07.2024 | Charleroi | Antwerp | 0 | 1
+1,2024-07-28,Kortrijk,Gent,28.07.2024 | Kortrijk | Gent | 0 | 1
+1,2024-07-28,Genk,St. Liege,28.07.2024 | Genk | St. Liege | 0 | 0
+1,2024-07-27,Anderlecht,St. Truiden,27.07.2024 | Anderlecht | St. Truiden | 1 | 0
+1,2024-07-27,Beerschot VA,Leuven,27.07.2024 | Beerschot VA | Leuven | 0 | 0
+1,2024-07-27,Dender,Royale Union SG,27.07.2024 | Dender | Royale Union SG | 0 | 0
+1,2024-07-26,Club Brugge KV,KV Mechelen,26.07.2024 | Club Brugge KV | KV Mechelen | 1 | 1

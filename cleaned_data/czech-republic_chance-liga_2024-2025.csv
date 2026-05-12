@@ -1,0 +1,241 @@
+round,date,team_home,team_away,full_text
+30,2025-04-19,FK Pardubice,Sparta Prague,19.04.2025 | FK Pardubice | Sparta Prague | 1 | 2
+30,2025-04-19,Liberec,Karvina,19.04.2025 | Liberec | Karvina | 2 | 3
+30,2025-04-19,Mlada Boleslav,Jablonec,19.04.2025 | Mlada Boleslav | Jablonec | 0 | 1
+30,2025-04-19,Ostrava,Bohemians,19.04.2025 | Ostrava | Bohemians | 1 | 0
+30,2025-04-19,Plzen,Dukla Prague,19.04.2025 | Plzen | Dukla Prague | 4 | 2
+30,2025-04-19,Sigma Olomouc,Ceske Budejovice,19.04.2025 | Sigma Olomouc | Ceske Budejovice | 3 | 0
+30,2025-04-19,Slavia Prague,Slovacko,19.04.2025 | Slavia Prague | Slovacko | 2 | 0
+30,2025-04-19,Teplice,Hradec Kralove,19.04.2025 | Teplice | Hradec Kralove | 1 | 0
+29,2025-04-13,Bohemians,Plzen,13.04.2025 | Bohemians | Plzen | 1 | 2
+29,2025-04-13,Hradec Kralove,Liberec,13.04.2025 | Hradec Kralove | Liberec | 0 | 2
+29,2025-04-13,Slovacko,Sigma Olomouc,13.04.2025 | Slovacko | Sigma Olomouc | 2 | 2
+29,2025-04-13,Sparta Prague,Mlada Boleslav,13.04.2025 | Sparta Prague | Mlada Boleslav | 2 | 0
+29,2025-04-13,Ceske Budejovice,Teplice,13.04.2025 | Ceske Budejovice | Teplice | 1 | 1
+29,2025-04-13,Jablonec,FK Pardubice,13.04.2025 | Jablonec | FK Pardubice | 1 | 0
+29,2025-04-12,Dukla Prague,Ostrava,12.04.2025 | Dukla Prague | Ostrava | 1 | 2
+29,2025-04-12,Karvina,Slavia Prague,12.04.2025 | Karvina | Slavia Prague | 0 | 4
+23,2025-04-09,Slovacko,Hradec Kralove,09.04.2025 | Slovacko | Hradec Kralove | 1 | 5
+28,2025-04-06,Plzen,Slovacko,06.04.2025 | Plzen | Slovacko | 2 | 0
+28,2025-04-06,Mlada Boleslav,Dukla Prague,06.04.2025 | Mlada Boleslav | Dukla Prague | 0 | 1
+28,2025-04-06,Teplice,Jablonec,06.04.2025 | Teplice | Jablonec | 0 | 1
+28,2025-04-05,Slavia Prague,Hradec Kralove,05.04.2025 | Slavia Prague | Hradec Kralove | 2 | 1
+28,2025-04-05,Liberec,Ceske Budejovice,05.04.2025 | Liberec | Ceske Budejovice | 2 | 0
+28,2025-04-05,Ostrava,Sparta Prague,05.04.2025 | Ostrava | Sparta Prague | 1 | 1
+28,2025-04-05,FK Pardubice,Bohemians,05.04.2025 | FK Pardubice | Bohemians | 2 | 0
+28,2025-04-05,Sigma Olomouc,Karvina,05.04.2025 | Sigma Olomouc | Karvina | 1 | 2
+27,2025-03-30,Sparta Prague,Plzen,30.03.2025 | Sparta Prague | Plzen | 2 | 4
+27,2025-03-30,Hradec Kralove,Ceske Budejovice,30.03.2025 | Hradec Kralove | Ceske Budejovice | 1 | 0
+27,2025-03-30,Karvina,Mlada Boleslav,30.03.2025 | Karvina | Mlada Boleslav | 3 | 1
+27,2025-03-30,Slovacko,Liberec,30.03.2025 | Slovacko | Liberec | 0 | 4
+27,2025-03-29,Dukla Prague,Slavia Prague,29.03.2025 | Dukla Prague | Slavia Prague | 0 | 0
+27,2025-03-29,Bohemians,Teplice,29.03.2025 | Bohemians | Teplice | 1 | 1
+27,2025-03-29,Ostrava,FK Pardubice,29.03.2025 | Ostrava | FK Pardubice | 5 | 2
+27,2025-03-29,Jablonec,Sigma Olomouc,29.03.2025 | Jablonec | Sigma Olomouc | 0 | 0
+26,2025-03-16,Slavia Prague,Jablonec,16.03.2025 | Slavia Prague | Jablonec | 3 | 0
+26,2025-03-16,Ceske Budejovice,Karvina,16.03.2025 | Ceske Budejovice | Karvina | 2 | 3
+26,2025-03-16,Plzen,Ostrava,16.03.2025 | Plzen | Ostrava | 0 | 1
+26,2025-03-16,Sigma Olomouc,Hradec Kralove,16.03.2025 | Sigma Olomouc | Hradec Kralove | 1 | 2
+26,2025-03-15,Liberec,Sparta Prague,15.03.2025 | Liberec | Sparta Prague | 1 | 0
+26,2025-03-15,FK Pardubice,Dukla Prague,15.03.2025 | FK Pardubice | Dukla Prague | 0 | 1
+26,2025-03-15,Teplice,Slovacko,15.03.2025 | Teplice | Slovacko | 1 | 0
+26,2025-03-15,Mlada Boleslav,Bohemians,15.03.2025 | Mlada Boleslav | Bohemians | 1 | 2
+21,2025-03-12,Dukla Prague,Karvina,12.03.2025 | Dukla Prague | Karvina | 0 | 0
+25,2025-03-09,FK Pardubice,Plzen,09.03.2025 | FK Pardubice | Plzen | 0 | 0
+25,2025-03-09,Bohemians,Sigma Olomouc,09.03.2025 | Bohemians | Sigma Olomouc | 0 | 1
+25,2025-03-09,Hradec Kralove,Karvina,09.03.2025 | Hradec Kralove | Karvina | 1 | 1
+25,2025-03-09,Ostrava,Mlada Boleslav,09.03.2025 | Ostrava | Mlada Boleslav | 2 | 1
+25,2025-03-08,Sparta Prague,Slavia Prague,08.03.2025 | Sparta Prague | Slavia Prague | 2 | 0
+25,2025-03-08,Jablonec,Liberec,08.03.2025 | Jablonec | Liberec | 0 | 0
+25,2025-03-08,Slovacko,Ceske Budejovice,08.03.2025 | Slovacko | Ceske Budejovice | 2 | 1
+25,2025-03-08,Dukla Prague,Teplice,08.03.2025 | Dukla Prague | Teplice | 1 | 1
+24,2025-03-02,Slavia Prague,Bohemians,02.03.2025 | Slavia Prague | Bohemians | 2 | 0
+24,2025-03-02,Karvina,Slovacko,02.03.2025 | Karvina | Slovacko | 2 | 0
+24,2025-03-02,Mlada Boleslav,Plzen,02.03.2025 | Mlada Boleslav | Plzen | 0 | 2
+24,2025-03-02,Liberec,Dukla Prague,02.03.2025 | Liberec | Dukla Prague | 1 | 1
+24,2025-03-01,Teplice,FK Pardubice,01.03.2025 | Teplice | FK Pardubice | 2 | 0
+24,2025-03-01,Hradec Kralove,Jablonec,01.03.2025 | Hradec Kralove | Jablonec | 1 | 1
+24,2025-03-01,Sigma Olomouc,Sparta Prague,01.03.2025 | Sigma Olomouc | Sparta Prague | 1 | 2
+24,2025-03-01,Ceske Budejovice,Ostrava,01.03.2025 | Ceske Budejovice | Ostrava | 0 | 4
+23,2025-02-23,Plzen,Slavia Prague,23.02.2025 | Plzen | Slavia Prague | 1 | 3
+23,2025-02-23,Jablonec,Karvina,23.02.2025 | Jablonec | Karvina | 5 | 0
+23,2025-02-23,Bohemians,Liberec,23.02.2025 | Bohemians | Liberec | 0 | 0
+23,2025-02-22,Sparta Prague,Ceske Budejovice,22.02.2025 | Sparta Prague | Ceske Budejovice | 2 | 1
+23,2025-02-22,FK Pardubice,Mlada Boleslav,22.02.2025 | FK Pardubice | Mlada Boleslav | 0 | 3
+23,2025-02-22,Ostrava,Teplice,22.02.2025 | Ostrava | Teplice | 2 | 0
+23,2025-02-22,Dukla Prague,Sigma Olomouc,22.02.2025 | Dukla Prague | Sigma Olomouc | 1 | 3
+22,2025-02-16,Slavia Prague,Ostrava,16.02.2025 | Slavia Prague | Ostrava | 1 | 0
+22,2025-02-16,Liberec,Mlada Boleslav,16.02.2025 | Liberec | Mlada Boleslav | 3 | 1
+22,2025-02-16,Teplice,Plzen,16.02.2025 | Teplice | Plzen | 0 | 2
+22,2025-02-16,Hradec Kralove,Bohemians,16.02.2025 | Hradec Kralove | Bohemians | 2 | 2
+22,2025-02-15,Karvina,Sparta Prague,15.02.2025 | Karvina | Sparta Prague | 2 | 3
+22,2025-02-15,Ceske Budejovice,Jablonec,15.02.2025 | Ceske Budejovice | 2 | Jablonec | 2 | 3
+22,2025-02-15,Slovacko,Dukla Prague,15.02.2025 | Slovacko | Dukla Prague | 0 | 0
+22,2025-02-15,Sigma Olomouc,FK Pardubice,15.02.2025 | Sigma Olomouc | FK Pardubice | 4 | 0
+21,2025-02-09,Sparta Prague,Hradec Kralove,09.02.2025 | Sparta Prague | Hradec Kralove | 3 | 0
+21,2025-02-09,Bohemians,Ceske Budejovice,09.02.2025 | Bohemians | Ceske Budejovice | 1 | 0
+21,2025-02-09,Ostrava,Sigma Olomouc,09.02.2025 | Ostrava | Sigma Olomouc | 1 | 0
+21,2025-02-09,Jablonec,Slovacko,09.02.2025 | Jablonec | Slovacko | 4 | 2
+21,2025-02-08,Plzen,Liberec,08.02.2025 | Plzen | Liberec | 3 | 2
+21,2025-02-08,FK Pardubice,Slavia Prague,08.02.2025 | FK Pardubice | Slavia Prague | 0 | 2
+21,2025-02-08,Mlada Boleslav,Teplice,08.02.2025 | Mlada Boleslav | Teplice | 2 | 1
+20,2025-02-03,Sigma Olomouc,Plzen,03.02.2025 | Sigma Olomouc | Plzen | 2 | 1
+20,2025-02-02,Slavia Prague,Mlada Boleslav,02.02.2025 | Slavia Prague | Mlada Boleslav | 1 | 0
+20,2025-02-02,Jablonec,Bohemians,02.02.2025 | Jablonec | Bohemians | 0 | 1
+20,2025-02-02,Slovacko,Sparta Prague,02.02.2025 | Slovacko | Sparta Prague | 0 | 2
+20,2025-02-01,Hradec Kralove,FK Pardubice,01.02.2025 | Hradec Kralove | FK Pardubice | 3 | 0
+20,2025-02-01,Ceske Budejovice,Dukla Prague,01.02.2025 | Ceske Budejovice | Dukla Prague | 0 | 0
+20,2025-02-01,Liberec,Ostrava,01.02.2025 | Liberec | Ostrava | 0 | 1
+20,2025-02-01,Karvina,Teplice,01.02.2025 | Karvina | Teplice | 1 | 1
+19,2024-12-15,Plzen,Ceske Budejovice,15.12.2024 | Plzen | Ceske Budejovice | 7 | 2
+19,2024-12-15,Mlada Boleslav,Sigma Olomouc,15.12.2024 | Mlada Boleslav | Sigma Olomouc | 1 | 3
+19,2024-12-15,Teplice,Slavia Prague,15.12.2024 | Teplice | Slavia Prague | 1 | 0
+19,2024-12-15,Sparta Prague,Jablonec,15.12.2024 | Sparta Prague | Jablonec | 2 | 1
+19,2024-12-14,Ostrava,Slovacko,14.12.2024 | Ostrava | Slovacko | 3 | 1
+19,2024-12-14,Bohemians,Karvina,14.12.2024 | Bohemians | Karvina | 3 | 3
+19,2024-12-14,FK Pardubice,Liberec,14.12.2024 | FK Pardubice | Liberec | 1 | 1
+19,2024-12-14,Dukla Prague,Hradec Kralove,14.12.2024 | Dukla Prague | Hradec Kralove | 1 | 2
+18,2024-12-08,Hradec Kralove,Ostrava,08.12.2024 | Hradec Kralove | Ostrava | 0 | 1
+18,2024-12-08,Liberec,Teplice,08.12.2024 | Liberec | Teplice | 3 | 0
+18,2024-12-08,Sigma Olomouc,Slavia Prague,08.12.2024 | Sigma Olomouc | Slavia Prague | 1 | 2
+18,2024-12-08,Ceske Budejovice,Mlada Boleslav,08.12.2024 | Ceske Budejovice | Mlada Boleslav | 0 | 4
+18,2024-12-08,Karvina,Plzen,08.12.2024 | Karvina | Plzen | 1 | 2
+18,2024-12-07,Sparta Prague,Bohemians,07.12.2024 | Sparta Prague | Bohemians | 1 | 0
+18,2024-12-07,Jablonec,Dukla Prague,07.12.2024 | Jablonec | Dukla Prague | 2 | 1
+18,2024-12-07,Slovacko,FK Pardubice,07.12.2024 | Slovacko | FK Pardubice | 1 | 1
+8,2024-12-05,Plzen,Teplice,05.12.2024 | Plzen | Teplice | 1 | 1
+8,2024-12-05,Mlada Boleslav,Liberec,05.12.2024 | Mlada Boleslav | Liberec | 1 | 0
+8,2024-12-05,Ostrava,Slavia Prague,05.12.2024 | Ostrava | Slavia Prague | 0 | 1
+8,2024-12-04,Bohemians,Hradec Kralove,04.12.2024 | Bohemians | Hradec Kralove | 0 | 3
+8,2024-12-04,Dukla Prague,Slovacko,04.12.2024 | Dukla Prague | Slovacko | 1 | 2
+8,2024-12-04,FK Pardubice,Sigma Olomouc,04.12.2024 | FK Pardubice | Sigma Olomouc | 2 | 2
+8,2024-12-04,Jablonec,Ceske Budejovice,04.12.2024 | Jablonec | Ceske Budejovice | 5 | 0
+8,2024-12-03,Sparta Prague,Karvina,03.12.2024 | Sparta Prague | Karvina | 4 | 1
+17,2024-12-01,Plzen,Jablonec,01.12.2024 | Plzen | Jablonec | 3 | 2
+17,2024-12-01,FK Pardubice,Ceske Budejovice,01.12.2024 | FK Pardubice | Ceske Budejovice | 0 | 0
+17,2024-12-01,Mlada Boleslav,Hradec Kralove,01.12.2024 | Mlada Boleslav | Hradec Kralove | 3 | 0
+17,2024-12-01,Slavia Prague,Liberec,01.12.2024 | Slavia Prague | Liberec | 1 | 0
+17,2024-11-30,Dukla Prague,Sparta Prague,30.11.2024 | Dukla Prague | Sparta Prague | 1 | 1
+17,2024-11-30,Ostrava,Karvina,30.11.2024 | Ostrava | Karvina | 2 | 1
+17,2024-11-30,Teplice,Sigma Olomouc,30.11.2024 | Teplice | Sigma Olomouc | 1 | 0
+17,2024-11-30,Bohemians,Slovacko,30.11.2024 | Bohemians | Slovacko | 3 | 3
+15,2024-11-27,Sigma Olomouc,Slovacko,27.11.2024 | Sigma Olomouc | Slovacko | 2 | 2 | 1
+16,2024-11-24,Sigma Olomouc,Liberec,24.11.2024 | Sigma Olomouc | Liberec | 1 | 4
+16,2024-11-24,Ceske Budejovice,Slavia Prague,24.11.2024 | Ceske Budejovice | Slavia Prague | 0 | 4
+16,2024-11-24,Karvina,FK Pardubice,24.11.2024 | Karvina | FK Pardubice | 1 | 0
+16,2024-11-24,Bohemians,Dukla Prague,24.11.2024 | Bohemians | Dukla Prague | 3 | 1
+16,2024-11-23,Hradec Kralove,Plzen,23.11.2024 | Hradec Kralove | Plzen | 0 | 1
+16,2024-11-23,Slovacko,Mlada Boleslav,23.11.2024 | Slovacko | Mlada Boleslav | 1 | 1
+16,2024-11-23,Sparta Prague,Teplice,23.11.2024 | Sparta Prague | Teplice | 1 | 1
+16,2024-11-23,Jablonec,Ostrava,23.11.2024 | Jablonec | Ostrava | 3 | 1
+15,2024-11-10,Slavia Prague,Karvina,10.11.2024 | Slavia Prague | Karvina | 5 | 1
+15,2024-11-10,Mlada Boleslav,Sparta Prague,10.11.2024 | Mlada Boleslav | Sparta Prague | 2 | 2
+15,2024-11-10,Plzen,Bohemians,10.11.2024 | Plzen | Bohemians | 2 | 0
+15,2024-11-10,Teplice,Ceske Budejovice,10.11.2024 | Teplice | Ceske Budejovice | 5 | 2
+15,2024-11-09,FK Pardubice,Jablonec,09.11.2024 | FK Pardubice | Jablonec | 2 | 0
+15,2024-11-09,Liberec,Hradec Kralove,09.11.2024 | Liberec | Hradec Kralove | 0 | 0
+15,2024-11-09,Ostrava,Dukla Prague,09.11.2024 | Ostrava | Dukla Prague | 6 | 0
+14,2024-11-03,Hradec Kralove,Slavia Prague,03.11.2024 | Hradec Kralove | Slavia Prague | 1 | 1
+14,2024-11-03,Bohemians,FK Pardubice,03.11.2024 | Bohemians | FK Pardubice | 0 | 0
+14,2024-11-03,Slovacko,Plzen,03.11.2024 | Slovacko | Plzen | 1 | 0
+14,2024-11-03,Ceske Budejovice,Liberec,03.11.2024 | Ceske Budejovice | Liberec | 0 | 0
+14,2024-11-02,Sparta Prague,Ostrava,02.11.2024 | Sparta Prague | Ostrava | 1 | 3
+14,2024-11-02,Jablonec,Teplice,02.11.2024 | Jablonec | Teplice | 3 | 0
+14,2024-11-02,Karvina,Sigma Olomouc,02.11.2024 | Karvina | Sigma Olomouc | 2 | 1
+14,2024-11-02,Dukla Prague,Mlada Boleslav,02.11.2024 | Dukla Prague | Mlada Boleslav | 0 | 1
+13,2024-10-27,Plzen,Sparta Prague,27.10.2024 | Plzen | Sparta Prague | 1 | 0
+13,2024-10-27,Mlada Boleslav,Karvina,27.10.2024 | Mlada Boleslav | Karvina | 1 | 1
+13,2024-10-27,Slavia Prague,Dukla Prague,27.10.2024 | Slavia Prague | Dukla Prague | 3 | 0
+13,2024-10-27,Teplice,Bohemians,27.10.2024 | Teplice | Bohemians | 1 | 2
+13,2024-10-26,Sigma Olomouc,Jablonec,26.10.2024 | Sigma Olomouc | Jablonec | 0 | 0
+13,2024-10-26,Ceske Budejovice,Hradec Kralove,26.10.2024 | Ceske Budejovice | Hradec Kralove | 0 | 2
+13,2024-10-26,FK Pardubice,Ostrava,26.10.2024 | FK Pardubice | Ostrava | 2 | 3
+13,2024-10-26,Liberec,Slovacko,26.10.2024 | Liberec | Slovacko | 4 | 0
+12,2024-10-20,Jablonec,Slavia Prague,20.10.2024 | Jablonec | Slavia Prague | 1 | 2
+12,2024-10-20,Karvina,Ceske Budejovice,20.10.2024 | Karvina | Ceske Budejovice | 4 | 1
+12,2024-10-20,Slovacko,Teplice,20.10.2024 | Slovacko | Teplice | 0 | 2
+12,2024-10-20,Bohemians,Mlada Boleslav,20.10.2024 | Bohemians | Mlada Boleslav | 2 | 2
+12,2024-10-19,Sparta Prague,Liberec,19.10.2024 | Sparta Prague | Liberec | 2 | 1
+12,2024-10-19,Dukla Prague,FK Pardubice,19.10.2024 | Dukla Prague | FK Pardubice | 2 | 1
+12,2024-10-19,Ostrava,Plzen,19.10.2024 | Ostrava | Plzen | 1 | 3
+12,2024-10-19,Hradec Kralove,Sigma Olomouc,19.10.2024 | Hradec Kralove | Sigma Olomouc | 1 | 1
+11,2024-10-06,Slavia Prague,Sparta Prague,06.10.2024 | Slavia Prague | Sparta Prague | 2 | 1
+11,2024-10-06,Mlada Boleslav,Ostrava,06.10.2024 | Mlada Boleslav | Ostrava | 0 | 0
+11,2024-10-06,Sigma Olomouc,Bohemians,06.10.2024 | Sigma Olomouc | Bohemians | 1 | 3
+11,2024-10-06,Plzen,FK Pardubice,06.10.2024 | Plzen | FK Pardubice | 2 | 0
+11,2024-10-05,Liberec,Jablonec,05.10.2024 | Liberec | Jablonec | 0 | 5
+11,2024-10-05,Ceske Budejovice,Slovacko,05.10.2024 | Ceske Budejovice | Slovacko | 0 | 2
+11,2024-10-05,Teplice,Dukla Prague,05.10.2024 | Teplice | Dukla Prague | 1 | 1
+11,2024-10-05,Karvina,Hradec Kralove,05.10.2024 | Karvina | Hradec Kralove | 0 | 0
+10,2024-09-29,Bohemians,Slavia Prague,29.09.2024 | Bohemians | Slavia Prague | 0 | 4
+10,2024-09-29,Plzen,Mlada Boleslav,29.09.2024 | Plzen | Mlada Boleslav | 1 | 1
+10,2024-09-29,Ostrava,Ceske Budejovice,29.09.2024 | Ostrava | Ceske Budejovice | 2 | 1
+10,2024-09-28,Jablonec,Hradec Kralove,28.09.2024 | Jablonec | Hradec Kralove | 2 | 0
+10,2024-09-28,FK Pardubice,Teplice,28.09.2024 | FK Pardubice | 2 | Teplice | 0 | 1
+10,2024-09-28,Slovacko,Karvina,28.09.2024 | Slovacko | Karvina | 2 | 1
+10,2024-09-28,Dukla Prague,Liberec,28.09.2024 | Dukla Prague | Liberec | 1 | 4
+10,2024-09-27,Sparta Prague,Sigma Olomouc,27.09.2024 | Sparta Prague | Sigma Olomouc | 2 | 3
+9,2024-09-22,Liberec,Bohemians,22.09.2024 | Liberec | Bohemians | 2 | 2
+9,2024-09-22,Ceske Budejovice,Sparta Prague,22.09.2024 | Ceske Budejovice | Sparta Prague | 0 | 2
+9,2024-09-22,Sigma Olomouc,Dukla Prague,22.09.2024 | Sigma Olomouc | Dukla Prague | 2 | 1
+9,2024-09-22,Mlada Boleslav,FK Pardubice,22.09.2024 | Mlada Boleslav | FK Pardubice | 2 | 2
+9,2024-09-21,Slavia Prague,Plzen,21.09.2024 | Slavia Prague | Plzen | 3 | 0
+9,2024-09-21,Karvina,Jablonec,21.09.2024 | Karvina | Jablonec | 1 | 0
+9,2024-09-21,Teplice,Ostrava,21.09.2024 | Teplice | Ostrava | 2 | 3
+9,2024-09-21,Hradec Kralove,Slovacko,21.09.2024 | Hradec Kralove | Slovacko | 3 | 0
+6,2024-09-17,Mlada Boleslav,Slavia Prague,17.09.2024 | Mlada Boleslav | Slavia Prague | 0 | 2
+6,2024-09-17,Plzen,Sigma Olomouc,17.09.2024 | Plzen | Sigma Olomouc | 2 | 1
+7,2024-09-01,Liberec,Plzen,01.09.2024 | Liberec | Plzen | 1 | 1
+7,2024-09-01,Slavia Prague,FK Pardubice,01.09.2024 | Slavia Prague | FK Pardubice | 2 | 0
+7,2024-09-01,Teplice,Mlada Boleslav,01.09.2024 | Teplice | Mlada Boleslav | 1 | 2
+7,2024-09-01,Karvina,Dukla Prague,01.09.2024 | Karvina | Dukla Prague | 0 | 0
+7,2024-09-01,Sigma Olomouc,Ostrava,01.09.2024 | Sigma Olomouc | Ostrava | 2 | 2
+7,2024-08-31,Hradec Kralove,Sparta Prague,31.08.2024 | Hradec Kralove | Sparta Prague | 0 | 2
+7,2024-08-31,Slovacko,Jablonec,31.08.2024 | Slovacko | Jablonec | 0 | 0
+7,2024-08-31,Ceske Budejovice,Bohemians,31.08.2024 | Ceske Budejovice | Bohemians | 0 | 0
+3,2024-08-28,Karvina,Ostrava,28.08.2024 | Karvina | Ostrava | 0 | 0
+6,2024-08-25,Dukla Prague,Ceske Budejovice,25.08.2024 | Dukla Prague | Ceske Budejovice | 3 | 0
+6,2024-08-25,Ostrava,Liberec,25.08.2024 | Ostrava | Liberec | 2 | 0
+6,2024-08-24,FK Pardubice,Hradec Kralove,24.08.2024 | FK Pardubice | Hradec Kralove | 2 | 1
+6,2024-08-24,Sparta Prague,Slovacko,24.08.2024 | Sparta Prague | Slovacko | 2 | 2
+6,2024-08-24,Teplice,Karvina,24.08.2024 | Teplice | Karvina | 1 | 3
+6,2024-08-24,Bohemians,Jablonec,24.08.2024 | Bohemians | Jablonec | 1 | 2
+5,2024-08-18,Slovacko,Ostrava,18.08.2024 | Slovacko | Ostrava | 1 | 0
+5,2024-08-18,Ceske Budejovice,Plzen,18.08.2024 | Ceske Budejovice | Plzen | 0 | 3
+5,2024-08-18,Liberec,FK Pardubice,18.08.2024 | Liberec | FK Pardubice | 3 | 0
+5,2024-08-18,Sigma Olomouc,Mlada Boleslav,18.08.2024 | Sigma Olomouc | Mlada Boleslav | 3 | 2
+5,2024-08-17,Jablonec,Sparta Prague,17.08.2024 | Jablonec | Sparta Prague | 1 | 2
+5,2024-08-17,Karvina,Bohemians,17.08.2024 | Karvina | Bohemians | 1 | 2
+5,2024-08-17,Slavia Prague,Teplice,17.08.2024 | Slavia Prague | Teplice | 2 | 1
+5,2024-08-17,Hradec Kralove,Dukla Prague,17.08.2024 | Hradec Kralove | Dukla Prague | 1 | 0
+4,2024-08-11,Plzen,Karvina,11.08.2024 | Plzen | Karvina | 5 | 0
+4,2024-08-11,Mlada Boleslav,Ceske Budejovice,11.08.2024 | Mlada Boleslav | Ceske Budejovice | 4 | 0
+4,2024-08-11,Ostrava,Hradec Kralove,11.08.2024 | Ostrava | Hradec Kralove | 1 | 0
+4,2024-08-11,FK Pardubice,Slovacko,11.08.2024 | FK Pardubice | Slovacko | 0 | 1
+4,2024-08-10,Slavia Prague,Sigma Olomouc,10.08.2024 | Slavia Prague | Sigma Olomouc | 2 | 0
+4,2024-08-10,Bohemians,Sparta Prague,10.08.2024 | Bohemians | Sparta Prague | 1 | 2
+4,2024-08-10,Teplice,Liberec,10.08.2024 | Teplice | Liberec | 2 | 1
+4,2024-08-10,Dukla Prague,Jablonec,10.08.2024 | Dukla Prague | Jablonec | 0 | 2
+3,2024-08-04,Hradec Kralove,Mlada Boleslav,04.08.2024 | Hradec Kralove | Mlada Boleslav | 2 | 1
+3,2024-08-04,Ceske Budejovice,FK Pardubice,04.08.2024 | Ceske Budejovice | FK Pardubice | 1 | 3
+3,2024-08-03,Sigma Olomouc,Teplice,03.08.2024 | Sigma Olomouc | Teplice | 2 | 1
+3,2024-08-03,Jablonec,Plzen,03.08.2024 | Jablonec | Plzen | 0 | 0
+3,2024-08-03,Slovacko,Bohemians,03.08.2024 | Slovacko | Bohemians | 0 | 0
+3,2024-08-02,Sparta Prague,Dukla Prague,02.08.2024 | Sparta Prague | Dukla Prague | 2 | 0
+3,2024-08-02,Liberec,Slavia Prague,02.08.2024 | Liberec | Slavia Prague | 0 | 1
+2,2024-07-28,Plzen,Hradec Kralove,28.07.2024 | Plzen | Hradec Kralove | 1 | 0
+2,2024-07-28,Mlada Boleslav,Slovacko,28.07.2024 | Mlada Boleslav | Slovacko | 3 | 0
+2,2024-07-28,Ostrava,Jablonec,28.07.2024 | Ostrava | Jablonec | 1 | 0
+2,2024-07-28,Liberec,Sigma Olomouc,28.07.2024 | Liberec | Sigma Olomouc | 1 | 1
+2,2024-07-27,Slavia Prague,Ceske Budejovice,27.07.2024 | Slavia Prague | Ceske Budejovice | 4 | 0
+2,2024-07-27,FK Pardubice,Karvina,27.07.2024 | FK Pardubice | Karvina | 0 | 1
+2,2024-07-27,Teplice,Sparta Prague,27.07.2024 | Teplice | Sparta Prague | 1 | 4
+2,2024-07-27,Dukla Prague,Bohemians,27.07.2024 | Dukla Prague | Bohemians | 1 | 0
+1,2024-07-21,Hradec Kralove,Teplice,21.07.2024 | Hradec Kralove | Teplice | 1 | 0
+1,2024-07-21,Slovacko,Slavia Prague,21.07.2024 | Slovacko | Slavia Prague | 0 | 0
+1,2024-07-21,Karvina,Liberec,21.07.2024 | Karvina | Liberec | 1 | 3
+1,2024-07-20,Dukla Prague,Plzen,20.07.2024 | Dukla Prague | Plzen | 1 | 3
+1,2024-07-20,Bohemians,Ostrava,20.07.2024 | Bohemians | Ostrava | 2 | 1
+1,2024-07-20,Ceske Budejovice,Sigma Olomouc,20.07.2024 | Ceske Budejovice | Sigma Olomouc | 0 | 2
+1,2024-07-20,Jablonec,Mlada Boleslav,20.07.2024 | Jablonec | Mlada Boleslav | 2 | 2 | 0
+1,2024-07-19,Sparta Prague,FK Pardubice,19.07.2024 | Sparta Prague | FK Pardubice | 2 | 1
