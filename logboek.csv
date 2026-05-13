@@ -26,26 +26,26 @@ cyprus;2024-2025;cyprus-league;1;1;;Eerst DRR met 14 teams, dan 1-6 DRR, 7-14 SR
 czech-republic;2024-2025;chance-liga;1;1;;Eerst DRR met 16 teams, dan 1-6 SRR met behoud van punten, 7-10 spelen een heen-en terug knock out toernooi, 11-16 SRR met behoud van punten. Voor cleaned data alleen eerste deel gehouden
 france;2024-2025;ligue-1;1;1;;Normale DRR met 18 teams, team 17 en 18 zakken direct en 16 speelt knockout toernooi
 germany;2024-2025;bundesliga;1;1;;Normale DRR met 18 teams, team 17 en 18 zakken direct en 16 speelt heen en terug tegen nr 3 tweede klasse
-hungary;2024-2025;nb-i;1;0;;Normale 3RR met 12 teams
-ireland;2025;premier-division;1;0;;
-italy;2024-2025;serie-a;1;0;;
-luxembourg;2024-2025;bgl-ligue;1;0;;
-malta;2024-2025;premier-league;1;0;;
-netherlands;2024-2025;eredivisie;1;0;;
-northern-ireland;2024-2025;nifl-premiership;1;0;;
-norway;2025;eliteserien;1;0;;
-poland;2024-2025;ekstraklasa;1;0;;
-portugal;2024-2025;liga-portugal;1;0;;
-romania;2024-2025;superliga;1;0;;
-russia;2024-2025;premier-league;1;0;;
-scotland;2024-2025;premiership;1;0;;
-slovakia;2024-2025;nike-liga;1;0;;
-spain;2024-2025;laliga;1;0;;
-switzerland;2024-2025;super-league;1;0;;
-turkey;2024-2025;super-lig;1;0;;
-wales;2024-2025;cymru-premier;1;0;;
-croatia;2024-2025;hnl;1;0;;
-denmark;2024-2025;superliga;1;0;;
-ukraine;2024-2025;premier-league;1;0;;
-serbia;2024-2025;mozzart-bet-super-liga;1;0;;
-sweden;2025;allsvenskan;1;0;;
+hungary;2024-2025;nb-i;1;1;;Normale 3RR met 12 teams
+ireland;2025;premier-division;1;1;;Normale 4RR met 10 teams, 9 speelt finale voor behoud tegen winnanr knockouttoernooi 2-5 van tweede klasse
+italy;2024-2025;serie-a;1;1;;Normale DRR met 20 teams
+luxembourg;2024-2025;bgl-ligue;1;1;;Normale DRR met 16 teams, 13 en 14 spelen tegen 4 en 3 van tweede klasse finale tegen degradatie
+malta;2024-2025;premier-league;1;0;;raar format
+netherlands;2024-2025;eredivisie;1;1;;Normale DRR met 18 teams, relegation knockout toernooi + knockout toernooi voor de conference league
+northern-ireland;2024-2025;nifl-premiership;1;1;;Eerst 3RR met 12 teams, dan 1-6 voor de titel SRR, 7-12 SRR tegen degradatie. 11 speelt heen en terug finale voor behoud. 4567 spelen knockout toernooi voor conference league ticket. Bekerwinnaar krijgt rechtstreeks ticket dus dan kan het knockout toernooi anders worden.
+norway;2025;eliteserien;1;1;;Normale DRR met 16 teams, 14 speelt relegation heen en terug finale
+poland;2024-2025;ekstraklasa;1;1;;Normale DRR met 18 teams
+portugal;2024-2025;liga-portugal;1;1;;Normale DRR met 18 teams, 16 speelt heen en terug finale voor behoud
+romania;2024-2025;superliga;1;1;;Eerst DRR met 16 teams, dan 1-6 DRR met puntenhalvering van main seizoen, 7-16 spelen een SRR met puntenhalvering van main. 13 en 14 spelen tegen tweedeklassers heen en terug finale voor behoud
+russia;2024-2025;premier-league;1;1;;Normale DRR met 16 teams, 13-14 spelen heen en reug finale tegen tweedeklassers
+scotland;2024-2025;premiership;1;1;;Eerst 3RR met 12 teams, dan 1-6 voor de titel SRR, 7-12 SRR tegen degradatie met behoud van punten beide. 11 speelt heen en terug finale voor behoud
+slovakia;2024-2025;nike-liga;1;1;;Eerst DRR met 12 teams, dan 1-6 DRR voor titel 7-12 DRR tegen degradatie, 11 speelt heen en terug finale voor behoud, 4-7 knockout toernooi voor conference leaugue
+spain;2024-2025;laliga;1;1;;Normale DRR met 20 teams
+switzerland;2024-2025;super-league;1;1;;Eerst 3RR met 12 teams, dan 1-6 SRR, 7-12 SRR, 11 speelt heen en terug finale voor behoud
+turkey;2024-2025;super-lig;1;1;;Normale DRR met 19 teams, maar seizoen 23-24 met 20 en 25-26 met 18
+wales;2024-2025;cymru-premier;1;1;;Eerst DRR met 12 teams, dan 1-6 DRR voor titel 7-12 DRR tegen degradatie,  4-7 knockout toernooi voor heen en terug finale tegen 3 voor conference league finale
+croatia;2024-2025;hnl;1;1;;Normale 4RR met 10 teams
+denmark;2024-2025;superliga;1;1;;Eerst DRR met 12 teams, dan 1-6 DRR voor titel 7-12 DRR tegen degradatie, 4 vs 7 finale voor conference league ticket
+ukraine;2024-2025;premier-league;1;1;;Normale DRR met 16 teams, 13 en 14 spelen heen en terug finale tegen tweedeklassers voor promotie
+serbia;2024-2025;mozzart-bet-super-liga;1;1;;Eerst normale DRR met 16 teams, 1-8 SRR voor titel, 9-16 SRR tegen degradatie, 13 en 14 heen en terug finale tegen tweedeklassers
+sweden;2025;allsvenskan;1;1;;Normale DRR met 16 teams, 14 speelt relegation heen en terug finale tegen tweedeklasser

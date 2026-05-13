@@ -1,0 +1,307 @@
+round,date,team_home,team_away,full_text
+34,17.05.2025,AFS,Moreirense,17.05.2025 | AFS | Moreirense | 0 | 3
+34,17.05.2025,Arouca,Boavista,17.05.2025 | Arouca | Boavista | 4 | 1
+34,17.05.2025,Braga,Benfica,17.05.2025 | Braga | Benfica | 1 | 1
+34,17.05.2025,Estoril,Estrela,17.05.2025 | Estoril | Estrela | 4 | 0
+34,17.05.2025,FC Porto,Nacional,17.05.2025 | FC Porto | Nacional | 3 | 0
+34,17.05.2025,SC Farense,Santa Clara,17.05.2025 | SC Farense | Santa Clara | 1 | 2
+34,17.05.2025,Sporting CP,Vitoria Guimaraes,17.05.2025 | Sporting CP | Vitoria Guimaraes | 2 | 0
+34,16.05.2025,Famalicao,Casa Pia,16.05.2025 | Famalicao | Casa Pia | 2 | 1
+34,16.05.2025,Rio Ave,Gil Vicente,16.05.2025 | Rio Ave | Gil Vicente | 1 | 1
+33,11.05.2025,Boavista,FC Porto,11.05.2025 | Boavista | FC Porto | 1 | 2
+33,11.05.2025,Moreirense,Estoril,11.05.2025 | Moreirense | Estoril | 2 | 2
+33,11.05.2025,Vitoria Guimaraes,SC Farense,11.05.2025 | Vitoria Guimaraes | SC Farense | 1 | 2
+33,11.05.2025,Estrela,AFS,11.05.2025 | Estrela | AFS | 0 | 1
+33,10.05.2025,Casa Pia,Braga,10.05.2025 | Casa Pia | Braga | 2 | 1
+33,10.05.2025,Gil Vicente,Arouca,10.05.2025 | Gil Vicente | Arouca | 1 | 1
+33,10.05.2025,Benfica,Sporting CP,10.05.2025 | Benfica | Sporting CP | 1 | 1
+33,10.05.2025,Nacional,Rio Ave,10.05.2025 | Nacional | Rio Ave | 3 | 3
+33,10.05.2025,Santa Clara,Famalicao,10.05.2025 | Santa Clara | Famalicao | 2 | 1
+32,05.05.2025,AFS,Boavista,05.05.2025 | AFS | Boavista | 1 | 2
+32,05.05.2025,Rio Ave,Estrela,05.05.2025 | Rio Ave | Estrela | 2 | 0
+32,04.05.2025,Sporting CP,Gil Vicente,04.05.2025 | Sporting CP | Gil Vicente | 2 | 1
+32,04.05.2025,Arouca,Casa Pia,04.05.2025 | Arouca | Casa Pia | 2 | 0 | 0
+32,03.05.2025,Estoril,Benfica,03.05.2025 | Estoril | Benfica | 1 | 2
+32,03.05.2025,Braga,Santa Clara,03.05.2025 | Braga | Santa Clara | 1 | 1
+32,03.05.2025,Nacional,Vitoria Guimaraes,03.05.2025 | Nacional | Vitoria Guimaraes | 1 | 2
+32,03.05.2025,SC Farense,Famalicao,03.05.2025 | SC Farense | Famalicao | 2 | 1
+32,02.05.2025,FC Porto,Moreirense,02.05.2025 | FC Porto | Moreirense | 3 | 1
+31,29.04.2025,Casa Pia,Estoril,29.04.2025 | Casa Pia | Estoril | 1 | 3
+31,27.04.2025,Boavista,Sporting CP,27.04.2025 | Boavista | Sporting CP | 0 | 5
+31,27.04.2025,Benfica,AFS,27.04.2025 | Benfica | AFS | 6 | 0
+31,27.04.2025,Vitoria Guimaraes,Rio Ave,27.04.2025 | Vitoria Guimaraes | Rio Ave | 3 | 0
+31,27.04.2025,Moreirense,Nacional,27.04.2025 | Moreirense | Nacional | 1 | 1
+31,26.04.2025,Estrela,FC Porto,26.04.2025 | Estrela | FC Porto | 2 | 0
+31,26.04.2025,Gil Vicente,SC Farense,26.04.2025 | Gil Vicente | SC Farense | 1 | 0
+31,26.04.2025,Santa Clara,Arouca,26.04.2025 | Santa Clara | Arouca | 2 | 0
+31,25.04.2025,Famalicao,Braga,25.04.2025 | Famalicao | Braga | 1 | 1
+30,19.04.2025,Vitoria Guimaraes,Benfica,19.04.2025 | Vitoria Guimaraes | Benfica | 0 | 3
+30,19.04.2025,Arouca,Estrela,19.04.2025 | Arouca | Estrela | 1 | 0
+30,19.04.2025,Estoril,Braga,19.04.2025 | Estoril | Braga | 0 | 2
+30,19.04.2025,AFS,Casa Pia,19.04.2025 | AFS | Casa Pia | 1 | 1
+30,19.04.2025,Nacional,Gil Vicente,19.04.2025 | Nacional | Gil Vicente | 0 | 3
+30,18.04.2025,Sporting CP,Moreirense,18.04.2025 | Sporting CP | Moreirense | 3 | 1
+30,18.04.2025,FC Porto,Famalicao,18.04.2025 | FC Porto | Famalicao | 2 | 1
+30,18.04.2025,Rio Ave,Santa Clara,18.04.2025 | Rio Ave | Santa Clara | 1 | 1
+30,18.04.2025,SC Farense,Boavista,18.04.2025 | SC Farense | Boavista | 0 | 1
+29,13.04.2025,Moreirense,Rio Ave,13.04.2025 | Moreirense | Rio Ave | 0 | 2
+29,13.04.2025,Benfica,Arouca,13.04.2025 | Benfica | Arouca | 2 | 2
+29,13.04.2025,Braga,AFS,13.04.2025 | Braga | AFS | 4 | 1
+29,13.04.2025,Estrela,SC Farense,13.04.2025 | Estrela | SC Farense | 0 | 1
+29,12.04.2025,Casa Pia,FC Porto,12.04.2025 | Casa Pia | FC Porto | 0 | 1
+29,12.04.2025,Santa Clara,Sporting CP,12.04.2025 | Santa Clara | Sporting CP | 0 | 1
+29,12.04.2025,Boavista,Nacional,12.04.2025 | Boavista | Nacional | 0 | 1
+29,12.04.2025,Famalicao,Estoril,12.04.2025 | Famalicao | Estoril | 3 | 0
+29,11.04.2025,Gil Vicente,Vitoria Guimaraes,11.04.2025 | Gil Vicente | Vitoria Guimaraes | 0 | 1
+28,07.04.2025,Sporting CP,Braga,07.04.2025 | Sporting CP | Braga | 1 | 1
+28,07.04.2025,Rio Ave,Boavista,07.04.2025 | Rio Ave | Boavista | 0 | 2
+28,07.04.2025,SC Farense,Casa Pia,07.04.2025 | SC Farense | Casa Pia | 0 | 0
+28,06.04.2025,FC Porto,Benfica,06.04.2025 | FC Porto | Benfica | 1 | 4
+28,06.04.2025,Nacional,Estrela,06.04.2025 | Nacional | Estrela | 0 | 1
+28,06.04.2025,Gil Vicente,Moreirense,06.04.2025 | Gil Vicente | Moreirense | 0 | 1
+28,05.04.2025,Vitoria Guimaraes,Santa Clara,05.04.2025 | Vitoria Guimaraes | Santa Clara | 2 | 0
+28,05.04.2025,Arouca,Famalicao,05.04.2025 | Arouca | Famalicao | 1 | 2
+28,04.04.2025,AFS,Estoril,04.04.2025 | AFS | Estoril | 0 | 3
+27,02.04.2025,Benfica,SC Farense,02.04.2025 | Benfica | SC Farense | 3 | 2
+27,01.04.2025,Boavista,Gil Vicente,01.04.2025 | Boavista | Gil Vicente | 1 | 3
+27,30.03.2025,Moreirense,Vitoria Guimaraes,30.03.2025 | Moreirense | Vitoria Guimaraes | 2 | 2
+27,30.03.2025,Estoril,FC Porto,30.03.2025 | Estoril | FC Porto | 1 | 2
+27,30.03.2025,Famalicao,AFS,30.03.2025 | Famalicao | AFS | 4 | 1
+27,30.03.2025,Santa Clara,Nacional,30.03.2025 | Santa Clara | Nacional | 1 | 0
+27,29.03.2025,Braga,Arouca,29.03.2025 | Braga | Arouca | 2 | 1
+27,29.03.2025,Estrela,Sporting CP,29.03.2025 | Estrela | 2 | Sporting CP | 0 | 3
+27,29.03.2025,Casa Pia,Rio Ave,29.03.2025 | Casa Pia | Rio Ave | 2 | 1
+24,28.03.2025,Gil Vicente,Benfica,28.03.2025 | Gil Vicente | Benfica | 0 | 3
+26,16.03.2025,Moreirense,Boavista,16.03.2025 | Moreirense | Boavista | 1 | 0
+26,16.03.2025,Vitoria Guimaraes,Estrela,16.03.2025 | Vitoria Guimaraes | Estrela | 2 | 0
+26,16.03.2025,Rio Ave,Benfica,16.03.2025 | Rio Ave | Benfica | 2 | 3
+26,16.03.2025,Arouca,Estoril,16.03.2025 | Arouca | Estoril | 1 | 1
+26,16.03.2025,Nacional,Casa Pia,16.03.2025 | Nacional | Casa Pia | 3 | 1
+26,15.03.2025,Sporting CP,Famalicao,15.03.2025 | Sporting CP | Famalicao | 3 | 1
+26,15.03.2025,FC Porto,AFS,15.03.2025 | FC Porto | AFS | 2 | 0
+26,15.03.2025,Gil Vicente,Santa Clara,15.03.2025 | Gil Vicente | Santa Clara | 0 | 1
+26,15.03.2025,SC Farense,Braga,15.03.2025 | SC Farense | Braga | 0 | 1
+25,10.03.2025,Famalicao,Rio Ave,10.03.2025 | Famalicao | Rio Ave | 1 | 0
+25,09.03.2025,Boavista,Vitoria Guimaraes,09.03.2025 | Boavista | Vitoria Guimaraes | 1 | 2
+25,09.03.2025,Casa Pia,Sporting CP,09.03.2025 | Casa Pia | Sporting CP | 1 | 3
+25,09.03.2025,Santa Clara,Moreirense,09.03.2025 | Santa Clara | Moreirense | 1 | 1
+25,08.03.2025,Braga,FC Porto,08.03.2025 | Braga | FC Porto | 1 | 0
+25,08.03.2025,Benfica,Nacional,08.03.2025 | Benfica | Nacional | 3 | 0
+25,08.03.2025,Estoril,SC Farense,08.03.2025 | Estoril | SC Farense | 2 | 2
+25,08.03.2025,AFS,Arouca,08.03.2025 | AFS | Arouca | 0 | 1
+25,07.03.2025,Estrela,Gil Vicente,07.03.2025 | Estrela | Gil Vicente | 1 | 1
+24,03.03.2025,Sporting CP,Estoril,03.03.2025 | Sporting CP | Estoril | 3 | 1
+24,02.03.2025,Rio Ave,Braga,02.03.2025 | Rio Ave | Braga | 2 | 1
+24,02.03.2025,SC Farense,AFS,02.03.2025 | SC Farense | AFS | 0 | 1
+24,02.03.2025,Boavista,Santa Clara,02.03.2025 | Boavista | Santa Clara | 1 | 0
+24,02.03.2025,Moreirense,Estrela,02.03.2025 | Moreirense | Estrela | 1 | 1
+24,01.03.2025,Vitoria Guimaraes,Casa Pia,01.03.2025 | Vitoria Guimaraes | Casa Pia | 1 | 0
+24,01.03.2025,Arouca,FC Porto,01.03.2025 | Arouca | FC Porto | 0 | 2
+24,01.03.2025,Nacional,Famalicao,01.03.2025 | Nacional | Famalicao | 2 | 1
+23,24.02.2025,FC Porto,Vitoria Guimaraes,24.02.2025 | FC Porto | Vitoria Guimaraes | 1 | 1
+23,23.02.2025,Famalicao,Moreirense,23.02.2025 | Famalicao | Moreirense | 2 | 0
+23,23.02.2025,AFS,Sporting CP,23.02.2025 | AFS | Sporting CP | 2 | 2
+23,23.02.2025,Arouca,SC Farense,23.02.2025 | Arouca | SC Farense | 2 | 2
+23,23.02.2025,Estrela,Santa Clara,23.02.2025 | Estrela | Santa Clara | 0 | 0
+23,22.02.2025,Estoril,Rio Ave,22.02.2025 | Estoril | Rio Ave | 2 | 1
+23,22.02.2025,Benfica,Boavista,22.02.2025 | Benfica | Boavista | 3 | 0
+23,22.02.2025,Casa Pia,Gil Vicente,22.02.2025 | Casa Pia | Gil Vicente | 1 | 0
+23,21.02.2025,Braga,Nacional,21.02.2025 | Braga | Nacional | 1 | 0
+22,17.02.2025,Gil Vicente,Famalicao,17.02.2025 | Gil Vicente | Famalicao | 0 | 2
+22,16.02.2025,Vitoria Guimaraes,Braga,16.02.2025 | Vitoria Guimaraes | Braga | 0 | 0
+22,16.02.2025,SC Farense,FC Porto,16.02.2025 | SC Farense | FC Porto | 0 | 1
+22,16.02.2025,Rio Ave,AFS,16.02.2025 | Rio Ave | AFS | 1 | 1
+22,15.02.2025,Sporting CP,Arouca,15.02.2025 | Sporting CP | Arouca | 2 | 2
+22,15.02.2025,Santa Clara,Benfica,15.02.2025 | Santa Clara | Benfica | 0 | 1
+22,15.02.2025,Nacional,Estoril,15.02.2025 | Nacional | Estoril | 2 | 2
+22,15.02.2025,Moreirense,Casa Pia,15.02.2025 | Moreirense | Casa Pia | 3 | 2
+22,14.02.2025,Boavista,Estrela,14.02.2025 | Boavista | Estrela | 0 | 1
+21,10.02.2025,Arouca,Rio Ave,10.02.2025 | Arouca | Rio Ave | 1 | 1
+21,09.02.2025,Casa Pia,Estrela,09.02.2025 | Casa Pia | Estrela | 1 | 0
+21,09.02.2025,Braga,Gil Vicente,09.02.2025 | Braga | Gil Vicente | 2 | 0
+21,09.02.2025,Estoril,Boavista,09.02.2025 | Estoril | Boavista | 2 | 1
+21,09.02.2025,SC Farense,Nacional,09.02.2025 | SC Farense | Nacional | 0 | 2
+21,08.02.2025,Famalicao,Vitoria Guimaraes,08.02.2025 | Famalicao | Vitoria Guimaraes | 0 | 0
+21,08.02.2025,Benfica,Moreirense,08.02.2025 | Benfica | Moreirense | 3 | 2
+21,08.02.2025,AFS,Santa Clara,08.02.2025 | AFS | Santa Clara | 1 | 2
+21,07.02.2025,FC Porto,Sporting CP,07.02.2025 | FC Porto | Sporting CP | 2 | 1 | 1
+20,03.02.2025,Rio Ave,FC Porto,03.02.2025 | Rio Ave | FC Porto | 2 | 2
+20,03.02.2025,Moreirense,Braga,03.02.2025 | Moreirense | Braga | 1 | 2
+20,02.02.2025,Estrela,Benfica,02.02.2025 | Estrela | Benfica | 2 | 3
+20,02.02.2025,Sporting CP,SC Farense,02.02.2025 | Sporting CP | SC Farense | 3 | 1
+20,01.02.2025,Vitoria Guimaraes,AFS,01.02.2025 | Vitoria Guimaraes | AFS | 2 | 0
+20,01.02.2025,Gil Vicente,Estoril,01.02.2025 | Gil Vicente | Estoril | 1 | 2
+20,01.02.2025,Nacional,Arouca,01.02.2025 | Nacional | Arouca | 1 | 2
+20,01.02.2025,Santa Clara,Casa Pia,01.02.2025 | Santa Clara | Casa Pia | 2 | 1
+20,31.01.2025,Boavista,Famalicao,31.01.2025 | Boavista | Famalicao | 0 | 2
+19,27.01.2025,AFS,Gil Vicente,27.01.2025 | AFS | Gil Vicente | 1 | 0
+19,26.01.2025,Braga,Boavista,26.01.2025 | Braga | Boavista | 3 | 0
+19,26.01.2025,FC Porto,Santa Clara,26.01.2025 | FC Porto | Santa Clara | 1 | 1
+19,26.01.2025,Estoril,Vitoria Guimaraes,26.01.2025 | Estoril | Vitoria Guimaraes | 1 | 0
+19,25.01.2025,Sporting CP,Nacional,25.01.2025 | Sporting CP | Nacional | 2 | 0
+19,25.01.2025,Casa Pia,Benfica,25.01.2025 | Casa Pia | Benfica | 3 | 1
+19,25.01.2025,Famalicao,Estrela,25.01.2025 | Famalicao | Estrela | 0 | 0
+19,25.01.2025,SC Farense,Rio Ave,25.01.2025 | SC Farense | Rio Ave | 1 | 2
+19,24.01.2025,Arouca,Moreirense,24.01.2025 | Arouca | Moreirense | 1 | 0
+18,20.01.2025,Boavista,Casa Pia,20.01.2025 | Boavista | Casa Pia | 2 | 3
+18,19.01.2025,Gil Vicente,FC Porto,19.01.2025 | Gil Vicente | FC Porto | 3 | 1
+18,19.01.2025,Estrela,Braga,19.01.2025 | Estrela | Braga | 0 | 1
+18,19.01.2025,Moreirense,SC Farense,19.01.2025 | Moreirense | SC Farense | 0 | 0
+18,19.01.2025,Nacional,AFS,19.01.2025 | Nacional | AFS | 3 | 1
+18,18.01.2025,Vitoria Guimaraes,Arouca,18.01.2025 | Vitoria Guimaraes | Arouca | 2 | 2
+18,18.01.2025,Rio Ave,Sporting CP,18.01.2025 | Rio Ave | Sporting CP | 0 | 3
+18,18.01.2025,Santa Clara,Estoril,18.01.2025 | Santa Clara | Estoril | 2 | 3
+18,17.01.2025,Benfica,Famalicao,17.01.2025 | Benfica | Famalicao | 4 | 0
+17,12.01.2025,Nacional,FC Porto,12.01.2025 | Nacional | FC Porto | 2 | 0
+17,06.01.2025,Gil Vicente,Rio Ave,06.01.2025 | Gil Vicente | Rio Ave | 1 | 1
+17,05.01.2025,Estrela,Estoril,05.01.2025 | Estrela | Estoril | 2 | 4
+17,05.01.2025,Casa Pia,Famalicao,05.01.2025 | Casa Pia | Famalicao | 1 | 1
+17,05.01.2025,Santa Clara,SC Farense,05.01.2025 | Santa Clara | SC Farense | 0 | 0
+17,04.01.2025,Boavista,Arouca,04.01.2025 | Boavista | Arouca | 1 | 3
+17,04.01.2025,Benfica,Braga,04.01.2025 | Benfica | Braga | 1 | 2
+17,04.01.2025,Moreirense,AFS,04.01.2025 | Moreirense | AFS | 1 | 1
+17,03.01.2025,Vitoria Guimaraes,Sporting CP,03.01.2025 | Vitoria Guimaraes | Sporting CP | 4 | 4
+16,30.12.2024,Famalicao,Santa Clara,30.12.2024 | Famalicao | Santa Clara | 1 | 2
+16,29.12.2024,Sporting CP,Benfica,29.12.2024 | Sporting CP | Benfica | 1 | 0
+16,29.12.2024,Braga,Casa Pia,29.12.2024 | Braga | Casa Pia | 1 | 2
+16,29.12.2024,Rio Ave,Nacional,29.12.2024 | Rio Ave | Nacional | 2 | 1
+16,29.12.2024,SC Farense,Vitoria Guimaraes,29.12.2024 | SC Farense | Vitoria Guimaraes | 2 | 2
+16,28.12.2024,FC Porto,Boavista,28.12.2024 | FC Porto | Boavista | 4 | 0
+16,28.12.2024,Estoril,Moreirense,28.12.2024 | Estoril | Moreirense | 2 | 2
+16,28.12.2024,AFS,Estrela,28.12.2024 | AFS | Estrela | 1 | 1
+16,27.12.2024,Arouca,Gil Vicente,27.12.2024 | Arouca | Gil Vicente | 1 | 1
+15,23.12.2024,Estrela,Rio Ave,23.12.2024 | Estrela | Rio Ave | 1 | 0
+15,23.12.2024,Benfica,Estoril,23.12.2024 | Benfica | Estoril | 3 | 0
+15,23.12.2024,Vitoria Guimaraes,Nacional,23.12.2024 | Vitoria Guimaraes | Nacional | 2 | 2
+15,22.12.2024,Gil Vicente,Sporting CP,22.12.2024 | Gil Vicente | Sporting CP | 0 | 0
+15,22.12.2024,Santa Clara,Braga,22.12.2024 | Santa Clara | Braga | 0 | 2
+15,21.12.2024,Moreirense,FC Porto,21.12.2024 | Moreirense | FC Porto | 0 | 3
+15,21.12.2024,Boavista,AFS,21.12.2024 | Boavista | AFS | 0 | 0
+15,21.12.2024,Famalicao,SC Farense,21.12.2024 | Famalicao | SC Farense | 1 | 2
+15,20.12.2024,Casa Pia,Arouca,20.12.2024 | Casa Pia | Arouca | 3 | 1
+8,19.12.2024,Nacional,Benfica,19.12.2024 | Nacional | Benfica | 0 | 2
+14,16.12.2024,Rio Ave,Vitoria Guimaraes,16.12.2024 | Rio Ave | Vitoria Guimaraes | 2 | 2
+14,16.12.2024,FC Porto,Estrela,16.12.2024 | FC Porto | Estrela | 2 | 0
+14,16.12.2024,Braga,Famalicao,16.12.2024 | Braga | Famalicao | 3 | 3
+14,15.12.2024,Estoril,Casa Pia,15.12.2024 | Estoril | Casa Pia | 0 | 2
+14,15.12.2024,AFS,Benfica,15.12.2024 | AFS | Benfica | 1 | 1
+14,15.12.2024,Arouca,Santa Clara,15.12.2024 | Arouca | Santa Clara | 1 | 0
+14,14.12.2024,Sporting CP,Boavista,14.12.2024 | Sporting CP | Boavista | 3 | 2
+14,14.12.2024,Nacional,Moreirense,14.12.2024 | Nacional | Moreirense | 1 | 0
+14,14.12.2024,SC Farense,Gil Vicente,14.12.2024 | SC Farense | Gil Vicente | 0 | 1
+13,09.12.2024,Estrela,Arouca,09.12.2024 | Estrela | Arouca | 2 | 1
+13,08.12.2024,Casa Pia,AFS,08.12.2024 | Casa Pia | AFS | 1 | 1
+13,08.12.2024,Boavista,SC Farense,08.12.2024 | Boavista | SC Farense | 1 | 1
+13,07.12.2024,Famalicao,FC Porto,07.12.2024 | Famalicao | FC Porto | 1 | 1
+13,07.12.2024,Benfica,Vitoria Guimaraes,07.12.2024 | Benfica | Vitoria Guimaraes | 1 | 0
+13,07.12.2024,Santa Clara,Rio Ave,07.12.2024 | Santa Clara | Rio Ave | 1 | 0
+13,07.12.2024,Gil Vicente,Nacional,07.12.2024 | Gil Vicente | Nacional | 2 | 1
+13,06.12.2024,Braga,Estoril,06.12.2024 | Braga | Estoril | 2 | 2
+13,05.12.2024,Moreirense,Sporting CP,05.12.2024 | Moreirense | Sporting CP | 2 | 1
+12,02.12.2024,FC Porto,Casa Pia,02.12.2024 | FC Porto | Casa Pia | 2 | 0
+12,02.12.2024,Vitoria Guimaraes,Gil Vicente,02.12.2024 | Vitoria Guimaraes | Gil Vicente | 4 | 0
+12,01.12.2024,AFS,Braga,01.12.2024 | AFS | Braga | 0 | 1
+12,01.12.2024,Arouca,Benfica,01.12.2024 | Arouca | Benfica | 0 | 2
+12,01.12.2024,Estoril,Famalicao,01.12.2024 | Estoril | Famalicao | 2 | 1
+12,30.11.2024,Sporting CP,Santa Clara,30.11.2024 | Sporting CP | Santa Clara | 0 | 1
+12,30.11.2024,Nacional,Boavista,30.11.2024 | Nacional | Boavista | 0 | 0
+12,30.11.2024,Rio Ave,Moreirense,30.11.2024 | Rio Ave | Moreirense | 3 | 2
+12,29.11.2024,SC Farense,Estrela,29.11.2024 | SC Farense | Estrela | 1 | 0
+11,10.11.2024,Benfica,FC Porto,10.11.2024 | Benfica | FC Porto | 4 | 1
+11,10.11.2024,Braga,Sporting CP,10.11.2024 | Braga | Sporting CP | 2 | 4
+11,10.11.2024,Santa Clara,Vitoria Guimaraes,10.11.2024 | Santa Clara | Vitoria Guimaraes | 1 | 0
+11,10.11.2024,Estrela,Nacional,10.11.2024 | Estrela | Nacional | 2 | 0
+11,09.11.2024,Boavista,Rio Ave,09.11.2024 | Boavista | Rio Ave | 0 | 2
+11,09.11.2024,Famalicao,Arouca,09.11.2024 | Famalicao | Arouca | 0 | 0
+11,09.11.2024,Casa Pia,SC Farense,09.11.2024 | Casa Pia | SC Farense | 1 | 1
+11,09.11.2024,Estoril,AFS,09.11.2024 | Estoril | AFS | 0 | 0
+11,08.11.2024,Moreirense,Gil Vicente,08.11.2024 | Moreirense | Gil Vicente | 3 | 2
+10,04.11.2024,Nacional,Santa Clara,04.11.2024 | Nacional | Santa Clara | 2 | 0
+10,03.11.2024,FC Porto,Estoril,03.11.2024 | FC Porto | Estoril | 4 | 0
+10,03.11.2024,Arouca,Braga,03.11.2024 | Arouca | Braga | 1 | 2
+10,03.11.2024,Vitoria Guimaraes,Moreirense,03.11.2024 | Vitoria Guimaraes | Moreirense | 1 | 0
+10,03.11.2024,AFS,Famalicao,03.11.2024 | AFS | Famalicao | 2 | 3
+10,02.11.2024,Gil Vicente,Boavista,02.11.2024 | Gil Vicente | Boavista | 1 | 2
+10,02.11.2024,SC Farense,Benfica,02.11.2024 | SC Farense | Benfica | 1 | 2
+10,02.11.2024,Rio Ave,Casa Pia,02.11.2024 | Rio Ave | Casa Pia | 2 | 2
+10,01.11.2024,Sporting CP,Estrela,01.11.2024 | Sporting CP | Estrela | 5 | 1
+9,28.10.2024,AFS,FC Porto,28.10.2024 | AFS | FC Porto | 0 | 5
+9,27.10.2024,Estrela,Vitoria Guimaraes,27.10.2024 | Estrela | Vitoria Guimaraes | 2 | 2
+9,27.10.2024,Benfica,Rio Ave,27.10.2024 | Benfica | Rio Ave | 5 | 0
+9,27.10.2024,Braga,SC Farense,27.10.2024 | Braga | SC Farense | 2 | 0
+9,26.10.2024,Famalicao,Sporting CP,26.10.2024 | Famalicao | Sporting CP | 0 | 3
+9,26.10.2024,Boavista,Moreirense,26.10.2024 | Boavista | Moreirense | 0 | 2
+9,26.10.2024,Estoril,Arouca,26.10.2024 | Estoril | Arouca | 4 | 1
+9,25.10.2024,Santa Clara,Gil Vicente,25.10.2024 | Santa Clara | Gil Vicente | 2 | 1
+9,25.10.2024,Casa Pia,Nacional,25.10.2024 | Casa Pia | Nacional | 1 | 0
+8,06.10.2024,FC Porto,Braga,06.10.2024 | FC Porto | Braga | 2 | 1
+8,06.10.2024,SC Farense,Estoril,06.10.2024 | SC Farense | Estoril | 1 | 0
+8,06.10.2024,Vitoria Guimaraes,Boavista,06.10.2024 | Vitoria Guimaraes | Boavista | 2 | 2
+8,05.10.2024,Sporting CP,Casa Pia,05.10.2024 | Sporting CP | Casa Pia | 2 | 0
+8,05.10.2024,Arouca,AFS,05.10.2024 | Arouca | AFS | 1 | 1
+8,05.10.2024,Gil Vicente,Estrela,05.10.2024 | Gil Vicente | Estrela | 3 | 0
+8,05.10.2024,Moreirense,Santa Clara,05.10.2024 | Moreirense | Santa Clara | 1 | 0
+8,04.10.2024,Rio Ave,Famalicao,04.10.2024 | Rio Ave | Famalicao | 1 | 1
+7,30.09.2024,AFS,SC Farense,30.09.2024 | AFS | SC Farense | 0 | 0
+7,29.09.2024,Braga,Rio Ave,29.09.2024 | Braga | Rio Ave | 4 | 0
+7,29.09.2024,Santa Clara,Boavista,29.09.2024 | Santa Clara | Boavista | 1 | 0
+7,29.09.2024,FC Porto,Arouca,29.09.2024 | FC Porto | Arouca | 4 | 0
+7,29.09.2024,Famalicao,Nacional,29.09.2024 | Famalicao | Nacional | 0 | 0
+7,28.09.2024,Benfica,Gil Vicente,28.09.2024 | Benfica | Gil Vicente | 5 | 1
+7,28.09.2024,Casa Pia,Vitoria Guimaraes,28.09.2024 | Casa Pia | Vitoria Guimaraes | 1 | 1
+7,28.09.2024,Estrela,Moreirense,28.09.2024 | Estrela | Moreirense | 2 | 1
+7,27.09.2024,Estoril,Sporting CP,27.09.2024 | Estoril | Sporting CP | 0 | 3
+6,23.09.2024,Boavista,Benfica,23.09.2024 | Boavista | Benfica | 0 | 3
+6,22.09.2024,Sporting CP,AFS,22.09.2024 | Sporting CP | AFS | 3 | 0
+6,22.09.2024,SC Farense,Arouca,22.09.2024 | SC Farense | Arouca | 0 | 1
+6,22.09.2024,Gil Vicente,Casa Pia,22.09.2024 | Gil Vicente | Casa Pia | 1 | 1
+6,21.09.2024,Moreirense,Famalicao,21.09.2024 | Moreirense | Famalicao | 0 | 0
+6,21.09.2024,Vitoria Guimaraes,FC Porto,21.09.2024 | Vitoria Guimaraes | FC Porto | 0 | 3
+6,21.09.2024,Rio Ave,Estoril,21.09.2024 | Rio Ave | Estoril | 2 | 2
+6,21.09.2024,Santa Clara,Estrela,21.09.2024 | Santa Clara | Estrela | 1 | 0
+6,20.09.2024,Nacional,Braga,20.09.2024 | Nacional | Braga | 0 | 3
+5,16.09.2024,Estrela,Boavista,16.09.2024 | Estrela | Boavista | 2 | 2
+5,15.09.2024,Braga,Vitoria Guimaraes,15.09.2024 | Braga | Vitoria Guimaraes | 0 | 2
+5,15.09.2024,Estoril,Nacional,15.09.2024 | Estoril | Nacional | 1 | 0
+5,15.09.2024,FC Porto,SC Farense,15.09.2024 | FC Porto | SC Farense | 2 | 1
+5,14.09.2024,Benfica,Santa Clara,14.09.2024 | Benfica | Santa Clara | 4 | 1
+5,14.09.2024,Famalicao,Gil Vicente,14.09.2024 | Famalicao | Gil Vicente | 1 | 1
+5,14.09.2024,AFS,Rio Ave,14.09.2024 | AFS | Rio Ave | 1 | 0
+5,14.09.2024,Casa Pia,Moreirense,14.09.2024 | Casa Pia | Moreirense | 3 | 1
+5,13.09.2024,Arouca,Sporting CP,13.09.2024 | Arouca | Sporting CP | 0 | 3
+4,01.09.2024,Gil Vicente,Braga,01.09.2024 | Gil Vicente | Braga | 0 | 0
+4,01.09.2024,Vitoria Guimaraes,Famalicao,01.09.2024 | Vitoria Guimaraes | Famalicao | 2 | 1
+4,01.09.2024,Rio Ave,Arouca,01.09.2024 | Rio Ave | Arouca | 1 | 0
+4,01.09.2024,Nacional,SC Farense,01.09.2024 | Nacional | SC Farense | 2 | 0
+4,31.08.2024,Sporting CP,FC Porto,31.08.2024 | Sporting CP | FC Porto | 2 | 0
+4,31.08.2024,Boavista,Estoril,31.08.2024 | Boavista | Estoril | 0 | 0
+4,31.08.2024,Estrela,Casa Pia,31.08.2024 | Estrela | Casa Pia | 0 | 1
+4,31.08.2024,Santa Clara,AFS,31.08.2024 | Santa Clara | AFS | 2 | 1
+4,30.08.2024,Moreirense,Benfica,30.08.2024 | Moreirense | Benfica | 1 | 1
+3,25.08.2024,AFS,Vitoria Guimaraes,25.08.2024 | AFS | Vitoria Guimaraes | 1 | 0
+3,25.08.2024,Braga,Moreirense,25.08.2024 | Braga | Moreirense | 3 | 1
+3,25.08.2024,Estoril,Gil Vicente,25.08.2024 | Estoril | Gil Vicente | 0 | 0
+3,25.08.2024,Arouca,Nacional,25.08.2024 | Arouca | Nacional | 1 | 0
+3,24.08.2024,Benfica,Estrela,24.08.2024 | Benfica | Estrela | 1 | 0
+3,24.08.2024,Famalicao,Boavista,24.08.2024 | Famalicao | Boavista | 1 | 0
+3,24.08.2024,FC Porto,Rio Ave,24.08.2024 | FC Porto | Rio Ave | 2 | 0
+3,24.08.2024,Casa Pia,Santa Clara,24.08.2024 | Casa Pia | Santa Clara | 0 | 2
+3,23.08.2024,SC Farense,Sporting CP,23.08.2024 | SC Farense | Sporting CP | 0 | 5
+2,19.08.2024,Estrela,Famalicao,19.08.2024 | Estrela | Famalicao | 0 | 3
+2,18.08.2024,Boavista,Braga,18.08.2024 | Boavista | Braga | 0 | 1
+2,18.08.2024,Vitoria Guimaraes,Estoril,18.08.2024 | Vitoria Guimaraes | Estoril | 1 | 0
+2,18.08.2024,Moreirense,Arouca,18.08.2024 | Moreirense | Arouca | 3 | 1
+2,17.08.2024,Benfica,Casa Pia,17.08.2024 | Benfica | Casa Pia | 3 | 0
+2,17.08.2024,Nacional,Sporting CP,17.08.2024 | Nacional | Sporting CP | 1 | 6
+2,17.08.2024,Rio Ave,SC Farense,17.08.2024 | Rio Ave | SC Farense | 1 | 0
+2,16.08.2024,Gil Vicente,AFS,16.08.2024 | Gil Vicente | AFS | 4 | 2
+2,16.08.2024,Santa Clara,FC Porto,16.08.2024 | Santa Clara | FC Porto | 0 | 2
+1,12.08.2024,Arouca,Vitoria Guimaraes,12.08.2024 | Arouca | Vitoria Guimaraes | 0 | 1
+1,11.08.2024,Braga,Estrela,11.08.2024 | Braga | Estrela | 1 | 1
+1,11.08.2024,Famalicao,Benfica,11.08.2024 | Famalicao | Benfica | 2 | 0
+1,11.08.2024,SC Farense,Moreirense,11.08.2024 | SC Farense | Moreirense | 1 | 2
+1,11.08.2024,Estoril,Santa Clara,11.08.2024 | Estoril | Santa Clara | 1 | 4
+1,10.08.2024,FC Porto,Gil Vicente,10.08.2024 | FC Porto | Gil Vicente | 3 | 0
+1,10.08.2024,Casa Pia,Boavista,10.08.2024 | Casa Pia | Boavista | 0 | 1
+1,10.08.2024,AFS,Nacional,10.08.2024 | AFS | Nacional | 1 | 1
+1,09.08.2024,Sporting CP,Rio Ave,09.08.2024 | Sporting CP | Rio Ave | 3 | 1

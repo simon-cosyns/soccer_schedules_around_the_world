@@ -1,0 +1,199 @@
+round,date,team_home,team_away,full_text
+33,2025-03-24,Dungannon,Linfield,24.03.2025 | Dungannon | Linfield | 0 | 3
+33,2025-03-22,Cliftonville,Carrick Rangers,22.03.2025 | Cliftonville | Carrick Rangers | 3 | 0
+33,2025-03-22,Coleraine,Portadown,22.03.2025 | Coleraine | Portadown | 1 | 0
+33,2025-03-22,Glenavon,Larne,22.03.2025 | Glenavon | Larne | 0 | 1
+33,2025-03-22,Glentoran,Crusaders,22.03.2025 | Glentoran | Crusaders | 0 | 1
+33,2025-03-22,Loughgall,Ballymena,22.03.2025 | Loughgall | Ballymena | 2 | 1
+31,2025-03-18,Coleraine,Cliftonville,18.03.2025 | Coleraine | Cliftonville | 2 | 2
+26,2025-03-18,Glentoran,Larne,18.03.2025 | Glentoran | Larne | 2 | 2
+32,2025-03-15,Larne,Coleraine,15.03.2025 | Larne | Coleraine | 1 | 1
+32,2025-03-15,Portadown,Dungannon,15.03.2025 | Portadown | Dungannon | 1 | 1
+32,2025-03-15,Ballymena,Cliftonville,15.03.2025 | Ballymena | Cliftonville | 1 | 0
+32,2025-03-15,Carrick Rangers,Glentoran,15.03.2025 | Carrick Rangers | Glentoran | 0 | 0
+32,2025-03-15,Crusaders,Loughgall,15.03.2025 | Crusaders | Loughgall | 1 | 1
+32,2025-03-15,Linfield,Glenavon,15.03.2025 | Linfield | Glenavon | 2 | 0
+24,2025-03-12,Cliftonville,Dungannon,12.03.2025 | Cliftonville | Dungannon | 0 | 2
+31,2025-03-12,Glentoran,Glenavon,12.03.2025 | Glentoran | Glenavon | 3 | 3
+18,2025-03-11,Ballymena,Larne,11.03.2025 | Ballymena | Larne | 1 | 2
+31,2025-03-08,Portadown,Carrick Rangers,08.03.2025 | Portadown | Carrick Rangers | 1 | 0
+31,2025-03-08,Dungannon,Ballymena,08.03.2025 | Dungannon | Ballymena | 0 | 3
+25,2025-03-08,Glenavon,Coleraine,08.03.2025 | Glenavon | Coleraine | 0 | 1
+31,2025-03-08,Loughgall,Larne,08.03.2025 | Loughgall | Larne | 0 | 1
+31,2025-03-07,Crusaders,Linfield,07.03.2025 | Crusaders | Linfield | 0 | 2
+12,2025-03-04,Carrick Rangers,Larne,04.03.2025 | Carrick Rangers | Larne | 1 | 0
+20,2025-03-04,Glentoran,Ballymena,04.03.2025 | Glentoran | Ballymena | 1 | 0
+28,2025-03-04,Loughgall,Glenavon,04.03.2025 | Loughgall | Glenavon | 0 | 2
+20,2025-03-01,Coleraine,Portadown,01.03.2025 | Coleraine | Portadown | 2 | 0
+20,2025-02-26,Loughgall,Larne,26.02.2025 | Loughgall | Larne | 1 | 4
+30,2025-02-22,Ballymena,Portadown,22.02.2025 | Ballymena | Portadown | 2 | 0
+30,2025-02-22,Carrick Rangers,Loughgall,22.02.2025 | Carrick Rangers | Loughgall | 0 | 0
+30,2025-02-22,Glenavon,Crusaders,22.02.2025 | Glenavon | Crusaders | 0 | 1
+30,2025-02-22,Larne,Dungannon,22.02.2025 | Larne | Dungannon | 0 | 1
+30,2025-02-22,Linfield,Coleraine,22.02.2025 | Linfield | Coleraine | 0 | 2
+30,2025-02-21,Cliftonville,Glentoran,21.02.2025 | Cliftonville | Glentoran | 2 | 0
+25,2025-02-18,Ballymena,Glentoran,18.02.2025 | Ballymena | Glentoran | 1 | 1
+21,2025-02-18,Larne,Glenavon,18.02.2025 | Larne | Glenavon | 1 | 1
+29,2025-02-15,Portadown,Larne,15.02.2025 | Portadown | Larne | 2 | 0
+29,2025-02-15,Crusaders,Ballymena,15.02.2025 | Crusaders | Ballymena | 3 | 1
+29,2025-02-15,Dungannon,Carrick Rangers,15.02.2025 | Dungannon | Carrick Rangers | 3 | 1
+29,2025-02-15,Glenavon,Cliftonville,15.02.2025 | Glenavon | Cliftonville | 3 | 1
+29,2025-02-15,Linfield,Loughgall,15.02.2025 | Linfield | Loughgall | 1 | 0
+29,2025-02-14,Coleraine,Glentoran,14.02.2025 | Coleraine | Glentoran | 1 | 2
+20,2025-02-12,Cliftonville,Carrick Rangers,12.02.2025 | Cliftonville | Carrick Rangers | 3 | 0
+24,2025-02-11,Linfield,Larne,11.02.2025 | Linfield | Larne | 1 | 0
+28,2025-02-09,Cliftonville,Portadown,09.02.2025 | Cliftonville | Portadown | 2 | 2
+28,2025-02-08,Carrick Rangers,Coleraine,08.02.2025 | Carrick Rangers | Coleraine | 0 | 1
+28,2025-02-08,Glentoran,Dungannon,08.02.2025 | Glentoran | Dungannon | 1 | 0
+28,2025-02-08,Larne,Crusaders,08.02.2025 | Larne | Crusaders | 0 | 1
+28,2025-02-07,Ballymena,Linfield,07.02.2025 | Ballymena | Linfield | 2 | 2
+3,2025-02-04,Carrick Rangers,Larne,04.02.2025 | Carrick Rangers | Larne | 1 | 2
+12,2025-02-04,Coleraine,Cliftonville,04.02.2025 | Coleraine | Cliftonville | 0 | 0
+4,2025-02-01,Larne,Portadown,01.02.2025 | Larne | Portadown | 1 | 1
+6,2025-01-28,Linfield,Crusaders,28.01.2025 | Linfield | Crusaders | 2 | 1
+27,2025-01-25,Linfield,Cliftonville,25.01.2025 | Linfield | Cliftonville | 2 | 1
+27,2025-01-25,Dungannon,Coleraine,25.01.2025 | Dungannon | Coleraine | 1 | 1
+27,2025-01-25,Crusaders,Portadown,25.01.2025 | Crusaders | Portadown | 3 | 2
+27,2025-01-25,Glenavon,Carrick Rangers,25.01.2025 | Glenavon | Carrick Rangers | 2 | 1
+27,2025-01-25,Larne,Ballymena,25.01.2025 | Larne | Ballymena | 2 | 1
+27,2025-01-25,Loughgall,Glentoran,25.01.2025 | Loughgall | Glentoran | 1 | 2
+26,2025-01-18,Carrick Rangers,Ballymena,18.01.2025 | Carrick Rangers | Ballymena | 0 | 0
+26,2025-01-18,Cliftonville,Loughgall,18.01.2025 | Cliftonville | Loughgall | 2 | 0
+26,2025-01-18,Coleraine,Crusaders,18.01.2025 | Coleraine | Crusaders | 0 | 2
+26,2025-01-18,Portadown,Linfield,18.01.2025 | Portadown | Linfield | 1 | 3
+26,2025-01-17,Dungannon,Glenavon,17.01.2025 | Dungannon | Glenavon | 2 | 3
+25,2025-01-11,Crusaders,Dungannon,11.01.2025 | Crusaders | Dungannon | 1 | 5
+25,2025-01-11,Linfield,Carrick Rangers,11.01.2025 | Linfield | Carrick Rangers | 3 | 0
+25,2025-01-11,Loughgall,Portadown,11.01.2025 | Loughgall | Portadown | 0 | 1
+25,2025-01-10,Larne,Cliftonville,10.01.2025 | Larne | Cliftonville | 2 | 0
+2,2025-01-07,Crusaders,Larne,07.01.2025 | Crusaders | Larne | 1 | 3
+24,2024-12-30,Ballymena,Glenavon,30.12.2024 | Ballymena | 2 | Glenavon | 0 | 2
+24,2024-12-30,Carrick Rangers,Crusaders,30.12.2024 | Carrick Rangers | Crusaders | 0 | 0
+24,2024-12-30,Loughgall,Coleraine,30.12.2024 | Loughgall | Coleraine | 1 | 3
+24,2024-12-30,Portadown,Glentoran,30.12.2024 | Portadown | Glentoran | 0 | 2
+23,2024-12-26,Coleraine,Ballymena,26.12.2024 | Coleraine | Ballymena | 2 | 2
+23,2024-12-26,Crusaders,Cliftonville,26.12.2024 | Crusaders | Cliftonville | 2 | 0
+23,2024-12-26,Dungannon,Loughgall,26.12.2024 | Dungannon | Loughgall | 2 | 1
+23,2024-12-26,Glenavon,Portadown,26.12.2024 | Glenavon | Portadown | 2 | 0
+23,2024-12-26,Glentoran,Linfield,26.12.2024 | Glentoran | Linfield | 0 | 0
+23,2024-12-26,Larne,Carrick Rangers,26.12.2024 | Larne | Carrick Rangers | 0 | 0
+22,2024-12-23,Dungannon,Larne,23.12.2024 | Dungannon | Larne | 0 | 1
+22,2024-12-21,Cliftonville,Glentoran,21.12.2024 | Cliftonville | Glentoran | 1 | 2
+22,2024-12-21,Linfield,Glenavon,21.12.2024 | Linfield | Glenavon | 1 | 0
+22,2024-12-21,Loughgall,Ballymena,21.12.2024 | Loughgall | Ballymena | 2 | 3
+22,2024-12-21,Portadown,Crusaders,21.12.2024 | Portadown | Crusaders | 1 | 0
+20,2024-12-17,Dungannon,Linfield,17.12.2024 | Dungannon | Linfield | 0 | 1
+20,2024-12-17,Glenavon,Crusaders,17.12.2024 | Glenavon | Crusaders | 3 | 1
+21,2024-12-14,Ballymena,Dungannon,14.12.2024 | Ballymena | Dungannon | 0 | 1
+21,2024-12-14,Carrick Rangers,Loughgall,14.12.2024 | Carrick Rangers | Loughgall | 0 | 0
+21,2024-12-14,Linfield,Coleraine,14.12.2024 | Linfield | Coleraine | 3 | 0
+21,2024-12-14,Portadown,Cliftonville,14.12.2024 | Portadown | Cliftonville | 2 | 2 | 0
+21,2024-12-13,Crusaders,Glentoran,13.12.2024 | Crusaders | Glentoran | 1 | 3
+19,2024-12-01,Larne,Cliftonville,01.12.2024 | Larne | Cliftonville | 1 | 1
+19,2024-11-30,Ballymena,Carrick Rangers,30.11.2024 | Ballymena | Carrick Rangers | 1 | 2
+19,2024-11-30,Crusaders,Dungannon,30.11.2024 | Crusaders | Dungannon | 2 | 2
+19,2024-11-30,Glenavon,Coleraine,30.11.2024 | Glenavon | Coleraine | 3 | 3
+19,2024-11-30,Linfield,Portadown,30.11.2024 | Linfield | Portadown | 2 | 1
+19,2024-11-30,Loughgall,Glentoran,30.11.2024 | Loughgall | Glentoran | 2 | 2
+18,2024-11-24,Coleraine,Crusaders,24.11.2024 | Coleraine | Crusaders | 1 | 2
+18,2024-11-23,Carrick Rangers,Dungannon,23.11.2024 | Carrick Rangers | Dungannon | 0 | 1
+18,2024-11-23,Cliftonville,Loughgall,23.11.2024 | Cliftonville | Loughgall | 4 | 0
+18,2024-11-23,Portadown,Glenavon,23.11.2024 | Portadown | Glenavon | 1 | 0
+18,2024-11-22,Glentoran,Linfield,22.11.2024 | Glentoran | Linfield | 1 | 0
+17,2024-11-16,Larne,Linfield,16.11.2024 | Larne | Linfield | 0 | 1
+17,2024-11-16,Carrick Rangers,Crusaders,16.11.2024 | Carrick Rangers | Crusaders | 3 | 0
+17,2024-11-16,Cliftonville,Ballymena,16.11.2024 | Cliftonville | Ballymena | 0 | 1
+17,2024-11-16,Dungannon,Glenavon,16.11.2024 | Dungannon | Glenavon | 2 | 0
+17,2024-11-16,Glentoran,Portadown,16.11.2024 | Glentoran | Portadown | 0 | 2
+17,2024-11-16,Loughgall,Coleraine,16.11.2024 | Loughgall | Coleraine | 0 | 4
+16,2024-11-10,Larne,Coleraine,10.11.2024 | Larne | Coleraine | 2 | 1
+16,2024-11-09,Crusaders,Loughgall,09.11.2024 | Crusaders | Loughgall | 3 | 1
+16,2024-11-09,Dungannon,Cliftonville,09.11.2024 | Dungannon | Cliftonville | 1 | 4
+16,2024-11-09,Glenavon,Glentoran,09.11.2024 | Glenavon | Glentoran | 0 | 3
+16,2024-11-09,Linfield,Ballymena,09.11.2024 | Linfield | Ballymena | 2 | 0
+16,2024-11-09,Portadown,Carrick Rangers,09.11.2024 | Portadown | Carrick Rangers | 1 | 1
+15,2024-11-03,Carrick Rangers,Linfield,03.11.2024 | Carrick Rangers | Linfield | 1 | 3
+15,2024-11-02,Coleraine,Dungannon,02.11.2024 | Coleraine | Dungannon | 4 | 1
+15,2024-11-02,Glentoran,Larne,02.11.2024 | Glentoran | Larne | 0 | 2
+15,2024-11-02,Loughgall,Glenavon,02.11.2024 | Loughgall | Glenavon | 3 | 0
+15,2024-11-01,Ballymena,Portadown,01.11.2024 | Ballymena | Portadown | 0 | 3
+15,2024-11-01,Cliftonville,Crusaders,01.11.2024 | Cliftonville | Crusaders | 1 | 0
+14,2024-10-27,Portadown,Larne,27.10.2024 | Portadown | Larne | 2 | 1
+14,2024-10-26,Coleraine,Glentoran,26.10.2024 | Coleraine | Glentoran | 2 | 1
+14,2024-10-26,Crusaders,Ballymena,26.10.2024 | Crusaders | Ballymena | 1 | 0
+14,2024-10-26,Dungannon,Loughgall,26.10.2024 | Dungannon | Loughgall | 1 | 3
+14,2024-10-26,Glenavon,Carrick Rangers,26.10.2024 | Glenavon | Carrick Rangers | 1 | 1
+14,2024-10-26,Linfield,Cliftonville,26.10.2024 | Linfield | Cliftonville | 1 | 2
+6,2024-10-22,Cliftonville,Coleraine,22.10.2024 | Cliftonville | Coleraine | 2 | 1
+13,2024-10-19,Ballymena,Coleraine,19.10.2024 | Ballymena | Coleraine | 0 | 1
+13,2024-10-19,Dungannon,Portadown,19.10.2024 | Dungannon | Portadown | 2 | 0
+13,2024-10-19,Glentoran,Carrick Rangers,19.10.2024 | Glentoran | Carrick Rangers | 1 | 1
+13,2024-10-19,Larne,Crusaders,19.10.2024 | Larne | Crusaders | 1 | 1
+13,2024-10-19,Cliftonville,Glenavon,19.10.2024 | Cliftonville | Glenavon | 0 | 0
+13,2024-10-18,Loughgall,Linfield,18.10.2024 | Loughgall | Linfield | 1 | 3
+12,2024-10-12,Portadown,Loughgall,12.10.2024 | Portadown | Loughgall | 1 | 0
+22,2024-10-12,Carrick Rangers,Coleraine,12.10.2024 | Carrick Rangers | Coleraine | 2 | 1
+12,2024-10-12,Crusaders,Linfield,12.10.2024 | Crusaders | Linfield | 2 | 3
+12,2024-10-12,Glenavon,Ballymena,12.10.2024 | Glenavon | Ballymena | 0 | 1
+12,2024-10-12,Glentoran,Dungannon,12.10.2024 | Glentoran | Dungannon | 2 | 0
+11,2024-10-06,Larne,Dungannon,06.10.2024 | Larne | Dungannon | 0 | 3
+11,2024-10-05,Ballymena,Loughgall,05.10.2024 | Ballymena | Loughgall | 4 | 1
+11,2024-10-05,Carrick Rangers,Cliftonville,05.10.2024 | Carrick Rangers | Cliftonville | 2 | 0
+11,2024-10-05,Crusaders,Coleraine,05.10.2024 | Crusaders | Coleraine | 2 | 1
+11,2024-10-05,Glenavon,Portadown,05.10.2024 | Glenavon | Portadown | 2 | 1
+11,2024-10-04,Linfield,Glentoran,04.10.2024 | Linfield | Glentoran | 1 | 3
+10,2024-09-28,Coleraine,Linfield,28.09.2024 | Coleraine | Linfield | 0 | 3
+10,2024-09-28,Dungannon,Carrick Rangers,28.09.2024 | Dungannon | Carrick Rangers | 4 | 0
+10,2024-09-28,Glentoran,Glenavon,28.09.2024 | Glentoran | Glenavon | 0 | 0
+10,2024-09-28,Loughgall,Crusaders,28.09.2024 | Loughgall | Crusaders | 0 | 4
+10,2024-09-28,Portadown,Ballymena,28.09.2024 | Portadown | Ballymena | 0 | 1
+10,2024-09-27,Cliftonville,Larne,27.09.2024 | Cliftonville | Larne | 1 | 3
+1,2024-09-24,Larne,Loughgall,24.09.2024 | Larne | Loughgall | 2 | 0
+9,2024-09-21,Ballymena,Cliftonville,21.09.2024 | Ballymena | Cliftonville | 3 | 2
+9,2024-09-21,Coleraine,Loughgall,21.09.2024 | Coleraine | Loughgall | 2 | 0
+9,2024-09-21,Crusaders,Portadown,21.09.2024 | Crusaders | Portadown | 0 | 3
+9,2024-09-21,Glenavon,Dungannon,21.09.2024 | Glenavon | Dungannon | 1 | 1
+9,2024-09-21,Linfield,Carrick Rangers,21.09.2024 | Linfield | Carrick Rangers | 1 | 0
+9,2024-09-20,Larne,Glentoran,20.09.2024 | Larne | Glentoran | 2 | 0
+8,2024-09-17,Carrick Rangers,Ballymena,17.09.2024 | Carrick Rangers | Ballymena | 1 | 4
+8,2024-09-17,Cliftonville,Linfield,17.09.2024 | Cliftonville | Linfield | 0 | 0
+8,2024-09-17,Dungannon,Crusaders,17.09.2024 | Dungannon | Crusaders | 1 | 0
+8,2024-09-17,Glenavon,Larne,17.09.2024 | Glenavon | Larne | 0 | 0
+8,2024-09-17,Glentoran,Loughgall,17.09.2024 | Glentoran | Loughgall | 2 | 0
+8,2024-09-17,Portadown,Coleraine,17.09.2024 | Portadown | Coleraine | 2 | 2
+7,2024-09-14,Ballymena,Glentoran,14.09.2024 | Ballymena | Glentoran | 1 | 0
+7,2024-09-14,Coleraine,Carrick Rangers,14.09.2024 | Coleraine | Carrick Rangers | 3 | 1
+7,2024-09-14,Crusaders,Glenavon,14.09.2024 | Crusaders | Glenavon | 0 | 1
+7,2024-09-14,Linfield,Larne,14.09.2024 | Linfield | Larne | 0 | 1
+7,2024-09-14,Loughgall,Cliftonville,14.09.2024 | Loughgall | Cliftonville | 1 | 5
+7,2024-09-13,Portadown,Dungannon,13.09.2024 | Portadown | Dungannon | 2 | 1
+6,2024-09-07,Carrick Rangers,Portadown,07.09.2024 | Carrick Rangers | Portadown | 0 | 1
+6,2024-09-07,Dungannon,Glentoran,07.09.2024 | Dungannon | Glentoran | 1 | 0
+6,2024-09-07,Glenavon,Loughgall,07.09.2024 | Glenavon | Loughgall | 2 | 2
+6,2024-09-07,Larne,Ballymena,07.09.2024 | Larne | Ballymena | 0 | 1
+5,2024-09-01,Coleraine,Larne,01.09.2024 | Coleraine | Larne | 1 | 1
+5,2024-08-31,Crusaders,Carrick Rangers,31.08.2024 | Crusaders | Carrick Rangers | 2 | 1
+5,2024-08-31,Glentoran,Cliftonville,31.08.2024 | Glentoran | Cliftonville | 1 | 0
+5,2024-08-31,Loughgall,Dungannon,31.08.2024 | Loughgall | Dungannon | 0 | 2
+5,2024-08-30,Ballymena,Glenavon,30.08.2024 | Ballymena | Glenavon | 3 | 1
+5,2024-08-30,Portadown,Linfield,30.08.2024 | Portadown | Linfield | 2 | 2
+4,2024-08-24,Coleraine,Glenavon,24.08.2024 | Coleraine | Glenavon | 0 | 2
+4,2024-08-24,Crusaders,Cliftonville,24.08.2024 | Crusaders | Cliftonville | 1 | 1
+4,2024-08-24,Dungannon,Ballymena,24.08.2024 | Dungannon | Ballymena | 1 | 0
+4,2024-08-24,Linfield,Loughgall,24.08.2024 | Linfield | Loughgall | 5 | 1
+4,2024-08-23,Carrick Rangers,Glentoran,23.08.2024 | Carrick Rangers | Glentoran | 2 | 3
+3,2024-08-20,Ballymena,Crusaders,20.08.2024 | Ballymena | Crusaders | 0 | 1
+3,2024-08-20,Cliftonville,Dungannon,20.08.2024 | Cliftonville | Dungannon | 1 | 0
+3,2024-08-20,Glenavon,Linfield,20.08.2024 | Glenavon | Linfield | 0 | 3
+3,2024-08-20,Glentoran,Coleraine,20.08.2024 | Glentoran | Coleraine | 0 | 0
+3,2024-08-20,Loughgall,Portadown,20.08.2024 | Loughgall | Portadown | 2 | 2
+2,2024-08-17,Glenavon,Cliftonville,17.08.2024 | Glenavon | Cliftonville | 1 | 2
+2,2024-08-17,Linfield,Dungannon,17.08.2024 | Linfield | Dungannon | 3 | 1
+2,2024-08-17,Loughgall,Carrick Rangers,17.08.2024 | Loughgall | Carrick Rangers | 3 | 0
+2,2024-08-17,Portadown,Glentoran,17.08.2024 | Portadown | Glentoran | 1 | 2
+2,2024-08-16,Coleraine,Ballymena,16.08.2024 | Coleraine | Ballymena | 4 | 2
+1,2024-08-11,Cliftonville,Portadown,11.08.2024 | Cliftonville | Portadown | 1 | 0
+1,2024-08-10,Ballymena,Linfield,10.08.2024 | Ballymena | Linfield | 0 | 2
+1,2024-08-10,Carrick Rangers,Glenavon,10.08.2024 | Carrick Rangers | Glenavon | 2 | 0
+1,2024-08-10,Dungannon,Coleraine,10.08.2024 | Dungannon | Coleraine | 1 | 1
+1,2024-08-09,Glentoran,Crusaders,09.08.2024 | Glentoran | Crusaders | 0 | 1

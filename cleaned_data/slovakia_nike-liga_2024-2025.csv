@@ -1,0 +1,133 @@
+round,date,team_home,team_away,full_text
+22,2025-03-01,Banska Bystrica,Zilina,01.03.2025 | Banska Bystrica | Zilina | 1 | 2
+22,2025-03-01,Dun. Streda,Ruzomberok,01.03.2025 | Dun. Streda | Ruzomberok | 3 | 0
+22,2025-03-01,Kosice,Michalovce,01.03.2025 | Kosice | Michalovce | 3 | 2
+22,2025-03-01,Podbrezova,Komarno,01.03.2025 | Podbrezova | Komarno | 2 | 2
+22,2025-03-01,Skalica,Trencin,01.03.2025 | Skalica | Trencin | 0 | 0
+22,2025-03-01,Slovan Bratislava,Trnava,01.03.2025 | Slovan Bratislava | Trnava | 0 | 1
+20,2025-02-25,Komarno,Zilina,25.02.2025 | Komarno | Zilina | 1 | 0
+21,2025-02-23,Michalovce,Banska Bystrica,23.02.2025 | Michalovce | Banska Bystrica | 1 | 0
+21,2025-02-23,Trnava,Podbrezova,23.02.2025 | Trnava | Podbrezova | 1 | 1
+21,2025-02-22,Zilina,Dun. Streda,22.02.2025 | Zilina | Dun. Streda | 1 | 1
+21,2025-02-22,Komarno,Skalica,22.02.2025 | Komarno | Skalica | 0 | 0
+21,2025-02-22,Ruzomberok,Kosice,22.02.2025 | Ruzomberok | Kosice | 2 | 1
+21,2025-02-22,Trencin,Slovan Bratislava,22.02.2025 | Trencin | Slovan Bratislava | 1 | 1
+20,2025-02-16,Skalica,Ruzomberok,16.02.2025 | Skalica | Ruzomberok | 1 | 0
+20,2025-02-16,Trnava,Dun. Streda,16.02.2025 | Trnava | Dun. Streda | 1 | 1
+20,2025-02-15,Slovan Bratislava,Michalovce,15.02.2025 | Slovan Bratislava | Michalovce | 1 | 1
+20,2025-02-15,Kosice,Banska Bystrica,15.02.2025 | Kosice | Banska Bystrica | 4 | 0
+20,2025-02-15,Podbrezova,Trencin,15.02.2025 | Podbrezova | Trencin | 2 | 1
+19,2025-02-09,Ruzomberok,Slovan Bratislava,09.02.2025 | Ruzomberok | Slovan Bratislava | 1 | 5
+19,2025-02-09,Trencin,Komarno,09.02.2025 | Trencin | Komarno | 1 | 0
+19,2025-02-08,Zilina,Kosice,08.02.2025 | Zilina | Kosice | 0 | 2
+19,2025-02-08,Banska Bystrica,Trnava,08.02.2025 | Banska Bystrica | Trnava | 1 | 4
+19,2025-02-08,Dun. Streda,Skalica,08.02.2025 | Dun. Streda | Skalica | 3 | 1
+19,2025-02-08,Michalovce,Podbrezova,08.02.2025 | Michalovce | Podbrezova | 2 | 2
+18,2024-12-15,Komarno,Banska Bystrica,15.12.2024 | Komarno | Banska Bystrica | 3 | 0
+18,2024-12-15,Skalica,Zilina,15.12.2024 | Skalica | Zilina | 0 | 0
+18,2024-12-14,Slovan Bratislava,Dun. Streda,14.12.2024 | Slovan Bratislava | Dun. Streda | 2 | 1
+18,2024-12-14,Podbrezova,Ruzomberok,14.12.2024 | Podbrezova | Ruzomberok | 2 | 0
+18,2024-12-14,Trencin,Michalovce,14.12.2024 | Trencin | Michalovce | 0 | 0
+18,2024-12-14,Trnava,Kosice,14.12.2024 | Trnava | Kosice | 1 | 0
+17,2024-12-08,Dun. Streda,Trencin,08.12.2024 | Dun. Streda | Trencin | 3 | 3
+17,2024-12-08,Kosice,Skalica,08.12.2024 | Kosice | Skalica | 1 | 1
+17,2024-12-07,Zilina,Slovan Bratislava,07.12.2024 | Zilina | Slovan Bratislava | 2 | 1
+17,2024-12-07,Banska Bystrica,Podbrezova,07.12.2024 | Banska Bystrica | Podbrezova | 0 | 2
+17,2024-12-07,Michalovce,Komarno,07.12.2024 | Michalovce | Komarno | 0 | 0
+17,2024-12-07,Ruzomberok,Trnava,07.12.2024 | Ruzomberok | Trnava | 0 | 2
+12,2024-12-04,Slovan Bratislava,Komarno,04.12.2024 | Slovan Bratislava | Komarno | 6 | 0
+16,2024-12-01,Komarno,Kosice,01.12.2024 | Komarno | Kosice | 1 | 1
+16,2024-12-01,Slovan Bratislava,Banska Bystrica,01.12.2024 | Slovan Bratislava | Banska Bystrica | 3 | 1
+16,2024-11-30,Podbrezova,Dun. Streda,30.11.2024 | Podbrezova | Dun. Streda | 0 | 0
+16,2024-11-30,Michalovce,Ruzomberok,30.11.2024 | Michalovce | Ruzomberok | 4 | 2
+16,2024-11-30,Trencin,Zilina,30.11.2024 | Trencin | Zilina | 2 | 4
+16,2024-11-30,Trnava,Skalica,30.11.2024 | Trnava | Skalica | 2 | 0
+15,2024-11-24,Ruzomberok,Komarno,24.11.2024 | Ruzomberok | Komarno | 1 | 3
+15,2024-11-23,Zilina,Trnava,23.11.2024 | Zilina | Trnava | 3 | 1
+15,2024-11-23,Banska Bystrica,Trencin,23.11.2024 | Banska Bystrica | Trencin | 6 | 1
+15,2024-11-23,Dun. Streda,Michalovce,23.11.2024 | Dun. Streda | Michalovce | 0 | 1
+15,2024-11-23,Skalica,Podbrezova,23.11.2024 | Skalica | Podbrezova | 1 | 2
+15,2024-11-22,Kosice,Slovan Bratislava,22.11.2024 | Kosice | Slovan Bratislava | 1 | 1
+14,2024-11-10,Dun. Streda,Banska Bystrica,10.11.2024 | Dun. Streda | Banska Bystrica | 0 | 0
+14,2024-11-10,Podbrezova,Kosice,10.11.2024 | Podbrezova | Kosice | 0 | 0
+14,2024-11-09,Komarno,Trnava,09.11.2024 | Komarno | Trnava | 1 | 2
+14,2024-11-09,Michalovce,Zilina,09.11.2024 | Michalovce | Zilina | 1 | 1
+14,2024-11-09,Slovan Bratislava,Skalica,09.11.2024 | Slovan Bratislava | Skalica | 3 | 1
+14,2024-11-09,Trencin,Ruzomberok,09.11.2024 | Trencin | Ruzomberok | 0 | 0
+13,2024-11-03,Ruzomberok,Zilina,03.11.2024 | Ruzomberok | Zilina | 1 | 0
+13,2024-11-03,Skalica,Banska Bystrica,03.11.2024 | Skalica | Banska Bystrica | 1 | 0
+13,2024-11-02,Podbrezova,Slovan Bratislava,02.11.2024 | Podbrezova | Slovan Bratislava | 1 | 3
+13,2024-11-02,Komarno,Dun. Streda,02.11.2024 | Komarno | Dun. Streda | 0 | 1
+13,2024-11-02,Kosice,Trencin,02.11.2024 | Kosice | Trencin | 0 | 0
+13,2024-11-02,Trnava,Michalovce,02.11.2024 | Trnava | Michalovce | 3 | 1
+3,2024-10-30,Trnava,Komarno,30.10.2024 | Trnava | Komarno | 3 | 2
+3,2024-10-30,Skalica,Slovan Bratislava,30.10.2024 | Skalica | Slovan Bratislava | 2 | 3
+5,2024-10-29,Dun. Streda,Podbrezova,29.10.2024 | Dun. Streda | Podbrezova | 3 | 0
+2,2024-10-29,Zilina,Ruzomberok,29.10.2024 | Zilina | Ruzomberok | 3 | 1
+12,2024-10-27,Michalovce,Skalica,27.10.2024 | Michalovce | Skalica | 2 | 1
+12,2024-10-27,Trencin,Trnava,27.10.2024 | Trencin | Trnava | 2 | 3
+12,2024-10-26,Dun. Streda,Kosice,26.10.2024 | Dun. Streda | Kosice | 1 | 3
+12,2024-10-26,Banska Bystrica,Ruzomberok,26.10.2024 | Banska Bystrica | Ruzomberok | 2 | 1
+12,2024-10-26,Zilina,Podbrezova,26.10.2024 | Zilina | Podbrezova | 2 | 2
+11,2024-10-20,Komarno,Podbrezova,20.10.2024 | Komarno | Podbrezova | 1 | 2
+11,2024-10-20,Zilina,Banska Bystrica,20.10.2024 | Zilina | Banska Bystrica | 2 | 0
+11,2024-10-19,Trnava,Slovan Bratislava,19.10.2024 | Trnava | Slovan Bratislava | 0 | 1
+11,2024-10-19,Michalovce,Kosice,19.10.2024 | Michalovce | Kosice | 3 | 2
+11,2024-10-19,Ruzomberok,Dun. Streda,19.10.2024 | Ruzomberok | Dun. Streda | 1 | 1
+11,2024-10-19,Trencin,Skalica,19.10.2024 | Trencin | Skalica | 2 | 1
+10,2024-10-06,Banska Bystrica,Michalovce,06.10.2024 | Banska Bystrica | Michalovce | 1 | 0
+10,2024-10-06,Dun. Streda,Zilina,06.10.2024 | Dun. Streda | Zilina | 0 | 3
+10,2024-10-05,Slovan Bratislava,Trencin,05.10.2024 | Slovan Bratislava | Trencin | 1 | 1
+10,2024-10-05,Kosice,Ruzomberok,05.10.2024 | Kosice | Ruzomberok | 2 | 1
+10,2024-10-05,Podbrezova,Trnava,05.10.2024 | Podbrezova | Trnava | 0 | 4
+10,2024-10-05,Skalica,Komarno,05.10.2024 | Skalica | Komarno | 3 | 0
+9,2024-09-29,Ruzomberok,Skalica,29.09.2024 | Ruzomberok | Skalica | 1 | 2
+9,2024-09-29,Zilina,Komarno,29.09.2024 | Zilina | Komarno | 2 | 1
+9,2024-09-28,Dun. Streda,Trnava,28.09.2024 | Dun. Streda | Trnava | 0 | 0
+9,2024-09-28,Banska Bystrica,Kosice,28.09.2024 | Banska Bystrica | Kosice | 2 | 3
+9,2024-09-28,Trencin,Podbrezova,28.09.2024 | Trencin | Podbrezova | 1 | 1
+9,2024-09-27,Michalovce,Slovan Bratislava,27.09.2024 | Michalovce | Slovan Bratislava | 2 | 4
+4,2024-09-24,Komarno,Ruzomberok,24.09.2024 | Komarno | Ruzomberok | 1 | 2
+8,2024-09-22,Podbrezova,Michalovce,22.09.2024 | Podbrezova | Michalovce | 4 | 1
+8,2024-09-22,Trnava,Banska Bystrica,22.09.2024 | Trnava | Banska Bystrica | 1 | 0
+8,2024-09-21,Slovan Bratislava,Ruzomberok,21.09.2024 | Slovan Bratislava | Ruzomberok | 2 | 1
+8,2024-09-21,Komarno,Trencin,21.09.2024 | Komarno | Trencin | 2 | 1
+8,2024-09-21,Kosice,Zilina,21.09.2024 | Kosice | Zilina | 1 | 2
+8,2024-09-21,Skalica,Dun. Streda,21.09.2024 | Skalica | Dun. Streda | 1 | 3
+6,2024-09-17,Trencin,Dun. Streda,17.09.2024 | Trencin | Dun. Streda | 0 | 3
+7,2024-09-15,Kosice,Trnava,15.09.2024 | Kosice | Trnava | 1 | 1
+7,2024-09-15,Ruzomberok,Podbrezova,15.09.2024 | Ruzomberok | Podbrezova | 1 | 0
+7,2024-09-14,Dun. Streda,Slovan Bratislava,14.09.2024 | Dun. Streda | Slovan Bratislava | 1 | 2
+7,2024-09-14,Banska Bystrica,Komarno,14.09.2024 | Banska Bystrica | Komarno | 2 | 3
+7,2024-09-14,Michalovce,Trencin,14.09.2024 | Michalovce | Trencin | 1 | 1
+7,2024-09-14,Zilina,Skalica,14.09.2024 | Zilina | Skalica | 3 | 2
+6,2024-09-01,Trnava,Ruzomberok,01.09.2024 | Trnava | Ruzomberok | 2 | 2
+6,2024-09-01,Slovan Bratislava,Zilina,01.09.2024 | Slovan Bratislava | Zilina | 0 | 5
+6,2024-08-31,Podbrezova,Banska Bystrica,31.08.2024 | Podbrezova | Banska Bystrica | 1 | 1
+6,2024-08-31,Komarno,Michalovce,31.08.2024 | Komarno | Michalovce | 1 | 3
+6,2024-08-31,Skalica,Kosice,31.08.2024 | Skalica | Kosice | 0 | 0
+5,2024-08-25,Banska Bystrica,Slovan Bratislava,25.08.2024 | Banska Bystrica | Slovan Bratislava | 0 | 2
+5,2024-08-25,Ruzomberok,Michalovce,25.08.2024 | Ruzomberok | Michalovce | 2 | 2
+5,2024-08-24,Zilina,Trencin,24.08.2024 | Zilina | Trencin | 4 | 1
+5,2024-08-24,Kosice,Komarno,24.08.2024 | Kosice | Komarno | 0 | 1
+5,2024-08-24,Skalica,Trnava,24.08.2024 | Skalica | Trnava | 1 | 2
+4,2024-08-18,Trnava,Zilina,18.08.2024 | Trnava | Zilina | 0 | 0
+4,2024-08-17,Trencin,Banska Bystrica,17.08.2024 | Trencin | Banska Bystrica | 2 | 2
+4,2024-08-17,Michalovce,Dun. Streda,17.08.2024 | Michalovce | Dun. Streda | 0 | 3
+4,2024-08-17,Podbrezova,Skalica,17.08.2024 | Podbrezova | Skalica | 7 | 1
+4,2024-08-17,Slovan Bratislava,Kosice,17.08.2024 | Slovan Bratislava | Kosice | 2 | 1
+3,2024-08-11,Banska Bystrica,Dun. Streda,11.08.2024 | Banska Bystrica | Dun. Streda | 1 | 0
+3,2024-08-11,Ruzomberok,Trencin,11.08.2024 | Ruzomberok | Trencin | 1 | 0
+3,2024-08-10,Kosice,Podbrezova,10.08.2024 | Kosice | Podbrezova | 3 | 0
+3,2024-08-10,Zilina,Michalovce,10.08.2024 | Zilina | Michalovce | 3 | 1
+2,2024-08-04,Dun. Streda,Komarno,04.08.2024 | Dun. Streda | Komarno | 2 | 0
+2,2024-08-04,Michalovce,Trnava,04.08.2024 | Michalovce | Trnava | 0 | 0
+2,2024-08-03,Slovan Bratislava,Podbrezova,03.08.2024 | Slovan Bratislava | Podbrezova | 1 | 0
+2,2024-08-03,Trencin,Kosice,03.08.2024 | Trencin | Kosice | 2 | 0
+2,2024-08-03,Banska Bystrica,Skalica,03.08.2024 | Banska Bystrica | Skalica | 1 | 1
+1,2024-07-28,Kosice,Dun. Streda,28.07.2024 | Kosice | Dun. Streda | 2 | 2
+1,2024-07-28,Ruzomberok,Banska Bystrica,28.07.2024 | Ruzomberok | Banska Bystrica | 1 | 1
+1,2024-07-28,Trnava,Trencin,28.07.2024 | Trnava | Trencin | 0 | 0
+1,2024-07-27,Komarno,Slovan Bratislava,27.07.2024 | Komarno | Slovan Bratislava | 1 | 4
+1,2024-07-27,Podbrezova,Zilina,27.07.2024 | Podbrezova | Zilina | 0 | 0
+1,2024-07-27,Skalica,Michalovce,27.07.2024 | Skalica | Michalovce | 0 | 0

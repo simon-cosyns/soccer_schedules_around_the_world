@@ -1,0 +1,381 @@
+round,date,team_home,team_away,full_text
+38,25.05.2025,Atalanta,Parma,25.05.2025 | Atalanta | Parma | 2 | 3
+38,25.05.2025,Empoli,Verona,25.05.2025 | Empoli | Verona | 1 | 2
+38,25.05.2025,Lazio,Lecce,25.05.2025 | Lazio | Lecce | 0 | 1
+38,25.05.2025,Torino,AS Roma,25.05.2025 | Torino | AS Roma | 0 | 2
+38,25.05.2025,Udinese,Fiorentina,25.05.2025 | Udinese | Fiorentina | 2 | 3
+38,25.05.2025,Venezia,Juventus,25.05.2025 | Venezia | Juventus | 2 | 3
+38,24.05.2025,AC Milan,Monza,24.05.2025 | AC Milan | Monza | 2 | 0
+38,24.05.2025,Bologna,Genoa,24.05.2025 | Bologna | Genoa | 1 | 3
+38,23.05.2025,Como,Inter,23.05.2025 | Como | Inter | 0 | 2
+38,23.05.2025,Napoli,Cagliari,23.05.2025 | Napoli | Cagliari | 2 | 0
+37,18.05.2025,AS Roma,AC Milan,18.05.2025 | AS Roma | AC Milan | 3 | 1
+37,18.05.2025,Cagliari,Venezia,18.05.2025 | Cagliari | Venezia | 3 | 0
+37,18.05.2025,Fiorentina,Bologna,18.05.2025 | Fiorentina | Bologna | 3 | 2
+37,18.05.2025,Inter,Lazio,18.05.2025 | Inter | Lazio | 2 | 2
+37,18.05.2025,Juventus,Udinese,18.05.2025 | Juventus | Udinese | 2 | 0
+37,18.05.2025,Lecce,Torino,18.05.2025 | Lecce | Torino | 1 | 0
+37,18.05.2025,Monza,Empoli,18.05.2025 | Monza | Empoli | 1 | 3
+37,18.05.2025,Parma,Napoli,18.05.2025 | Parma | Napoli | 0 | 0
+37,18.05.2025,Verona,Como,18.05.2025 | Verona | Como | 1 | 1
+37,17.05.2025,Genoa,Atalanta,17.05.2025 | Genoa | Atalanta | 2 | 3
+36,12.05.2025,Atalanta,AS Roma,12.05.2025 | Atalanta | AS Roma | 2 | 1
+36,12.05.2025,Venezia,Fiorentina,12.05.2025 | Venezia | Fiorentina | 2 | 1
+36,11.05.2025,Napoli,Genoa,11.05.2025 | Napoli | Genoa | 2 | 2
+36,11.05.2025,Torino,Inter,11.05.2025 | Torino | Inter | 0 | 2
+36,11.05.2025,Verona,Lecce,11.05.2025 | Verona | Lecce | 1 | 1
+36,11.05.2025,Udinese,Monza,11.05.2025 | Udinese | Monza | 1 | 2
+36,10.05.2025,Empoli,Parma,10.05.2025 | Empoli | Parma | 2 | 1
+36,10.05.2025,Lazio,Juventus,10.05.2025 | Lazio | Juventus | 1 | 1
+36,10.05.2025,Como,Cagliari,10.05.2025 | Como | Cagliari | 3 | 1
+36,09.05.2025,AC Milan,Bologna,09.05.2025 | AC Milan | Bologna | 3 | 1
+35,05.05.2025,Genoa,AC Milan,05.05.2025 | Genoa | AC Milan | 1 | 2
+35,04.05.2025,Bologna,Juventus,04.05.2025 | Bologna | Juventus | 1 | 1
+35,04.05.2025,AS Roma,Fiorentina,04.05.2025 | AS Roma | Fiorentina | 1 | 0
+35,04.05.2025,Monza,Atalanta,04.05.2025 | Monza | Atalanta | 0 | 4
+35,04.05.2025,Empoli,Lazio,04.05.2025 | Empoli | Lazio | 0 | 1
+35,03.05.2025,Inter,Verona,03.05.2025 | Inter | Verona | 1 | 0
+35,03.05.2025,Lecce,Napoli,03.05.2025 | Lecce | Napoli | 0 | 1
+35,03.05.2025,Cagliari,Udinese,03.05.2025 | Cagliari | Udinese | 1 | 2
+35,03.05.2025,Parma,Como,03.05.2025 | Parma | Como | 0 | 1
+35,02.05.2025,Torino,Venezia,02.05.2025 | Torino | Venezia | 1 | 1
+34,28.04.2025,Lazio,Parma,28.04.2025 | Lazio | Parma | 2 | 2
+34,28.04.2025,Verona,Cagliari,28.04.2025 | Verona | Cagliari | 0 | 2
+34,28.04.2025,Udinese,Bologna,28.04.2025 | Udinese | Bologna | 0 | 0
+34,27.04.2025,Atalanta,Lecce,27.04.2025 | Atalanta | Lecce | 1 | 1
+34,27.04.2025,Napoli,Torino,27.04.2025 | Napoli | Torino | 2 | 0
+34,27.04.2025,Juventus,Monza,27.04.2025 | Juventus | Monza | 2 | 0
+34,27.04.2025,Fiorentina,Empoli,27.04.2025 | Fiorentina | Empoli | 2 | 1
+34,27.04.2025,Inter,AS Roma,27.04.2025 | Inter | AS Roma | 0 | 1
+34,27.04.2025,Como,Genoa,27.04.2025 | Como | Genoa | 1 | 0
+34,27.04.2025,Venezia,AC Milan,27.04.2025 | Venezia | AC Milan | 0 | 2
+33,23.04.2025,Cagliari,Fiorentina,23.04.2025 | Cagliari | Fiorentina | 1 | 2
+33,23.04.2025,Genoa,Lazio,23.04.2025 | Genoa | Lazio | 0 | 2
+33,23.04.2025,Parma,Juventus,23.04.2025 | Parma | Juventus | 1 | 0
+33,23.04.2025,Torino,Udinese,23.04.2025 | Torino | Udinese | 2 | 0
+33,20.04.2025,AC Milan,Atalanta,20.04.2025 | AC Milan | Atalanta | 0 | 1
+33,20.04.2025,Bologna,Inter,20.04.2025 | Bologna | Inter | 1 | 0
+33,20.04.2025,Empoli,Venezia,20.04.2025 | Empoli | Venezia | 2 | 2
+33,19.04.2025,AS Roma,Verona,19.04.2025 | AS Roma | Verona | 1 | 0
+33,19.04.2025,Monza,Napoli,19.04.2025 | Monza | Napoli | 0 | 1
+33,19.04.2025,Lecce,Como,19.04.2025 | Lecce | Como | 0 | 3
+32,14.04.2025,Napoli,Empoli,14.04.2025 | Napoli | Empoli | 3 | 0
+32,13.04.2025,Lazio,AS Roma,13.04.2025 | Lazio | AS Roma | 1 | 1
+32,13.04.2025,Como,Torino,13.04.2025 | Como | Torino | 1 | 0
+32,13.04.2025,Fiorentina,Parma,13.04.2025 | Fiorentina | Parma | 0 | 0
+32,13.04.2025,Verona,Genoa,13.04.2025 | Verona | Genoa | 0 | 0
+32,13.04.2025,Atalanta,Bologna,13.04.2025 | Atalanta | Bologna | 2 | 0
+32,12.04.2025,Juventus,Lecce,12.04.2025 | Juventus | Lecce | 2 | 1
+32,12.04.2025,Inter,Cagliari,12.04.2025 | Inter | Cagliari | 3 | 1
+32,12.04.2025,Venezia,Monza,12.04.2025 | Venezia | Monza | 1 | 0
+32,11.04.2025,Udinese,AC Milan,11.04.2025 | Udinese | AC Milan | 0 | 4
+31,07.04.2025,Bologna,Napoli,07.04.2025 | Bologna | Napoli | 1 | 1
+31,06.04.2025,AS Roma,Juventus,06.04.2025 | AS Roma | Juventus | 1 | 1
+31,06.04.2025,Atalanta,Lazio,06.04.2025 | Atalanta | Lazio | 0 | 1
+31,06.04.2025,Empoli,Cagliari,06.04.2025 | Empoli | Cagliari | 0 | 0
+31,06.04.2025,Torino,Verona,06.04.2025 | Torino | Verona | 1 | 1
+31,06.04.2025,Lecce,Venezia,06.04.2025 | Lecce | Venezia | 1 | 1
+31,05.04.2025,AC Milan,Fiorentina,05.04.2025 | AC Milan | Fiorentina | 2 | 2
+31,05.04.2025,Parma,Inter,05.04.2025 | Parma | Inter | 2 | 2
+31,05.04.2025,Monza,Como,05.04.2025 | Monza | Como | 1 | 3
+31,04.04.2025,Genoa,Udinese,04.04.2025 | Genoa | Udinese | 1 | 0
+30,31.03.2025,Lazio,Torino,31.03.2025 | Lazio | Torino | 1 | 1
+30,31.03.2025,Verona,Parma,31.03.2025 | Verona | Parma | 0 | 0
+30,30.03.2025,Napoli,AC Milan,30.03.2025 | Napoli | AC Milan | 2 | 1
+30,30.03.2025,Inter,Udinese,30.03.2025 | Inter | Udinese | 2 | 1
+30,30.03.2025,Fiorentina,Atalanta,30.03.2025 | Fiorentina | Atalanta | 1 | 0
+30,30.03.2025,Cagliari,Monza,30.03.2025 | Cagliari | Monza | 3 | 0
+30,29.03.2025,Lecce,AS Roma,29.03.2025 | Lecce | AS Roma | 0 | 1
+30,29.03.2025,Juventus,Genoa,29.03.2025 | Juventus | Genoa | 1 | 0
+30,29.03.2025,Como,Empoli,29.03.2025 | Como | Empoli | 1 | 1
+30,29.03.2025,Venezia,Bologna,29.03.2025 | Venezia | Bologna | 0 | 1
+29,16.03.2025,Atalanta,Inter,16.03.2025 | Atalanta | Inter | 0 | 2
+29,16.03.2025,Fiorentina,Juventus,16.03.2025 | Fiorentina | Juventus | 3 | 0
+29,16.03.2025,AS Roma,Cagliari,16.03.2025 | AS Roma | Cagliari | 1 | 0
+29,16.03.2025,Bologna,Lazio,16.03.2025 | Bologna | Lazio | 5 | 0
+29,16.03.2025,Venezia,Napoli,16.03.2025 | Venezia | Napoli | 0 | 0
+29,15.03.2025,Torino,Empoli,15.03.2025 | Torino | Empoli | 1 | 0
+29,15.03.2025,AC Milan,Como,15.03.2025 | AC Milan | Como | 2 | 1
+29,15.03.2025,Monza,Parma,15.03.2025 | Monza | Parma | 1 | 1
+29,15.03.2025,Udinese,Verona,15.03.2025 | Udinese | Verona | 0 | 1
+29,14.03.2025,Genoa,Lecce,14.03.2025 | Genoa | Lecce | 2 | 1
+28,10.03.2025,Lazio,Udinese,10.03.2025 | Lazio | Udinese | 1 | 1
+28,09.03.2025,Juventus,Atalanta,09.03.2025 | Juventus | Atalanta | 0 | 4
+28,09.03.2025,Empoli,AS Roma,09.03.2025 | Empoli | AS Roma | 0 | 1
+28,09.03.2025,Napoli,Fiorentina,09.03.2025 | Napoli | Fiorentina | 2 | 1
+28,09.03.2025,Verona,Bologna,09.03.2025 | Verona | Bologna | 1 | 2
+28,08.03.2025,Inter,Monza,08.03.2025 | Inter | Monza | 3 | 2
+28,08.03.2025,Lecce,AC Milan,08.03.2025 | Lecce | AC Milan | 2 | 3
+28,08.03.2025,Como,Venezia,08.03.2025 | Como | Venezia | 1 | 1
+28,08.03.2025,Parma,Torino,08.03.2025 | Parma | Torino | 2 | 2
+28,07.03.2025,Cagliari,Genoa,07.03.2025 | Cagliari | Genoa | 1 | 1
+27,03.03.2025,Juventus,Verona,03.03.2025 | Juventus | Verona | 2 | 0
+27,02.03.2025,AC Milan,Lazio,02.03.2025 | AC Milan | Lazio | 1 | 2
+27,02.03.2025,AS Roma,Como,02.03.2025 | AS Roma | Como | 2 | 1
+27,02.03.2025,Bologna,Cagliari,02.03.2025 | Bologna | Cagliari | 2 | 1
+27,02.03.2025,Genoa,Empoli,02.03.2025 | Genoa | Empoli | 1 | 1
+27,02.03.2025,Monza,Torino,02.03.2025 | Monza | Torino | 0 | 2
+27,01.03.2025,Udinese,Parma,01.03.2025 | Udinese | Parma | 1 | 0
+27,01.03.2025,Napoli,Inter,01.03.2025 | Napoli | Inter | 1 | 1
+27,01.03.2025,Atalanta,Venezia,01.03.2025 | Atalanta | Venezia | 0 | 0
+27,28.02.2025,Fiorentina,Lecce,28.02.2025 | Fiorentina | Lecce | 1 | 0
+9,27.02.2025,Bologna,AC Milan,27.02.2025 | Bologna | AC Milan | 2 | 1
+26,24.02.2025,AS Roma,Monza,24.02.2025 | AS Roma | Monza | 4 | 0
+26,23.02.2025,Cagliari,Juventus,23.02.2025 | Cagliari | Juventus | 0 | 1
+26,23.02.2025,Empoli,Atalanta,23.02.2025 | Empoli | Atalanta | 0 | 5
+26,23.02.2025,Verona,Fiorentina,23.02.2025 | Verona | Fiorentina | 1 | 0
+26,23.02.2025,Como,Napoli,23.02.2025 | Como | Napoli | 2 | 1
+26,22.02.2025,Inter,Genoa,22.02.2025 | Inter | Genoa | 1 | 0
+26,22.02.2025,Torino,AC Milan,22.02.2025 | Torino | AC Milan | 2 | 1
+26,22.02.2025,Parma,Bologna,22.02.2025 | Parma | Bologna | 2 | 0
+26,22.02.2025,Venezia,Lazio,22.02.2025 | Venezia | Lazio | 0 | 0
+26,21.02.2025,Lecce,Udinese,21.02.2025 | Lecce | Udinese | 0 | 1
+25,17.02.2025,Genoa,Venezia,17.02.2025 | Genoa | Venezia | 2 | 0
+25,16.02.2025,Juventus,Inter,16.02.2025 | Juventus | Inter | 1 | 0
+25,16.02.2025,Parma,AS Roma,16.02.2025 | Parma | AS Roma | 0 | 1
+25,16.02.2025,Monza,Lecce,16.02.2025 | Monza | Lecce | 0 | 0
+25,16.02.2025,Udinese,Empoli,16.02.2025 | Udinese | Empoli | 3 | 0
+25,16.02.2025,Fiorentina,Como,16.02.2025 | Fiorentina | Como | 0 | 2
+25,15.02.2025,AC Milan,Verona,15.02.2025 | AC Milan | Verona | 1 | 0
+25,15.02.2025,Lazio,Napoli,15.02.2025 | Lazio | Napoli | 2 | 2
+25,15.02.2025,Atalanta,Cagliari,15.02.2025 | Atalanta | Cagliari | 0 | 0
+25,14.02.2025,Bologna,Torino,14.02.2025 | Bologna | Torino | 3 | 2
+24,10.02.2025,Inter,Fiorentina,10.02.2025 | Inter | Fiorentina | 2 | 1
+24,09.02.2025,Napoli,Udinese,09.02.2025 | Napoli | Udinese | 1 | 1
+24,09.02.2025,Lecce,Bologna,09.02.2025 | Lecce | Bologna | 0 | 0
+24,09.02.2025,Cagliari,Parma,09.02.2025 | Cagliari | Parma | 2 | 1
+24,09.02.2025,Lazio,Monza,09.02.2025 | Lazio | Monza | 5 | 1
+24,09.02.2025,Venezia,AS Roma,09.02.2025 | Venezia | AS Roma | 0 | 1
+24,08.02.2025,Torino,Genoa,08.02.2025 | Torino | Genoa | 1 | 1
+24,08.02.2025,Empoli,AC Milan,08.02.2025 | Empoli | AC Milan | 0 | 2
+24,08.02.2025,Verona,Atalanta,08.02.2025 | Verona | Atalanta | 0 | 5
+24,07.02.2025,Como,Juventus,07.02.2025 | Como | Juventus | 1 | 2
+14,06.02.2025,Fiorentina,Inter,06.02.2025 | Fiorentina | Inter | 3 | 0
+23,03.02.2025,Cagliari,Lazio,03.02.2025 | Cagliari | Lazio | 1 | 2
+23,02.02.2025,AS Roma,Napoli,02.02.2025 | AS Roma | Napoli | 1 | 1
+23,02.02.2025,AC Milan,Inter,02.02.2025 | AC Milan | Inter | 1 | 1
+23,02.02.2025,Fiorentina,Genoa,02.02.2025 | Fiorentina | Genoa | 2 | 1
+23,02.02.2025,Juventus,Empoli,02.02.2025 | Juventus | Empoli | 4 | 1
+23,01.02.2025,Bologna,Como,01.02.2025 | Bologna | Como | 2 | 0
+23,01.02.2025,Atalanta,Torino,01.02.2025 | Atalanta | Torino | 1 | 1
+23,01.02.2025,Monza,Verona,01.02.2025 | Monza | Verona | 0 | 1
+23,01.02.2025,Udinese,Venezia,01.02.2025 | Udinese | Venezia | 3 | 2
+23,31.01.2025,Parma,Lecce,31.01.2025 | Parma | Lecce | 1 | 3
+22,27.01.2025,Genoa,Monza,27.01.2025 | Genoa | Monza | 2 | 0
+22,27.01.2025,Venezia,Verona,27.01.2025 | Venezia | Verona | 1 | 1
+22,26.01.2025,Lazio,Fiorentina,26.01.2025 | Lazio | Fiorentina | 1 | 2
+22,26.01.2025,Lecce,Inter,26.01.2025 | Lecce | Inter | 0 | 4
+22,26.01.2025,Udinese,AS Roma,26.01.2025 | Udinese | AS Roma | 1 | 2
+22,26.01.2025,AC Milan,Parma,26.01.2025 | AC Milan | Parma | 3 | 2
+22,25.01.2025,Empoli,Bologna,25.01.2025 | Empoli | Bologna | 1 | 1
+22,25.01.2025,Napoli,Juventus,25.01.2025 | Napoli | Juventus | 2 | 1
+22,25.01.2025,Como,Atalanta,25.01.2025 | Como | Atalanta | 1 | 2
+22,24.01.2025,Torino,Cagliari,24.01.2025 | Torino | Cagliari | 2 | 0
+21,20.01.2025,Como,Udinese,20.01.2025 | Como | Udinese | 4 | 1
+21,19.01.2025,Inter,Empoli,19.01.2025 | Inter | Empoli | 3 | 1
+21,19.01.2025,Verona,Lazio,19.01.2025 | Verona | Lazio | 0 | 3
+21,19.01.2025,Cagliari,Lecce,19.01.2025 | Cagliari | Lecce | 4 | 1
+21,19.01.2025,Parma,Venezia,19.01.2025 | Parma | Venezia | 1 | 1
+21,19.01.2025,Fiorentina,Torino,19.01.2025 | Fiorentina | Torino | 1 | 1
+21,18.01.2025,Atalanta,Napoli,18.01.2025 | Atalanta | Napoli | 2 | 3
+21,18.01.2025,Juventus,AC Milan,18.01.2025 | Juventus | AC Milan | 2 | 0
+21,18.01.2025,Bologna,Monza,18.01.2025 | Bologna | Monza | 3 | 1
+21,17.01.2025,AS Roma,Genoa,17.01.2025 | AS Roma | Genoa | 3 | 1
+19,15.01.2025,Inter,Bologna,15.01.2025 | Inter | Bologna | 2 | 2
+19,14.01.2025,Atalanta,Juventus,14.01.2025 | Atalanta | Juventus | 1 | 1
+19,14.01.2025,Como,AC Milan,14.01.2025 | Como | AC Milan | 1 | 2
+20,13.01.2025,Monza,Fiorentina,13.01.2025 | Monza | Fiorentina | 2 | 1
+20,12.01.2025,Napoli,Verona,12.01.2025 | Napoli | Verona | 2 | 0
+20,12.01.2025,Bologna,AS Roma,12.01.2025 | Bologna | AS Roma | 2 | 2
+20,12.01.2025,Venezia,Inter,12.01.2025 | Venezia | Inter | 0 | 1
+20,12.01.2025,Genoa,Parma,12.01.2025 | Genoa | Parma | 1 | 0
+20,11.01.2025,AC Milan,Cagliari,11.01.2025 | AC Milan | Cagliari | 1 | 1
+20,11.01.2025,Torino,Juventus,11.01.2025 | Torino | Juventus | 1 | 1
+20,11.01.2025,Empoli,Lecce,11.01.2025 | Empoli | Lecce | 1 | 3
+20,11.01.2025,Udinese,Atalanta,11.01.2025 | Udinese | Atalanta | 0 | 0
+20,10.01.2025,Lazio,Como,10.01.2025 | Lazio | Como | 1 | 1
+19,05.01.2025,AS Roma,Lazio,05.01.2025 | AS Roma | Lazio | 2 | 0
+19,05.01.2025,Torino,Parma,05.01.2025 | Torino | Parma | 0 | 0
+19,05.01.2025,Lecce,Genoa,05.01.2025 | Lecce | Genoa | 0 | 0
+19,05.01.2025,Monza,Cagliari,05.01.2025 | Monza | Cagliari | 1 | 2
+19,04.01.2025,Verona,Udinese,04.01.2025 | Verona | Udinese | 0 | 0
+19,04.01.2025,Fiorentina,Napoli,04.01.2025 | Fiorentina | Napoli | 0 | 3
+19,04.01.2025,Venezia,Empoli,04.01.2025 | Venezia | Empoli | 1 | 1
+18,30.12.2024,Bologna,Verona,30.12.2024 | Bologna | Verona | 2 | 3
+18,30.12.2024,Como,Lecce,30.12.2024 | Como | Lecce | 2 | 0
+18,29.12.2024,AC Milan,AS Roma,29.12.2024 | AC Milan | AS Roma | 1 | 1
+18,29.12.2024,Juventus,Fiorentina,29.12.2024 | Juventus | Fiorentina | 2 | 2
+18,29.12.2024,Napoli,Venezia,29.12.2024 | Napoli | Venezia | 1 | 0
+18,29.12.2024,Udinese,Torino,29.12.2024 | Udinese | Torino | 2 | 2
+18,28.12.2024,Lazio,Atalanta,28.12.2024 | Lazio | Atalanta | 1 | 1
+18,28.12.2024,Cagliari,Inter,28.12.2024 | Cagliari | Inter | 0 | 3
+18,28.12.2024,Empoli,Genoa,28.12.2024 | Empoli | Genoa | 1 | 2
+18,28.12.2024,Parma,Monza,28.12.2024 | Parma | Monza | 2 | 1
+17,23.12.2024,Inter,Como,23.12.2024 | Inter | Como | 2 | 0
+17,23.12.2024,Fiorentina,Udinese,23.12.2024 | Fiorentina | Udinese | 1 | 2
+17,22.12.2024,Monza,Juventus,22.12.2024 | Monza | Juventus | 1 | 2
+17,22.12.2024,Atalanta,Empoli,22.12.2024 | Atalanta | Empoli | 3 | 2
+17,22.12.2024,Venezia,Cagliari,22.12.2024 | Venezia | Cagliari | 2 | 1
+17,22.12.2024,AS Roma,Parma,22.12.2024 | AS Roma | Parma | 5 | 0
+17,21.12.2024,Lecce,Lazio,21.12.2024 | Lecce | Lazio | 1 | 2
+17,21.12.2024,Genoa,Napoli,21.12.2024 | Genoa | Napoli | 1 | 2
+17,21.12.2024,Torino,Bologna,21.12.2024 | Torino | Bologna | 0 | 2
+17,20.12.2024,Verona,AC Milan,20.12.2024 | Verona | AC Milan | 0 | 1
+16,16.12.2024,Lazio,Inter,16.12.2024 | Lazio | Inter | 0 | 6
+16,15.12.2024,AC Milan,Genoa,15.12.2024 | AC Milan | Genoa | 0 | 0
+16,15.12.2024,Como,AS Roma,15.12.2024 | Como | AS Roma | 2 | 0
+16,15.12.2024,Bologna,Fiorentina,15.12.2024 | Bologna | Fiorentina | 1 | 0
+16,15.12.2024,Parma,Verona,15.12.2024 | Parma | Verona | 2 | 3
+16,15.12.2024,Lecce,Monza,15.12.2024 | Lecce | Monza | 2 | 1
+16,14.12.2024,Juventus,Venezia,14.12.2024 | Juventus | Venezia | 2 | 2
+16,14.12.2024,Udinese,Napoli,14.12.2024 | Udinese | Napoli | 1 | 3
+16,14.12.2024,Cagliari,Atalanta,14.12.2024 | Cagliari | Atalanta | 0 | 1
+16,13.12.2024,Empoli,Torino,13.12.2024 | Empoli | Torino | 0 | 1
+15,09.12.2024,Monza,Udinese,09.12.2024 | Monza | Udinese | 1 | 2
+15,08.12.2024,Napoli,Lazio,08.12.2024 | Napoli | Lazio | 0 | 1
+15,08.12.2024,Venezia,Como,08.12.2024 | Venezia | Como | 2 | 2
+15,08.12.2024,Verona,Empoli,08.12.2024 | Verona | Empoli | 1 | 4
+15,08.12.2024,Fiorentina,Cagliari,08.12.2024 | Fiorentina | Cagliari | 1 | 0
+15,07.12.2024,AS Roma,Lecce,07.12.2024 | AS Roma | Lecce | 4 | 1
+15,07.12.2024,Juventus,Bologna,07.12.2024 | Juventus | Bologna | 2 | 2
+15,07.12.2024,Genoa,Torino,07.12.2024 | Genoa | Torino | 0 | 0
+15,06.12.2024,Atalanta,AC Milan,06.12.2024 | Atalanta | AC Milan | 2 | 1
+15,06.12.2024,Inter,Parma,06.12.2024 | Inter | Parma | 3 | 1
+14,02.12.2024,AS Roma,Atalanta,02.12.2024 | AS Roma | Atalanta | 0 | 2
+14,01.12.2024,Lecce,Juventus,01.12.2024 | Lecce | Juventus | 1 | 1
+14,01.12.2024,Parma,Lazio,01.12.2024 | Parma | Lazio | 3 | 1
+14,01.12.2024,Torino,Napoli,01.12.2024 | Torino | Napoli | 0 | 1
+14,01.12.2024,Udinese,Genoa,01.12.2024 | Udinese | Genoa | 0 | 2
+14,30.11.2024,Bologna,Venezia,30.11.2024 | Bologna | Venezia | 3 | 0
+14,30.11.2024,AC Milan,Empoli,30.11.2024 | AC Milan | Empoli | 3 | 0
+14,30.11.2024,Como,Monza,30.11.2024 | Como | Monza | 1 | 1
+14,29.11.2024,Cagliari,Verona,29.11.2024 | Cagliari | Verona | 1 | 0
+13,25.11.2024,Venezia,Lecce,25.11.2024 | Venezia | Lecce | 0 | 1
+13,25.11.2024,Empoli,Udinese,25.11.2024 | Empoli | Udinese | 1 | 1
+13,24.11.2024,Lazio,Bologna,24.11.2024 | Lazio | Bologna | 3 | 0
+13,24.11.2024,Napoli,AS Roma,24.11.2024 | Napoli | AS Roma | 1 | 0
+13,24.11.2024,Como,Fiorentina,24.11.2024 | Como | Fiorentina | 0 | 2
+13,24.11.2024,Torino,Monza,24.11.2024 | Torino | Monza | 1 | 1
+13,24.11.2024,Genoa,Cagliari,24.11.2024 | Genoa | Cagliari | 2 | 2
+13,23.11.2024,Parma,Atalanta,23.11.2024 | Parma | Atalanta | 1 | 3
+13,23.11.2024,AC Milan,Juventus,23.11.2024 | AC Milan | Juventus | 0 | 0
+13,23.11.2024,Verona,Inter,23.11.2024 | Verona | Inter | 0 | 5
+12,10.11.2024,Inter,Napoli,10.11.2024 | Inter | Napoli | 1 | 1
+12,10.11.2024,Monza,Lazio,10.11.2024 | Monza | Lazio | 0 | 1
+12,10.11.2024,AS Roma,Bologna,10.11.2024 | AS Roma | Bologna | 2 | 3
+12,10.11.2024,Fiorentina,Verona,10.11.2024 | Fiorentina | Verona | 3 | 1
+12,10.11.2024,Atalanta,Udinese,10.11.2024 | Atalanta | Udinese | 2 | 1
+12,09.11.2024,Juventus,Torino,09.11.2024 | Juventus | Torino | 2 | 0
+12,09.11.2024,Cagliari,AC Milan,09.11.2024 | Cagliari | AC Milan | 3 | 3
+12,09.11.2024,Venezia,Parma,09.11.2024 | Venezia | Parma | 1 | 2
+12,08.11.2024,Lecce,Empoli,08.11.2024 | Lecce | Empoli | 1 | 1
+12,07.11.2024,Genoa,Como,07.11.2024 | Genoa | Como | 1 | 1
+11,04.11.2024,Lazio,Cagliari,04.11.2024 | Lazio | Cagliari | 2 | 2 | 1
+11,04.11.2024,Empoli,Como,04.11.2024 | Empoli | Como | 1 | 0
+11,04.11.2024,Parma,Genoa,04.11.2024 | Parma | Genoa | 0 | 1
+11,03.11.2024,Inter,Venezia,03.11.2024 | Inter | Venezia | 1 | 0
+11,03.11.2024,Verona,AS Roma,03.11.2024 | Verona | AS Roma | 3 | 2
+11,03.11.2024,Torino,Fiorentina,03.11.2024 | Torino | Fiorentina | 0 | 1
+11,03.11.2024,Napoli,Atalanta,03.11.2024 | Napoli | Atalanta | 0 | 3
+11,02.11.2024,Monza,AC Milan,02.11.2024 | Monza | AC Milan | 0 | 1
+11,02.11.2024,Udinese,Juventus,02.11.2024 | Udinese | Juventus | 0 | 2
+11,02.11.2024,Bologna,Lecce,02.11.2024 | Bologna | Lecce | 1 | 0
+10,31.10.2024,AS Roma,Torino,31.10.2024 | AS Roma | Torino | 1 | 0
+10,31.10.2024,Como,Lazio,31.10.2024 | Como | Lazio | 1 | 5
+10,31.10.2024,Genoa,Fiorentina,31.10.2024 | Genoa | Fiorentina | 0 | 1
+10,30.10.2024,Atalanta,Monza,30.10.2024 | Atalanta | Monza | 2 | 0
+10,30.10.2024,Juventus,Parma,30.10.2024 | Juventus | Parma | 2 | 2
+10,30.10.2024,Empoli,Inter,30.10.2024 | Empoli | Inter | 0 | 3
+10,30.10.2024,Venezia,Udinese,30.10.2024 | Venezia | Udinese | 3 | 2
+10,29.10.2024,AC Milan,Napoli,29.10.2024 | AC Milan | Napoli | 0 | 2
+10,29.10.2024,Cagliari,Bologna,29.10.2024 | Cagliari | Bologna | 0 | 2
+10,29.10.2024,Lecce,Verona,29.10.2024 | Lecce | Verona | 2 | 1 | 0
+9,27.10.2024,Fiorentina,AS Roma,27.10.2024 | Fiorentina | AS Roma | 5 | 1
+9,27.10.2024,Inter,Juventus,27.10.2024 | Inter | Juventus | 4 | 4
+9,27.10.2024,Lazio,Genoa,27.10.2024 | Lazio | Genoa | 3 | 0
+9,27.10.2024,Monza,Venezia,27.10.2024 | Monza | Venezia | 2 | 2
+9,27.10.2024,Parma,Empoli,27.10.2024 | Parma | Empoli | 1 | 1
+9,26.10.2024,Atalanta,Verona,26.10.2024 | Atalanta | Verona | 6 | 1
+9,26.10.2024,Napoli,Lecce,26.10.2024 | Napoli | Lecce | 1 | 0
+9,25.10.2024,Torino,Como,25.10.2024 | Torino | Como | 1 | 0
+9,25.10.2024,Udinese,Cagliari,25.10.2024 | Udinese | Cagliari | 2 | 0
+8,21.10.2024,Verona,Monza,21.10.2024 | Verona | Monza | 0 | 3
+8,20.10.2024,AS Roma,Inter,20.10.2024 | AS Roma | Inter | 0 | 1
+8,20.10.2024,Cagliari,Torino,20.10.2024 | Cagliari | Torino | 3 | 2
+8,20.10.2024,Lecce,Fiorentina,20.10.2024 | Lecce | Fiorentina | 0 | 6
+8,20.10.2024,Venezia,Atalanta,20.10.2024 | Venezia | Atalanta | 0 | 2
+8,20.10.2024,Empoli,Napoli,20.10.2024 | Empoli | Napoli | 0 | 1
+8,19.10.2024,Juventus,Lazio,19.10.2024 | Juventus | Lazio | 1 | 0
+8,19.10.2024,AC Milan,Udinese,19.10.2024 | AC Milan | Udinese | 1 | 0
+8,19.10.2024,Como,Parma,19.10.2024 | Como | Parma | 1 | 1
+8,19.10.2024,Genoa,Bologna,19.10.2024 | Genoa | Bologna | 2 | 2
+7,06.10.2024,Fiorentina,AC Milan,06.10.2024 | Fiorentina | AC Milan | 2 | 1
+7,06.10.2024,Monza,AS Roma,06.10.2024 | Monza | AS Roma | 1 | 1
+7,06.10.2024,Bologna,Parma,06.10.2024 | Bologna | Parma | 0 | 0
+7,06.10.2024,Lazio,Empoli,06.10.2024 | Lazio | Empoli | 2 | 1
+7,06.10.2024,Juventus,Cagliari,06.10.2024 | Juventus | Cagliari | 1 | 1
+7,05.10.2024,Inter,Torino,05.10.2024 | Inter | Torino | 3 | 2
+7,05.10.2024,Atalanta,Genoa,05.10.2024 | Atalanta | Genoa | 5 | 1
+7,05.10.2024,Udinese,Lecce,05.10.2024 | Udinese | Lecce | 1 | 0
+7,04.10.2024,Verona,Venezia,04.10.2024 | Verona | Venezia | 2 | 1
+7,04.10.2024,Napoli,Como,04.10.2024 | Napoli | Como | 3 | 1
+6,30.09.2024,Parma,Cagliari,30.09.2024 | Parma | Cagliari | 2 | 3
+6,29.09.2024,Napoli,Monza,29.09.2024 | Napoli | Monza | 2 | 0
+6,29.09.2024,Empoli,Fiorentina,29.09.2024 | Empoli | Fiorentina | 0 | 0
+6,29.09.2024,AS Roma,Venezia,29.09.2024 | AS Roma | Venezia | 2 | 1
+6,29.09.2024,Como,Verona,29.09.2024 | Como | Verona | 3 | 2
+6,29.09.2024,Torino,Lazio,29.09.2024 | Torino | Lazio | 2 | 3
+6,28.09.2024,Bologna,Atalanta,28.09.2024 | Bologna | Atalanta | 1 | 1
+6,28.09.2024,Genoa,Juventus,28.09.2024 | Genoa | Juventus | 0 | 3
+6,28.09.2024,Udinese,Inter,28.09.2024 | Udinese | Inter | 2 | 3
+6,27.09.2024,AC Milan,Lecce,27.09.2024 | AC Milan | Lecce | 3 | 0
+5,24.09.2024,Atalanta,Como,24.09.2024 | Atalanta | Como | 2 | 3
+5,22.09.2024,Inter,AC Milan,22.09.2024 | Inter | AC Milan | 1 | 2
+5,22.09.2024,AS Roma,Udinese,22.09.2024 | AS Roma | Udinese | 3 | 0
+5,22.09.2024,Monza,Bologna,22.09.2024 | Monza | Bologna | 1 | 2
+5,22.09.2024,Fiorentina,Lazio,22.09.2024 | Fiorentina | Lazio | 2 | 1
+5,21.09.2024,Lecce,Parma,21.09.2024 | Lecce | Parma | 2 | 2
+5,21.09.2024,Juventus,Napoli,21.09.2024 | Juventus | Napoli | 0 | 0
+5,21.09.2024,Venezia,Genoa,21.09.2024 | Venezia | Genoa | 2 | 0
+5,20.09.2024,Verona,Torino,20.09.2024 | Verona | Torino | 2 | 3
+5,20.09.2024,Cagliari,Empoli,20.09.2024 | Cagliari | Empoli | 0 | 2
+4,16.09.2024,Lazio,Verona,16.09.2024 | Lazio | Verona | 2 | 1
+4,16.09.2024,Parma,Udinese,16.09.2024 | Parma | Udinese | 2 | 3
+4,15.09.2024,Monza,Inter,15.09.2024 | Monza | Inter | 1 | 1
+4,15.09.2024,Cagliari,Napoli,15.09.2024 | Cagliari | Napoli | 0 | 4
+4,15.09.2024,Atalanta,Fiorentina,15.09.2024 | Atalanta | Fiorentina | 3 | 2
+4,15.09.2024,Torino,Lecce,15.09.2024 | Torino | Lecce | 0 | 0
+4,15.09.2024,Genoa,AS Roma,15.09.2024 | Genoa | AS Roma | 1 | 1
+4,14.09.2024,AC Milan,Venezia,14.09.2024 | AC Milan | Venezia | 4 | 0
+4,14.09.2024,Empoli,Juventus,14.09.2024 | Empoli | Juventus | 0 | 0
+4,14.09.2024,Como,Bologna,14.09.2024 | Como | Bologna | 2 | 2
+3,01.09.2024,Juventus,AS Roma,01.09.2024 | Juventus | AS Roma | 0 | 0
+3,01.09.2024,Udinese,Como,01.09.2024 | Udinese | Como | 1 | 0
+3,01.09.2024,Fiorentina,Monza,01.09.2024 | Fiorentina | Monza | 2 | 2
+3,01.09.2024,Genoa,Verona,01.09.2024 | Genoa | Verona | 0 | 2
+3,31.08.2024,Lazio,AC Milan,31.08.2024 | Lazio | AC Milan | 2 | 2
+3,31.08.2024,Napoli,Parma,31.08.2024 | Napoli | Parma | 2 | 1
+3,31.08.2024,Bologna,Empoli,31.08.2024 | Bologna | Empoli | 1 | 1
+3,31.08.2024,Lecce,Cagliari,31.08.2024 | Lecce | Cagliari | 1 | 0
+3,30.08.2024,Inter,Atalanta,30.08.2024 | Inter | Atalanta | 4 | 0
+3,30.08.2024,Venezia,Torino,30.08.2024 | Venezia | Torino | 0 | 1
+2,26.08.2024,Verona,Juventus,26.08.2024 | Verona | Juventus | 0 | 3
+2,26.08.2024,Cagliari,Como,26.08.2024 | Cagliari | Como | 1 | 1
+2,25.08.2024,AS Roma,Empoli,25.08.2024 | AS Roma | Empoli | 1 | 2
+2,25.08.2024,Napoli,Bologna,25.08.2024 | Napoli | Bologna | 3 | 0
+2,25.08.2024,Fiorentina,Venezia,25.08.2024 | Fiorentina | Venezia | 0 | 0
+2,25.08.2024,Torino,Atalanta,25.08.2024 | Torino | Atalanta | 2 | 1
+2,24.08.2024,Inter,Lecce,24.08.2024 | Inter | Lecce | 2 | 0
+2,24.08.2024,Monza,Genoa,24.08.2024 | Monza | Genoa | 0 | 1
+2,24.08.2024,Parma,AC Milan,24.08.2024 | Parma | AC Milan | 2 | 1
+2,24.08.2024,Udinese,Lazio,24.08.2024 | Udinese | Lazio | 2 | 1
+1,19.08.2024,Juventus,Como,19.08.2024 | Juventus | Como | 3 | 0
+1,19.08.2024,Lecce,Atalanta,19.08.2024 | Lecce | Atalanta | 0 | 4
+1,18.08.2024,Cagliari,AS Roma,18.08.2024 | Cagliari | AS Roma | 0 | 0
+1,18.08.2024,Lazio,Venezia,18.08.2024 | Lazio | Venezia | 3 | 1
+1,18.08.2024,Bologna,Udinese,18.08.2024 | Bologna | Udinese | 1 | 1
+1,18.08.2024,Verona,Napoli,18.08.2024 | Verona | Napoli | 3 | 0
+1,17.08.2024,AC Milan,Torino,17.08.2024 | AC Milan | Torino | 2 | 2
+1,17.08.2024,Empoli,Monza,17.08.2024 | Empoli | Monza | 0 | 0
+1,17.08.2024,Genoa,Inter,17.08.2024 | Genoa | Inter | 2 | 2
+1,17.08.2024,Parma,Fiorentina,17.08.2024 | Parma | Fiorentina | 1 | 1

@@ -1,0 +1,199 @@
+round,date,team_home,team_away,full_text
+33,13.04.2025,Hibernian,Dundee FC,13.04.2025 | Hibernian | Dundee FC | 4 | 0
+33,13.04.2025,Aberdeen,Rangers,13.04.2025 | Aberdeen | Rangers | 2 | 2
+33,12.04.2025,Dundee Utd,St Johnstone,12.04.2025 | Dundee Utd | St Johnstone | 1 | 0
+33,12.04.2025,Motherwell,Hearts,12.04.2025 | Motherwell | Hearts | 0 | 0
+33,12.04.2025,St. Mirren,Ross County,12.04.2025 | St. Mirren | Ross County | 3 | 2
+33,12.04.2025,Celtic,Kilmarnock,12.04.2025 | Celtic | Kilmarnock | 5 | 1
+32,06.04.2025,Hearts,Dundee Utd,06.04.2025 | Hearts | Dundee Utd | 0 | 1
+32,06.04.2025,St Johnstone,Celtic,06.04.2025 | St Johnstone | Celtic | 1 | 0
+32,05.04.2025,Dundee FC,St. Mirren,05.04.2025 | Dundee FC | St. Mirren | 2 | 0
+32,05.04.2025,Kilmarnock,Motherwell,05.04.2025 | Kilmarnock | Motherwell | 2 | 0
+32,05.04.2025,Rangers,Hibernian,05.04.2025 | Rangers | Hibernian | 0 | 2
+32,05.04.2025,Ross County,Aberdeen,05.04.2025 | Ross County | Aberdeen | 0 | 1
+31,30.03.2025,Ross County,Dundee Utd,30.03.2025 | Ross County | Dundee Utd | 0 | 1
+31,29.03.2025,Dundee FC,Rangers,29.03.2025 | Dundee FC | Rangers | 3 | 4
+31,29.03.2025,Aberdeen,Motherwell,29.03.2025 | Aberdeen | Motherwell | 4 | 1
+31,29.03.2025,Celtic,Hearts,29.03.2025 | Celtic | Hearts | 3 | 0
+31,29.03.2025,Hibernian,St Johnstone,29.03.2025 | Hibernian | St Johnstone | 3 | 0
+31,29.03.2025,St. Mirren,Kilmarnock,29.03.2025 | St. Mirren | Kilmarnock | 5 | 1
+30,16.03.2025,Dundee Utd,Dundee FC,16.03.2025 | Dundee Utd | Dundee FC | 2 | 4
+30,16.03.2025,Celtic,Rangers,16.03.2025 | Celtic | Rangers | 2 | 3
+30,15.03.2025,Hearts,Ross County,15.03.2025 | Hearts | Ross County | 2 | 0
+30,15.03.2025,Kilmarnock,Hibernian,15.03.2025 | Kilmarnock | Hibernian | 1 | 1
+30,15.03.2025,Motherwell,St. Mirren,15.03.2025 | Motherwell | St. Mirren | 2 | 2
+30,15.03.2025,St Johnstone,Aberdeen,15.03.2025 | St Johnstone | Aberdeen | 0 | 0
+29,02.03.2025,Aberdeen,Dundee Utd,02.03.2025 | Aberdeen | Dundee Utd | 2 | 2
+29,02.03.2025,Hibernian,Hearts,02.03.2025 | Hibernian | Hearts | 2 | 1
+29,01.03.2025,St. Mirren,Celtic,01.03.2025 | St. Mirren | Celtic | 2 | 5
+29,01.03.2025,Dundee FC,St Johnstone,01.03.2025 | Dundee FC | St Johnstone | 1 | 1
+29,01.03.2025,Rangers,Motherwell,01.03.2025 | Rangers | Motherwell | 1 | 2
+29,01.03.2025,Ross County,Kilmarnock,01.03.2025 | Ross County | Kilmarnock | 1 | 0
+28,26.02.2025,Kilmarnock,Rangers,26.02.2025 | Kilmarnock | Rangers | 2 | 4
+28,26.02.2025,Dundee Utd,Hibernian,26.02.2025 | Dundee Utd | Hibernian | 1 | 3
+28,26.02.2025,Hearts,St. Mirren,26.02.2025 | Hearts | St. Mirren | 3 | 1
+28,26.02.2025,Motherwell,Dundee FC,26.02.2025 | Motherwell | Dundee FC | 2 | 1
+28,26.02.2025,St Johnstone,Ross County,26.02.2025 | St Johnstone | Ross County | 1 | 0
+28,25.02.2025,Celtic,Aberdeen,25.02.2025 | Celtic | Aberdeen | 5 | 1
+27,23.02.2025,St Johnstone,Hearts,23.02.2025 | St Johnstone | Hearts | 1 | 2
+27,22.02.2025,Aberdeen,Kilmarnock,22.02.2025 | Aberdeen | Kilmarnock | 1 | 0
+27,22.02.2025,Dundee Utd,Motherwell,22.02.2025 | Dundee Utd | Motherwell | 1 | 0
+27,22.02.2025,Rangers,St. Mirren,22.02.2025 | Rangers | St. Mirren | 0 | 2
+27,22.02.2025,Ross County,Dundee FC,22.02.2025 | Ross County | Dundee FC | 3 | 1
+27,22.02.2025,Hibernian,Celtic,22.02.2025 | Hibernian | Celtic | 2 | 1
+26,16.02.2025,St. Mirren,Hibernian,16.02.2025 | St. Mirren | Hibernian | 0 | 0
+26,16.02.2025,Hearts,Rangers,16.02.2025 | Hearts | Rangers | 1 | 3
+26,15.02.2025,Celtic,Dundee Utd,15.02.2025 | Celtic | Dundee Utd | 3 | 0
+26,15.02.2025,Dundee FC,Aberdeen,15.02.2025 | Dundee FC | Aberdeen | 1 | 2
+26,15.02.2025,Kilmarnock,St Johnstone,15.02.2025 | Kilmarnock | St Johnstone | 3 | 1
+26,15.02.2025,Motherwell,Ross County,15.02.2025 | Motherwell | Ross County | 0 | 3
+24,05.02.2025,Celtic,Dundee FC,05.02.2025 | Celtic | Dundee FC | 6 | 0
+25,02.02.2025,Motherwell,Celtic,02.02.2025 | Motherwell | Celtic | 1 | 3
+25,02.02.2025,Rangers,Ross County,02.02.2025 | Rangers | Ross County | 4 | 0
+25,01.02.2025,Kilmarnock,Dundee Utd,01.02.2025 | Kilmarnock | Dundee Utd | 1 | 0
+25,01.02.2025,Dundee FC,Hearts,01.02.2025 | Dundee FC | Hearts | 0 | 6
+25,01.02.2025,Hibernian,Aberdeen,01.02.2025 | Hibernian | Aberdeen | 2 | 0
+25,01.02.2025,St. Mirren,St Johnstone,01.02.2025 | St. Mirren | St Johnstone | 0 | 1
+24,26.01.2025,Dundee Utd,Rangers,26.01.2025 | Dundee Utd | Rangers | 1 | 3
+24,25.01.2025,Aberdeen,St. Mirren,25.01.2025 | Aberdeen | St. Mirren | 0 | 3
+24,25.01.2025,Hearts,Kilmarnock,25.01.2025 | Hearts | Kilmarnock | 3 | 2
+24,25.01.2025,Ross County,Hibernian,25.01.2025 | Ross County | Hibernian | 1 | 1
+24,25.01.2025,St Johnstone,Motherwell,25.01.2025 | St Johnstone | Motherwell | 2 | 1
+17,15.01.2025,Rangers,Aberdeen,15.01.2025 | Rangers | Aberdeen | 3 | 0
+17,14.01.2025,Dundee FC,Celtic,14.01.2025 | Dundee FC | Celtic | 3 | 3
+23,12.01.2025,Aberdeen,Hearts,12.01.2025 | Aberdeen | Hearts | 0 | 0
+23,12.01.2025,Rangers,St Johnstone,12.01.2025 | Rangers | St Johnstone | 3 | 1
+23,11.01.2025,Hibernian,Motherwell,11.01.2025 | Hibernian | Motherwell | 3 | 1
+23,11.01.2025,St. Mirren,Dundee Utd,11.01.2025 | St. Mirren | Dundee Utd | 0 | 1
+23,11.01.2025,Ross County,Celtic,11.01.2025 | Ross County | Celtic | 1 | 4
+11,09.01.2025,Dundee FC,Rangers,09.01.2025 | Dundee FC | Rangers | 1 | 1
+11,08.01.2025,Celtic,Dundee Utd,08.01.2025 | Celtic | Dundee Utd | 2 | 0
+11,08.01.2025,Kilmarnock,Motherwell,08.01.2025 | Kilmarnock | Motherwell | 0 | 0
+22,05.01.2025,Celtic,St. Mirren,05.01.2025 | Celtic | St. Mirren | 3 | 0
+22,05.01.2025,Dundee Utd,Hearts,05.01.2025 | Dundee Utd | Hearts | 0 | 1
+22,05.01.2025,Kilmarnock,Ross County,05.01.2025 | Kilmarnock | Ross County | 0 | 1
+22,05.01.2025,St Johnstone,Dundee FC,05.01.2025 | St Johnstone | Dundee FC | 1 | 3
+22,05.01.2025,Motherwell,Aberdeen,05.01.2025 | Motherwell | Aberdeen | 2 | 0
+22,05.01.2025,Hibernian,Rangers,05.01.2025 | Hibernian | Rangers | 3 | 3
+21,02.01.2025,Dundee FC,Dundee Utd,02.01.2025 | Dundee FC | Dundee Utd | 1 | 2
+21,02.01.2025,Aberdeen,Ross County,02.01.2025 | Aberdeen | Ross County | 1 | 2
+21,02.01.2025,Hearts,Motherwell,02.01.2025 | Hearts | Motherwell | 1 | 0
+21,02.01.2025,Kilmarnock,St. Mirren,02.01.2025 | Kilmarnock | St. Mirren | 2 | 0
+21,02.01.2025,Rangers,Celtic,02.01.2025 | Rangers | Celtic | 3 | 0
+21,02.01.2025,St Johnstone,Hibernian,02.01.2025 | St Johnstone | Hibernian | 1 | 1
+20,29.12.2024,Dundee Utd,Aberdeen,29.12.2024 | Dundee Utd | Aberdeen | 1 | 0
+20,29.12.2024,Celtic,St Johnstone,29.12.2024 | Celtic | St Johnstone | 4 | 0
+20,29.12.2024,Hibernian,Kilmarnock,29.12.2024 | Hibernian | Kilmarnock | 1 | 0
+20,29.12.2024,Motherwell,Rangers,29.12.2024 | Motherwell | Rangers | 2 | 2
+20,29.12.2024,Ross County,Hearts,29.12.2024 | Ross County | Hearts | 2 | 2
+20,29.12.2024,St. Mirren,Dundee FC,29.12.2024 | St. Mirren | Dundee FC | 1 | 2
+19,26.12.2024,St. Mirren,Rangers,26.12.2024 | St. Mirren | Rangers | 2 | 1
+19,26.12.2024,Celtic,Motherwell,26.12.2024 | Celtic | Motherwell | 4 | 0
+19,26.12.2024,Dundee FC,Ross County,26.12.2024 | Dundee FC | Ross County | 0 | 3
+19,26.12.2024,Kilmarnock,Aberdeen,26.12.2024 | Kilmarnock | Aberdeen | 4 | 0
+19,26.12.2024,St Johnstone,Dundee Utd,26.12.2024 | St Johnstone | Dundee Utd | 1 | 2
+19,26.12.2024,Hearts,Hibernian,26.12.2024 | Hearts | Hibernian | 1 | 2
+18,22.12.2024,Hearts,St Johnstone,22.12.2024 | Hearts | St Johnstone | 2 | 1
+18,22.12.2024,Dundee Utd,Celtic,22.12.2024 | Dundee Utd | Celtic | 0 | 0
+18,21.12.2024,Aberdeen,Hibernian,21.12.2024 | Aberdeen | Hibernian | 1 | 3
+18,21.12.2024,Rangers,Dundee FC,21.12.2024 | Rangers | Dundee FC | 1 | 0
+18,21.12.2024,Ross County,St. Mirren,21.12.2024 | Ross County | St. Mirren | 1 | 2
+18,20.12.2024,Motherwell,Kilmarnock,20.12.2024 | Motherwell | Kilmarnock | 1 | 1
+17,15.12.2024,Kilmarnock,Hearts,15.12.2024 | Kilmarnock | Hearts | 1 | 0
+17,14.12.2024,Hibernian,Ross County,14.12.2024 | Hibernian | Ross County | 3 | 1
+17,14.12.2024,Motherwell,Dundee Utd,14.12.2024 | Motherwell | Dundee Utd | 4 | 3
+17,14.12.2024,St Johnstone,St. Mirren,14.12.2024 | St Johnstone | St. Mirren | 2 | 3
+16,08.12.2024,Ross County,Rangers,08.12.2024 | Ross County | Rangers | 0 | 3
+16,07.12.2024,Aberdeen,St Johnstone,07.12.2024 | Aberdeen | St Johnstone | 1 | 1
+16,07.12.2024,Celtic,Hibernian,07.12.2024 | Celtic | Hibernian | 3 | 0
+16,07.12.2024,Dundee Utd,Kilmarnock,07.12.2024 | Dundee Utd | Kilmarnock | 1 | 1
+16,07.12.2024,Hearts,Dundee FC,07.12.2024 | Hearts | Dundee FC | 2 | 0
+16,07.12.2024,St. Mirren,Motherwell,07.12.2024 | St. Mirren | Motherwell | 0 | 1
+15,04.12.2024,Aberdeen,Celtic,04.12.2024 | Aberdeen | Celtic | 0 | 1
+15,04.12.2024,Dundee FC,Motherwell,04.12.2024 | Dundee FC | Motherwell | 4 | 1
+15,04.12.2024,Rangers,Kilmarnock,04.12.2024 | Rangers | Kilmarnock | 6 | 0
+14,01.12.2024,Hearts,Aberdeen,01.12.2024 | Hearts | Aberdeen | 1 | 1
+14,01.12.2024,St Johnstone,Rangers,01.12.2024 | St Johnstone | Rangers | 0 | 1
+14,30.11.2024,Celtic,Ross County,30.11.2024 | Celtic | Ross County | 5 | 0
+14,30.11.2024,Dundee Utd,St. Mirren,30.11.2024 | Dundee Utd | St. Mirren | 2 | 0
+14,30.11.2024,Kilmarnock,Dundee FC,30.11.2024 | Kilmarnock | Dundee FC | 1 | 1
+14,30.11.2024,Motherwell,Hibernian,30.11.2024 | Motherwell | Hibernian | 0 | 3
+11,26.11.2024,Hibernian,Aberdeen,26.11.2024 | Hibernian | Aberdeen | 3 | 3
+13,23.11.2024,Hearts,Celtic,23.11.2024 | Hearts | Celtic | 1 | 4
+13,23.11.2024,Dundee FC,Hibernian,23.11.2024 | Dundee FC | Hibernian | 4 | 1
+13,23.11.2024,St. Mirren,Aberdeen,23.11.2024 | St. Mirren | Aberdeen | 2 | 1
+13,23.11.2024,Rangers,Dundee Utd,23.11.2024 | Rangers | Dundee Utd | 1 | 1
+13,23.11.2024,Ross County,Motherwell,23.11.2024 | Ross County | Motherwell | 2 | 1
+13,23.11.2024,St Johnstone,Kilmarnock,23.11.2024 | St Johnstone | Kilmarnock | 1 | 0
+12,10.11.2024,Rangers,Hearts,10.11.2024 | Rangers | Hearts | 1 | 0
+12,10.11.2024,Kilmarnock,Celtic,10.11.2024 | Kilmarnock | Celtic | 0 | 2
+12,09.11.2024,Aberdeen,Dundee FC,09.11.2024 | Aberdeen | Dundee FC | 4 | 1
+12,09.11.2024,Dundee Utd,Ross County,09.11.2024 | Dundee Utd | Ross County | 3 | 0
+12,09.11.2024,Hibernian,St. Mirren,09.11.2024 | Hibernian | St. Mirren | 1 | 2
+12,09.11.2024,Motherwell,St Johnstone,09.11.2024 | Motherwell | St Johnstone | 2 | 1
+23,03.11.2024,Dundee FC,Kilmarnock,03.11.2024 | Dundee FC | Kilmarnock | 3 | 2
+15,03.11.2024,Hibernian,Dundee Utd,03.11.2024 | Hibernian | Dundee Utd | 1 | 1
+11,02.11.2024,St Johnstone,Hearts,02.11.2024 | St Johnstone | Hearts | 1 | 2
+11,02.11.2024,St. Mirren,Ross County,02.11.2024 | St. Mirren | Ross County | 0 | 0
+10,30.10.2024,Aberdeen,Rangers,30.10.2024 | Aberdeen | Rangers | 2 | 1
+10,30.10.2024,Celtic,Dundee FC,30.10.2024 | Celtic | Dundee FC | 2 | 0
+10,30.10.2024,Dundee Utd,Motherwell,30.10.2024 | Dundee Utd | Motherwell | 1 | 2
+10,30.10.2024,Hearts,Kilmarnock,30.10.2024 | Hearts | Kilmarnock | 1 | 2
+10,30.10.2024,Ross County,Hibernian,30.10.2024 | Ross County | Hibernian | 0 | 0
+10,30.10.2024,St. Mirren,St Johnstone,30.10.2024 | St. Mirren | St Johnstone | 3 | 1
+9,27.10.2024,Motherwell,Celtic,27.10.2024 | Motherwell | Celtic | 0 | 3
+9,27.10.2024,Rangers,St. Mirren,27.10.2024 | Rangers | St. Mirren | 2 | 1
+9,27.10.2024,Hibernian,Hearts,27.10.2024 | Hibernian | Hearts | 1 | 1
+9,26.10.2024,Aberdeen,Dundee Utd,26.10.2024 | Aberdeen | Dundee Utd | 1 | 0
+9,26.10.2024,Dundee FC,St Johnstone,26.10.2024 | Dundee FC | St Johnstone | 1 | 2
+9,26.10.2024,Ross County,Kilmarnock,26.10.2024 | Ross County | Kilmarnock | 2 | 1
+8,20.10.2024,Kilmarnock,Rangers,20.10.2024 | Kilmarnock | Rangers | 1 | 0
+8,19.10.2024,Celtic,Aberdeen,19.10.2024 | Celtic | Aberdeen | 2 | 2
+8,19.10.2024,Dundee Utd,Hibernian,19.10.2024 | Dundee Utd | Hibernian | 3 | 2
+8,19.10.2024,Hearts,St. Mirren,19.10.2024 | Hearts | St. Mirren | 4 | 0
+8,19.10.2024,Motherwell,Dundee FC,19.10.2024 | Motherwell | Dundee FC | 0 | 1
+8,19.10.2024,St Johnstone,Ross County,19.10.2024 | St Johnstone | Ross County | 2 | 3 | 0
+7,06.10.2024,Rangers,St Johnstone,06.10.2024 | Rangers | St Johnstone | 2 | 0
+7,06.10.2024,Aberdeen,Hearts,06.10.2024 | Aberdeen | Hearts | 3 | 2
+7,06.10.2024,Ross County,Celtic,06.10.2024 | Ross County | Celtic | 1 | 2
+7,05.10.2024,Dundee FC,Kilmarnock,05.10.2024 | Dundee FC | Kilmarnock | 2 | 3
+7,05.10.2024,Hibernian,Motherwell,05.10.2024 | Hibernian | Motherwell | 1 | 2
+7,05.10.2024,St. Mirren,Dundee Utd,05.10.2024 | St. Mirren | Dundee Utd | 0 | 1
+6,29.09.2024,Rangers,Hibernian,29.09.2024 | Rangers | Hibernian | 1 | 0
+6,28.09.2024,St Johnstone,Celtic,28.09.2024 | St Johnstone | Celtic | 0 | 6
+6,28.09.2024,Dundee FC,Aberdeen,28.09.2024 | Dundee FC | Aberdeen | 1 | 2
+6,28.09.2024,Hearts,Ross County,28.09.2024 | Hearts | Ross County | 1 | 1
+6,28.09.2024,Kilmarnock,Dundee Utd,28.09.2024 | Kilmarnock | Dundee Utd | 3 | 3
+6,28.09.2024,Motherwell,St. Mirren,28.09.2024 | Motherwell | St. Mirren | 2 | 1
+15,21.09.2024,Ross County,St Johnstone,21.09.2024 | Ross County | St Johnstone | 3 | 3
+15,21.09.2024,St. Mirren,Hearts,21.09.2024 | St. Mirren | Hearts | 2 | 1
+5,15.09.2024,Dundee Utd,Rangers,15.09.2024 | Dundee Utd | Rangers | 0 | 1
+5,14.09.2024,Aberdeen,Motherwell,14.09.2024 | Aberdeen | Motherwell | 2 | 1
+5,14.09.2024,Celtic,Hearts,14.09.2024 | Celtic | Hearts | 2 | 0
+5,14.09.2024,Hibernian,St Johnstone,14.09.2024 | Hibernian | St Johnstone | 2 | 0
+5,14.09.2024,Ross County,Dundee FC,14.09.2024 | Ross County | Dundee FC | 2 | 0
+5,14.09.2024,St. Mirren,Kilmarnock,14.09.2024 | St. Mirren | Kilmarnock | 2 | 2
+4,01.09.2024,Hearts,Dundee Utd,01.09.2024 | Hearts | Dundee Utd | 0 | 1
+4,01.09.2024,Kilmarnock,Hibernian,01.09.2024 | Kilmarnock | Hibernian | 1 | 1
+4,01.09.2024,Celtic,Rangers,01.09.2024 | Celtic | Rangers | 3 | 0
+4,31.08.2024,Ross County,Aberdeen,31.08.2024 | Ross County | Aberdeen | 0 | 1
+4,31.08.2024,Dundee FC,St. Mirren,31.08.2024 | Dundee FC | St. Mirren | 2 | 2
+4,31.08.2024,St Johnstone,Motherwell,31.08.2024 | St Johnstone | Motherwell | 1 | 2
+3,25.08.2024,Aberdeen,Kilmarnock,25.08.2024 | Aberdeen | Kilmarnock | 2 | 0
+3,25.08.2024,Motherwell,Hearts,25.08.2024 | Motherwell | Hearts | 3 | 1
+3,25.08.2024,St. Mirren,Celtic,25.08.2024 | St. Mirren | Celtic | 0 | 3
+3,24.08.2024,Dundee Utd,St Johnstone,24.08.2024 | Dundee Utd | St Johnstone | 2 | 0
+3,24.08.2024,Hibernian,Dundee FC,24.08.2024 | Hibernian | Dundee FC | 2 | 2
+3,24.08.2024,Rangers,Ross County,24.08.2024 | Rangers | Ross County | 6 | 0
+2,11.08.2024,Aberdeen,St. Mirren,11.08.2024 | Aberdeen | St. Mirren | 3 | 1
+2,11.08.2024,Kilmarnock,St Johnstone,11.08.2024 | Kilmarnock | St Johnstone | 0 | 3
+2,11.08.2024,Hibernian,Celtic,11.08.2024 | Hibernian | Celtic | 0 | 2
+2,10.08.2024,Dundee FC,Hearts,10.08.2024 | Dundee FC | Hearts | 3 | 1
+2,10.08.2024,Rangers,Motherwell,10.08.2024 | Rangers | Motherwell | 2 | 1
+2,10.08.2024,Ross County,Dundee Utd,10.08.2024 | Ross County | Dundee Utd | 1 | 1
+1,05.08.2024,St Johnstone,Aberdeen,05.08.2024 | St Johnstone | Aberdeen | 1 | 2
+1,04.08.2024,Celtic,Kilmarnock,04.08.2024 | Celtic | Kilmarnock | 4 | 0
+1,04.08.2024,St. Mirren,Hibernian,04.08.2024 | St. Mirren | Hibernian | 3 | 0
+1,04.08.2024,Dundee Utd,Dundee FC,04.08.2024 | Dundee Utd | Dundee FC | 2 | 2
+1,03.08.2024,Motherwell,Ross County,03.08.2024 | Motherwell | Ross County | 0 | 0
+1,03.08.2024,Hearts,Rangers,03.08.2024 | Hearts | Rangers | 0 | 0

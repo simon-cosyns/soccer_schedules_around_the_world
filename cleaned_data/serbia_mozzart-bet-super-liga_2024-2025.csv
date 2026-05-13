@@ -1,0 +1,241 @@
+round,date,team_home,team_away,full_text
+30,07.04.2025,Cukaricki,IMT Novi Beograd,07.04.2025 | Cukaricki | IMT Novi Beograd | 0 | 2
+30,07.04.2025,Mladost,Vojvodina,07.04.2025 | Mladost | Vojvodina | 1 | 3
+30,07.04.2025,Novi Pazar,Radnicki Nis,07.04.2025 | Novi Pazar | Radnicki Nis | 3 | 3
+30,07.04.2025,TSC,Zeleznicar Pancevo,07.04.2025 | TSC | Zeleznicar Pancevo | 1 | 0
+30,06.04.2025,Jedinstvo U.,Napredak,06.04.2025 | Jedinstvo U. | Napredak | 0 | 0
+30,06.04.2025,Crvena zvezda,OFK Beograd Mozzart Bet,06.04.2025 | Crvena zvezda | OFK Beograd Mozzart Bet | 3 | 1
+30,06.04.2025,Radnicki 1923,Partizan,06.04.2025 | Radnicki 1923 | Partizan | 0 | 2
+30,05.04.2025,Tekstilac Odzaci,Sp. Subotica,05.04.2025 | Tekstilac Odzaci | Sp. Subotica | 2 | 0
+29,30.03.2025,Zeleznicar Pancevo,Cukaricki,30.03.2025 | Zeleznicar Pancevo | Cukaricki | 1 | 2
+29,30.03.2025,Sp. Subotica,Mladost,30.03.2025 | Sp. Subotica | Mladost | 0 | 0
+29,30.03.2025,OFK Beograd Mozzart Bet,Jedinstvo U.,30.03.2025 | OFK Beograd Mozzart Bet | Jedinstvo U. | 3 | 0
+29,29.03.2025,Napredak,Radnicki 1923,29.03.2025 | Napredak | Radnicki 1923 | 1 | 0
+29,29.03.2025,Vojvodina,Crvena zvezda,29.03.2025 | Vojvodina | Crvena zvezda | 3 | 5
+29,29.03.2025,Partizan,TSC,29.03.2025 | Partizan | TSC | 0 | 0
+29,29.03.2025,Radnicki Nis,Tekstilac Odzaci,29.03.2025 | Radnicki Nis | Tekstilac Odzaci | 1 | 2
+29,28.03.2025,IMT Novi Beograd,Novi Pazar,28.03.2025 | IMT Novi Beograd | Novi Pazar | 0 | 0
+28,17.03.2025,Novi Pazar,Zeleznicar Pancevo,17.03.2025 | Novi Pazar | Zeleznicar Pancevo | 3 | 1
+28,16.03.2025,Mladost,Radnicki Nis,16.03.2025 | Mladost | Radnicki Nis | 1 | 1
+28,16.03.2025,Cukaricki,Partizan,16.03.2025 | Cukaricki | Partizan | 0 | 1
+28,16.03.2025,OFK Beograd Mozzart Bet,Vojvodina,16.03.2025 | OFK Beograd Mozzart Bet | Vojvodina | 3 | 1
+28,16.03.2025,Crvena zvezda,Sp. Subotica,16.03.2025 | Crvena zvezda | Sp. Subotica | 2 | 1
+28,16.03.2025,TSC,Napredak,16.03.2025 | TSC | Napredak | 4 | 2
+28,15.03.2025,Tekstilac Odzaci,IMT Novi Beograd,15.03.2025 | Tekstilac Odzaci | IMT Novi Beograd | 1 | 2
+28,14.03.2025,Jedinstvo U.,Radnicki 1923,14.03.2025 | Jedinstvo U. | Radnicki 1923 | 2 | 2
+24,12.03.2025,OFK Beograd Mozzart Bet,Zeleznicar Pancevo,12.03.2025 | OFK Beograd Mozzart Bet | Zeleznicar Pancevo | 1 | 2
+27,09.03.2025,Vojvodina,Jedinstvo U.,09.03.2025 | Vojvodina | Jedinstvo U. | 1 | 0
+27,09.03.2025,IMT Novi Beograd,Mladost,09.03.2025 | IMT Novi Beograd | Mladost | 3 | 0
+27,08.03.2025,Radnicki 1923,TSC,08.03.2025 | Radnicki 1923 | TSC | 1 | 3
+27,08.03.2025,Partizan,Novi Pazar,08.03.2025 | Partizan | Novi Pazar | 3 | 2
+27,08.03.2025,Radnicki Nis,Crvena zvezda,08.03.2025 | Radnicki Nis | Crvena zvezda | 0 | 3
+27,08.03.2025,Napredak,Cukaricki,08.03.2025 | Napredak | Cukaricki | 2 | 1
+27,07.03.2025,Zeleznicar Pancevo,Tekstilac Odzaci,07.03.2025 | Zeleznicar Pancevo | Tekstilac Odzaci | 3 | 0
+27,07.03.2025,Sp. Subotica,OFK Beograd Mozzart Bet,07.03.2025 | Sp. Subotica | OFK Beograd Mozzart Bet | 0 | 1
+26,03.03.2025,Cukaricki,Radnicki 1923,03.03.2025 | Cukaricki | Radnicki 1923 | 1 | 1
+26,03.03.2025,Mladost,Zeleznicar Pancevo,03.03.2025 | Mladost | Zeleznicar Pancevo | 1 | 1
+26,03.03.2025,Novi Pazar,Napredak,03.03.2025 | Novi Pazar | Napredak | 2 | 0
+26,03.03.2025,Jedinstvo U.,TSC,03.03.2025 | Jedinstvo U. | TSC | 4 | 1
+26,02.03.2025,Vojvodina,Sp. Subotica,02.03.2025 | Vojvodina | Sp. Subotica | 1 | 3
+26,02.03.2025,Crvena zvezda,IMT Novi Beograd,02.03.2025 | Crvena zvezda | IMT Novi Beograd | 4 | 0
+26,02.03.2025,Tekstilac Odzaci,Partizan,02.03.2025 | Tekstilac Odzaci | Partizan | 1 | 4
+26,02.03.2025,OFK Beograd Mozzart Bet,Radnicki Nis,02.03.2025 | OFK Beograd Mozzart Bet | Radnicki Nis | 2 | 0
+25,27.02.2025,TSC,Cukaricki,27.02.2025 | TSC | Cukaricki | 2 | 1
+25,27.02.2025,Radnicki 1923,Novi Pazar,27.02.2025 | Radnicki 1923 | Novi Pazar | 2 | 0
+25,27.02.2025,Napredak,Tekstilac Odzaci,27.02.2025 | Napredak | Tekstilac Odzaci | 1 | 1
+25,26.02.2025,IMT Novi Beograd,OFK Beograd Mozzart Bet,26.02.2025 | IMT Novi Beograd | OFK Beograd Mozzart Bet | 1 | 1
+25,26.02.2025,Radnicki Nis,Vojvodina,26.02.2025 | Radnicki Nis | Vojvodina | 1 | 4
+25,26.02.2025,Partizan,Mladost,26.02.2025 | Partizan | Mladost | 2 | 0
+25,26.02.2025,Zeleznicar Pancevo,Crvena zvezda,26.02.2025 | Zeleznicar Pancevo | Crvena zvezda | 1 | 3
+25,26.02.2025,Sp. Subotica,Jedinstvo U.,26.02.2025 | Sp. Subotica | Jedinstvo U. | 1 | 0
+24,24.02.2025,Novi Pazar,TSC,24.02.2025 | Novi Pazar | TSC | 2 | 1
+24,23.02.2025,Jedinstvo U.,Cukaricki,23.02.2025 | Jedinstvo U. | Cukaricki | 0 | 1
+24,23.02.2025,Mladost,Napredak,23.02.2025 | Mladost | Napredak | 1 | 0
+24,22.02.2025,Crvena zvezda,Partizan,22.02.2025 | Crvena zvezda | Partizan | 3 | 3
+24,22.02.2025,Vojvodina,IMT Novi Beograd,22.02.2025 | Vojvodina | IMT Novi Beograd | 0 | 1
+24,21.02.2025,Tekstilac Odzaci,Radnicki 1923,21.02.2025 | Tekstilac Odzaci | Radnicki 1923 | 0 | 1
+24,21.02.2025,Sp. Subotica,Radnicki Nis,21.02.2025 | Sp. Subotica | Radnicki Nis | 1 | 1
+23,17.02.2025,Zeleznicar Pancevo,Vojvodina,17.02.2025 | Zeleznicar Pancevo | Vojvodina | 1 | 1
+23,17.02.2025,Cukaricki,Novi Pazar,17.02.2025 | Cukaricki | Novi Pazar | 1 | 1
+23,16.02.2025,TSC,Tekstilac Odzaci,16.02.2025 | TSC | Tekstilac Odzaci | 1 | 2
+23,16.02.2025,Radnicki Nis,Jedinstvo U.,16.02.2025 | Radnicki Nis | Jedinstvo U. | 1 | 4
+23,16.02.2025,Radnicki 1923,Mladost,16.02.2025 | Radnicki 1923 | Mladost | 1 | 0
+23,15.02.2025,Napredak,Crvena zvezda,15.02.2025 | Napredak | Crvena zvezda | 0 | 4
+23,15.02.2025,Partizan,OFK Beograd Mozzart Bet,15.02.2025 | Partizan | OFK Beograd Mozzart Bet | 4 | 1
+23,15.02.2025,IMT Novi Beograd,Sp. Subotica,15.02.2025 | IMT Novi Beograd | Sp. Subotica | 1 | 2
+22,09.02.2025,Sp. Subotica,Zeleznicar Pancevo,09.02.2025 | Sp. Subotica | Zeleznicar Pancevo | 0 | 0
+22,09.02.2025,Radnicki Nis,IMT Novi Beograd,09.02.2025 | Radnicki Nis | IMT Novi Beograd | 3 | 0
+22,09.02.2025,OFK Beograd Mozzart Bet,Napredak,09.02.2025 | OFK Beograd Mozzart Bet | Napredak | 0 | 2
+22,09.02.2025,Jedinstvo U.,Novi Pazar,09.02.2025 | Jedinstvo U. | Novi Pazar | 0 | 1
+22,08.02.2025,Vojvodina,Partizan,08.02.2025 | Vojvodina | Partizan | 0 | 0
+22,08.02.2025,Crvena zvezda,Radnicki 1923,08.02.2025 | Crvena zvezda | Radnicki 1923 | 6 | 0
+22,08.02.2025,Mladost,TSC,08.02.2025 | Mladost | TSC | 4 | 1
+22,07.02.2025,Tekstilac Odzaci,Cukaricki,07.02.2025 | Tekstilac Odzaci | Cukaricki | 0 | 1
+21,03.02.2025,Radnicki 1923,OFK Beograd Mozzart Bet,03.02.2025 | Radnicki 1923 | OFK Beograd Mozzart Bet | 2 | 0
+21,02.02.2025,Zeleznicar Pancevo,Radnicki Nis,02.02.2025 | Zeleznicar Pancevo | Radnicki Nis | 0 | 0
+21,02.02.2025,TSC,Crvena zvezda,02.02.2025 | TSC | Crvena zvezda | 1 | 2
+21,02.02.2025,IMT Novi Beograd,Jedinstvo U.,02.02.2025 | IMT Novi Beograd | Jedinstvo U. | 2 | 0
+21,01.02.2025,Partizan,Sp. Subotica,01.02.2025 | Partizan | Sp. Subotica | 2 | 2
+21,01.02.2025,Novi Pazar,Tekstilac Odzaci,01.02.2025 | Novi Pazar | Tekstilac Odzaci | 2 | 3
+21,01.02.2025,Cukaricki,Mladost,01.02.2025 | Cukaricki | Mladost | 0 | 0
+21,31.01.2025,Napredak,Vojvodina,31.01.2025 | Napredak | Vojvodina | 1 | 1
+16,26.12.2024,IMT Novi Beograd,TSC,26.12.2024 | IMT Novi Beograd | TSC | 0 | 2
+20,23.12.2024,OFK Beograd Mozzart Bet,TSC,23.12.2024 | OFK Beograd Mozzart Bet | TSC | 2 | 2
+20,22.12.2024,Sp. Subotica,Napredak,22.12.2024 | Sp. Subotica | Napredak | 0 | 2
+20,22.12.2024,Crvena zvezda,Cukaricki,22.12.2024 | Crvena zvezda | Cukaricki | 5 | 2
+20,22.12.2024,Jedinstvo U.,Tekstilac Odzaci,22.12.2024 | Jedinstvo U. | Tekstilac Odzaci | 1 | 0
+20,21.12.2024,Radnicki Nis,Partizan,21.12.2024 | Radnicki Nis | Partizan | 0 | 1
+20,21.12.2024,Vojvodina,Radnicki 1923,21.12.2024 | Vojvodina | Radnicki 1923 | 3 | 2
+20,21.12.2024,IMT Novi Beograd,Zeleznicar Pancevo,21.12.2024 | IMT Novi Beograd | Zeleznicar Pancevo | 1 | 1
+20,20.12.2024,Mladost,Novi Pazar,20.12.2024 | Mladost | Novi Pazar | 1 | 3
+16,18.12.2024,Jedinstvo U.,Crvena zvezda,18.12.2024 | Jedinstvo U. | Crvena zvezda | 0 | 4
+19,16.12.2024,Partizan,IMT Novi Beograd,16.12.2024 | Partizan | IMT Novi Beograd | 1 | 1
+19,16.12.2024,Radnicki 1923,Sp. Subotica,16.12.2024 | Radnicki 1923 | Sp. Subotica | 2 | 0
+19,15.12.2024,TSC,Vojvodina,15.12.2024 | TSC | Vojvodina | 1 | 3
+19,15.12.2024,Novi Pazar,Crvena zvezda,15.12.2024 | Novi Pazar | Crvena zvezda | 1 | 7
+19,15.12.2024,Cukaricki,OFK Beograd Mozzart Bet,15.12.2024 | Cukaricki | OFK Beograd Mozzart Bet | 0 | 1
+19,15.12.2024,Napredak,Radnicki Nis,15.12.2024 | Napredak | Radnicki Nis | 2 | 1
+19,14.12.2024,Zeleznicar Pancevo,Jedinstvo U.,14.12.2024 | Zeleznicar Pancevo | Jedinstvo U. | 6 | 0
+19,14.12.2024,Tekstilac Odzaci,Mladost,14.12.2024 | Tekstilac Odzaci | Mladost | 1 | 0
+6,12.12.2024,Sp. Subotica,Partizan,12.12.2024 | Sp. Subotica | Partizan | 2 | 1
+18,09.12.2024,Radnicki Nis,Radnicki 1923,09.12.2024 | Radnicki Nis | Radnicki 1923 | 1 | 2
+18,09.12.2024,IMT Novi Beograd,Napredak,09.12.2024 | IMT Novi Beograd | Napredak | 3 | 2
+18,09.12.2024,OFK Beograd Mozzart Bet,Novi Pazar,09.12.2024 | OFK Beograd Mozzart Bet | Novi Pazar | 1 | 1
+18,08.12.2024,Zeleznicar Pancevo,Partizan,08.12.2024 | Zeleznicar Pancevo | Partizan | 0 | 1
+18,08.12.2024,Sp. Subotica,TSC,08.12.2024 | Sp. Subotica | TSC | 0 | 0
+18,08.12.2024,Vojvodina,Cukaricki,08.12.2024 | Vojvodina | Cukaricki | 0 | 1
+18,08.12.2024,Jedinstvo U.,Mladost,08.12.2024 | Jedinstvo U. | Mladost | 1 | 2
+18,07.12.2024,Crvena zvezda,Tekstilac Odzaci,07.12.2024 | Crvena zvezda | Tekstilac Odzaci | 6 | 0
+6,04.12.2024,Crvena zvezda,TSC,04.12.2024 | Crvena zvezda | TSC | 3 | 1
+5,04.12.2024,Partizan,Radnicki Nis,04.12.2024 | Partizan | Radnicki Nis | 3 | 1
+17,01.12.2024,TSC,Radnicki Nis,01.12.2024 | TSC | Radnicki Nis | 4 | 1
+17,30.11.2024,Mladost,Crvena zvezda,30.11.2024 | Mladost | Crvena zvezda | 0 | 2
+17,30.11.2024,Partizan,Jedinstvo U.,30.11.2024 | Partizan | Jedinstvo U. | 3 | 0
+17,30.11.2024,Napredak,Zeleznicar Pancevo,30.11.2024 | Napredak | Zeleznicar Pancevo | 1 | 2
+17,30.11.2024,Radnicki 1923,IMT Novi Beograd,30.11.2024 | Radnicki 1923 | IMT Novi Beograd | 1 | 3
+17,29.11.2024,Tekstilac Odzaci,OFK Beograd Mozzart Bet,29.11.2024 | Tekstilac Odzaci | OFK Beograd Mozzart Bet | 2 | 0
+17,29.11.2024,Cukaricki,Sp. Subotica,29.11.2024 | Cukaricki | Sp. Subotica | 1 | 2
+17,29.11.2024,Novi Pazar,Vojvodina,29.11.2024 | Novi Pazar | Vojvodina | 0 | 4
+16,24.11.2024,Zeleznicar Pancevo,Radnicki 1923,24.11.2024 | Zeleznicar Pancevo | Radnicki 1923 | 1 | 1
+16,24.11.2024,Partizan,Napredak,24.11.2024 | Partizan | Napredak | 0 | 0
+16,24.11.2024,OFK Beograd Mozzart Bet,Mladost,24.11.2024 | OFK Beograd Mozzart Bet | Mladost | 0 | 0
+16,23.11.2024,Vojvodina,Tekstilac Odzaci,23.11.2024 | Vojvodina | Tekstilac Odzaci | 0 | 0
+16,23.11.2024,Sp. Subotica,Novi Pazar,23.11.2024 | Sp. Subotica | Novi Pazar | 1 | 1
+16,23.11.2024,Radnicki Nis,Cukaricki,23.11.2024 | Radnicki Nis | Cukaricki | 2 | 2
+15,10.11.2024,OFK Beograd Mozzart Bet,Crvena zvezda,10.11.2024 | OFK Beograd Mozzart Bet | Crvena zvezda | 0 | 1
+15,10.11.2024,Partizan,Radnicki 1923,10.11.2024 | Partizan | Radnicki 1923 | 2 | 2
+15,10.11.2024,Zeleznicar Pancevo,TSC,10.11.2024 | Zeleznicar Pancevo | TSC | 3 | 3
+15,10.11.2024,Napredak,Jedinstvo U.,10.11.2024 | Napredak | Jedinstvo U. | 2 | 1
+15,09.11.2024,Vojvodina,Mladost,09.11.2024 | Vojvodina | Mladost | 0 | 0
+15,09.11.2024,Sp. Subotica,Tekstilac Odzaci,09.11.2024 | Sp. Subotica | Tekstilac Odzaci | 1 | 0
+15,09.11.2024,IMT Novi Beograd,Cukaricki,09.11.2024 | IMT Novi Beograd | Cukaricki | 1 | 1
+15,09.11.2024,Radnicki Nis,Novi Pazar,09.11.2024 | Radnicki Nis | Novi Pazar | 2 | 1
+14,04.11.2024,Cukaricki,Zeleznicar Pancevo,04.11.2024 | Cukaricki | Zeleznicar Pancevo | 2 | 0
+14,04.11.2024,Jedinstvo U.,OFK Beograd Mozzart Bet,04.11.2024 | Jedinstvo U. | OFK Beograd Mozzart Bet | 0 | 1
+14,04.11.2024,Mladost,Sp. Subotica,04.11.2024 | Mladost | Sp. Subotica | 0 | 0
+14,03.11.2024,TSC,Partizan,03.11.2024 | TSC | Partizan | 1 | 2
+14,03.11.2024,Crvena zvezda,Vojvodina,03.11.2024 | Crvena zvezda | Vojvodina | 3 | 0
+14,03.11.2024,Radnicki 1923,Napredak,03.11.2024 | Radnicki 1923 | Napredak | 1 | 0
+14,03.11.2024,Novi Pazar,IMT Novi Beograd,03.11.2024 | Novi Pazar | IMT Novi Beograd | 3 | 1
+14,03.11.2024,Tekstilac Odzaci,Radnicki Nis,03.11.2024 | Tekstilac Odzaci | Radnicki Nis | 1 | 3
+13,27.10.2024,Radnicki Nis,Mladost,27.10.2024 | Radnicki Nis | Mladost | 1 | 1
+13,27.10.2024,Napredak,TSC,27.10.2024 | Napredak | TSC | 0 | 3
+13,26.10.2024,Vojvodina,OFK Beograd Mozzart Bet,26.10.2024 | Vojvodina | OFK Beograd Mozzart Bet | 2 | 1
+13,26.10.2024,Sp. Subotica,Crvena zvezda,26.10.2024 | Sp. Subotica | Crvena zvezda | 1 | 5
+13,26.10.2024,Zeleznicar Pancevo,Novi Pazar,26.10.2024 | Zeleznicar Pancevo | Novi Pazar | 0 | 1
+13,26.10.2024,Partizan,Cukaricki,26.10.2024 | Partizan | Cukaricki | 3 | 1
+13,25.10.2024,Radnicki 1923,Jedinstvo U.,25.10.2024 | Radnicki 1923 | Jedinstvo U. | 4 | 0
+13,25.10.2024,IMT Novi Beograd,Tekstilac Odzaci,25.10.2024 | IMT Novi Beograd | Tekstilac Odzaci | 3 | 0
+12,21.10.2024,Novi Pazar,Partizan,21.10.2024 | Novi Pazar | Partizan | 3 | 4
+12,20.10.2024,Mladost,IMT Novi Beograd,20.10.2024 | Mladost | IMT Novi Beograd | 1 | 0
+12,19.10.2024,Jedinstvo U.,Vojvodina,19.10.2024 | Jedinstvo U. | Vojvodina | 1 | 1
+12,19.10.2024,Tekstilac Odzaci,Zeleznicar Pancevo,19.10.2024 | Tekstilac Odzaci | Zeleznicar Pancevo | 0 | 2
+12,19.10.2024,OFK Beograd Mozzart Bet,Sp. Subotica,19.10.2024 | OFK Beograd Mozzart Bet | Sp. Subotica | 1 | 1
+12,18.10.2024,TSC,Radnicki 1923,18.10.2024 | TSC | Radnicki 1923 | 0 | 2
+12,18.10.2024,Cukaricki,Napredak,18.10.2024 | Cukaricki | Napredak | 0 | 0
+12,18.10.2024,Crvena zvezda,Radnicki Nis,18.10.2024 | Crvena zvezda | Radnicki Nis | 5 | 1
+11,06.10.2024,TSC,Jedinstvo U.,06.10.2024 | TSC | Jedinstvo U. | 2 | 0
+11,06.10.2024,IMT Novi Beograd,Crvena zvezda,06.10.2024 | IMT Novi Beograd | Crvena zvezda | 1 | 3
+11,06.10.2024,Sp. Subotica,Vojvodina,06.10.2024 | Sp. Subotica | Vojvodina | 0 | 4
+11,06.10.2024,Napredak,Novi Pazar,06.10.2024 | Napredak | Novi Pazar | 2 | 1
+11,05.10.2024,Partizan,Tekstilac Odzaci,05.10.2024 | Partizan | Tekstilac Odzaci | 4 | 1
+11,05.10.2024,Zeleznicar Pancevo,Mladost,05.10.2024 | Zeleznicar Pancevo | Mladost | 1 | 2
+11,05.10.2024,Radnicki 1923,Cukaricki,05.10.2024 | Radnicki 1923 | Cukaricki | 1 | 1
+11,04.10.2024,Radnicki Nis,OFK Beograd Mozzart Bet,04.10.2024 | Radnicki Nis | OFK Beograd Mozzart Bet | 1 | 1
+2,02.10.2024,Vojvodina,Novi Pazar,02.10.2024 | Vojvodina | Novi Pazar | 0 | 1
+10,29.09.2024,Jedinstvo U.,Sp. Subotica,29.09.2024 | Jedinstvo U. | Sp. Subotica | 2 | 0
+10,29.09.2024,Mladost,Partizan,29.09.2024 | Mladost | Partizan | 1 | 3
+10,29.09.2024,Tekstilac Odzaci,Napredak,29.09.2024 | Tekstilac Odzaci | Napredak | 0 | 0
+10,28.09.2024,Vojvodina,Radnicki Nis,28.09.2024 | Vojvodina | Radnicki Nis | 3 | 3
+10,28.09.2024,Cukaricki,TSC,28.09.2024 | Cukaricki | TSC | 1 | 2
+10,28.09.2024,Novi Pazar,Radnicki 1923,28.09.2024 | Novi Pazar | Radnicki 1923 | 2 | 0
+10,28.09.2024,OFK Beograd Mozzart Bet,IMT Novi Beograd,28.09.2024 | OFK Beograd Mozzart Bet | IMT Novi Beograd | 4 | 3
+10,27.09.2024,Crvena zvezda,Zeleznicar Pancevo,27.09.2024 | Crvena zvezda | Zeleznicar Pancevo | 2 | 1
+9,23.09.2024,Partizan,Crvena zvezda,23.09.2024 | Partizan | Crvena zvezda | 0 | 4
+9,23.09.2024,Radnicki 1923,Tekstilac Odzaci,23.09.2024 | Radnicki 1923 | Tekstilac Odzaci | 1 | 0
+9,22.09.2024,Zeleznicar Pancevo,OFK Beograd Mozzart Bet,22.09.2024 | Zeleznicar Pancevo | OFK Beograd Mozzart Bet | 0 | 1
+9,22.09.2024,IMT Novi Beograd,Vojvodina,22.09.2024 | IMT Novi Beograd | Vojvodina | 0 | 3
+9,22.09.2024,Radnicki Nis,Sp. Subotica,22.09.2024 | Radnicki Nis | Sp. Subotica | 3 | 2
+9,21.09.2024,Napredak,Mladost,21.09.2024 | Napredak | Mladost | 1 | 2
+9,21.09.2024,Cukaricki,Jedinstvo U.,21.09.2024 | Cukaricki | Jedinstvo U. | 2 | 1
+9,21.09.2024,TSC,Novi Pazar,21.09.2024 | TSC | Novi Pazar | 5 | 2
+2,18.09.2024,IMT Novi Beograd,Radnicki 1923,18.09.2024 | IMT Novi Beograd | Radnicki 1923 | 0 | 4
+8,16.09.2024,Jedinstvo U.,Radnicki Nis,16.09.2024 | Jedinstvo U. | Radnicki Nis | 0 | 2
+8,15.09.2024,OFK Beograd Mozzart Bet,Partizan,15.09.2024 | OFK Beograd Mozzart Bet | Partizan | 3 | 2
+8,15.09.2024,Tekstilac Odzaci,TSC,15.09.2024 | Tekstilac Odzaci | TSC | 2 | 1
+8,15.09.2024,Novi Pazar,Cukaricki,15.09.2024 | Novi Pazar | Cukaricki | 2 | 2
+8,14.09.2024,Crvena zvezda,Napredak,14.09.2024 | Crvena zvezda | Napredak | 2 | 0
+8,14.09.2024,Mladost,Radnicki 1923,14.09.2024 | Mladost | Radnicki 1923 | 2 | 1
+8,14.09.2024,Vojvodina,Zeleznicar Pancevo,14.09.2024 | Vojvodina | Zeleznicar Pancevo | 2 | 0
+8,13.09.2024,Sp. Subotica,IMT Novi Beograd,13.09.2024 | Sp. Subotica | IMT Novi Beograd | 2 | 0
+7,01.09.2024,Partizan,Vojvodina,01.09.2024 | Partizan | Vojvodina | 0 | 0
+7,01.09.2024,Radnicki 1923,Crvena zvezda,01.09.2024 | Radnicki 1923 | Crvena zvezda | 0 | 1
+7,01.09.2024,TSC,Mladost,01.09.2024 | TSC | Mladost | 1 | 2
+7,31.08.2024,Napredak,OFK Beograd Mozzart Bet,31.08.2024 | Napredak | OFK Beograd Mozzart Bet | 1 | 3
+7,31.08.2024,Zeleznicar Pancevo,Sp. Subotica,31.08.2024 | Zeleznicar Pancevo | Sp. Subotica | 2 | 0
+7,31.08.2024,Novi Pazar,Jedinstvo U.,31.08.2024 | Novi Pazar | Jedinstvo U. | 3 | 1
+7,30.08.2024,Cukaricki,Tekstilac Odzaci,30.08.2024 | Cukaricki | Tekstilac Odzaci | 3 | 0
+7,30.08.2024,IMT Novi Beograd,Radnicki Nis,30.08.2024 | IMT Novi Beograd | Radnicki Nis | 3 | 1
+6,25.08.2024,Vojvodina,Napredak,25.08.2024 | Vojvodina | Napredak | 1 | 2
+6,25.08.2024,OFK Beograd Mozzart Bet,Radnicki 1923,25.08.2024 | OFK Beograd Mozzart Bet | Radnicki 1923 | 3 | 5
+6,24.08.2024,Jedinstvo U.,IMT Novi Beograd,24.08.2024 | Jedinstvo U. | IMT Novi Beograd | 2 | 3
+6,24.08.2024,Radnicki Nis,Zeleznicar Pancevo,24.08.2024 | Radnicki Nis | Zeleznicar Pancevo | 2 | 1
+6,24.08.2024,Tekstilac Odzaci,Novi Pazar,24.08.2024 | Tekstilac Odzaci | Novi Pazar | 2 | 1
+6,23.08.2024,Mladost,Cukaricki,23.08.2024 | Mladost | Cukaricki | 3 | 1
+5,19.08.2024,Radnicki 1923,Vojvodina,19.08.2024 | Radnicki 1923 | Vojvodina | 2 | 2
+5,18.08.2024,Zeleznicar Pancevo,IMT Novi Beograd,18.08.2024 | Zeleznicar Pancevo | IMT Novi Beograd | 2 | 1
+5,17.08.2024,Napredak,Sp. Subotica,17.08.2024 | Napredak | Sp. Subotica | 2 | 0
+5,17.08.2024,Tekstilac Odzaci,Jedinstvo U.,17.08.2024 | Tekstilac Odzaci | Jedinstvo U. | 1 | 1
+5,17.08.2024,Novi Pazar,Mladost,17.08.2024 | Novi Pazar | Mladost | 0 | 1
+5,16.08.2024,TSC,OFK Beograd Mozzart Bet,16.08.2024 | TSC | OFK Beograd Mozzart Bet | 0 | 1
+5,15.08.2024,Cukaricki,Crvena zvezda,15.08.2024 | Cukaricki | Crvena zvezda | 1 | 4
+4,11.08.2024,IMT Novi Beograd,Partizan,11.08.2024 | IMT Novi Beograd | Partizan | 0 | 0
+4,11.08.2024,Vojvodina,TSC,11.08.2024 | Vojvodina | TSC | 1 | 3
+4,11.08.2024,Jedinstvo U.,Zeleznicar Pancevo,11.08.2024 | Jedinstvo U. | Zeleznicar Pancevo | 0 | 1
+4,10.08.2024,Crvena zvezda,Novi Pazar,10.08.2024 | Crvena zvezda | Novi Pazar | 4 | 1
+4,10.08.2024,Mladost,Tekstilac Odzaci,10.08.2024 | Mladost | Tekstilac Odzaci | 1 | 2
+4,10.08.2024,Sp. Subotica,Radnicki 1923,10.08.2024 | Sp. Subotica | Radnicki 1923 | 1 | 0
+4,09.08.2024,Radnicki Nis,Napredak,09.08.2024 | Radnicki Nis | Napredak | 3 | 1
+4,09.08.2024,OFK Beograd Mozzart Bet,Cukaricki,09.08.2024 | OFK Beograd Mozzart Bet | Cukaricki | 1 | 2
+3,04.08.2024,Radnicki 1923,Radnicki Nis,04.08.2024 | Radnicki 1923 | Radnicki Nis | 4 | 0
+3,04.08.2024,Cukaricki,Vojvodina,04.08.2024 | Cukaricki | Vojvodina | 3 | 1
+3,04.08.2024,Partizan,Zeleznicar Pancevo,04.08.2024 | Partizan | Zeleznicar Pancevo | 2 | 0
+3,04.08.2024,TSC,Sp. Subotica,04.08.2024 | TSC | Sp. Subotica | 0 | 0
+3,03.08.2024,Mladost,Jedinstvo U.,03.08.2024 | Mladost | Jedinstvo U. | 2 | 1
+3,03.08.2024,Tekstilac Odzaci,Crvena zvezda,03.08.2024 | Tekstilac Odzaci | Crvena zvezda | 0 | 4
+3,03.08.2024,Novi Pazar,OFK Beograd Mozzart Bet,03.08.2024 | Novi Pazar | OFK Beograd Mozzart Bet | 0 | 0
+3,02.08.2024,Napredak,IMT Novi Beograd,02.08.2024 | Napredak | IMT Novi Beograd | 1 | 1
+2,29.07.2024,OFK Beograd Mozzart Bet,Tekstilac Odzaci,29.07.2024 | OFK Beograd Mozzart Bet | Tekstilac Odzaci | 1 | 0
+2,28.07.2024,Radnicki Nis,TSC,28.07.2024 | Radnicki Nis | TSC | 1 | 0
+2,28.07.2024,Sp. Subotica,Cukaricki,28.07.2024 | Sp. Subotica | Cukaricki | 1 | 1
+2,27.07.2024,Crvena zvezda,Mladost,27.07.2024 | Crvena zvezda | Mladost | 2 | 2
+2,27.07.2024,Jedinstvo U.,Partizan,27.07.2024 | Jedinstvo U. | Partizan | 0 | 4
+2,27.07.2024,Zeleznicar Pancevo,Napredak,27.07.2024 | Zeleznicar Pancevo | Napredak | 1 | 1
+1,21.07.2024,Tekstilac Odzaci,Vojvodina,21.07.2024 | Tekstilac Odzaci | Vojvodina | 1 | 3
+1,21.07.2024,TSC,IMT Novi Beograd,21.07.2024 | TSC | IMT Novi Beograd | 1 | 0
+1,21.07.2024,Novi Pazar,Sp. Subotica,21.07.2024 | Novi Pazar | Sp. Subotica | 3 | 2
+1,20.07.2024,Crvena zvezda,Jedinstvo U.,20.07.2024 | Crvena zvezda | Jedinstvo U. | 4 | 0
+1,20.07.2024,Cukaricki,Radnicki Nis,20.07.2024 | Cukaricki | Radnicki Nis | 2 | 0
+1,20.07.2024,Mladost,OFK Beograd Mozzart Bet,20.07.2024 | Mladost | OFK Beograd Mozzart Bet | 1 | 2
+1,19.07.2024,Napredak,Partizan,19.07.2024 | Napredak | Partizan | 0 | 1
+1,19.07.2024,Radnicki 1923,Zeleznicar Pancevo,19.07.2024 | Radnicki 1923 | Zeleznicar Pancevo | 2 | 3

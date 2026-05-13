@@ -1,0 +1,241 @@
+round,date,team_home,team_away,full_text
+30,30.11.2025,Bodo/Glimt,Fredrikstad,30.11.2025 | Bodo/Glimt | Fredrikstad | 5 | 0
+30,30.11.2025,Brann,HamKam,30.11.2025 | Brann | HamKam | 3 | 1
+30,30.11.2025,Haugesund,Bryne,30.11.2025 | Haugesund | Bryne | 1 | 4
+30,30.11.2025,Kristiansund,Tromso,30.11.2025 | Kristiansund | Tromso | 1 | 3
+30,30.11.2025,Rosenborg,Stromsgodset,30.11.2025 | Rosenborg | Stromsgodset | 6 | 0
+30,30.11.2025,Sandefjord,KFUM Oslo,30.11.2025 | Sandefjord | KFUM Oslo | 2 | 0
+30,30.11.2025,Sarpsborg 08,Molde,30.11.2025 | Sarpsborg 08 | Molde | 1 | 0
+30,30.11.2025,Viking,Valerenga,30.11.2025 | Viking | Valerenga | 5 | 1
+29,23.11.2025,Fredrikstad,Viking,23.11.2025 | Fredrikstad | Viking | 0 | 1
+29,23.11.2025,Bryne,Sarpsborg 08,23.11.2025 | Bryne | Sarpsborg 08 | 0 | 3
+29,23.11.2025,HamKam,Haugesund,23.11.2025 | HamKam | Haugesund | 5 | 0
+29,22.11.2025,Molde,Brann,22.11.2025 | Molde | Brann | 4 | 0
+29,22.11.2025,Stromsgodset,Sandefjord,22.11.2025 | Stromsgodset | Sandefjord | 2 | 6
+29,22.11.2025,Valerenga,Kristiansund,22.11.2025 | Awrd | Valerenga | Kristiansund | 3 | 0
+29,22.11.2025,Tromso,Rosenborg,22.11.2025 | Tromso | Rosenborg | 1 | 0
+29,21.11.2025,KFUM Oslo,Bodo/Glimt,21.11.2025 | KFUM Oslo | Bodo/Glimt | 1 | 2
+28,09.11.2025,Haugesund,Molde,09.11.2025 | Haugesund | Molde | 0 | 2
+28,09.11.2025,Bodo/Glimt,Bryne,09.11.2025 | Bodo/Glimt | Bryne | 5 | 0
+28,09.11.2025,Brann,KFUM Oslo,09.11.2025 | Brann | KFUM Oslo | 1 | 1
+28,09.11.2025,Kristiansund,Stromsgodset,09.11.2025 | Kristiansund | Stromsgodset | 2 | 1
+28,09.11.2025,Sandefjord,Tromso,09.11.2025 | Sandefjord | Tromso | 1 | 0
+28,09.11.2025,Rosenborg,Valerenga,09.11.2025 | Rosenborg | Valerenga | 1 | 0
+28,08.11.2025,Viking,HamKam,08.11.2025 | Viking | HamKam | 3 | 0
+28,08.11.2025,Sarpsborg 08,Fredrikstad,08.11.2025 | Sarpsborg 08 | Fredrikstad | 0 | 2
+27,02.11.2025,Tromso,Sarpsborg 08,02.11.2025 | Tromso | Sarpsborg 08 | 4 | 0
+27,02.11.2025,Bryne,Brann,02.11.2025 | Bryne | Brann | 2 | 1
+27,02.11.2025,Fredrikstad,Kristiansund,02.11.2025 | Fredrikstad | Kristiansund | 3 | 1
+27,02.11.2025,HamKam,Sandefjord,02.11.2025 | HamKam | Sandefjord | 3 | 1
+27,02.11.2025,KFUM Oslo,Haugesund,02.11.2025 | KFUM Oslo | Haugesund | 1 | 4
+27,02.11.2025,Stromsgodset,Viking,02.11.2025 | Stromsgodset | Viking | 1 | 2
+27,01.11.2025,Molde,Rosenborg,01.11.2025 | Molde | Rosenborg | 4 | 2
+27,01.11.2025,Valerenga,Bodo/Glimt,01.11.2025 | Valerenga | Bodo/Glimt | 3 | 1
+19,29.10.2025,Rosenborg,Sandefjord,29.10.2025 | Rosenborg | Sandefjord | 1 | 1
+23,29.10.2025,Brann,Bodo/Glimt,29.10.2025 | Brann | Bodo/Glimt | 1 | 2
+26,26.10.2025,Valerenga,Stromsgodset,26.10.2025 | Valerenga | Stromsgodset | 2 | 1
+26,26.10.2025,Bodo/Glimt,Molde,26.10.2025 | Bodo/Glimt | Molde | 4 | 1
+26,26.10.2025,Haugesund,Tromso,26.10.2025 | Haugesund | Tromso | 2 | 3
+26,26.10.2025,Kristiansund,HamKam,26.10.2025 | Kristiansund | HamKam | 1 | 3
+26,26.10.2025,Sandefjord,Fredrikstad,26.10.2025 | Sandefjord | Fredrikstad | 0 | 0
+26,26.10.2025,Rosenborg,Brann,26.10.2025 | Rosenborg | Brann | 2 | 3
+26,25.10.2025,Sarpsborg 08,KFUM Oslo,25.10.2025 | Sarpsborg 08 | KFUM Oslo | 2 | 1
+26,25.10.2025,Viking,Bryne,25.10.2025 | Viking | Bryne | 5 | 1
+25,19.10.2025,Stromsgodset,Fredrikstad,19.10.2025 | Stromsgodset | Fredrikstad | 0 | 3
+25,19.10.2025,HamKam,Valerenga,19.10.2025 | HamKam | Valerenga | 2 | 1
+25,19.10.2025,KFUM Oslo,Kristiansund,19.10.2025 | KFUM Oslo | Kristiansund | 1 | 1
+25,19.10.2025,Molde,Sandefjord,19.10.2025 | Molde | Sandefjord | 1 | 3
+25,19.10.2025,Tromso,Viking,19.10.2025 | Tromso | Viking | 1 | 3
+25,18.10.2025,Brann,Haugesund,18.10.2025 | Brann | Haugesund | 4 | 1
+25,18.10.2025,Bryne,Rosenborg,18.10.2025 | Bryne | Rosenborg | 2 | 2
+25,18.10.2025,Sarpsborg 08,Bodo/Glimt,18.10.2025 | Sarpsborg 08 | Bodo/Glimt | 2 | 5
+24,05.10.2025,Rosenborg,Sarpsborg 08,05.10.2025 | Rosenborg | Sarpsborg 08 | 2 | 3
+24,05.10.2025,Bodo/Glimt,Haugesund,05.10.2025 | Bodo/Glimt | Haugesund | 2 | 0
+24,05.10.2025,Fredrikstad,HamKam,05.10.2025 | Fredrikstad | HamKam | 1 | 1
+24,05.10.2025,Stromsgodset,KFUM Oslo,05.10.2025 | Stromsgodset | KFUM Oslo | 1 | 1
+24,05.10.2025,Viking,Brann,05.10.2025 | Viking | Brann | 3 | 0
+24,04.10.2025,Kristiansund,Molde,04.10.2025 | Kristiansund | Molde | 2 | 1
+24,04.10.2025,Sandefjord,Bryne,04.10.2025 | Sandefjord | Bryne | 1 | 0
+24,04.10.2025,Valerenga,Tromso,04.10.2025 | Valerenga | Tromso | 1 | 0
+23,01.10.2025,KFUM Oslo,Fredrikstad,01.10.2025 | KFUM Oslo | Fredrikstad | 2 | 1
+23,29.09.2025,Haugesund,Sandefjord,29.09.2025 | Haugesund | Sandefjord | 2 | 3
+23,28.09.2025,Molde,Valerenga,28.09.2025 | Molde | Valerenga | 4 | 1
+23,28.09.2025,Bryne,Kristiansund,28.09.2025 | Bryne | Kristiansund | 2 | 0
+23,28.09.2025,HamKam,Rosenborg,28.09.2025 | HamKam | Rosenborg | 4 | 0
+23,28.09.2025,Tromso,Stromsgodset,28.09.2025 | Tromso | Stromsgodset | 3 | 1
+19,28.09.2025,Brann,Fredrikstad,28.09.2025 | Brann | Fredrikstad | 1 | 0
+23,27.09.2025,Sarpsborg 08,Viking,27.09.2025 | Sarpsborg 08 | Viking | 3 | 3
+22,21.09.2025,Viking,Molde,21.09.2025 | Viking | Molde | 1 | 0
+22,21.09.2025,Kristiansund,Haugesund,21.09.2025 | Kristiansund | Haugesund | 2 | 0
+22,21.09.2025,Stromsgodset,Sarpsborg 08,21.09.2025 | Stromsgodset | Sarpsborg 08 | 2 | 1
+22,21.09.2025,Tromso,HamKam,21.09.2025 | Tromso | HamKam | 1 | 0
+22,21.09.2025,Rosenborg,Bodo/Glimt,21.09.2025 | Rosenborg | Bodo/Glimt | 1 | 1
+22,20.09.2025,Valerenga,KFUM Oslo,20.09.2025 | Valerenga | KFUM Oslo | 1 | 1
+22,20.09.2025,Sandefjord,Brann,20.09.2025 | Sandefjord | Brann | 0 | 3
+22,20.09.2025,Fredrikstad,Bryne,20.09.2025 | Fredrikstad | Bryne | 1 | 1
+21,14.09.2025,Haugesund,Rosenborg,14.09.2025 | Haugesund | Rosenborg | 0 | 3
+21,14.09.2025,KFUM Oslo,Viking,14.09.2025 | KFUM Oslo | Viking | 2 | 2
+21,14.09.2025,HamKam,Stromsgodset,14.09.2025 | HamKam | Stromsgodset | 1 | 2
+21,14.09.2025,Sarpsborg 08,Sandefjord,14.09.2025 | Sarpsborg 08 | Sandefjord | 2 | 1
+21,14.09.2025,Bryne,Tromso,14.09.2025 | Bryne | Tromso | 0 | 2
+21,13.09.2025,Brann,Valerenga,13.09.2025 | Brann | Valerenga | 3 | 2
+21,13.09.2025,Molde,Fredrikstad,13.09.2025 | Molde | Fredrikstad | 1 | 2
+21,12.09.2025,Bodo/Glimt,Kristiansund,12.09.2025 | Bodo/Glimt | Kristiansund | 7 | 1
+20,31.08.2025,Stromsgodset,Molde,31.08.2025 | Stromsgodset | Molde | 3 | 1
+20,31.08.2025,Fredrikstad,Haugesund,31.08.2025 | Fredrikstad | Haugesund | 2 | 2
+20,31.08.2025,HamKam,Sarpsborg 08,31.08.2025 | HamKam | Sarpsborg 08 | 1 | 3
+20,31.08.2025,Sandefjord,Bodo/Glimt,31.08.2025 | Sandefjord | Bodo/Glimt | 1 | 2
+20,31.08.2025,Tromso,KFUM Oslo,31.08.2025 | Tromso | KFUM Oslo | 2 | 0
+20,31.08.2025,Viking,Rosenborg,31.08.2025 | Viking | Rosenborg | 2 | 1
+20,31.08.2025,Kristiansund,Brann,31.08.2025 | Kristiansund | Brann | 2 | 2
+20,30.08.2025,Valerenga,Bryne,30.08.2025 | Valerenga | Bryne | 3 | 2
+19,25.08.2025,Sarpsborg 08,Kristiansund,25.08.2025 | Sarpsborg 08 | Kristiansund | 0 | 1
+19,24.08.2025,Molde,Tromso,24.08.2025 | Molde | Tromso | 2 | 0
+19,24.08.2025,Bryne,Stromsgodset,24.08.2025 | Bryne | Stromsgodset | 2 | 2
+19,24.08.2025,Haugesund,Valerenga,24.08.2025 | Haugesund | Valerenga | 2 | 3
+19,22.08.2025,KFUM Oslo,HamKam,22.08.2025 | KFUM Oslo | HamKam | 2 | 2
+18,17.08.2025,Valerenga,Sarpsborg 08,17.08.2025 | Valerenga | Sarpsborg 08 | 4 | 0
+18,17.08.2025,HamKam,Bryne,17.08.2025 | HamKam | Bryne | 1 | 0
+18,17.08.2025,KFUM Oslo,Molde,17.08.2025 | KFUM Oslo | Molde | 0 | 0
+18,17.08.2025,Kristiansund,Sandefjord,17.08.2025 | Kristiansund | Sandefjord | 2 | 2
+18,17.08.2025,Tromso,Brann,17.08.2025 | Tromso | Brann | 1 | 2
+18,15.08.2025,Stromsgodset,Bodo/Glimt,15.08.2025 | Stromsgodset | Bodo/Glimt | 0 | 5
+17,10.08.2025,Sandefjord,Viking,10.08.2025 | Sandefjord | Viking | 1 | 2
+17,10.08.2025,Bryne,KFUM Oslo,10.08.2025 | Bryne | KFUM Oslo | 0 | 0
+17,10.08.2025,Haugesund,Sarpsborg 08,10.08.2025 | Haugesund | Sarpsborg 08 | 3 | 2
+17,09.08.2025,Bodo/Glimt,Tromso,09.08.2025 | Bodo/Glimt | Tromso | 1 | 1
+17,09.08.2025,Molde,HamKam,09.08.2025 | Molde | HamKam | 1 | 0
+16,03.08.2025,KFUM Oslo,Rosenborg,03.08.2025 | KFUM Oslo | Rosenborg | 4 | 1
+16,03.08.2025,Molde,Bryne,03.08.2025 | Molde | Bryne | 2 | 0
+16,03.08.2025,Stromsgodset,Haugesund,03.08.2025 | Stromsgodset | Haugesund | 2 | 0
+16,03.08.2025,Valerenga,Sandefjord,03.08.2025 | Valerenga | Sandefjord | 2 | 1
+16,03.08.2025,HamKam,Bodo/Glimt,03.08.2025 | HamKam | Bodo/Glimt | 1 | 3
+16,02.08.2025,Sarpsborg 08,Brann,02.08.2025 | Sarpsborg 08 | Brann | 1 | 4
+16,02.08.2025,Tromso,Fredrikstad,02.08.2025 | Tromso | Fredrikstad | 0 | 0
+6,30.07.2025,Bodo/Glimt,Stromsgodset,30.07.2025 | Bodo/Glimt | Stromsgodset | 1 | 0
+15,27.07.2025,Bryne,Viking,27.07.2025 | Bryne | Viking | 1 | 3
+15,27.07.2025,Rosenborg,Tromso,27.07.2025 | Rosenborg | Tromso | 4 | 1
+15,26.07.2025,Bodo/Glimt,Valerenga,26.07.2025 | Bodo/Glimt | Valerenga | 7 | 2
+15,26.07.2025,Haugesund,HamKam,26.07.2025 | Haugesund | HamKam | 0 | 3
+15,26.07.2025,Kristiansund,KFUM Oslo,26.07.2025 | Kristiansund | KFUM Oslo | 0 | 5
+15,26.07.2025,Sandefjord,Sarpsborg 08,26.07.2025 | Sandefjord | Sarpsborg 08 | 3 | 2
+15,25.07.2025,Fredrikstad,Stromsgodset,25.07.2025 | Fredrikstad | Stromsgodset | 3 | 2
+14,20.07.2025,HamKam,Fredrikstad,20.07.2025 | HamKam | Fredrikstad | 1 | 1
+14,20.07.2025,Sandefjord,Kristiansund,20.07.2025 | Sandefjord | Kristiansund | 6 | 0
+14,20.07.2025,Tromso,Bryne,20.07.2025 | Tromso | Bryne | 3 | 1
+14,20.07.2025,Valerenga,Haugesund,20.07.2025 | Valerenga | Haugesund | 3 | 0
+14,19.07.2025,Viking,Bodo/Glimt,19.07.2025 | Viking | Bodo/Glimt | 2 | 4
+14,19.07.2025,Molde,Stromsgodset,19.07.2025 | Molde | Stromsgodset | 4 | 1
+14,19.07.2025,KFUM Oslo,Brann,19.07.2025 | KFUM Oslo | Brann | 2 | 0
+14,18.07.2025,Sarpsborg 08,Rosenborg,18.07.2025 | Sarpsborg 08 | Rosenborg | 2 | 2
+5,16.07.2025,Fredrikstad,Bodo/Glimt,16.07.2025 | Fredrikstad | Bodo/Glimt | 0 | 1
+13,13.07.2025,Brann,Viking,13.07.2025 | Brann | Viking | 3 | 1
+13,13.07.2025,Haugesund,KFUM Oslo,13.07.2025 | Haugesund | KFUM Oslo | 0 | 2
+13,13.07.2025,Kristiansund,Sarpsborg 08,13.07.2025 | Kristiansund | Sarpsborg 08 | 0 | 0
+13,13.07.2025,Rosenborg,HamKam,13.07.2025 | Rosenborg | HamKam | 2 | 0
+13,13.07.2025,Stromsgodset,Tromso,13.07.2025 | Stromsgodset | Tromso | 2 | 3
+13,13.07.2025,Bryne,Valerenga,13.07.2025 | Bryne | Valerenga | 1 | 0
+13,12.07.2025,Fredrikstad,Molde,12.07.2025 | Fredrikstad | Molde | 4 | 2
+13,12.07.2025,Bodo/Glimt,Sandefjord,12.07.2025 | Bodo/Glimt | Sandefjord | 2 | 0
+12,06.07.2025,KFUM Oslo,Bryne,06.07.2025 | KFUM Oslo | Bryne | 1 | 1
+12,06.07.2025,Sandefjord,Rosenborg,06.07.2025 | Sandefjord | Rosenborg | 2 | 0
+12,06.07.2025,Sarpsborg 08,Haugesund,06.07.2025 | Sarpsborg 08 | Haugesund | 3 | 1
+12,05.07.2025,Tromso,Molde,05.07.2025 | Tromso | Molde | 1 | 0
+12,05.07.2025,Kristiansund,Bodo/Glimt,05.07.2025 | Kristiansund | Bodo/Glimt | 1 | 1
+12,05.07.2025,Valerenga,Fredrikstad,05.07.2025 | Valerenga | Fredrikstad | 1 | 1
+12,05.07.2025,Viking,Stromsgodset,05.07.2025 | Viking | Stromsgodset | 1 | 0
+12,05.07.2025,HamKam,Brann,05.07.2025 | HamKam | Brann | 1 | 1
+11,30.06.2025,Brann,Sandefjord,30.06.2025 | Brann | Sandefjord | 1 | 0
+11,29.06.2025,Stromsgodset,Valerenga,29.06.2025 | Stromsgodset | Valerenga | 0 | 2
+11,29.06.2025,Bodo/Glimt,Sarpsborg 08,29.06.2025 | Bodo/Glimt | Sarpsborg 08 | 1 | 2
+11,29.06.2025,Bryne,HamKam,29.06.2025 | Bryne | HamKam | 1 | 1
+11,29.06.2025,Fredrikstad,Tromso,29.06.2025 | Fredrikstad | Tromso | 0 | 1
+11,29.06.2025,Molde,KFUM Oslo,29.06.2025 | Molde | KFUM Oslo | 2 | 3
+11,29.06.2025,Haugesund,Kristiansund,29.06.2025 | Haugesund | Kristiansund | 0 | 0
+11,28.06.2025,Rosenborg,Viking,28.06.2025 | Rosenborg | Viking | 1 | 1
+10,22.06.2025,Viking,Fredrikstad,22.06.2025 | Viking | Fredrikstad | 3 | 0
+10,22.06.2025,HamKam,Tromso,22.06.2025 | HamKam | Tromso | 1 | 3
+10,22.06.2025,KFUM Oslo,Stromsgodset,22.06.2025 | KFUM Oslo | Stromsgodset | 5 | 0
+10,22.06.2025,Kristiansund,Rosenborg,22.06.2025 | Kristiansund | Rosenborg | 4 | 1
+10,22.06.2025,Sandefjord,Haugesund,22.06.2025 | Sandefjord | Haugesund | 4 | 0
+10,22.06.2025,Sarpsborg 08,Bryne,22.06.2025 | Sarpsborg 08 | Bryne | 1 | 1
+10,22.06.2025,Valerenga,Molde,22.06.2025 | Valerenga | Molde | 2 | 3
+10,21.06.2025,Bodo/Glimt,Brann,21.06.2025 | Bodo/Glimt | Brann | 3 | 0
+9,01.06.2025,Molde,Viking,01.06.2025 | Molde | Viking | 0 | 1
+9,01.06.2025,Brann,Kristiansund,01.06.2025 | Brann | Kristiansund | 4 | 2
+9,01.06.2025,Bryne,Sandefjord,01.06.2025 | Bryne | Sandefjord | 3 | 2
+9,01.06.2025,Haugesund,Bodo/Glimt,01.06.2025 | Haugesund | Bodo/Glimt | 0 | 4
+9,01.06.2025,Rosenborg,KFUM Oslo,01.06.2025 | Rosenborg | KFUM Oslo | 1 | 1
+9,01.06.2025,Fredrikstad,Sarpsborg 08,01.06.2025 | Fredrikstad | Sarpsborg 08 | 1 | 1
+9,31.05.2025,Tromso,Valerenga,31.05.2025 | Tromso | Valerenga | 2 | 1
+9,31.05.2025,Stromsgodset,HamKam,31.05.2025 | Stromsgodset | HamKam | 0 | 3
+15,29.05.2025,Brann,Molde,29.05.2025 | Brann | Molde | 2 | 0 | 3
+19,28.05.2025,Bodo/Glimt,Viking,28.05.2025 | Bodo/Glimt | Viking | 2 | 4
+18,28.05.2025,Fredrikstad,Rosenborg,28.05.2025 | Fredrikstad | Rosenborg | 0 | 2
+8,26.05.2025,KFUM Oslo,Valerenga,26.05.2025 | KFUM Oslo | Valerenga | 0 | 1
+8,25.05.2025,Haugesund,Brann,25.05.2025 | Haugesund | Brann | 0 | 2
+8,25.05.2025,Kristiansund,Viking,25.05.2025 | Kristiansund | Viking | 0 | 1
+8,25.05.2025,Sandefjord,Stromsgodset,25.05.2025 | Sandefjord | Stromsgodset | 3 | 2
+8,25.05.2025,Sarpsborg 08,Tromso,25.05.2025 | Sarpsborg 08 | Tromso | 0 | 1
+8,25.05.2025,HamKam,Molde,25.05.2025 | HamKam | Molde | 2 | 1
+8,24.05.2025,Bodo/Glimt,Rosenborg,24.05.2025 | Bodo/Glimt | Rosenborg | 4 | 0
+8,24.05.2025,Bryne,Fredrikstad,24.05.2025 | Bryne | Fredrikstad | 4 | 3
+7,16.05.2025,Valerenga,HamKam,16.05.2025 | Valerenga | HamKam | 1 | 1
+7,16.05.2025,Brann,Sarpsborg 08,16.05.2025 | Brann | Sarpsborg 08 | 2 | 2
+7,16.05.2025,Fredrikstad,KFUM Oslo,16.05.2025 | Fredrikstad | KFUM Oslo | 1 | 0
+7,16.05.2025,Molde,Kristiansund,16.05.2025 | Molde | Kristiansund | 0 | 1
+7,16.05.2025,Rosenborg,Haugesund,16.05.2025 | Rosenborg | Haugesund | 1 | 0
+7,16.05.2025,Stromsgodset,Bryne,16.05.2025 | Stromsgodset | Bryne | 0 | 2
+7,16.05.2025,Tromso,Bodo/Glimt,16.05.2025 | Tromso | Bodo/Glimt | 2 | 1
+7,16.05.2025,Viking,Sandefjord,16.05.2025 | Viking | Sandefjord | 3 | 1
+6,11.05.2025,Haugesund,Viking,11.05.2025 | Haugesund | Viking | 1 | 4
+6,11.05.2025,Bryne,Molde,11.05.2025 | Bryne | Molde | 0 | 3
+6,11.05.2025,KFUM Oslo,Tromso,11.05.2025 | KFUM Oslo | Tromso | 1 | 3
+6,11.05.2025,Kristiansund,Fredrikstad,11.05.2025 | Kristiansund | Fredrikstad | 0 | 1
+6,11.05.2025,Sandefjord,Valerenga,11.05.2025 | Sandefjord | Valerenga | 2 | 1
+6,11.05.2025,Sarpsborg 08,HamKam,11.05.2025 | Sarpsborg 08 | HamKam | 4 | 0
+6,11.05.2025,Brann,Rosenborg,11.05.2025 | Brann | Rosenborg | 0 | 0
+5,04.05.2025,Rosenborg,Bryne,04.05.2025 | Rosenborg | Bryne | 3 | 0
+5,04.05.2025,Molde,Haugesund,04.05.2025 | Molde | Haugesund | 2 | 1
+5,04.05.2025,Stromsgodset,Kristiansund,04.05.2025 | Stromsgodset | Kristiansund | 1 | 2
+5,04.05.2025,Tromso,Sandefjord,04.05.2025 | Tromso | Sandefjord | 0 | 1
+5,04.05.2025,Viking,Sarpsborg 08,04.05.2025 | Viking | Sarpsborg 08 | 0 | 0
+5,03.05.2025,Valerenga,Brann,03.05.2025 | Valerenga | Brann | 2 | 4
+5,02.05.2025,HamKam,KFUM Oslo,02.05.2025 | HamKam | KFUM Oslo | 0 | 0
+17,01.05.2025,Rosenborg,Kristiansund,01.05.2025 | Rosenborg | Kristiansund | 1 | 1
+18,30.04.2025,Viking,Haugesund,30.04.2025 | Viking | Haugesund | 5 | 1
+4,27.04.2025,Viking,Tromso,27.04.2025 | Viking | Tromso | 4 | 4
+4,27.04.2025,Sarpsborg 08,Stromsgodset,27.04.2025 | Sarpsborg 08 | Stromsgodset | 2 | 3
+4,27.04.2025,Bodo/Glimt,KFUM Oslo,27.04.2025 | Bodo/Glimt | KFUM Oslo | 3 | 0
+4,27.04.2025,Brann,Bryne,27.04.2025 | Brann | Bryne | 3 | 2
+4,27.04.2025,Haugesund,Fredrikstad,27.04.2025 | Haugesund | Fredrikstad | 0 | 0
+4,27.04.2025,Kristiansund,Valerenga,27.04.2025 | Kristiansund | Valerenga | 0 | 2
+4,27.04.2025,Sandefjord,HamKam,27.04.2025 | Sandefjord | HamKam | 2 | 0
+4,27.04.2025,Rosenborg,Molde,27.04.2025 | Rosenborg | Molde | 0 | 0
+3,21.04.2025,Molde,Bodo/Glimt,21.04.2025 | Molde | Bodo/Glimt | 2 | 2
+3,21.04.2025,Bryne,Haugesund,21.04.2025 | Bryne | Haugesund | 3 | 1
+3,21.04.2025,Fredrikstad,Sandefjord,21.04.2025 | Fredrikstad | Sandefjord | 3 | 1
+3,21.04.2025,HamKam,Viking,21.04.2025 | HamKam | Viking | 2 | 5
+3,21.04.2025,KFUM Oslo,Sarpsborg 08,21.04.2025 | KFUM Oslo | Sarpsborg 08 | 1 | 3
+3,21.04.2025,Stromsgodset,Brann,21.04.2025 | Stromsgodset | Brann | 1 | 2
+3,21.04.2025,Valerenga,Rosenborg,21.04.2025 | Valerenga | Rosenborg | 0 | 2
+3,20.04.2025,Tromso,Kristiansund,20.04.2025 | Tromso | Kristiansund | 2 | 3
+17,10.04.2025,Brann,Stromsgodset,10.04.2025 | Brann | Stromsgodset | 2 | 1
+16,10.04.2025,Viking,Kristiansund,10.04.2025 | Viking | Kristiansund | 3 | 1
+17,09.04.2025,Fredrikstad,Valerenga,09.04.2025 | Fredrikstad | Valerenga | 2 | 0
+2,06.04.2025,Viking,KFUM Oslo,06.04.2025 | Viking | KFUM Oslo | 3 | 1
+2,06.04.2025,Haugesund,Stromsgodset,06.04.2025 | Haugesund | Stromsgodset | 0 | 5
+2,06.04.2025,Kristiansund,Bryne,06.04.2025 | Kristiansund | Bryne | 2 | 1
+2,06.04.2025,Sandefjord,Molde,06.04.2025 | Sandefjord | Molde | 3 | 0
+2,06.04.2025,Sarpsborg 08,Valerenga,06.04.2025 | Sarpsborg 08 | Valerenga | 1 | 1
+2,06.04.2025,Brann,Tromso,06.04.2025 | Brann | Tromso | 3 | 1
+2,05.04.2025,Rosenborg,Fredrikstad,05.04.2025 | Rosenborg | Fredrikstad | 1 | 0
+2,05.04.2025,Bodo/Glimt,HamKam,05.04.2025 | Bodo/Glimt | HamKam | 3 | 0
+1,30.03.2025,Bryne,Bodo/Glimt,30.03.2025 | Bryne | Bodo/Glimt | 0 | 1
+1,30.03.2025,HamKam,Kristiansund,30.03.2025 | HamKam | Kristiansund | 2 | 1
+1,30.03.2025,KFUM Oslo,Sandefjord,30.03.2025 | KFUM Oslo | Sandefjord | 3 | 1
+1,30.03.2025,Molde,Sarpsborg 08,30.03.2025 | Molde | Sarpsborg 08 | 0 | 2
+1,30.03.2025,Tromso,Haugesund,30.03.2025 | Tromso | Haugesund | 1 | 0
+1,30.03.2025,Valerenga,Viking,30.03.2025 | Valerenga | Viking | 3 | 1
+1,29.03.2025,Fredrikstad,Brann,29.03.2025 | Fredrikstad | Brann | 3 | 0
+1,29.03.2025,Stromsgodset,Rosenborg,29.03.2025 | Stromsgodset | Rosenborg | 1 | 2
