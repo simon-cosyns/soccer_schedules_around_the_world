@@ -18,8 +18,8 @@ argentina;2025;liga-profesional;1;0;;Heel speciaal
 brazil;2025;serie-a-betano;1;0;;
 colombia;2025;primera-a;1;0;;
 uruguay;2025;liga-auf-uruguaya;1;0;;
-ecuador;2025;liga-pro;1;0;;
-paraguay;2025;copa-de-primera;1;0;;
+ecuador;2025;liga-pro;1;1;;Eerst normale DRR met 16 teams, dan 1-6 DRR voor titel, 7-12 DRR voor ticket copa Sudamericana, 13-16 DRR tegen degradatie.
+paraguay;2025;copa-de-primera;1;1;;Apertura Clausura systeem, Normale DRR met 12 teams, clausura gehouden voor cleaned data, degradatie speciaal gemiddelde aantal punten per match over 3 volledige jaargangen
 austria;2024-2025;bundesliga;1;1;;Eerst DRR met 12 teams dan 6 eerste naar championship group (punten uit eerste deel gedeeld door 2, naar boven afgerond), 6 laatste voor degradatie (ook puntenhalvering). Ook DRR voor tweede deel van seizoen. Laatste degradeert. Voor cleaned data alleen eerste deel gehouden.
 belgium;2024-2025;jupiler-pro-league;1;1;;Eerst DRR met 16 teams, dan 1-6 DRR, 7-12 DRR (beide met puntehalvering naar boven afgerond), 13-16 DRR met puntenbehoud. 15-16 degraderen rechtsreeks. 14 speelt barrages. Alleen eerste deel gehouden voor cleaned data
 cyprus;2024-2025;cyprus-league;1;1;;Eerst DRR met 14 teams, dan 1-6 DRR, 7-14 SRR. Punten uit eerste deel blijven behouden. Alleen eerste deel gehouden voor cleaned data

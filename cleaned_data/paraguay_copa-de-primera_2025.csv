@@ -1,0 +1,133 @@
+round,date,team_home,team_away,full_text
+22,2025-11-30,Atl. Tembetary,Cerro Porteno,30.11.2025 | Atl. Tembetary | Cerro Porteno | 0 | 2
+22,2025-11-30,Guarani,Sp. Luqueno,30.11.2025 | Guarani | Sp. Luqueno | 2 | 1
+22,2025-11-28,Recoleta,Nacional Asuncion,28.11.2025 | Recoleta | Nacional Asuncion | 0 | 0
+22,2025-11-27,Libertad Asuncion,General Caballero JLM,27.11.2025 | Libertad Asuncion | General Caballero JLM | 2 | 0
+22,2025-11-26,Olimpia Asuncion,2 de Mayo,26.11.2025 | Olimpia Asuncion | 2 de Mayo | 3 | 3
+22,2025-11-26,Ameliano,Sportivo Trinidense,26.11.2025 | Ameliano | Sportivo Trinidense | 0 | 0
+21,2025-11-23,Cerro Porteno,Libertad Asuncion,23.11.2025 | Cerro Porteno | Libertad Asuncion | 1 | 0
+21,2025-11-23,General Caballero JLM,Guarani,23.11.2025 | General Caballero JLM | Guarani | 0 | 2
+21,2025-11-21,2 de Mayo,Recoleta,21.11.2025 | 2 de Mayo | Recoleta | 0 | 2
+21,2025-11-21,Sp. Luqueno,Olimpia Asuncion,21.11.2025 | Sp. Luqueno | Olimpia Asuncion | 2 | 4
+21,2025-11-20,Nacional Asuncion,Ameliano,20.11.2025 | Nacional Asuncion | Ameliano | 2 | 0
+21,2025-11-20,Sportivo Trinidense,Atl. Tembetary,20.11.2025 | Sportivo Trinidense | Atl. Tembetary | 1 | 1
+20,2025-11-10,Atl. Tembetary,Nacional Asuncion,10.11.2025 | Atl. Tembetary | Nacional Asuncion | 0 | 2
+20,2025-11-10,Ameliano,2 de Mayo,10.11.2025 | Ameliano | 2 de Mayo | 2 | 3
+20,2025-11-09,Guarani,Libertad Asuncion,09.11.2025 | Guarani | Libertad Asuncion | 1 | 2
+20,2025-11-09,Sportivo Trinidense,Cerro Porteno,09.11.2025 | Sportivo Trinidense | Cerro Porteno | 0 | 0
+20,2025-11-08,Olimpia Asuncion,General Caballero JLM,08.11.2025 | Olimpia Asuncion | General Caballero JLM | 1 | 1
+20,2025-11-07,Recoleta,Sp. Luqueno,07.11.2025 | Recoleta | Sp. Luqueno | 2 | 3
+19,2025-11-03,Cerro Porteno,Guarani,03.11.2025 | Cerro Porteno | Guarani | 1 | 0
+19,2025-11-02,Sp. Luqueno,Ameliano,02.11.2025 | Sp. Luqueno | Ameliano | 0 | 1
+19,2025-11-02,Libertad Asuncion,Olimpia Asuncion,02.11.2025 | Libertad Asuncion | Olimpia Asuncion | 2 | 2
+19,2025-11-01,Nacional Asuncion,Sportivo Trinidense,01.11.2025 | Nacional Asuncion | Sportivo Trinidense | 0 | 0
+19,2025-11-01,2 de Mayo,Atl. Tembetary,01.11.2025 | 2 de Mayo | Atl. Tembetary | 0 | 1
+19,2025-10-31,General Caballero JLM,Recoleta,31.10.2025 | General Caballero JLM | Recoleta | 1 | 3
+18,2025-10-28,Nacional Asuncion,Cerro Porteno,28.10.2025 | Nacional Asuncion | 2 | Cerro Porteno | 1 | 2
+18,2025-10-27,Ameliano,General Caballero JLM,27.10.2025 | Ameliano | General Caballero JLM | 1 | 4
+18,2025-10-27,Recoleta,Libertad Asuncion,27.10.2025 | Recoleta | Libertad Asuncion | 2 | 2
+18,2025-10-26,Olimpia Asuncion,Guarani,26.10.2025 | Olimpia Asuncion | 2 | Guarani | 1 | 3
+18,2025-10-26,Sportivo Trinidense,2 de Mayo,26.10.2025 | Sportivo Trinidense | 2 de Mayo | 2 | 1
+18,2025-10-25,Atl. Tembetary,Sp. Luqueno,25.10.2025 | Atl. Tembetary | Sp. Luqueno | 1 | 1
+17,2025-10-19,Cerro Porteno,Olimpia Asuncion,19.10.2025 | Cerro Porteno | Olimpia Asuncion | 2 | 1 | 1
+17,2025-10-19,Guarani,Recoleta,19.10.2025 | Guarani | Recoleta | 2 | 1
+17,2025-10-18,Libertad Asuncion,Ameliano,18.10.2025 | Libertad Asuncion | Ameliano | 1 | 2
+17,2025-10-18,2 de Mayo,Nacional Asuncion,18.10.2025 | 2 de Mayo | Nacional Asuncion | 1 | 0
+17,2025-10-17,Sp. Luqueno,Sportivo Trinidense,17.10.2025 | Sp. Luqueno | Sportivo Trinidense | 1 | 0
+17,2025-10-16,General Caballero JLM,Atl. Tembetary,16.10.2025 | General Caballero JLM | Atl. Tembetary | 1 | 1
+16,2025-10-13,Nacional Asuncion,Sp. Luqueno,13.10.2025 | Nacional Asuncion | Sp. Luqueno | 1 | 1
+16,2025-10-12,Ameliano,Guarani,12.10.2025 | Ameliano | Guarani | 1 | 1
+16,2025-10-12,Atl. Tembetary,Libertad Asuncion,12.10.2025 | Atl. Tembetary | Libertad Asuncion | 2 | 1
+16,2025-10-11,2 de Mayo,Cerro Porteno,11.10.2025 | 2 de Mayo | Cerro Porteno | 0 | 0
+16,2025-10-11,Sportivo Trinidense,General Caballero JLM,11.10.2025 | Sportivo Trinidense | General Caballero JLM | 2 | 0
+16,2025-10-10,Recoleta,Olimpia Asuncion,10.10.2025 | Recoleta | Olimpia Asuncion | 1 | 0
+15,2025-10-06,General Caballero JLM,Nacional Asuncion,06.10.2025 | General Caballero JLM | Nacional Asuncion | 1 | 1
+15,2025-10-06,Libertad Asuncion,Sportivo Trinidense,06.10.2025 | Libertad Asuncion | Sportivo Trinidense | 0 | 0
+15,2025-10-05,Guarani,Atl. Tembetary,05.10.2025 | Guarani | Atl. Tembetary | 1 | 0
+15,2025-10-05,Olimpia Asuncion,Ameliano,05.10.2025 | Olimpia Asuncion | Ameliano | 2 | 1
+15,2025-10-04,Cerro Porteno,Recoleta,04.10.2025 | Cerro Porteno | Recoleta | 2 | 0
+15,2025-10-03,Sp. Luqueno,2 de Mayo,03.10.2025 | Sp. Luqueno | 2 de Mayo | 0 | 3
+14,2025-09-30,Atl. Tembetary,Olimpia Asuncion,30.09.2025 | Atl. Tembetary | Olimpia Asuncion | 0 | 2
+14,2025-09-29,Ameliano,Recoleta,29.09.2025 | Ameliano | Recoleta | 1 | 4
+14,2025-09-28,2 de Mayo,General Caballero JLM,28.09.2025 | 2 de Mayo | General Caballero JLM | 2 | 0
+14,2025-09-28,Nacional Asuncion,Libertad Asuncion,28.09.2025 | Nacional Asuncion | Libertad Asuncion | 3 | 1
+14,2025-09-27,Sp. Luqueno,Cerro Porteno,27.09.2025 | Sp. Luqueno | Cerro Porteno | 0 | 1
+14,2025-09-27,Sportivo Trinidense,Guarani,27.09.2025 | Sportivo Trinidense | Guarani | 1 | 1
+13,2025-09-22,Libertad Asuncion,2 de Mayo,22.09.2025 | Libertad Asuncion | 2 | 2 de Mayo | 0 | 1
+13,2025-09-21,Guarani,Nacional Asuncion,21.09.2025 | Guarani | Nacional Asuncion | 2 | 0
+13,2025-09-21,Cerro Porteno,Ameliano,21.09.2025 | Cerro Porteno | Ameliano | 2 | 0
+13,2025-09-20,Recoleta,Atl. Tembetary,20.09.2025 | Recoleta | Atl. Tembetary | 3 | 1
+13,2025-09-20,Olimpia Asuncion,Sportivo Trinidense,20.09.2025 | Olimpia Asuncion | Sportivo Trinidense | 1 | 1
+13,2025-09-19,General Caballero JLM,Sp. Luqueno,19.09.2025 | General Caballero JLM | Sp. Luqueno | 5 | 2
+11,2025-09-18,Cerro Porteno,Atl. Tembetary,18.09.2025 | Cerro Porteno | Atl. Tembetary | 1 | 1
+12,2025-09-15,Sportivo Trinidense,Recoleta,15.09.2025 | Sportivo Trinidense | Recoleta | 2 | 3
+12,2025-09-14,Nacional Asuncion,Olimpia Asuncion,14.09.2025 | Nacional Asuncion | Olimpia Asuncion | 4 | 1
+12,2025-09-14,Sp. Luqueno,Libertad Asuncion,14.09.2025 | Sp. Luqueno | Libertad Asuncion | 1 | 4
+12,2025-09-13,General Caballero JLM,Cerro Porteno,13.09.2025 | General Caballero JLM | 2 | Cerro Porteno | 2 | 1
+12,2025-09-13,2 de Mayo,Guarani,13.09.2025 | 2 de Mayo | Guarani | 1 | 0
+12,2025-09-12,Atl. Tembetary,Ameliano,12.09.2025 | Atl. Tembetary | Ameliano | 2 | 3
+11,2025-09-08,Sportivo Trinidense,Ameliano,08.09.2025 | Sportivo Trinidense | Ameliano | 1 | 0
+11,2025-09-07,2 de Mayo,Olimpia Asuncion,07.09.2025 | 2 de Mayo | Olimpia Asuncion | 3 | 2
+11,2025-09-06,General Caballero JLM,Libertad Asuncion,06.09.2025 | General Caballero JLM | Libertad Asuncion | 0 | 0
+11,2025-09-06,Nacional Asuncion,Recoleta,06.09.2025 | Nacional Asuncion | Recoleta | 1 | 0
+11,2025-09-05,Sp. Luqueno,Guarani,05.09.2025 | Sp. Luqueno | Guarani | 2 | 3
+10,2025-08-31,Guarani,General Caballero JLM,31.08.2025 | Guarani | General Caballero JLM | 4 | 0
+10,2025-08-31,Libertad Asuncion,Cerro Porteno,31.08.2025 | Libertad Asuncion | Cerro Porteno | 1 | 1
+10,2025-08-30,Olimpia Asuncion,Sp. Luqueno,30.08.2025 | Olimpia Asuncion | Sp. Luqueno | 2 | 0
+10,2025-08-30,Recoleta,2 de Mayo,30.08.2025 | Recoleta | 2 de Mayo | 2 | 0
+10,2025-08-29,Ameliano,Nacional Asuncion,29.08.2025 | Ameliano | Nacional Asuncion | 3 | 0
+10,2025-08-29,Atl. Tembetary,Sportivo Trinidense,29.08.2025 | Atl. Tembetary | Sportivo Trinidense | 3 | 0
+9,2025-08-25,Libertad Asuncion,Guarani,25.08.2025 | Libertad Asuncion | Guarani | 0 | 4
+9,2025-08-24,Cerro Porteno,Sportivo Trinidense,24.08.2025 | Cerro Porteno | Sportivo Trinidense | 1 | 3
+9,2025-08-24,General Caballero JLM,Olimpia Asuncion,24.08.2025 | General Caballero JLM | Olimpia Asuncion | 2 | 0
+9,2025-08-23,Sp. Luqueno,Recoleta,23.08.2025 | Sp. Luqueno | Recoleta | 0 | 0
+9,2025-08-23,2 de Mayo,Ameliano,23.08.2025 | 2 de Mayo | Ameliano | 1 | 1
+9,2025-08-22,Nacional Asuncion,Atl. Tembetary,22.08.2025 | Nacional Asuncion | 2 | Atl. Tembetary | 1 | 1
+8,2025-08-17,Sportivo Trinidense,Nacional Asuncion,17.08.2025 | Sportivo Trinidense | Nacional Asuncion | 0 | 2
+8,2025-08-17,Olimpia Asuncion,Libertad Asuncion,17.08.2025 | Olimpia Asuncion | Libertad Asuncion | 0 | 0
+8,2025-08-16,Guarani,Cerro Porteno,16.08.2025 | Guarani | Cerro Porteno | 3 | 4
+8,2025-08-16,Ameliano,Sp. Luqueno,16.08.2025 | Ameliano | Sp. Luqueno | 0 | 1
+8,2025-08-15,Recoleta,General Caballero JLM,15.08.2025 | Recoleta | General Caballero JLM | 0 | 0
+8,2025-08-15,Atl. Tembetary,2 de Mayo,15.08.2025 | Atl. Tembetary | 2 | 2 de Mayo | 1 | 1
+7,2025-08-10,Libertad Asuncion,Recoleta,10.08.2025 | Libertad Asuncion | Recoleta | 1 | 1
+7,2025-08-10,Guarani,Olimpia Asuncion,10.08.2025 | Guarani | Olimpia Asuncion | 4 | 0
+7,2025-08-09,Sp. Luqueno,Atl. Tembetary,09.08.2025 | Sp. Luqueno | Atl. Tembetary | 5 | 1
+7,2025-08-09,General Caballero JLM,Ameliano,09.08.2025 | General Caballero JLM | Ameliano | 3 | 2
+7,2025-08-08,Cerro Porteno,Nacional Asuncion,08.08.2025 | Cerro Porteno | Nacional Asuncion | 0 | 0
+7,2025-08-08,2 de Mayo,Sportivo Trinidense,08.08.2025 | 2 de Mayo | Sportivo Trinidense | 0 | 2
+6,2025-08-05,Atl. Tembetary,General Caballero JLM,05.08.2025 | Atl. Tembetary | General Caballero JLM | 0 | 1
+6,2025-08-04,Recoleta,Guarani,04.08.2025 | Recoleta | Guarani | 2 | 3
+6,2025-08-04,Ameliano,Libertad Asuncion,04.08.2025 | Ameliano | Libertad Asuncion | 0 | 4
+6,2025-08-03,Olimpia Asuncion,Cerro Porteno,03.08.2025 | Olimpia Asuncion | Cerro Porteno | 2 | 3
+6,2025-08-02,Nacional Asuncion,2 de Mayo,02.08.2025 | Nacional Asuncion | 2 de Mayo | 1 | 1
+6,2025-08-02,Sportivo Trinidense,Sp. Luqueno,02.08.2025 | Sportivo Trinidense | Sp. Luqueno | 2 | 0
+5,2025-07-31,Libertad Asuncion,Atl. Tembetary,31.07.2025 | Libertad Asuncion | Atl. Tembetary | 3 | 1
+5,2025-07-31,Guarani,Ameliano,31.07.2025 | Guarani | Ameliano | 4 | 1
+5,2025-07-31,Olimpia Asuncion,Recoleta,31.07.2025 | Olimpia Asuncion | Recoleta | 2 | 1 | 0
+5,2025-07-30,Cerro Porteno,2 de Mayo,30.07.2025 | Cerro Porteno | 2 de Mayo | 3 | 2
+5,2025-07-29,Sp. Luqueno,Nacional Asuncion,29.07.2025 | Sp. Luqueno | Nacional Asuncion | 2 | 1
+5,2025-07-29,General Caballero JLM,Sportivo Trinidense,29.07.2025 | General Caballero JLM | Sportivo Trinidense | 0 | 0
+4,2025-07-27,Atl. Tembetary,Guarani,27.07.2025 | Atl. Tembetary | Guarani | 0 | 1
+4,2025-07-27,Ameliano,Olimpia Asuncion,27.07.2025 | Ameliano | Olimpia Asuncion | 1 | 1
+4,2025-07-26,Recoleta,Cerro Porteno,26.07.2025 | Recoleta | Cerro Porteno | 1 | 3
+4,2025-07-26,Sportivo Trinidense,Libertad Asuncion,26.07.2025 | Sportivo Trinidense | Libertad Asuncion | 0 | 2
+4,2025-07-25,2 de Mayo,Sp. Luqueno,25.07.2025 | 2 de Mayo | Sp. Luqueno | 2 | 3 | 2
+4,2025-07-25,Nacional Asuncion,General Caballero JLM,25.07.2025 | Nacional Asuncion | General Caballero JLM | 3 | 0
+3,2025-07-21,Recoleta,Ameliano,21.07.2025 | Recoleta | Ameliano | 2 | 3 | 1
+3,2025-07-20,Guarani,Sportivo Trinidense,20.07.2025 | Guarani | Sportivo Trinidense | 0 | 0
+3,2025-07-20,Cerro Porteno,Sp. Luqueno,20.07.2025 | Cerro Porteno | Sp. Luqueno | 0 | 0
+3,2025-07-19,Olimpia Asuncion,Atl. Tembetary,19.07.2025 | Olimpia Asuncion | Atl. Tembetary | 3 | 1
+3,2025-07-19,Libertad Asuncion,Nacional Asuncion,19.07.2025 | Libertad Asuncion | Nacional Asuncion | 0 | 1
+3,2025-07-18,General Caballero JLM,2 de Mayo,18.07.2025 | General Caballero JLM | 2 de Mayo | 0 | 1
+2,2025-07-14,Atl. Tembetary,Recoleta,14.07.2025 | Atl. Tembetary | Recoleta | 2 | 3
+2,2025-07-13,Sportivo Trinidense,Olimpia Asuncion,13.07.2025 | Sportivo Trinidense | Olimpia Asuncion | 4 | 3
+2,2025-07-12,Nacional Asuncion,Guarani,12.07.2025 | Nacional Asuncion | Guarani | 1 | 0
+2,2025-07-12,Ameliano,Cerro Porteno,12.07.2025 | Ameliano | Cerro Porteno | 0 | 1
+2,2025-07-11,2 de Mayo,Libertad Asuncion,11.07.2025 | 2 de Mayo | Libertad Asuncion | 0 | 0
+2,2025-07-11,Sp. Luqueno,General Caballero JLM,11.07.2025 | Sp. Luqueno | General Caballero JLM | 2 | 0
+1,2025-07-07,Ameliano,Atl. Tembetary,07.07.2025 | Ameliano | Atl. Tembetary | 1 | 0
+1,2025-07-06,Guarani,2 de Mayo,06.07.2025 | Guarani | 2 de Mayo | 3 | 1
+1,2025-07-06,Olimpia Asuncion,Nacional Asuncion,06.07.2025 | Olimpia Asuncion | Nacional Asuncion | 1 | 1
+1,2025-07-05,Libertad Asuncion,Sp. Luqueno,05.07.2025 | Libertad Asuncion | Sp. Luqueno | 0 | 1
+1,2025-07-05,Cerro Porteno,General Caballero JLM,05.07.2025 | Cerro Porteno | General Caballero JLM | 3 | 1
+1,2025-07-04,Recoleta,Sportivo Trinidense,04.07.2025 | Recoleta | Sportivo Trinidense | 2 | 4

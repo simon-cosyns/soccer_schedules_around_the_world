@@ -1,0 +1,241 @@
+round,date,team_home,team_away,full_text
+30,2025-09-28,Ind. del Valle,Delfin,28.09.2025 | Ind. del Valle | Delfin | 0 | 0
+30,2025-09-28,Libertad,Vinotinto,28.09.2025 | Libertad | Vinotinto | 1 | 0
+30,2025-09-28,Orense,Emelec,28.09.2025 | Orense | Emelec | 0 | 0
+30,2025-09-28,Tecnico U.,LDU Quito,28.09.2025 | Tecnico U. | LDU Quito | 1 | 3
+30,2025-09-28,U. Catolica,Dep. Cuenca,28.09.2025 | U. Catolica | Dep. Cuenca | 2 | 1
+30,2025-09-28,Barcelona SC,Aucas,28.09.2025 | Barcelona SC | Aucas | 1 | 1
+30,2025-09-27,EL Nacional,Mushuc Runa,27.09.2025 | EL Nacional | 2 | Mushuc Runa | 0 | 5
+30,2025-09-27,Manta,Macara,27.09.2025 | Manta | Macara | 1 | 3
+29,2025-09-21,Aucas,Orense,21.09.2025 | Aucas | Orense | 0 | 0
+29,2025-09-21,Dep. Cuenca,Barcelona SC,21.09.2025 | Dep. Cuenca | Barcelona SC | 0 | 1
+29,2025-09-21,Emelec,EL Nacional,21.09.2025 | Emelec | EL Nacional | 4 | 0
+29,2025-09-21,LDU Quito,U. Catolica,21.09.2025 | LDU Quito | U. Catolica | 2 | 4
+29,2025-09-21,Macara,Libertad,21.09.2025 | Macara | Libertad | 1 | 1
+29,2025-09-20,Delfin,Tecnico U.,20.09.2025 | Delfin | Tecnico U. | 0 | 1
+29,2025-09-20,Vinotinto,Manta,20.09.2025 | Vinotinto | Manta | 4 | 1
+29,2025-09-20,Mushuc Runa,Ind. del Valle,20.09.2025 | Mushuc Runa | Ind. del Valle | 2 | 2
+28,2025-09-16,Manta,Aucas,16.09.2025 | Manta | Aucas | 3 | 1 | 1
+28,2025-09-15,Emelec,Barcelona SC,15.09.2025 | Emelec | Barcelona SC | 0 | 4
+28,2025-09-14,Tecnico U.,Dep. Cuenca,14.09.2025 | Tecnico U. | 2 | Dep. Cuenca | 0 | 2
+28,2025-09-14,EL Nacional,Macara,14.09.2025 | EL Nacional | Macara | 0 | 2
+28,2025-09-14,Orense,Mushuc Runa,14.09.2025 | Orense | Mushuc Runa | 3 | 1
+28,2025-09-13,U. Catolica,Delfin,13.09.2025 | U. Catolica | Delfin | 1 | 1
+28,2025-09-13,Ind. del Valle,Vinotinto,13.09.2025 | Ind. del Valle | Vinotinto | 3 | 1
+28,2025-09-13,Libertad,LDU Quito,13.09.2025 | Libertad | LDU Quito | 0 | 1
+27,2025-09-02,Delfin,Libertad,02.09.2025 | Delfin | Libertad | 0 | 0
+27,2025-09-01,Barcelona SC,U. Catolica,01.09.2025 | Barcelona SC | U. Catolica | 2 | 3
+27,2025-08-31,Dep. Cuenca,Orense,31.08.2025 | Dep. Cuenca | Orense | 1 | 1
+27,2025-08-31,Aucas,Emelec,31.08.2025 | Aucas | Emelec | 1 | 2
+27,2025-08-30,LDU Quito,Macara,30.08.2025 | LDU Quito | Macara | 1 | 1
+27,2025-08-30,Mushuc Runa,Manta,30.08.2025 | Mushuc Runa | Manta | 2 | 0
+27,2025-08-30,Ind. del Valle,Tecnico U.,30.08.2025 | Ind. del Valle | Tecnico U. | 4 | 0
+27,2025-08-30,Vinotinto,EL Nacional,30.08.2025 | Vinotinto | EL Nacional | 0 | 1
+26,2025-08-26,Orense,Delfin,26.08.2025 | Orense | Delfin | 3 | 1
+26,2025-08-25,U. Catolica,Tecnico U.,25.08.2025 | U. Catolica | Tecnico U. | 2 | 0
+26,2025-08-24,Emelec,Ind. del Valle,24.08.2025 | Emelec | Ind. del Valle | 0 | 1
+26,2025-08-24,EL Nacional,LDU Quito,24.08.2025 | EL Nacional | LDU Quito | 1 | 0
+26,2025-08-24,Vinotinto,Barcelona SC,24.08.2025 | Vinotinto | Barcelona SC | 0 | 1
+26,2025-08-23,Manta,Dep. Cuenca,23.08.2025 | Manta | Dep. Cuenca | 0 | 1
+26,2025-08-23,Macara,Mushuc Runa,23.08.2025 | Macara | Mushuc Runa | 2 | 1
+26,2025-08-23,Libertad,Aucas,23.08.2025 | Libertad | Aucas | 3 | 2
+25,2025-08-19,Dep. Cuenca,Vinotinto,19.08.2025 | Dep. Cuenca | Vinotinto | 2 | 0
+25,2025-08-18,Barcelona SC,Macara,18.08.2025 | Barcelona SC | Macara | 0 | 2
+25,2025-08-17,Tecnico U.,Emelec,17.08.2025 | Tecnico U. | 2 | Emelec | 0 | 1
+25,2025-08-17,LDU Quito,Manta,17.08.2025 | LDU Quito | Manta | 1 | 1
+25,2025-08-17,Ind. del Valle,Orense,17.08.2025 | Ind. del Valle | Orense | 2 | 1
+25,2025-08-16,U. Catolica,Libertad,16.08.2025 | U. Catolica | Libertad | 1 | 1
+25,2025-08-16,Mushuc Runa,Aucas,16.08.2025 | Mushuc Runa | Aucas | 1 | 0
+25,2025-08-16,Delfin,EL Nacional,16.08.2025 | Delfin | EL Nacional | 0 | 3
+24,2025-08-11,Emelec,Dep. Cuenca,11.08.2025 | Emelec | Dep. Cuenca | 1 | 1
+24,2025-08-11,EL Nacional,Barcelona SC,11.08.2025 | EL Nacional | Barcelona SC | 1 | 2
+24,2025-08-10,Macara,Delfin,10.08.2025 | Macara | Delfin | 0 | 0
+24,2025-08-10,Vinotinto,Tecnico U.,10.08.2025 | Vinotinto | Tecnico U. | 0 | 1
+24,2025-08-10,Manta,Ind. del Valle,10.08.2025 | Manta | Ind. del Valle | 0 | 0
+24,2025-08-09,Aucas,LDU Quito,09.08.2025 | Aucas | LDU Quito | 1 | 0
+24,2025-08-09,Mushuc Runa,Libertad,09.08.2025 | Mushuc Runa | Libertad | 1 | 2
+24,2025-08-09,Orense,U. Catolica,09.08.2025 | Orense | U. Catolica | 1 | 1
+23,2025-08-05,Delfin,Vinotinto,05.08.2025 | Delfin | Vinotinto | 3 | 3
+23,2025-08-04,Libertad,Emelec,04.08.2025 | Libertad | Emelec | 1 | 2
+23,2025-08-03,Tecnico U.,Manta,03.08.2025 | Tecnico U. | Manta | 3 | 1
+23,2025-08-03,U. Catolica,Aucas,03.08.2025 | U. Catolica | Aucas | 6 | 2
+23,2025-08-03,LDU Quito,Mushuc Runa,03.08.2025 | LDU Quito | Mushuc Runa | 2 | 1
+23,2025-08-03,Ind. del Valle,EL Nacional,03.08.2025 | Ind. del Valle | EL Nacional | 1 | 0
+23,2025-08-02,Barcelona SC,Orense,02.08.2025 | Barcelona SC | Orense | 2 | 0
+23,2025-08-02,Dep. Cuenca,Macara,02.08.2025 | Dep. Cuenca | Macara | 1 | 1
+22,2025-07-28,Dep. Cuenca,Ind. del Valle,28.07.2025 | Dep. Cuenca | Ind. del Valle | 0 | 3
+22,2025-07-27,Macara,U. Catolica,27.07.2025 | Macara | U. Catolica | 1 | 4
+22,2025-07-27,Mushuc Runa,Tecnico U.,27.07.2025 | Mushuc Runa | Tecnico U. | 0 | 1
+22,2025-07-27,Vinotinto,Orense,27.07.2025 | Vinotinto | Orense | 0 | 1
+22,2025-07-26,Manta,Emelec,26.07.2025 | Manta | Emelec | 2 | 4
+22,2025-07-26,Aucas,Delfin,26.07.2025 | Aucas | Delfin | 2 | 1
+22,2025-07-26,EL Nacional,Libertad,26.07.2025 | EL Nacional | Libertad | 2 | 2
+22,2025-07-25,Barcelona SC,LDU Quito,25.07.2025 | Barcelona SC | LDU Quito | 0 | 1
+21,2025-07-22,Libertad,Manta,22.07.2025 | Libertad | Manta | 1 | 0
+21,2025-07-21,LDU Quito,Dep. Cuenca,21.07.2025 | LDU Quito | Dep. Cuenca | 2 | 2
+21,2025-07-20,Emelec,Mushuc Runa,20.07.2025 | Emelec | Mushuc Runa | 1 | 0
+21,2025-07-20,Tecnico U.,Macara,20.07.2025 | Tecnico U. | Macara | 1 | 0
+21,2025-07-20,Delfin,Barcelona SC,20.07.2025 | Delfin | Barcelona SC | 0 | 1
+21,2025-07-19,Orense,EL Nacional,19.07.2025 | Orense | EL Nacional | 1 | 1
+21,2025-07-19,U. Catolica,Vinotinto,19.07.2025 | U. Catolica | Vinotinto | 3 | 0
+21,2025-07-19,Ind. del Valle,Aucas,19.07.2025 | Ind. del Valle | Aucas | 2 | 1
+20,2025-07-15,Aucas,EL Nacional,15.07.2025 | Aucas | EL Nacional | 1 | 0
+20,2025-07-14,Dep. Cuenca,Delfin,14.07.2025 | Dep. Cuenca | Delfin | 1 | 1
+20,2025-07-13,Orense,Libertad,13.07.2025 | Orense | Libertad | 0 | 1
+20,2025-07-13,Vinotinto,Mushuc Runa,13.07.2025 | Vinotinto | Mushuc Runa | 1 | 1
+20,2025-07-13,Barcelona SC,Tecnico U.,13.07.2025 | Barcelona SC | Tecnico U. | 1 | 1
+20,2025-07-12,LDU Quito,Emelec,12.07.2025 | LDU Quito | Emelec | 2 | 0
+20,2025-07-12,Manta,U. Catolica,12.07.2025 | Manta | U. Catolica | 4 | 2
+20,2025-07-12,Macara,Ind. del Valle,12.07.2025 | Macara | Ind. del Valle | 1 | 2
+19,2025-07-08,Tecnico U.,Orense,08.07.2025 | Tecnico U. | Orense | 1 | 2
+19,2025-07-07,Delfin,LDU Quito,07.07.2025 | Delfin | LDU Quito | 0 | 4
+19,2025-07-06,EL Nacional,Manta,06.07.2025 | EL Nacional | Manta | 1 | 0
+19,2025-07-06,Aucas,Macara,06.07.2025 | Aucas | Macara | 1 | 4
+19,2025-07-06,Ind. del Valle,Barcelona SC,06.07.2025 | Ind. del Valle | Barcelona SC | 1 | 1
+19,2025-07-05,Emelec,Vinotinto,05.07.2025 | Emelec | Vinotinto | 2 | 0
+19,2025-07-05,Mushuc Runa,U. Catolica,05.07.2025 | Mushuc Runa | U. Catolica | 1 | 1
+19,2025-07-05,Libertad,Dep. Cuenca,05.07.2025 | Libertad | Dep. Cuenca | 2 | 1
+18,2025-07-01,Vinotinto,Aucas,01.07.2025 | Vinotinto | Aucas | 0 | 1
+18,2025-06-30,Macara,Emelec,30.06.2025 | Macara | Emelec | 1 | 1
+18,2025-06-29,U. Catolica,Ind. del Valle,29.06.2025 | U. Catolica | Ind. del Valle | 0 | 3
+18,2025-06-29,Tecnico U.,EL Nacional,29.06.2025 | Tecnico U. | EL Nacional | 0 | 0
+18,2025-06-29,Orense,LDU Quito,29.06.2025 | Orense | LDU Quito | 2 | 1
+18,2025-06-28,Barcelona SC,Libertad,28.06.2025 | Barcelona SC | Libertad | 3 | 3
+18,2025-06-28,Delfin,Manta,28.06.2025 | Delfin | Manta | 2 | 0
+18,2025-06-28,Dep. Cuenca,Mushuc Runa,28.06.2025 | Dep. Cuenca | Mushuc Runa | 1 | 0
+16,2025-06-26,U. Catolica,Emelec,26.06.2025 | U. Catolica | 2 | Emelec | 1 | 1
+17,2025-06-24,Manta,Orense,24.06.2025 | Manta | Orense | 0 | 0
+17,2025-06-23,Mushuc Runa,Barcelona SC,23.06.2025 | Mushuc Runa | Barcelona SC | 0 | 5
+17,2025-06-22,Aucas,Dep. Cuenca,22.06.2025 | Aucas | Dep. Cuenca | 1 | 3
+17,2025-06-22,LDU Quito,Ind. del Valle,22.06.2025 | LDU Quito | Ind. del Valle | 1 | 1
+17,2025-06-22,Macara,Vinotinto,22.06.2025 | Macara | Vinotinto | 1 | 0
+17,2025-06-21,Emelec,Delfin,21.06.2025 | Emelec | Delfin | 2 | 2
+17,2025-06-21,EL Nacional,U. Catolica,21.06.2025 | EL Nacional | U. Catolica | 0 | 3
+17,2025-06-21,Libertad,Tecnico U.,21.06.2025 | Libertad | Tecnico U. | 4 | 1
+7,2025-06-19,LDU Quito,Barcelona SC,19.06.2025 | LDU Quito | Barcelona SC | 3 | 1
+16,2025-06-17,Orense,Macara,17.06.2025 | Orense | Macara | 1 | 0
+16,2025-06-16,Delfin,Mushuc Runa,16.06.2025 | Delfin | Mushuc Runa | 3 | 1
+16,2025-06-15,Dep. Cuenca,EL Nacional,15.06.2025 | Dep. Cuenca | EL Nacional | 4 | 1
+16,2025-06-15,Tecnico U.,Aucas,15.06.2025 | Tecnico U. | Aucas | 1 | 1
+16,2025-06-15,Vinotinto,LDU Quito,15.06.2025 | Vinotinto | LDU Quito | 1 | 2
+16,2025-06-14,Barcelona SC,Manta,14.06.2025 | Barcelona SC | Manta | 1 | 2
+16,2025-06-14,Ind. del Valle,Libertad,14.06.2025 | Ind. del Valle | Libertad | 1 | 1
+15,2025-06-03,Vinotinto,Libertad,03.06.2025 | Vinotinto | Libertad | 1 | 0
+15,2025-06-02,Aucas,Barcelona SC,02.06.2025 | Aucas | Barcelona SC | 2 | 0
+15,2025-06-01,Dep. Cuenca,U. Catolica,01.06.2025 | Dep. Cuenca | U. Catolica | 3 | 1
+15,2025-06-01,Mushuc Runa,EL Nacional,01.06.2025 | Mushuc Runa | EL Nacional | 2 | 3
+15,2025-06-01,Emelec,Orense,01.06.2025 | Emelec | Orense | 1 | 0
+15,2025-05-31,Delfin,Ind. del Valle,31.05.2025 | Delfin | Ind. del Valle | 1 | 1
+15,2025-05-31,LDU Quito,Tecnico U.,31.05.2025 | LDU Quito | Tecnico U. | 3 | 2
+15,2025-05-31,Macara,Manta,31.05.2025 | Macara | Manta | 2 | 2
+14,2025-05-26,EL Nacional,Emelec,26.05.2025 | EL Nacional | Emelec | 2 | 2 | 0
+14,2025-05-25,Tecnico U.,Delfin,25.05.2025 | Tecnico U. | Delfin | 1 | 2
+14,2025-05-25,Libertad,Macara,25.05.2025 | Libertad | Macara | 0 | 1
+14,2025-05-25,Orense,Aucas,25.05.2025 | Orense | Aucas | 2 | 1
+14,2025-05-24,U. Catolica,LDU Quito,24.05.2025 | U. Catolica | LDU Quito | 3 | 1
+14,2025-05-24,Manta,Vinotinto,24.05.2025 | Manta | Vinotinto | 2 | 2
+14,2025-05-24,Barcelona SC,Dep. Cuenca,24.05.2025 | Barcelona SC | Dep. Cuenca | 0 | 0
+14,2025-05-23,Ind. del Valle,Mushuc Runa,23.05.2025 | Ind. del Valle | Mushuc Runa | 2 | 1
+13,2025-05-20,LDU Quito,Libertad,20.05.2025 | LDU Quito | Libertad | 1 | 1
+13,2025-05-19,Barcelona SC,Emelec,19.05.2025 | Barcelona SC | Emelec | 2 | 0
+13,2025-05-18,Delfin,U. Catolica,18.05.2025 | Delfin | U. Catolica | 1 | 0
+13,2025-05-18,Vinotinto,Ind. del Valle,18.05.2025 | Vinotinto | Ind. del Valle | 1 | 3
+13,2025-05-18,Macara,EL Nacional,18.05.2025 | Macara | EL Nacional | 1 | 1
+13,2025-05-17,Mushuc Runa,Orense,17.05.2025 | Mushuc Runa | Orense | 2 | 5
+13,2025-05-17,Aucas,Manta,17.05.2025 | Aucas | Manta | 1 | 1
+13,2025-05-17,Dep. Cuenca,Tecnico U.,17.05.2025 | Dep. Cuenca | Tecnico U. | 2 | 0
+12,2025-05-13,EL Nacional,Vinotinto,13.05.2025 | EL Nacional | Vinotinto | 2 | 1
+12,2025-05-12,Emelec,Aucas,12.05.2025 | Emelec | Aucas | 0 | 1
+12,2025-05-11,U. Catolica,Barcelona SC,11.05.2025 | U. Catolica | Barcelona SC | 2 | 2
+12,2025-05-11,Tecnico U.,Ind. del Valle,11.05.2025 | Tecnico U. | Ind. del Valle | 1 | 2
+12,2025-05-11,Libertad,Delfin,11.05.2025 | Libertad | Delfin | 0 | 1
+12,2025-05-10,Macara,LDU Quito,10.05.2025 | Macara | LDU Quito | 0 | 1
+12,2025-05-10,Manta,Mushuc Runa,10.05.2025 | Manta | Mushuc Runa | 2 | 1
+12,2025-05-10,Orense,Dep. Cuenca,10.05.2025 | Orense | Dep. Cuenca | 1 | 0
+11,2025-05-06,Aucas,Libertad,06.05.2025 | Aucas | Libertad | 2 | 0
+11,2025-05-05,Ind. del Valle,Emelec,05.05.2025 | Ind. del Valle | Emelec | 1 | 2
+11,2025-05-04,Barcelona SC,Vinotinto,04.05.2025 | Barcelona SC | Vinotinto | 2 | 1
+11,2025-05-04,Delfin,Orense,04.05.2025 | Delfin | Orense | 0 | 0
+11,2025-05-04,Mushuc Runa,Macara,04.05.2025 | Mushuc Runa | Macara | 4 | 3
+11,2025-05-03,Tecnico U.,U. Catolica,03.05.2025 | Tecnico U. | U. Catolica | 1 | 1
+11,2025-05-03,LDU Quito,EL Nacional,03.05.2025 | LDU Quito | EL Nacional | 2 | 2
+11,2025-05-03,Dep. Cuenca,Manta,03.05.2025 | Dep. Cuenca | Manta | 2 | 0
+10,2025-04-29,Libertad,U. Catolica,29.04.2025 | Libertad | U. Catolica | 3 | 1
+10,2025-04-28,Emelec,Tecnico U.,28.04.2025 | Emelec | Tecnico U. | 0 | 1
+10,2025-04-27,Orense,Ind. del Valle,27.04.2025 | Orense | Ind. del Valle | 1 | 2
+10,2025-04-27,Aucas,Mushuc Runa,27.04.2025 | Aucas | Mushuc Runa | 2 | 0
+10,2025-04-27,Macara,Barcelona SC,27.04.2025 | Macara | Barcelona SC | 0 | 1
+10,2025-04-26,Manta,LDU Quito,26.04.2025 | Manta | LDU Quito | 1 | 1
+10,2025-04-26,Vinotinto,Dep. Cuenca,26.04.2025 | Vinotinto | Dep. Cuenca | 0 | 1
+10,2025-04-26,EL Nacional,Delfin,26.04.2025 | EL Nacional | Delfin | 3 | 2
+9,2025-04-21,Delfin,Macara,21.04.2025 | Delfin | Macara | 0 | 0
+9,2025-04-20,U. Catolica,Orense,20.04.2025 | U. Catolica | Orense | 2 | 0
+9,2025-04-20,Tecnico U.,Vinotinto,20.04.2025 | Tecnico U. | Vinotinto | 1 | 3
+9,2025-04-20,Ind. del Valle,Manta,20.04.2025 | Ind. del Valle | Manta | 2 | 0
+9,2025-04-19,Dep. Cuenca,Emelec,19.04.2025 | Dep. Cuenca | Emelec | 2 | 0 | 1
+9,2025-04-19,Libertad,Mushuc Runa,19.04.2025 | Libertad | Mushuc Runa | 2 | 1
+9,2025-04-19,Barcelona SC,EL Nacional,19.04.2025 | Barcelona SC | EL Nacional | 1 | 0
+9,2025-04-18,LDU Quito,Aucas,18.04.2025 | LDU Quito | Aucas | 3 | 1
+8,2025-04-16,Aucas,U. Catolica,16.04.2025 | Aucas | U. Catolica | 2 | 1
+8,2025-04-15,Orense,Barcelona SC,15.04.2025 | Orense | Barcelona SC | 3 | 1
+8,2025-04-14,EL Nacional,Ind. del Valle,14.04.2025 | EL Nacional | Ind. del Valle | 1 | 3
+8,2025-04-14,Mushuc Runa,LDU Quito,14.04.2025 | Mushuc Runa | LDU Quito | 1 | 0
+8,2025-04-12,Emelec,Libertad,12.04.2025 | Emelec | Libertad | 1 | 1
+8,2025-04-11,Manta,Tecnico U.,11.04.2025 | Manta | Tecnico U. | 2 | 1
+8,2025-04-10,Macara,Dep. Cuenca,10.04.2025 | Macara | Dep. Cuenca | 0 | 1
+8,2025-04-10,Vinotinto,Delfin,10.04.2025 | Vinotinto | Delfin | 5 | 0
+7,2025-04-07,Emelec,Manta,07.04.2025 | Emelec | Manta | 1 | 1
+7,2025-04-06,U. Catolica,Macara,06.04.2025 | U. Catolica | Macara | 1 | 0
+7,2025-04-06,Tecnico U.,Mushuc Runa,06.04.2025 | Tecnico U. | Mushuc Runa | 1 | 1
+7,2025-04-06,Ind. del Valle,Dep. Cuenca,06.04.2025 | Ind. del Valle | Dep. Cuenca | 4 | 0
+7,2025-04-05,Orense,Vinotinto,05.04.2025 | Orense | Vinotinto | 0 | 0
+7,2025-04-05,Delfin,Aucas,05.04.2025 | Delfin | Aucas | 1 | 1
+7,2025-04-05,Libertad,EL Nacional,05.04.2025 | Libertad | EL Nacional | 1 | 3
+6,2025-03-31,EL Nacional,Orense,31.03.2025 | EL Nacional | Orense | 0 | 1
+6,2025-03-30,Manta,Libertad,30.03.2025 | Manta | Libertad | 1 | 1
+6,2025-03-30,Macara,Tecnico U.,30.03.2025 | Macara | Tecnico U. | 0 | 1
+6,2025-03-30,Mushuc Runa,Emelec,30.03.2025 | Mushuc Runa | Emelec | 1 | 1
+6,2025-03-29,Dep. Cuenca,LDU Quito,29.03.2025 | Dep. Cuenca | LDU Quito | 1 | 2
+6,2025-03-29,Vinotinto,U. Catolica,29.03.2025 | Vinotinto | U. Catolica | 3 | 2
+6,2025-03-29,Barcelona SC,Delfin,29.03.2025 | Barcelona SC | Delfin | 2 | 0
+6,2025-03-28,Aucas,Ind. del Valle,28.03.2025 | Aucas | Ind. del Valle | 1 | 2
+5,2025-03-18,Tecnico U.,Barcelona SC,18.03.2025 | Tecnico U. | Barcelona SC | 0 | 1
+5,2025-03-17,Emelec,LDU Quito,17.03.2025 | Emelec | LDU Quito | 1 | 0
+5,2025-03-16,EL Nacional,Aucas,16.03.2025 | EL Nacional | Aucas | 0 | 1
+5,2025-03-16,Ind. del Valle,Macara,16.03.2025 | Ind. del Valle | Macara | 1 | 1
+5,2025-03-16,Delfin,Dep. Cuenca,16.03.2025 | Delfin | Dep. Cuenca | 0 | 0
+5,2025-03-15,U. Catolica,Manta,15.03.2025 | U. Catolica | Manta | 3 | 0
+5,2025-03-15,Libertad,Orense,15.03.2025 | Libertad | Orense | 4 | 1
+5,2025-03-15,Mushuc Runa,Vinotinto,15.03.2025 | Mushuc Runa | Vinotinto | 1 | 2
+4,2025-03-11,Orense,Tecnico U.,11.03.2025 | Orense | Tecnico U. | 2 | 1
+4,2025-03-10,Vinotinto,Emelec,10.03.2025 | Vinotinto | Emelec | 2 | 1
+4,2025-03-09,Macara,Aucas,09.03.2025 | Macara | Aucas | 1 | 1
+4,2025-03-09,U. Catolica,Mushuc Runa,09.03.2025 | U. Catolica | Mushuc Runa | 1 | 1
+4,2025-03-09,Barcelona SC,Ind. del Valle,09.03.2025 | Barcelona SC | Ind. del Valle | 0 | 4
+4,2025-03-08,Manta,EL Nacional,08.03.2025 | Manta | EL Nacional | 4 | 3
+4,2025-03-08,LDU Quito,Delfin,08.03.2025 | LDU Quito | Delfin | 3 | 0
+4,2025-03-08,Dep. Cuenca,Libertad,08.03.2025 | Dep. Cuenca | Libertad | 0 | 1
+3,2025-03-04,Manta,Delfin,04.03.2025 | Manta | Delfin | 2 | 2
+3,2025-03-03,EL Nacional,Tecnico U.,03.03.2025 | EL Nacional | Tecnico U. | 0 | 0
+3,2025-03-02,Aucas,Vinotinto,02.03.2025 | Aucas | Vinotinto | 2 | 2
+3,2025-03-02,Ind. del Valle,U. Catolica,02.03.2025 | Ind. del Valle | U. Catolica | 1 | 1
+3,2025-03-02,Libertad,Barcelona SC,02.03.2025 | Libertad | Barcelona SC | 1 | 4
+3,2025-03-01,LDU Quito,Orense,01.03.2025 | LDU Quito | Orense | 4 | 0
+3,2025-03-01,Mushuc Runa,Dep. Cuenca,01.03.2025 | Mushuc Runa | Dep. Cuenca | 3 | 1
+3,2025-03-01,Emelec,Macara,01.03.2025 | Emelec | Macara | 0 | 0
+2,2025-02-25,Tecnico U.,Libertad,25.02.2025 | Tecnico U. | Libertad | 2 | 2
+2,2025-02-24,Barcelona SC,Mushuc Runa,24.02.2025 | Barcelona SC | Mushuc Runa | 1 | 0
+2,2025-02-23,Orense,Manta,23.02.2025 | Orense | Manta | 2 | 1
+2,2025-02-23,U. Catolica,EL Nacional,23.02.2025 | U. Catolica | EL Nacional | 1 | 1
+2,2025-02-23,Ind. del Valle,LDU Quito,23.02.2025 | Ind. del Valle | LDU Quito | 1 | 1
+2,2025-02-22,Delfin,Emelec,22.02.2025 | Delfin | Emelec | 2 | 0
+2,2025-02-22,Vinotinto,Macara,22.02.2025 | Vinotinto | Macara | 1 | 2
+2,2025-02-22,Dep. Cuenca,Aucas,22.02.2025 | Dep. Cuenca | Aucas | 2 | 0
+1,2025-02-18,Mushuc Runa,Delfin,18.02.2025 | Mushuc Runa | Delfin | 2 | 0
+1,2025-02-17,Emelec,U. Catolica,17.02.2025 | Emelec | U. Catolica | 0 | 4
+1,2025-02-16,EL Nacional,Dep. Cuenca,16.02.2025 | EL Nacional | Dep. Cuenca | 0 | 1
+1,2025-02-16,LDU Quito,Vinotinto,16.02.2025 | LDU Quito | Vinotinto | 0 | 0
+1,2025-02-16,Macara,Orense,16.02.2025 | Macara | Orense | 1 | 0
+1,2025-02-15,Libertad,Ind. del Valle,15.02.2025 | Libertad | Ind. del Valle | 2 | 0
+1,2025-02-15,Aucas,Tecnico U.,15.02.2025 | Aucas | Tecnico U. | 4 | 1
+1,2025-02-15,Manta,Barcelona SC,15.02.2025 | Manta | Barcelona SC | 2 | 3
