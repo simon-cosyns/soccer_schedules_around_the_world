@@ -13,11 +13,11 @@ egypt;2024-2025;premier-league;1;1;;Eerst Normale SRR met 18 teams, daarna boven
 ivory-coast;2024-2025;ligue-1;1;1;;Normal DRR met 16 teams, ISCA speelt 2x thuis tegen SOL, fout op soccerway?, ronde 18 lijkt omgekeerd SOL vs ISCA aangepast. Bron eurosport, tnt, rsssf
 usa;2025;mls;1;0;;andere vorm op soccerway. Rounds niet aangegeven voor regular season. Met twee conferences zoals NBA
 canada;2025;canadian-premier-league;1;0;;ook andere vorm, 4RR regular season met 8 teams dan knockout toernooi voor de titel, geen degradatie/promotie
-panama;2025;lpf;1;0;;Aperturea clausura systeem, twee conferences in regular season
+panama;2025;lpf;1;1;;Apertura clausura systeem, twee conferences van 6 teams, Eerste deel: DRR tegen eigen conferentie + 1 match tegen elk team uit de andere conference. Dan playoffs (knock-out): 1 van beide conferenties direct in halve finale. Nummers 2 spelen thuis tegen nummer 3 van de andere conferentie. Halve finale heen en terug match. Finale 1 match op neutraal terrein. Geen degradatie altijd 12 zelfde teams sinds 2021. Clausura regular seaso gehouden voor cleaned data. Thuis en uit niet gelijk voor alle teams. Maar zou hier wel kunnen.
 argentina;2025;liga-profesional;1;0;;Heel speciaal
-brazil;2025;serie-a-betano;1;0;;
-colombia;2025;primera-a;1;0;;
-uruguay;2025;liga-auf-uruguaya;1;0;;
+brazil;2025;serie-a-betano;1;1;;Normale DRR met 20 teams, laatste 4 degraderen
+colombia;2025;primera-a;1;1;;Apertura clausura systeem, Eerst SRR met alle 20 teams + 1 ronde met derby's (hierdoor #H ==#A), dan wordt de top 8 verloot in twee groepen van 4, DRR in die groepen winnaars spelen heen en terugfinale. Twee laagtse gemiddelde punten over 3 jaargangen degraderen. Main season van clausura gehouden
+uruguay;2025;liga-auf-uruguaya;1;1;;Jaargang bestaat uit drie toernooien: apertura, intermedio en clausura. Apertura en clausura SRR met 16 teams. Na apertura worden clubs ondervedeeld in twee competities van 8 spelen een SRR. Nummers 1 spelen finale voor winst intermedio. Uiteindelijk jaarkampioen wordt na clausura bepaalt. Ploeg met meeste punten over aper, inter, en claus staat rechtstreeks in de finale (heen en terug). Winnaars van de apertura en clausura spelen eerst een halve finale. Degradatie laatste 3 ploegen over 2 jaar gemiddelde. Alleen clausura gehouden
 ecuador;2025;liga-pro;1;1;;Eerst normale DRR met 16 teams, dan 1-6 DRR voor titel, 7-12 DRR voor ticket copa Sudamericana, 13-16 DRR tegen degradatie.
 paraguay;2025;copa-de-primera;1;1;;Apertura Clausura systeem, Normale DRR met 12 teams, clausura gehouden voor cleaned data, degradatie speciaal gemiddelde aantal punten per match over 3 volledige jaargangen
 austria;2024-2025;bundesliga;1;1;;Eerst DRR met 12 teams dan 6 eerste naar championship group (punten uit eerste deel gedeeld door 2, naar boven afgerond), 6 laatste voor degradatie (ook puntenhalvering). Ook DRR voor tweede deel van seizoen. Laatste degradeert. Voor cleaned data alleen eerste deel gehouden.
