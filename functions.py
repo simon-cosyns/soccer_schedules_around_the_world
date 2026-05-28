@@ -639,7 +639,10 @@ def spread_calculator(hapset: np.ndarray, is_drr: bool) -> int:
                     if match not in matches_seen:
                         total_spread += 1
                         matches_seen.add(match)
-    return total_spread
+    
+    ub_spread = n_teams * (n_teams - 1)/4
+    print(f"Total spread: {total_spread}/{ub_spread}")
+    return total_spread/ub_spread
 
 
 # TODO: fixed part
@@ -786,4 +789,5 @@ def fixed_part_calculator(hapset, is_drr):
             else: 
                 fp += lambers_IP_FP_SRR(hapset, i, j)
     print(f"Fixed part: {fp}/{int(n_teams * (n_teams-1)/2)}")
-    return fp
+    return fp/(n_teams * (n_teams-1)/2)
+
