@@ -1,0 +1,51 @@
+Competition,n,Format,AC,Conf.,Title,Eur.,Rel.,Prom.,#rnds,#rel.
+Australia,13,DRR*,no,no,yes,no,no,no,26,0 
+Iran,16,DRR,no,no,no,no,no,no,30,2 
+Japan,20,DRR,no,no,no,no,no,no,38,3 
+South Korea,12,3RR,no,no,yes,no,yes,yes,33,1--3 
+Algeria,16,DRR,no,no,no,no,no,no,30,2 
+Egypt,18,SRR,no,no,yes,no,yes,no,17,2 
+Ivory Coast,16,DRR,no,no,no,no,no,no,30,2 
+Morocco,16,DRR,no,no,no,no,no,yes,30,2--4 
+Nigeria,20,DRR,no,no,no,no,no,no,38,4 
+Senegal,16,DRR,no,no,no,no,no,no,30,2 
+Canada,8,4RR,no,no,yes,no,no,no,28,0 
+Mexico,18,SRR,yes,no,yes,no,no,no,17,0 
+Panama,12,DRR*,yes,yes,yes,no,no,no,16,0 
+USA,30,DRR*,no,yes,yes,no,no,no,34,0 
+Argentina,30,SRR*,yes,yes,yes,no,no,no,16,2 
+Brazil,20,DRR,no,no,no,no,no,no,38,4 
+Colombia,20,SRR*,yes,no,yes,no,no,no,20,2 
+Ecuador,16,DRR,no,no,yes,yes,yes,no,30,2 
+Paraguay,12,DRR,yes,no,no,no,no,no,22,2 
+Uruguay,16,SRR,yes*,yes,yes,no,no,no,15,3 
+Austria,12,DRR,no,no,yes,yes,yes,no,22,1 
+Belgium,16,DRR,no,no,yes,yes,yes,yes,30,2--3 
+Croatia,10,4RR,no,no,no,no,no,no,36,1 
+Cyprus,14,DRR,no,no,yes,no,yes,no,26,3 
+Czech Rep.,16,DRR,no,no,yes,no,yes,yes,30,1--3 
+Denmark,12,DRR,no,no,yes,yes,yes,no,22,2 
+England,20,DRR,no,no,no,no,no,no,38,3 
+France,18,DRR,no,no,no,no,no,no,34,2--3 
+Germany,18,DRR,no,no,no,no,no,yes,34,2--3 
+Hungary,12,3RR,no,no,no,no,no,no,33,2 
+Ireland,10,4RR,no,no,no,no,no,yes,36,1--2 
+Italy,20,DRR,no,no,no,no,no,no,38,3 
+Luxembourg,16,DRR,no,no,no,no,no,yes,30,1--3 
+Malta,12,SRR,yes,no,yes,no,yes,no,11,1 
+N. Ireland,12,3RR,no,no,yes,yes,yes,yes,33,1--2 
+Netherlands,18,DRR,no,no,no,yes,no,yes,34,2--3 
+Norway,16,DRR,no,no,no,no,no,no,30,2--3 
+Poland,18,DRR,no,no,no,no,no,no,34,3 
+Portugal,18,DRR,no,no,no,no,no,yes,34,2--3 
+Romania,16,DRR,no,no,yes,no,yes,yes,30,2--4 
+Russia,16,DRR,no,no,no,no,no,yes,30,2--4 
+Scotland,12,3RR,no,no,yes,no,yes,yes,33,1--2 
+Serbia,16,DRR,no,no,yes,no,yes,yes,30,2--4 
+Slovakia,12,DRR,no,no,yes,yes,yes,yes,22,1--2 
+Spain,20,DRR,no,no,no,no,no,no,38,3 
+Sweden,16,DRR,no,no,no,no,no,yes,30,2--3 
+Switzerland,12,3RR,no,no,yes,no,yes,yes,33,1--2 
+Turkey,19,DRR,no,no,no,no,no,no,36,4 
+Ukraine,16,DRR,no,no,no,no,no,yes,30,2--4 
+Wales,12,DRR,no,no,yes,yes,yes,no,22,2 
