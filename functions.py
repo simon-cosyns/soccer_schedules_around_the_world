@@ -644,8 +644,6 @@ def spread_calculator(hapset: np.ndarray, is_drr: bool) -> int:
     print(f"Total spread: {total_spread}/{ub_spread}")
     return total_spread/ub_spread
 
-
-# TODO: fixed part
 def lambers_IP_FP_SRR(hapset: np.ndarray, team1: int, team2: int):
     """
         Given a hapset and two teams it checks wether there can be two 
