@@ -1,0 +1,241 @@
+round,date,team_home,team_away,full_text
+16,2025-05-05,River Plate,Velez Sarsfield,05.05.2025 | River Plate | Velez Sarsfield | 4 | 1
+16,2025-05-04,Tigre,Boca Juniors,04.05.2025 | Tigre | Boca Juniors | 1 | 1
+16,2025-05-04,Gimnasia L.P.,Platense,04.05.2025 | Gimnasia L.P. | Platense | 1 | 0
+16,2025-05-04,San Martin S.J.,Aldosivi,04.05.2025 | San Martin S.J. | 2 | Aldosivi | 0 | 3
+16,2025-05-04,Atl. Tucuman,Lanus,04.05.2025 | Atl. Tucuman | Lanus | 1 | 0
+16,2025-05-04,Huracan,Barracas Central,04.05.2025 | Huracan | Barracas Central | 0 | 1
+16,2025-05-03,Rosario Central,Independiente,03.05.2025 | Rosario Central | Independiente | 1 | 0
+16,2025-05-03,Dep. Riestra,Godoy Cruz,03.05.2025 | Dep. Riestra | Godoy Cruz | 3 | 0
+16,2025-05-03,Sarmiento Junin,San Lorenzo,03.05.2025 | Sarmiento Junin | San Lorenzo | 1 | 1
+16,2025-05-03,Talleres Cordoba,Instituto,03.05.2025 | Talleres Cordoba | Instituto | 1 | 2
+16,2025-05-02,Union de Santa Fe,Belgrano,02.05.2025 | Union de Santa Fe | Belgrano | 1 | 1
+16,2025-05-02,Argentinos Jrs,Estudiantes L.P.,02.05.2025 | Argentinos Jrs | Estudiantes L.P. | 4 | 0
+16,2025-05-02,Banfield,Central Cordoba,02.05.2025 | Banfield | Central Cordoba | 3 | 1
+16,2025-05-02,Ind. Rivadavia,Defensa y Justicia,02.05.2025 | Ind. Rivadavia | Defensa y Justicia | 3 | 2
+16,2025-05-02,Racing Club,Newells Old Boys,02.05.2025 | Racing Club | Newells Old Boys | 1 | 0
+14,2025-05-01,Atl. Tucuman,Independiente,01.05.2025 | Atl. Tucuman | Independiente | 2 | 0
+15,2025-04-30,Newells Old Boys,Huracan,30.04.2025 | Newells Old Boys | Huracan | 2 | 0
+15,2025-04-30,Platense,Talleres Cordoba,30.04.2025 | Platense | Talleres Cordoba | 2 | 1
+15,2025-04-29,Central Cordoba,Ind. Rivadavia,29.04.2025 | Central Cordoba | Ind. Rivadavia | 1 | 2
+15,2025-04-29,Velez Sarsfield,Gimnasia L.P.,29.04.2025 | Velez Sarsfield | Gimnasia L.P. | 1 | 0
+15,2025-04-29,Defensa y Justicia,Racing Club,29.04.2025 | Defensa y Justicia | Racing Club | 1 | 2
+15,2025-04-29,Estudiantes L.P.,Tigre,29.04.2025 | Estudiantes L.P. | Tigre | 0 | 0
+15,2025-04-28,Godoy Cruz,Atl. Tucuman,28.04.2025 | Godoy Cruz | Atl. Tucuman | 1 | 0
+15,2025-04-28,Barracas Central,Union de Santa Fe,28.04.2025 | Barracas Central | Union de Santa Fe | 2 | 1
+15,2025-04-28,Independiente,Dep. Riestra,28.04.2025 | Independiente | Dep. Riestra | 0 | 0
+15,2025-04-28,Instituto,Sarmiento Junin,28.04.2025 | Instituto | Sarmiento Junin | 1 | 1
+15,2025-04-28,Lanus,San Martin S.J.,28.04.2025 | Lanus | San Martin S.J. | 1 | 0
+15,2025-04-27,River Plate,Boca Juniors,27.04.2025 | River Plate | Boca Juniors | 2 | 1
+15,2025-04-27,Belgrano,Argentinos Jrs,27.04.2025 | Belgrano | Argentinos Jrs | 1 | 1
+15,2025-04-26,San Lorenzo,Rosario Central,26.04.2025 | San Lorenzo | Rosario Central | 0 | 1
+15,2025-04-26,Aldosivi,Banfield,26.04.2025 | Aldosivi | Banfield | 2 | 1
+14,2025-04-23,Ind. Rivadavia,Aldosivi,23.04.2025 | Ind. Rivadavia | Aldosivi | 1 | 0
+14,2025-04-23,Argentinos Jrs,Barracas Central,23.04.2025 | Argentinos Jrs | Barracas Central | 3 | 0
+14,2025-04-23,Tigre,Belgrano,23.04.2025 | Tigre | Belgrano | 0 | 0
+14,2025-04-21,Rosario Central,Instituto,21.04.2025 | Rosario Central | Instituto | 3 | 0
+14,2025-04-20,Sarmiento Junin,Platense,20.04.2025 | Sarmiento Junin | Platense | 0 | 1
+14,2025-04-20,San Martin S.J.,Godoy Cruz,20.04.2025 | San Martin S.J. | Godoy Cruz | 1 | 0
+14,2025-04-20,Dep. Riestra,San Lorenzo,20.04.2025 | Dep. Riestra | San Lorenzo | 0 | 0
+14,2025-04-20,Boca Juniors,Estudiantes L.P.,20.04.2025 | Boca Juniors | Estudiantes L.P. | 2 | 0
+14,2025-04-19,Huracan,Defensa y Justicia,19.04.2025 | Huracan | Defensa y Justicia | 1 | 1
+14,2025-04-19,Lanus,Banfield,19.04.2025 | Lanus | Banfield | 1 | 1
+14,2025-04-19,Union de Santa Fe,Newells Old Boys,19.04.2025 | Union de Santa Fe | Newells Old Boys | 1 | 1
+14,2025-04-19,Racing Club,Central Cordoba,19.04.2025 | Racing Club | Central Cordoba | 1 | 0
+14,2025-04-19,Talleres Cordoba,Velez Sarsfield,19.04.2025 | Talleres Cordoba | Velez Sarsfield | 0 | 1
+14,2025-04-18,Gimnasia L.P.,River Plate,18.04.2025 | Gimnasia L.P. | River Plate | 0 | 3
+13,2025-04-16,Platense,Rosario Central,16.04.2025 | Platense | Rosario Central | 0 | 0
+13,2025-04-15,Godoy Cruz,Lanus,15.04.2025 | Godoy Cruz | Lanus | 0 | 0
+13,2025-04-15,Velez Sarsfield,Sarmiento Junin,15.04.2025 | Velez Sarsfield | Sarmiento Junin | 0 | 1
+13,2025-04-15,Defensa y Justicia,Union de Santa Fe,15.04.2025 | Defensa y Justicia | Union de Santa Fe | 0 | 0
+13,2025-04-14,Central Cordoba,Huracan,14.04.2025 | Central Cordoba | Huracan | 1 | 2
+13,2025-04-14,Aldosivi,Racing Club,14.04.2025 | Aldosivi | Racing Club | 0 | 2
+13,2025-04-14,River Plate,Talleres Cordoba,14.04.2025 | River Plate | Talleres Cordoba | 1 | 1
+13,2025-04-13,Independiente,San Martin S.J.,13.04.2025 | Independiente | San Martin S.J. | 2 | 0
+13,2025-04-13,Gimnasia L.P.,Estudiantes L.P.,13.04.2025 | Gimnasia L.P. | Estudiantes L.P. | 1 | 1
+13,2025-04-13,Instituto,Dep. Riestra,13.04.2025 | Instituto | Dep. Riestra | 3 | 0
+13,2025-04-13,Belgrano,Boca Juniors,13.04.2025 | Belgrano | Boca Juniors | 1 | 3
+13,2025-04-12,Barracas Central,Tigre,12.04.2025 | Barracas Central | Tigre | 1 | 0
+13,2025-04-12,San Lorenzo,Atl. Tucuman,12.04.2025 | San Lorenzo | Atl. Tucuman | 1 | 0
+13,2025-04-12,Newells Old Boys,Argentinos Jrs,12.04.2025 | Newells Old Boys | Argentinos Jrs | 0 | 0
+13,2025-04-12,Banfield,Ind. Rivadavia,12.04.2025 | Banfield | Ind. Rivadavia | 1 | 1
+12,2025-04-08,Atl. Tucuman,Instituto,08.04.2025 | Atl. Tucuman | Instituto | 3 | 2
+12,2025-04-08,Tigre,Newells Old Boys,08.04.2025 | Tigre | Newells Old Boys | 0 | 2
+12,2025-04-07,Dep. Riestra,Platense,07.04.2025 | Dep. Riestra | Platense | 1 | 0
+12,2025-04-07,Argentinos Jrs,Defensa y Justicia,07.04.2025 | Argentinos Jrs | Defensa y Justicia | 4 | 1
+12,2025-04-07,Racing Club,Banfield,07.04.2025 | Racing Club | Banfield | 4 | 1
+12,2025-04-06,Boca Juniors,Barracas Central,06.04.2025 | Boca Juniors | Barracas Central | 1 | 0
+12,2025-04-06,Lanus,Independiente,06.04.2025 | Lanus | Independiente | 1 | 1
+12,2025-04-06,Union de Santa Fe,Central Cordoba,06.04.2025 | Union de Santa Fe | Central Cordoba | 1 | 0
+12,2025-04-06,Sarmiento Junin,River Plate,06.04.2025 | Sarmiento Junin | River Plate | 1 | 1
+12,2025-04-05,Huracan,Aldosivi,05.04.2025 | Huracan | Aldosivi | 3 | 3
+12,2025-04-05,Talleres Cordoba,Gimnasia L.P.,05.04.2025 | Talleres Cordoba | Gimnasia L.P. | 2 | 0
+12,2025-04-05,Godoy Cruz,Ind. Rivadavia,05.04.2025 | Godoy Cruz | Ind. Rivadavia | 1 | 1
+12,2025-04-05,Rosario Central,Velez Sarsfield,05.04.2025 | Rosario Central | Velez Sarsfield | 2 | 1
+12,2025-04-05,San Martin S.J.,San Lorenzo,05.04.2025 | San Martin S.J. | San Lorenzo | 0 | 1
+12,2025-04-05,Estudiantes L.P.,Belgrano,05.04.2025 | Estudiantes L.P. | Belgrano | 0 | 1
+11,2025-03-31,Newells Old Boys,Boca Juniors,31.03.2025 | Newells Old Boys | Boca Juniors | 2 | 0
+11,2025-03-30,Gimnasia L.P.,Sarmiento Junin,30.03.2025 | Gimnasia L.P. | Sarmiento Junin | 0 | 0
+11,2025-03-30,Belgrano,Talleres Cordoba,30.03.2025 | Belgrano | Talleres Cordoba | 1 | 1
+11,2025-03-30,River Plate,Rosario Central,30.03.2025 | River Plate | Rosario Central | 2 | 2
+11,2025-03-29,Independiente,Godoy Cruz,29.03.2025 | Independiente | Godoy Cruz | 4 | 0
+11,2025-03-29,Central Cordoba,Argentinos Jrs,29.03.2025 | Central Cordoba | Argentinos Jrs | 1 | 1
+11,2025-03-29,Instituto,San Martin S.J.,29.03.2025 | Instituto | San Martin S.J. | 1 | 0
+11,2025-03-29,Platense,Atl. Tucuman,29.03.2025 | Platense | Atl. Tucuman | 2 | 1
+11,2025-03-29,Velez Sarsfield,Dep. Riestra,29.03.2025 | Velez Sarsfield | Dep. Riestra | 0 | 1
+11,2025-03-28,Banfield,Huracan,28.03.2025 | Banfield | Huracan | 0 | 0
+11,2025-03-28,San Lorenzo,Lanus,28.03.2025 | San Lorenzo | Lanus | 1 | 1
+11,2025-03-28,Defensa y Justicia,Tigre,28.03.2025 | Defensa y Justicia | Tigre | 1 | 2
+11,2025-03-28,Ind. Rivadavia,Racing Club,28.03.2025 | Ind. Rivadavia | Racing Club | 2 | 1
+11,2025-03-27,Barracas Central,Estudiantes L.P.,27.03.2025 | Barracas Central | Estudiantes L.P. | 2 | 1
+11,2025-03-27,Aldosivi,Union de Santa Fe,27.03.2025 | Aldosivi | Union de Santa Fe | 2 | 1
+3,2025-03-22,Godoy Cruz,Talleres Cordoba,22.03.2025 | Godoy Cruz | Talleres Cordoba | 0 | 0
+7,2025-03-21,Union de Santa Fe,Racing Club,21.03.2025 | Union de Santa Fe | Racing Club | 0 | 1
+10,2025-03-18,Atl. Tucuman,Velez Sarsfield,18.03.2025 | Atl. Tucuman | Velez Sarsfield | 1 | 2
+10,2025-03-18,San Martin S.J.,Platense,18.03.2025 | San Martin S.J. | Platense | 0 | 2
+10,2025-03-17,Tigre,Central Cordoba,17.03.2025 | Tigre | Central Cordoba | 1 | 2
+10,2025-03-17,Union de Santa Fe,Banfield,17.03.2025 | Union de Santa Fe | Banfield | 3 | 1
+10,2025-03-17,Belgrano,Barracas Central,17.03.2025 | Belgrano | Barracas Central | 1 | 1
+10,2025-03-17,Lanus,Instituto,17.03.2025 | Lanus | Instituto | 4 | 1
+10,2025-03-16,Boca Juniors,Defensa y Justicia,16.03.2025 | Boca Juniors | Defensa y Justicia | 4 | 0
+10,2025-03-16,Independiente,Racing Club,16.03.2025 | Independiente | Racing Club | 1 | 1
+10,2025-03-16,Huracan,Ind. Rivadavia,16.03.2025 | Huracan | Ind. Rivadavia | 2 | 0
+10,2025-03-16,Sarmiento Junin,Talleres Cordoba,16.03.2025 | Sarmiento Junin | Talleres Cordoba | 0 | 0
+10,2025-03-15,Estudiantes L.P.,Newells Old Boys,15.03.2025 | Estudiantes L.P. | 2 | Newells Old Boys | 1 | 1
+10,2025-03-15,Rosario Central,Gimnasia L.P.,15.03.2025 | Rosario Central | Gimnasia L.P. | 2 | 1
+10,2025-03-15,Dep. Riestra,River Plate,15.03.2025 | Dep. Riestra | River Plate | 0 | 0
+10,2025-03-15,Godoy Cruz,San Lorenzo,15.03.2025 | Godoy Cruz | San Lorenzo | 0 | 0
+10,2025-03-14,Argentinos Jrs,Aldosivi,14.03.2025 | Argentinos Jrs | Aldosivi | 0 | 2
+9,2025-03-11,Ind. Rivadavia,Union de Santa Fe,11.03.2025 | Ind. Rivadavia | Union de Santa Fe | 2 | 0
+9,2025-03-11,Talleres Cordoba,Rosario Central,11.03.2025 | Talleres Cordoba | Rosario Central | 0 | 0
+9,2025-03-10,Gimnasia L.P.,Dep. Riestra,10.03.2025 | Gimnasia L.P. | Dep. Riestra | 1 | 1
+9,2025-03-10,Instituto,Godoy Cruz,10.03.2025 | Instituto | Godoy Cruz | 1 | 1
+9,2025-03-10,Newells Old Boys,Belgrano,10.03.2025 | Newells Old Boys | Belgrano | 2 | 0 | 0
+9,2025-03-09,River Plate,Atl. Tucuman,09.03.2025 | River Plate | Atl. Tucuman | 1 | 0
+9,2025-03-09,Aldosivi,Tigre,09.03.2025 | Aldosivi | Tigre | 0 | 2
+9,2025-03-09,Defensa y Justicia,Estudiantes L.P.,09.03.2025 | Defensa y Justicia | Estudiantes L.P. | 1 | 0
+9,2025-03-09,Platense,Lanus,09.03.2025 | Platense | Lanus | 0 | 0
+9,2025-03-09,Sarmiento Junin,Barracas Central,09.03.2025 | Sarmiento Junin | Barracas Central | 1 | 1
+9,2025-03-08,Racing Club,Huracan,08.03.2025 | Racing Club | Huracan | 0 | 1
+9,2025-03-08,San Lorenzo,Independiente,08.03.2025 | San Lorenzo | Independiente | 1 | 2
+9,2025-03-08,Central Cordoba,Boca Juniors,08.03.2025 | Central Cordoba | Boca Juniors | 0 | 3
+9,2025-03-07,Banfield,Argentinos Jrs,07.03.2025 | Banfield | Argentinos Jrs | 1 | 2
+9,2025-03-07,Velez Sarsfield,San Martin S.J.,07.03.2025 | Velez Sarsfield | San Martin S.J. | 1 | 0
+8,2025-03-05,Platense,Defensa y Justicia,05.03.2025 | Platense | Defensa y Justicia | 0 | 1
+8,2025-03-04,Banfield,Independiente,04.03.2025 | Banfield | Independiente | 0 | 0
+8,2025-03-04,Atl. Tucuman,Newells Old Boys,04.03.2025 | Atl. Tucuman | Newells Old Boys | 1 | 2
+8,2025-03-03,San Lorenzo,Racing Club,03.03.2025 | San Lorenzo | Racing Club | 3 | 2
+8,2025-03-03,Barracas Central,Godoy Cruz,03.03.2025 | Barracas Central | Godoy Cruz | 1 | 2
+8,2025-03-02,Velez Sarsfield,Huracan,02.03.2025 | Velez Sarsfield | 2 | Huracan | 0 | 2
+8,2025-03-02,Argentinos Jrs,Instituto,02.03.2025 | Argentinos Jrs | Instituto | 2 | 0
+8,2025-03-02,Ind. Rivadavia,Lanus,02.03.2025 | Ind. Rivadavia | Lanus | 1 | 1
+8,2025-03-02,Talleres Cordoba,Tigre,02.03.2025 | Talleres Cordoba | Tigre | 1 | 2
+8,2025-03-02,Union de Santa Fe,Gimnasia L.P.,02.03.2025 | Union de Santa Fe | Gimnasia L.P. | 1 | 0
+8,2025-03-01,River Plate,Estudiantes L.P.,01.03.2025 | River Plate | Estudiantes L.P. | 0 | 2
+8,2025-03-01,Aldosivi,Sarmiento Junin,01.03.2025 | Aldosivi | Sarmiento Junin | 2 | 2
+8,2025-03-01,Central Cordoba,Dep. Riestra,01.03.2025 | Central Cordoba | Dep. Riestra | 0 | 0
+8,2025-03-01,San Martin S.J.,Belgrano,01.03.2025 | San Martin S.J. | Belgrano | 3 | 1
+8,2025-03-01,Boca Juniors,Rosario Central,01.03.2025 | Boca Juniors | Rosario Central | 1 | 0
+7,2025-02-25,Tigre,Banfield,25.02.2025 | Tigre | Banfield | 1 | 0
+7,2025-02-24,Argentinos Jrs,Ind. Rivadavia,24.02.2025 | Argentinos Jrs | Ind. Rivadavia | 0 | 0
+7,2025-02-24,Barracas Central,Newells Old Boys,24.02.2025 | Barracas Central | Newells Old Boys | 2 | 0
+7,2025-02-24,Atl. Tucuman,Gimnasia L.P.,24.02.2025 | Atl. Tucuman | Gimnasia L.P. | 0 | 1
+7,2025-02-24,Belgrano,Defensa y Justicia,24.02.2025 | Belgrano | Defensa y Justicia | 2 | 0
+7,2025-02-23,Huracan,San Lorenzo,23.02.2025 | Huracan | San Lorenzo | 2 | 0
+7,2025-02-23,Rosario Central,Sarmiento Junin,23.02.2025 | Rosario Central | Sarmiento Junin | 1 | 0
+7,2025-02-23,San Martin S.J.,River Plate,23.02.2025 | San Martin S.J. | River Plate | 0 | 2
+7,2025-02-22,Boca Juniors,Aldosivi,22.02.2025 | Boca Juniors | Aldosivi | 2 | 1
+7,2025-02-22,Independiente,Instituto,22.02.2025 | Independiente | Instituto | 2 | 0
+7,2025-02-22,Lanus,Velez Sarsfield,22.02.2025 | Lanus | Velez Sarsfield | 0 | 0
+7,2025-02-21,Estudiantes L.P.,Central Cordoba,21.02.2025 | Estudiantes L.P. | Central Cordoba | 3 | 2
+7,2025-02-21,Godoy Cruz,Platense,21.02.2025 | Godoy Cruz | Platense | 1 | 1
+7,2025-02-21,Dep. Riestra,Talleres Cordoba,21.02.2025 | Dep. Riestra | Talleres Cordoba | 0 | 0
+6,2025-02-18,Instituto,San Lorenzo,18.02.2025 | Instituto | San Lorenzo | 0 | 1
+6,2025-02-18,Velez Sarsfield,Godoy Cruz,18.02.2025 | Velez Sarsfield | Godoy Cruz | 0 | 2
+6,2025-02-17,Platense,Independiente,17.02.2025 | Platense | Independiente | 1 | 1
+6,2025-02-17,Gimnasia L.P.,San Martin S.J.,17.02.2025 | Gimnasia L.P. | San Martin S.J. | 1 | 0
+6,2025-02-17,Sarmiento Junin,Dep. Riestra,17.02.2025 | Sarmiento Junin | Dep. Riestra | 2 | 1
+6,2025-02-17,Huracan,Union de Santa Fe,17.02.2025 | Huracan | Union de Santa Fe | 1 | 0
+6,2025-02-17,Talleres Cordoba,Atl. Tucuman,17.02.2025 | Talleres Cordoba | Atl. Tucuman | 1 | 1
+6,2025-02-16,River Plate,Lanus,16.02.2025 | River Plate | Lanus | 1 | 0
+6,2025-02-16,Newells Old Boys,Rosario Central,16.02.2025 | Newells Old Boys | Rosario Central | 1 | 2
+6,2025-02-16,Racing Club,Argentinos Jrs,16.02.2025 | Racing Club | Argentinos Jrs | 2 | 3
+6,2025-02-15,Central Cordoba,Belgrano,15.02.2025 | Central Cordoba | Belgrano | 4 | 0
+6,2025-02-15,Ind. Rivadavia,Tigre,15.02.2025 | Ind. Rivadavia | Tigre | 1 | 4
+6,2025-02-15,Aldosivi,Estudiantes L.P.,15.02.2025 | Aldosivi | Estudiantes L.P. | 2 | 2
+6,2025-02-15,Defensa y Justicia,Barracas Central,15.02.2025 | Defensa y Justicia | Barracas Central | 1 | 1
+6,2025-02-15,Banfield,Boca Juniors,15.02.2025 | Banfield | Boca Juniors | 0 | 1
+5,2025-02-14,Atl. Tucuman,Sarmiento Junin,14.02.2025 | Atl. Tucuman | Sarmiento Junin | 5 | 0
+5,2025-02-14,Union de Santa Fe,Instituto,14.02.2025 | Union de Santa Fe | Instituto | 0 | 0
+5,2025-02-14,San Lorenzo,Platense,14.02.2025 | San Lorenzo | Platense | 2 | 1
+5,2025-02-14,San Martin S.J.,Talleres Cordoba,14.02.2025 | San Martin S.J. | Talleres Cordoba | 0 | 1
+5,2025-02-13,Lanus,Gimnasia L.P.,13.02.2025 | Lanus | Gimnasia L.P. | 0 | 0
+5,2025-02-13,Godoy Cruz,River Plate,13.02.2025 | Godoy Cruz | River Plate | 0 | 0
+5,2025-02-13,Argentinos Jrs,Huracan,13.02.2025 | Argentinos Jrs | Huracan | 1 | 1
+5,2025-02-13,Independiente,Velez Sarsfield,13.02.2025 | Independiente | Velez Sarsfield | 3 | 0
+5,2025-02-12,Newells Old Boys,Defensa y Justicia,12.02.2025 | Newells Old Boys | Defensa y Justicia | 0 | 1
+5,2025-02-12,Dep. Riestra,Rosario Central,12.02.2025 | Dep. Riestra | Rosario Central | 0 | 0
+5,2025-02-12,Belgrano,Aldosivi,12.02.2025 | Belgrano | Aldosivi | 2 | 0
+5,2025-02-12,Tigre,Racing Club,12.02.2025 | Tigre | Racing Club | 1 | 0
+5,2025-02-12,Boca Juniors,Ind. Rivadavia,12.02.2025 | Boca Juniors | Ind. Rivadavia | 2 | 0
+5,2025-02-12,Estudiantes L.P.,Banfield,12.02.2025 | Estudiantes L.P. | Banfield | 1 | 0
+5,2025-02-11,Barracas Central,Central Cordoba,11.02.2025 | Barracas Central | Central Cordoba | 3 | 3
+4,2025-02-10,Talleres Cordoba,Lanus,10.02.2025 | Talleres Cordoba | Lanus | 0 | 1
+4,2025-02-09,Gimnasia L.P.,Godoy Cruz,09.02.2025 | Gimnasia L.P. | Godoy Cruz | 3 | 0
+4,2025-02-09,Dep. Riestra,Defensa y Justicia,09.02.2025 | Dep. Riestra | Defensa y Justicia | 1 | 1
+4,2025-02-09,Platense,Instituto,09.02.2025 | Platense | Instituto | 1 | 0
+4,2025-02-09,Racing Club,Boca Juniors,09.02.2025 | Racing Club | Boca Juniors | 2 | 0
+4,2025-02-09,River Plate,Independiente,09.02.2025 | River Plate | Independiente | 2 | 0
+4,2025-02-08,Rosario Central,Atl. Tucuman,08.02.2025 | Rosario Central | Atl. Tucuman | 3 | 1
+4,2025-02-08,Velez Sarsfield,San Lorenzo,08.02.2025 | Velez Sarsfield | San Lorenzo | 0 | 0
+4,2025-02-08,Ind. Rivadavia,Estudiantes L.P.,08.02.2025 | Ind. Rivadavia | Estudiantes L.P. | 2 | 2
+4,2025-02-08,Union de Santa Fe,Argentinos Jrs,08.02.2025 | Union de Santa Fe | Argentinos Jrs | 0 | 1
+4,2025-02-08,Central Cordoba,Newells Old Boys,08.02.2025 | Central Cordoba | Newells Old Boys | 2 | 0
+4,2025-02-08,Huracan,Tigre,08.02.2025 | Huracan | Tigre | 2 | 0
+4,2025-02-07,Banfield,Belgrano,07.02.2025 | Banfield | Belgrano | 1 | 1
+4,2025-02-07,Sarmiento Junin,San Martin S.J.,07.02.2025 | Sarmiento Junin | San Martin S.J. | 1 | 1
+4,2025-02-06,Aldosivi,Barracas Central,06.02.2025 | Aldosivi | Barracas Central | 1 | 3
+3,2025-02-05,Atl. Tucuman,Dep. Riestra,05.02.2025 | Atl. Tucuman | Dep. Riestra | 0 | 3
+3,2025-02-04,Argentinos Jrs,Platense,04.02.2025 | Argentinos Jrs | Platense | 1 | 0
+3,2025-02-04,Belgrano,Ind. Rivadavia,04.02.2025 | Belgrano | Ind. Rivadavia | 0 | 3
+3,2025-02-03,Estudiantes L.P.,Racing Club,03.02.2025 | Estudiantes L.P. | Racing Club | 2 | 0
+3,2025-02-03,Tigre,Union de Santa Fe,03.02.2025 | Tigre | Union de Santa Fe | 1 | 0
+3,2025-02-03,Defensa y Justicia,Central Cordoba,03.02.2025 | Defensa y Justicia | Central Cordoba | 2 | 1
+3,2025-02-03,Independiente,Gimnasia L.P.,03.02.2025 | Independiente | Gimnasia L.P. | 2 | 0
+3,2025-02-03,Instituto,Velez Sarsfield,03.02.2025 | Instituto | Velez Sarsfield | 2 | 0
+3,2025-02-02,Boca Juniors,Huracan,02.02.2025 | Boca Juniors | Huracan | 2 | 1
+3,2025-02-02,Newells Old Boys,Aldosivi,02.02.2025 | Newells Old Boys | Aldosivi | 1 | 0
+3,2025-02-02,San Lorenzo,River Plate,02.02.2025 | San Lorenzo | River Plate | 0 | 0
+3,2025-02-02,Lanus,Sarmiento Junin,02.02.2025 | Lanus | Sarmiento Junin | 2 | 0
+3,2025-02-01,San Martin S.J.,Rosario Central,01.02.2025 | San Martin S.J. | Rosario Central | 0 | 0
+3,2025-02-01,Barracas Central,Banfield,01.02.2025 | Barracas Central | Banfield | 1 | 0
+2,2025-01-31,Argentinos Jrs,Tigre,31.01.2025 | Argentinos Jrs | Tigre | 1 | 0
+2,2025-01-31,Central Cordoba,Atl. Tucuman,31.01.2025 | Central Cordoba | Atl. Tucuman | 2 | 0
+2,2025-01-30,Racing Club,Belgrano,30.01.2025 | Racing Club | Belgrano | 4 | 0
+2,2025-01-30,Aldosivi,Defensa y Justicia,30.01.2025 | Aldosivi | Defensa y Justicia | 0 | 5
+2,2025-01-30,River Plate,Instituto,30.01.2025 | River Plate | Instituto | 1 | 0
+2,2025-01-29,Huracan,Estudiantes L.P.,29.01.2025 | Huracan | Estudiantes L.P. | 0 | 0
+2,2025-01-29,Union de Santa Fe,Boca Juniors,29.01.2025 | Union de Santa Fe | Boca Juniors | 1 | 1
+2,2025-01-29,Gimnasia L.P.,San Lorenzo,29.01.2025 | Gimnasia L.P. | San Lorenzo | 0 | 2
+2,2025-01-29,Talleres Cordoba,Independiente,29.01.2025 | Talleres Cordoba | Independiente | 2 | 3
+2,2025-01-29,Ind. Rivadavia,Barracas Central,29.01.2025 | Ind. Rivadavia | Barracas Central | 0 | 0
+2,2025-01-29,Velez Sarsfield,Platense,29.01.2025 | Velez Sarsfield | Platense | 0 | 1
+2,2025-01-28,Rosario Central,Lanus,28.01.2025 | Rosario Central | Lanus | 2 | 1
+2,2025-01-28,Sarmiento Junin,Godoy Cruz,28.01.2025 | Sarmiento Junin | Godoy Cruz | 0 | 0
+2,2025-01-28,Dep. Riestra,San Martin S.J.,28.01.2025 | Dep. Riestra | San Martin S.J. | 0 | 0
+2,2025-01-28,Banfield,Newells Old Boys,28.01.2025 | Banfield | Newells Old Boys | 3 | 0
+1,2025-01-27,Central Cordoba,Aldosivi,27.01.2025 | Central Cordoba | Aldosivi | 1 | 0
+1,2025-01-26,Boca Juniors,Argentinos Jrs,26.01.2025 | Boca Juniors | Argentinos Jrs | 0 | 0
+1,2025-01-26,Platense,River Plate,26.01.2025 | Platense | River Plate | 1 | 1
+1,2025-01-25,Estudiantes L.P.,Union de Santa Fe,25.01.2025 | Estudiantes L.P. | Union de Santa Fe | 3 | 1
+1,2025-01-25,Instituto,Gimnasia L.P.,25.01.2025 | Instituto | Gimnasia L.P. | 3 | 0
+1,2025-01-25,San Lorenzo,Talleres Cordoba,25.01.2025 | San Lorenzo | Talleres Cordoba | 1 | 0
+1,2025-01-25,San Martin S.J.,Atl. Tucuman,25.01.2025 | San Martin S.J. | Atl. Tucuman | 0 | 1
+1,2025-01-25,Belgrano,Huracan,25.01.2025 | Belgrano | Huracan | 1 | 1
+1,2025-01-24,Independiente,Sarmiento Junin,24.01.2025 | Independiente | Sarmiento Junin | 2 | 1
+1,2025-01-24,Barracas Central,Racing Club,24.01.2025 | Barracas Central | Racing Club | 1 | 3
+1,2025-01-24,Defensa y Justicia,Banfield,24.01.2025 | Defensa y Justicia | Banfield | 0 | 1
+1,2025-01-24,Lanus,Dep. Riestra,24.01.2025 | Lanus | Dep. Riestra | 0 | 2
+1,2025-01-24,Newells Old Boys,Ind. Rivadavia,24.01.2025 | Newells Old Boys | Ind. Rivadavia | 0 | 1
+1,2025-01-23,Godoy Cruz,Rosario Central,23.01.2025 | Godoy Cruz | Rosario Central | 0 | 3
+1,2025-01-23,Tigre,Velez Sarsfield,23.01.2025 | Tigre | Velez Sarsfield | 3 | 0

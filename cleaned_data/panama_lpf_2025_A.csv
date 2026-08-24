@@ -1,0 +1,97 @@
+round,date,team_home,team_away,full_text
+16,2025-05-11,Alianza,Arabe Unido,11.05.2025 | Alianza | Arabe Unido | 3 | 2
+16,2025-05-11,Miguelito,Plaza Amador,11.05.2025 | Miguelito | Plaza Amador | 0 | 1
+16,2025-05-11,Potros del Este,Tauro,11.05.2025 | Potros del Este | Tauro | 2 | 2
+16,2025-05-10,Herrera,Veraguas,10.05.2025 | Herrera | Veraguas | 3 | 0
+16,2025-05-10,San Francisco,Deportivo Universitario,10.05.2025 | San Francisco | Deportivo Universitario | 3 | 0
+16,2025-05-10,UMECIT,Independiente,10.05.2025 | UMECIT | Independiente | 1 | 1
+15,2025-05-04,Miguelito,Alianza,04.05.2025 | Miguelito | Alianza | 2 | 0
+15,2025-05-04,Plaza Amador,Potros del Este,04.05.2025 | Plaza Amador | Potros del Este | 2 | 0
+15,2025-05-04,Tauro,Arabe Unido,04.05.2025 | Tauro | Arabe Unido | 2 | 1
+15,2025-05-03,Independiente,Herrera,03.05.2025 | Independiente | Herrera | 3 | 2
+15,2025-05-03,UMECIT,San Francisco,03.05.2025 | UMECIT | San Francisco | 2 | 0
+15,2025-05-03,Veraguas,Deportivo Universitario,03.05.2025 | Veraguas | Deportivo Universitario | 2 | 2
+14,2025-04-29,Potros del Este,Miguelito,29.04.2025 | Potros del Este | Miguelito | 3 | 3
+14,2025-04-28,Veraguas,UMECIT,28.04.2025 | Veraguas | UMECIT | 2 | 0
+14,2025-04-27,Alianza,Tauro,27.04.2025 | Alianza | Tauro | 1 | 0
+14,2025-04-27,Arabe Unido,Plaza Amador,27.04.2025 | Arabe Unido | Plaza Amador | 0 | 1
+14,2025-04-27,Deportivo Universitario,Herrera,27.04.2025 | Deportivo Universitario | Herrera | 1 | 1
+14,2025-04-26,San Francisco,Independiente,26.04.2025 | San Francisco | Independiente | 1 | 1
+13,2025-04-15,UMECIT,Deportivo Universitario,15.04.2025 | UMECIT | Deportivo Universitario | 0 | 2
+13,2025-04-14,Miguelito,Arabe Unido,14.04.2025 | Miguelito | Arabe Unido | 1 | 0
+13,2025-04-13,Alianza,Potros del Este,13.04.2025 | Alianza | Potros del Este | 0 | 1
+13,2025-04-13,Plaza Amador,Tauro,13.04.2025 | Plaza Amador | Tauro | 0 | 2
+13,2025-04-13,Independiente,Veraguas,13.04.2025 | Independiente | Veraguas | 2 | 3
+13,2025-04-12,San Francisco,Herrera,12.04.2025 | San Francisco | Herrera | 1 | 1
+12,2025-04-08,Arabe Unido,Potros del Este,08.04.2025 | Arabe Unido | Potros del Este | 3 | 0
+12,2025-04-07,Tauro,Miguelito,07.04.2025 | Tauro | Miguelito | 0 | 1
+12,2025-04-06,Herrera,UMECIT,06.04.2025 | Herrera | UMECIT | 2 | 1
+12,2025-04-06,Plaza Amador,Alianza,06.04.2025 | Plaza Amador | Alianza | 3 | 3
+12,2025-04-06,Deportivo Universitario,Independiente,06.04.2025 | Deportivo Universitario | Independiente | 1 | 0
+12,2025-04-05,San Francisco,Veraguas,05.04.2025 | San Francisco | Veraguas | 4 | 0
+11,2025-04-01,Potros del Este,Deportivo Universitario,01.04.2025 | Potros del Este | Deportivo Universitario | 1 | 3
+11,2025-03-31,UMECIT,Miguelito,31.03.2025 | UMECIT | Miguelito | 0 | 0
+11,2025-03-30,Herrera,Plaza Amador,30.03.2025 | Herrera | Plaza Amador | 0 | 2
+11,2025-03-30,Arabe Unido,Independiente,30.03.2025 | Arabe Unido | Independiente | 0 | 1
+11,2025-03-30,Veraguas,Tauro,30.03.2025 | Veraguas | Tauro | 2 | 4
+11,2025-03-29,San Francisco,Alianza,29.03.2025 | San Francisco | Alianza | 1 | 2
+10,2025-03-25,Independiente,Plaza Amador,25.03.2025 | Independiente | Plaza Amador | 0 | 0
+10,2025-03-24,Tauro,UMECIT,24.03.2025 | Tauro | UMECIT | 4 | 2
+10,2025-03-23,Herrera,Alianza,23.03.2025 | Herrera | Alianza | 2 | 2
+10,2025-03-23,Arabe Unido,San Francisco,23.03.2025 | Arabe Unido | San Francisco | 1 | 3
+10,2025-03-23,Deportivo Universitario,Miguelito,23.03.2025 | Deportivo Universitario | Miguelito | 1 | 0
+10,2025-03-22,Veraguas,Potros del Este,22.03.2025 | Veraguas | Potros del Este | 1 | 0
+9,2025-03-18,Alianza,Deportivo Universitario,18.03.2025 | Alianza | Deportivo Universitario | 0 | 1
+9,2025-03-17,Veraguas,Arabe Unido,17.03.2025 | Veraguas | Arabe Unido | 0 | 2
+9,2025-03-16,Herrera,Potros del Este,16.03.2025 | Herrera | Potros del Este | 0 | 1
+9,2025-03-16,Plaza Amador,UMECIT,16.03.2025 | Plaza Amador | UMECIT | 1 | 1
+9,2025-03-16,Independiente,Tauro,16.03.2025 | Independiente | Tauro | 1 | 1
+9,2025-03-15,Miguelito,San Francisco,15.03.2025 | Miguelito | San Francisco | 0 | 1
+8,2025-03-11,Potros del Este,San Francisco,11.03.2025 | Potros del Este | San Francisco | 0 | 1
+8,2025-03-10,UMECIT,Arabe Unido,10.03.2025 | UMECIT | Arabe Unido | 0 | 1
+8,2025-03-09,Independiente,Miguelito,09.03.2025 | Independiente | Miguelito | 4 | 0
+8,2025-03-09,Plaza Amador,Deportivo Universitario,09.03.2025 | Plaza Amador | Deportivo Universitario | 3 | 1
+8,2025-03-09,Tauro,Herrera,09.03.2025 | Tauro | Herrera | 0 | 0
+8,2025-03-08,Veraguas,Alianza,08.03.2025 | Veraguas | Alianza | 2 | 0
+7,2025-02-28,Arabe Unido,Herrera,28.02.2025 | Arabe Unido | Herrera | 0 | 0
+7,2025-02-28,Alianza,Independiente,28.02.2025 | Alianza | Independiente | 1 | 1
+7,2025-02-27,UMECIT,Potros del Este,27.02.2025 | UMECIT | Potros del Este | 2 | 1
+7,2025-02-27,Miguelito,Veraguas,27.02.2025 | Miguelito | Veraguas | 2 | 2
+7,2025-02-27,Deportivo Universitario,Tauro,27.02.2025 | Deportivo Universitario | Tauro | 2 | 1
+7,2025-02-26,San Francisco,Plaza Amador,26.02.2025 | San Francisco | Plaza Amador | 0 | 1
+6,2025-02-25,Alianza,UMECIT,25.02.2025 | Alianza | UMECIT | 0 | 0
+6,2025-02-24,Potros del Este,Independiente,24.02.2025 | Potros del Este | Independiente | 2 | 1
+6,2025-02-23,Miguelito,Herrera,23.02.2025 | Miguelito | Herrera | 2 | 0
+6,2025-02-23,Plaza Amador,Veraguas,23.02.2025 | Plaza Amador | Veraguas | 3 | 1
+6,2025-02-23,Deportivo Universitario,Arabe Unido,23.02.2025 | Deportivo Universitario | Arabe Unido | 0 | 0
+6,2025-02-22,San Francisco,Tauro,22.02.2025 | San Francisco | Tauro | 1 | 1
+3,2025-02-21,Alianza,Miguelito,21.02.2025 | Alianza | Miguelito | 1 | 2
+5,2025-02-18,Veraguas,San Francisco,18.02.2025 | Veraguas | San Francisco | 0 | 0
+5,2025-02-17,UMECIT,Herrera,17.02.2025 | UMECIT | Herrera | 2 | 1
+5,2025-02-16,Alianza,Plaza Amador,16.02.2025 | Alianza | Plaza Amador | 0 | 2
+5,2025-02-16,Potros del Este,Arabe Unido,16.02.2025 | Potros del Este | Arabe Unido | 1 | 1
+5,2025-02-15,Independiente,Deportivo Universitario,15.02.2025 | Independiente | Deportivo Universitario | 0 | 0
+5,2025-02-15,Miguelito,Tauro,15.02.2025 | Miguelito | Tauro | 1 | 0
+4,2025-02-11,Veraguas,Independiente,11.02.2025 | Veraguas | Independiente | 0 | 1
+4,2025-02-10,Potros del Este,Alianza,10.02.2025 | Potros del Este | Alianza | 1 | 1
+4,2025-02-09,Herrera,San Francisco,09.02.2025 | Herrera | San Francisco | 0 | 1
+4,2025-02-09,Tauro,Plaza Amador,09.02.2025 | Tauro | Plaza Amador | 4 | 0
+4,2025-02-08,Arabe Unido,Miguelito,08.02.2025 | Arabe Unido | Miguelito | 2 | 1
+4,2025-02-08,Deportivo Universitario,UMECIT,08.02.2025 | Deportivo Universitario | UMECIT | 2 | 2
+3,2025-02-04,San Francisco,UMECIT,04.02.2025 | San Francisco | UMECIT | 0 | 2
+3,2025-02-02,Herrera,Independiente,02.02.2025 | Herrera | Independiente | 3 | 2
+3,2025-02-02,Arabe Unido,Tauro,02.02.2025 | Arabe Unido | Tauro | 1 | 0
+3,2025-02-02,Deportivo Universitario,Veraguas,02.02.2025 | Deportivo Universitario | Veraguas | 4 | 0
+3,2025-02-01,Potros del Este,Plaza Amador,01.02.2025 | Potros del Este | Plaza Amador | 2 | 2
+2,2025-01-28,Tauro,Alianza,28.01.2025 | Tauro | Alianza | 1 | 2
+2,2025-01-27,UMECIT,Veraguas,27.01.2025 | UMECIT | Veraguas | 0 | 0
+2,2025-01-26,Herrera,Deportivo Universitario,26.01.2025 | Herrera | Deportivo Universitario | 0 | 0
+2,2025-01-26,Plaza Amador,Arabe Unido,26.01.2025 | Plaza Amador | Arabe Unido | 2 | 1
+2,2025-01-26,Independiente,San Francisco,26.01.2025 | Independiente | San Francisco | 1 | 0
+2,2025-01-25,Miguelito,Potros del Este,25.01.2025 | Miguelito | Potros del Este | 0 | 0
+1,2025-01-21,Veraguas,Herrera,21.01.2025 | Veraguas | Herrera | 2 | 1
+1,2025-01-20,Arabe Unido,Alianza,20.01.2025 | Arabe Unido | Alianza | 2 | 2
+1,2025-01-19,Tauro,Potros del Este,19.01.2025 | Tauro | Potros del Este | 2 | 2
+1,2025-01-19,Plaza Amador,Miguelito,19.01.2025 | Plaza Amador | Miguelito | 0 | 1
+1,2025-01-19,Deportivo Universitario,San Francisco,19.01.2025 | Deportivo Universitario | San Francisco | 1 | 1
+1,2025-01-18,Independiente,UMECIT,18.01.2025 | Independiente | UMECIT | 2 | 1

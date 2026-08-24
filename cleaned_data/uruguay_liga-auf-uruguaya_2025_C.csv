@@ -1,0 +1,121 @@
+round,date,team_home,team_away,full_text
+15,2025-11-09,Defensor Sp.,Nacional,09.11.2025 | Defensor Sp. | Nacional | 1 | 1
+15,2025-11-09,Juventud,Progreso,09.11.2025 | Juventud | Progreso | 1 | 1
+15,2025-11-09,Montevideo City,Penarol,09.11.2025 | Montevideo City | Penarol | 0 | 2
+15,2025-11-09,CA Cerro,Boston River,09.11.2025 | CA Cerro | Boston River | 0 | 0
+15,2025-11-08,Wanderers,River Plate,08.11.2025 | Wanderers | River Plate | 0 | 4
+15,2025-11-08,Danubio,Plaza Colonia,08.11.2025 | Danubio | Plaza Colonia | 2 | 0
+15,2025-11-07,Cerro Largo,Liverpool M.,07.11.2025 | Cerro Largo | Liverpool M. | 2 | 0
+15,2025-11-07,Miramar,Racing Montevideo,07.11.2025 | Miramar | Racing Montevideo | 0 | 2
+14,2025-11-03,Plaza Colonia,Cerro Largo,03.11.2025 | Plaza Colonia | Cerro Largo | 0 | 2
+14,2025-11-02,Penarol,Defensor Sp.,02.11.2025 | Penarol | Defensor Sp. | 2 | 1
+14,2025-11-02,Racing Montevideo,Danubio,02.11.2025 | Racing Montevideo | Danubio | 1 | 2
+14,2025-11-02,River Plate,Miramar,02.11.2025 | River Plate | Miramar | 1 | 1
+14,2025-11-01,CA Cerro,Nacional,01.11.2025 | CA Cerro | Nacional | 0 | 0
+14,2025-11-01,Liverpool M.,Juventud,01.11.2025 | Liverpool M. | Juventud | 0 | 1
+14,2025-11-01,Progreso,Montevideo City,01.11.2025 | Progreso | Montevideo City | 0 | 5
+14,2025-11-01,Wanderers,Boston River,01.11.2025 | Wanderers | Boston River | 2 | 2
+13,2025-10-27,Miramar,Boston River,27.10.2025 | Miramar | Boston River | 0 | 4
+13,2025-10-26,Wanderers,Nacional,26.10.2025 | Wanderers | Nacional | 0 | 0
+13,2025-10-26,Liverpool M.,Progreso,26.10.2025 | Liverpool M. | Progreso | 3 | 1
+13,2025-10-26,Danubio,River Plate,26.10.2025 | Danubio | River Plate | 0 | 1
+13,2025-10-25,Cerro Largo,Racing Montevideo,25.10.2025 | Cerro Largo | Racing Montevideo | 2 | 2
+13,2025-10-25,CA Cerro,Penarol,25.10.2025 | CA Cerro | Penarol | 2 | 0
+13,2025-10-25,Juventud,Plaza Colonia,25.10.2025 | Juventud | 2 | Plaza Colonia | 0 | 2
+13,2025-10-25,Defensor Sp.,Montevideo City,25.10.2025 | Defensor Sp. | Montevideo City | 0 | 1
+12,2025-10-21,Plaza Colonia,Liverpool M.,21.10.2025 | Plaza Colonia | Liverpool M. | 0 | 1
+12,2025-10-20,Racing Montevideo,Juventud,20.10.2025 | Racing Montevideo | Juventud | 0 | 0
+12,2025-10-19,Penarol,Wanderers,19.10.2025 | Penarol | Wanderers | 3 | 0
+12,2025-10-19,Progreso,Defensor Sp.,19.10.2025 | Progreso | Defensor Sp. | 2 | 3
+12,2025-10-19,River Plate,Cerro Largo,19.10.2025 | River Plate | Cerro Largo | 1 | 1
+12,2025-10-18,Nacional,Miramar,18.10.2025 | Nacional | Miramar | 3 | 1
+12,2025-10-18,Montevideo City,CA Cerro,18.10.2025 | Montevideo City | CA Cerro | 1 | 2
+12,2025-10-18,Boston River,Danubio,18.10.2025 | Boston River | Danubio | 0 | 0
+11,2025-10-12,Danubio,Nacional,12.10.2025 | Danubio | Nacional | 0 | 0
+11,2025-10-12,Juventud,River Plate,12.10.2025 | Juventud | River Plate | 1 | 2
+11,2025-10-12,Montevideo City,Wanderers,12.10.2025 | Montevideo City | Wanderers | 2 | 2
+11,2025-10-12,CA Cerro,Defensor Sp.,12.10.2025 | CA Cerro | Defensor Sp. | 1 | 0
+11,2025-10-11,Miramar,Penarol,11.10.2025 | Miramar | Penarol | 2 | 2
+11,2025-10-11,Cerro Largo,Boston River,11.10.2025 | Cerro Largo | Boston River | 2 | 2
+11,2025-10-11,Liverpool M.,Racing Montevideo,11.10.2025 | Liverpool M. | Racing Montevideo | 2 | 2
+11,2025-10-11,Plaza Colonia,Progreso,11.10.2025 | Plaza Colonia | Progreso | 0 | 1
+10,2025-10-07,Defensor Sp.,Wanderers,07.10.2025 | Defensor Sp. | Wanderers | 2 | 1
+10,2025-10-05,Penarol,Danubio,05.10.2025 | Penarol | Danubio | 2 | 0
+10,2025-10-05,Racing Montevideo,Plaza Colonia,05.10.2025 | Racing Montevideo | Plaza Colonia | 0 | 1
+10,2025-10-05,Progreso,CA Cerro,05.10.2025 | Progreso | CA Cerro | 2 | 0
+10,2025-10-04,Nacional,Cerro Largo,04.10.2025 | Nacional | Cerro Largo | 2 | 1
+10,2025-10-04,Boston River,Juventud,04.10.2025 | Boston River | Juventud | 0 | 0
+10,2025-10-04,Montevideo City,Miramar,04.10.2025 | Montevideo City | Miramar | 3 | 0
+10,2025-10-03,River Plate,Liverpool M.,03.10.2025 | River Plate | 2 | Liverpool M. | 0 | 1
+9,2025-09-29,Racing Montevideo,Progreso,29.09.2025 | Racing Montevideo | Progreso | 0 | 0
+9,2025-09-29,Miramar,Defensor Sp.,29.09.2025 | Miramar | Defensor Sp. | 0 | 0
+9,2025-09-28,Plaza Colonia,River Plate,28.09.2025 | Plaza Colonia | River Plate | 1 | 1
+9,2025-09-28,Juventud,Nacional,28.09.2025 | Juventud | Nacional | 0 | 0
+9,2025-09-28,Danubio,Montevideo City,28.09.2025 | Danubio | Montevideo City | 2 | 0
+9,2025-09-27,Cerro Largo,Penarol,27.09.2025 | Cerro Largo | Penarol | 1 | 3
+9,2025-09-27,Liverpool M.,Boston River,27.09.2025 | Liverpool M. | Boston River | 2 | 1
+9,2025-09-27,Wanderers,CA Cerro,27.09.2025 | Wanderers | CA Cerro | 0 | 1
+8,2025-09-21,Penarol,Juventud,21.09.2025 | Penarol | Juventud | 1 | 0
+8,2025-09-21,River Plate,Racing Montevideo,21.09.2025 | River Plate | Racing Montevideo | 2 | 3
+8,2025-09-21,CA Cerro,Miramar,21.09.2025 | CA Cerro | Miramar | 1 | 0
+8,2025-09-21,Progreso,Wanderers,21.09.2025 | Progreso | Wanderers | 2 | 0
+8,2025-09-20,Nacional,Liverpool M.,20.09.2025 | Nacional | Liverpool M. | 3 | 1
+8,2025-09-20,Boston River,Plaza Colonia,20.09.2025 | Boston River | Plaza Colonia | 6 | 1
+8,2025-09-20,Montevideo City,Cerro Largo,20.09.2025 | Montevideo City | Cerro Largo | 1 | 0
+8,2025-09-20,Defensor Sp.,Danubio,20.09.2025 | Defensor Sp. | Danubio | 2 | 1
+7,2025-09-15,Miramar,Wanderers,15.09.2025 | Miramar | Wanderers | 3 | 0
+7,2025-09-14,Plaza Colonia,Nacional,14.09.2025 | Plaza Colonia | Nacional | 1 | 2
+7,2025-09-14,Danubio,CA Cerro,14.09.2025 | Danubio | CA Cerro | 5 | 1
+7,2025-09-14,Juventud,Montevideo City,14.09.2025 | Juventud | Montevideo City | 0 | 1
+7,2025-09-14,River Plate,Progreso,14.09.2025 | River Plate | Progreso | 0 | 0
+7,2025-09-13,Cerro Largo,Defensor Sp.,13.09.2025 | Cerro Largo | Defensor Sp. | 1 | 0
+7,2025-09-13,Liverpool M.,Penarol,13.09.2025 | Liverpool M. | Penarol | 2 | 2
+7,2025-09-13,Racing Montevideo,Boston River,13.09.2025 | Racing Montevideo | Boston River | 0 | 0
+6,2025-09-08,Montevideo City,Liverpool M.,08.09.2025 | Montevideo City | Liverpool M. | 1 | 1
+6,2025-09-07,Nacional,Racing Montevideo,07.09.2025 | Nacional | Racing Montevideo | 3 | 0
+6,2025-09-07,Progreso,Miramar,07.09.2025 | Progreso | Miramar | 3 | 2
+6,2025-09-07,CA Cerro,Cerro Largo,07.09.2025 | CA Cerro | 2 | Cerro Largo | 0 | 1
+6,2025-09-07,Boston River,River Plate,07.09.2025 | Boston River | River Plate | 2 | 0
+6,2025-09-06,Penarol,Plaza Colonia,06.09.2025 | Penarol | Plaza Colonia | 1 | 0
+6,2025-09-06,Wanderers,Danubio,06.09.2025 | Wanderers | Danubio | 0 | 2
+6,2025-09-06,Defensor Sp.,Juventud,06.09.2025 | Defensor Sp. | Juventud | 1 | 0
+5,2025-09-02,Cerro Largo,Wanderers,02.09.2025 | Cerro Largo | Wanderers | 0 | 1
+5,2025-09-01,Boston River,Progreso,01.09.2025 | Boston River | Progreso | 2 | 1
+5,2025-08-31,Racing Montevideo,Penarol,31.08.2025 | Racing Montevideo | Penarol | 1 | 4
+5,2025-08-31,Juventud,CA Cerro,31.08.2025 | Juventud | CA Cerro | 1 | 0
+5,2025-08-31,Danubio,Miramar,31.08.2025 | Danubio | Miramar | 2 | 3
+5,2025-08-31,Plaza Colonia,Montevideo City,31.08.2025 | Plaza Colonia | Montevideo City | 2 | 4
+5,2025-08-30,River Plate,Nacional,30.08.2025 | River Plate | Nacional | 0 | 3
+5,2025-08-30,Liverpool M.,Defensor Sp.,30.08.2025 | Liverpool M. | Defensor Sp. | 2 | 0
+4,2025-08-25,Montevideo City,Racing Montevideo,25.08.2025 | Montevideo City | Racing Montevideo | 4 | 0
+4,2025-08-24,Penarol,River Plate,24.08.2025 | Penarol | River Plate | 2 | 0
+4,2025-08-24,CA Cerro,Liverpool M.,24.08.2025 | CA Cerro | Liverpool M. | 2 | 1
+4,2025-08-24,Progreso,Danubio,24.08.2025 | Progreso | Danubio | 1 | 0
+4,2025-08-24,Miramar,Cerro Largo,24.08.2025 | Miramar | Cerro Largo | 1 | 1
+4,2025-08-23,Nacional,Boston River,23.08.2025 | Nacional | Boston River | 0 | 0
+4,2025-08-23,Defensor Sp.,Plaza Colonia,23.08.2025 | Defensor Sp. | Plaza Colonia | 1 | 0
+4,2025-08-23,Wanderers,Juventud,23.08.2025 | Wanderers | Juventud | 0 | 1
+3,2025-08-19,Cerro Largo,Danubio,19.08.2025 | Cerro Largo | Danubio | 1 | 0
+3,2025-08-17,Plaza Colonia,CA Cerro,17.08.2025 | Plaza Colonia | CA Cerro | 0 | 2
+3,2025-08-17,Racing Montevideo,Defensor Sp.,17.08.2025 | Racing Montevideo | Defensor Sp. | 0 | 1
+3,2025-08-17,River Plate,Montevideo City,17.08.2025 | River Plate | Montevideo City | 0 | 2
+3,2025-08-16,Nacional,Progreso,16.08.2025 | Nacional | Progreso | 3 | 1
+3,2025-08-16,Liverpool M.,Wanderers,16.08.2025 | Liverpool M. | Wanderers | 2 | 1
+3,2025-08-16,Juventud,Miramar,16.08.2025 | Juventud | Miramar | 2 | 1
+3,2025-08-16,Boston River,Penarol,16.08.2025 | Boston River | Penarol | 2 | 1
+2,2025-08-12,Defensor Sp.,River Plate,12.08.2025 | Defensor Sp. | River Plate | 1 | 0
+2,2025-08-10,Miramar,Liverpool M.,10.08.2025 | Miramar | Liverpool M. | 0 | 1
+2,2025-08-10,Wanderers,Plaza Colonia,10.08.2025 | Wanderers | Plaza Colonia | 0 | 0
+2,2025-08-10,Danubio,Juventud,10.08.2025 | Danubio | Juventud | 2 | 1
+2,2025-08-10,CA Cerro,Racing Montevideo,10.08.2025 | CA Cerro | Racing Montevideo | 1 | 2
+2,2025-08-09,Penarol,Nacional,09.08.2025 | Penarol | Nacional | 3 | 0
+2,2025-08-09,Progreso,Cerro Largo,09.08.2025 | Progreso | Cerro Largo | 1 | 2
+2,2025-08-09,Montevideo City,Boston River,09.08.2025 | Montevideo City | Boston River | 1 | 1
+1,2025-08-03,Plaza Colonia,Miramar,03.08.2025 | Plaza Colonia | Miramar | 1 | 3
+1,2025-08-03,Liverpool M.,Danubio,03.08.2025 | Liverpool M. | Danubio | 0 | 0
+1,2025-08-03,Racing Montevideo,Wanderers,03.08.2025 | Racing Montevideo | Wanderers | 1 | 0
+1,2025-08-03,Boston River,Defensor Sp.,03.08.2025 | Boston River | Defensor Sp. | 4 | 0
+1,2025-08-02,Nacional,Montevideo City,02.08.2025 | Nacional | Montevideo City | 5 | 2
+1,2025-08-02,River Plate,CA Cerro,02.08.2025 | River Plate | CA Cerro | 0 | 0
+1,2025-08-02,Juventud,Cerro Largo,02.08.2025 | Juventud | Cerro Largo | 0 | 2
+1,2025-08-02,Penarol,Progreso,02.08.2025 | Penarol | Progreso | 2 | 1

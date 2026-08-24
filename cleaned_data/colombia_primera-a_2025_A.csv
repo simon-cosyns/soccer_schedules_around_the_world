@@ -1,0 +1,201 @@
+round,date,team_home,team_away,full_text
+20,2025-05-25,Alianza,Santa Fe,25.05.2025 | Alianza | Santa Fe | 6 | 1
+20,2025-05-25,America De Cali,Ind. Medellin,25.05.2025 | America De Cali | Ind. Medellin | 2 | 0
+20,2025-05-25,Atl. Nacional,Junior,25.05.2025 | Atl. Nacional | Junior | 2 | 3
+20,2025-05-25,Bucaramanga,Dep. Pasto,25.05.2025 | Bucaramanga | Dep. Pasto | 2 | 1
+20,2025-05-25,Deportes Tolima,Aguilas,25.05.2025 | Deportes Tolima | Aguilas | 1 | 2
+20,2025-05-25,Millonarios,Chico,25.05.2025 | Millonarios | Chico | 2 | 4 | 2
+20,2025-05-25,Once Caldas,Dep. Cali,25.05.2025 | Once Caldas | Dep. Cali | 1 | 0
+20,2025-05-24,Fortaleza,U. Magdalena,24.05.2025 | Fortaleza | U. Magdalena | 0 | 1
+20,2025-05-24,Envigado,Llaneros,24.05.2025 | Envigado | Llaneros | 1 | 2
+20,2025-05-24,Pereira,Inter Bogotá,24.05.2025 | Pereira | Inter Bogotá | 3 | 0
+19,2025-05-20,Ind. Medellin,Pereira,20.05.2025 | Ind. Medellin | Pereira | 2 | 0
+19,2025-05-20,Llaneros,Deportes Tolima,20.05.2025 | Llaneros | Deportes Tolima | 1 | 3
+19,2025-05-19,U. Magdalena,America De Cali,19.05.2025 | U. Magdalena | America De Cali | 0 | 2
+19,2025-05-19,Dep. Pasto,Once Caldas,19.05.2025 | Dep. Pasto | Once Caldas | 2 | 1
+19,2025-05-18,Aguilas,Atl. Nacional,18.05.2025 | Aguilas | Atl. Nacional | 2 | 1
+19,2025-05-18,Chico,Alianza,18.05.2025 | Chico | Alianza | 2 | 1
+19,2025-05-18,Dep. Cali,Santa Fe,18.05.2025 | Dep. Cali | Santa Fe | 2 | 0 | 2
+19,2025-05-17,Inter Bogotá,Bucaramanga,17.05.2025 | Inter Bogotá | Bucaramanga | 1 | 4
+19,2025-05-17,Millonarios,Envigado,17.05.2025 | Millonarios | Envigado | 1 | 0
+19,2025-05-17,Junior,Fortaleza,17.05.2025 | Junior | Fortaleza | 2 | 1
+13,2025-05-16,Ind. Medellin,Deportes Tolima,16.05.2025 | Ind. Medellin | Deportes Tolima | 0 | 1
+18,2025-05-14,Pereira,Dep. Pasto,14.05.2025 | Pereira | Dep. Pasto | 1 | 0
+18,2025-05-12,Once Caldas,Millonarios,12.05.2025 | Once Caldas | Millonarios | 2 | 2
+18,2025-05-12,Atl. Nacional,Llaneros,12.05.2025 | Atl. Nacional | Llaneros | 2 | 1
+18,2025-05-11,Alianza,Dep. Cali,11.05.2025 | Alianza | Dep. Cali | 2 | 0
+18,2025-05-11,Santa Fe,Junior,11.05.2025 | Santa Fe | Junior | 2 | 1
+18,2025-05-11,Fortaleza,Inter Bogotá,11.05.2025 | Fortaleza | Inter Bogotá | 4 | 0
+18,2025-05-10,Envigado,Aguilas,10.05.2025 | Envigado | Aguilas | 0 | 2
+18,2025-05-10,Bucaramanga,Ind. Medellin,10.05.2025 | Bucaramanga | Ind. Medellin | 2 | 0
+18,2025-05-10,Deportes Tolima,U. Magdalena,10.05.2025 | Deportes Tolima | U. Magdalena | 3 | 1
+15,2025-05-09,Millonarios,Pereira,09.05.2025 | Millonarios | Pereira | 0 | 0
+17,2025-05-06,Chico,Envigado,06.05.2025 | Chico | Envigado | 1 | 0
+17,2025-05-05,Aguilas,Pereira,05.05.2025 | Aguilas | Pereira | 3 | 3
+17,2025-05-05,U. Magdalena,Once Caldas,05.05.2025 | Awrd | U. Magdalena | Once Caldas | 0 | 3
+17,2025-05-04,Ind. Medellin,Atl. Nacional,04.05.2025 | Ind. Medellin | 2 | Atl. Nacional | 1 | 1
+17,2025-05-04,Dep. Pasto,Fortaleza,04.05.2025 | Dep. Pasto | Fortaleza | 1 | 0
+17,2025-05-04,Junior,America De Cali,04.05.2025 | Junior | America De Cali | 0 | 0
+17,2025-05-04,Dep. Cali,Deportes Tolima,04.05.2025 | Dep. Cali | Deportes Tolima | 1 | 1
+17,2025-05-03,Llaneros,Bucaramanga,03.05.2025 | Llaneros | Bucaramanga | 2 | 1
+17,2025-05-03,Inter Bogotá,Alianza,03.05.2025 | Inter Bogotá | Alianza | 0 | 2
+11,2025-05-01,Envigado,Once Caldas,01.05.2025 | Envigado | Once Caldas | 1 | 2
+15,2025-05-01,Llaneros,Santa Fe,01.05.2025 | Llaneros | Santa Fe | 0 | 1
+4,2025-05-01,Aguilas,America De Cali,01.05.2025 | Aguilas | America De Cali | 0 | 1
+16,2025-04-30,Atl. Nacional,Dep. Pasto,30.04.2025 | Atl. Nacional | Dep. Pasto | 3 | 0
+16,2025-04-28,Bucaramanga,Millonarios,28.04.2025 | Bucaramanga | Millonarios | 0 | 2
+16,2025-04-28,America De Cali,Dep. Cali,28.04.2025 | America De Cali | Dep. Cali | 2 | 0
+16,2025-04-27,Fortaleza,Ind. Medellin,27.04.2025 | Fortaleza | Ind. Medellin | 0 | 0
+16,2025-04-27,Santa Fe,Chico,27.04.2025 | Santa Fe | Chico | 0 | 0
+16,2025-04-27,Pereira,Junior,27.04.2025 | Pereira | Junior | 1 | 0
+16,2025-04-27,Deportes Tolima,Inter Bogotá,27.04.2025 | Deportes Tolima | Inter Bogotá | 2 | 1
+16,2025-04-26,Alianza,Aguilas,26.04.2025 | Alianza | Aguilas | 0 | 0
+16,2025-04-26,Envigado,U. Magdalena,26.04.2025 | Envigado | U. Magdalena | 2 | 1
+15,2025-04-22,Dep. Pasto,Aguilas,22.04.2025 | Dep. Pasto | Aguilas | 1 | 0
+15,2025-04-22,Chico,Fortaleza,22.04.2025 | Chico | Fortaleza | 0 | 2
+15,2025-04-21,Dep. Cali,Atl. Nacional,21.04.2025 | Dep. Cali | Atl. Nacional | 1 | 0
+15,2025-04-20,U. Magdalena,Bucaramanga,20.04.2025 | U. Magdalena | Bucaramanga | 1 | 1
+15,2025-04-20,Envigado,Deportes Tolima,20.04.2025 | Envigado | Deportes Tolima | 3 | 1
+15,2025-04-20,Ind. Medellin,Once Caldas,20.04.2025 | Ind. Medellin | Once Caldas | 2 | 0
+15,2025-04-20,Junior,Alianza,20.04.2025 | Junior | Alianza | 2 | 0
+15,2025-04-19,Inter Bogotá,America De Cali,19.04.2025 | Inter Bogotá | America De Cali | 2 | 0
+14,2025-04-18,Fortaleza,Llaneros,18.04.2025 | Fortaleza | Llaneros | 1 | 0
+14,2025-04-17,Bucaramanga,Envigado,17.04.2025 | Bucaramanga | Envigado | 1 | 0
+14,2025-04-17,America De Cali,Millonarios,17.04.2025 | America De Cali | Millonarios | 0 | 0
+14,2025-04-17,Atl. Nacional,Chico,17.04.2025 | Atl. Nacional | Chico | 4 | 1
+14,2025-04-16,Once Caldas,Inter Bogotá,16.04.2025 | Once Caldas | Inter Bogotá | 3 | 0
+14,2025-04-16,Aguilas,U. Magdalena,16.04.2025 | Aguilas | U. Magdalena | 1 | 1
+14,2025-04-16,Deportes Tolima,Junior,16.04.2025 | Deportes Tolima | Junior | 0 | 0
+14,2025-04-16,Pereira,Dep. Cali,16.04.2025 | Pereira | Dep. Cali | 2 | 0
+14,2025-04-15,Alianza,Dep. Pasto,15.04.2025 | Alianza | Dep. Pasto | 1 | 0
+14,2025-04-15,Santa Fe,Ind. Medellin,15.04.2025 | Santa Fe | Ind. Medellin | 1 | 2
+13,2025-04-14,Bucaramanga,Fortaleza,14.04.2025 | Bucaramanga | Fortaleza | 4 | 0
+13,2025-04-14,Millonarios,Atl. Nacional,14.04.2025 | Millonarios | Atl. Nacional | 0 | 0
+13,2025-04-13,Chico,Once Caldas,13.04.2025 | Chico | 2 | Once Caldas | 2 | 0 | 0
+13,2025-04-13,Dep. Pasto,Junior,13.04.2025 | Dep. Pasto | Junior | 3 | 3
+13,2025-04-12,U. Magdalena,Pereira,12.04.2025 | U. Magdalena | Pereira | 2 | 2
+13,2025-04-12,Envigado,America De Cali,12.04.2025 | Envigado | America De Cali | 1 | 1
+13,2025-04-12,Dep. Cali,Aguilas,12.04.2025 | Dep. Cali | Aguilas | 0 | 0
+13,2025-04-12,Llaneros,Alianza,12.04.2025 | Llaneros | Alianza | 0 | 1
+13,2025-04-11,Inter Bogotá,Santa Fe,11.04.2025 | Inter Bogotá | Santa Fe | 2 | 1
+12,2025-04-07,Aguilas,Llaneros,07.04.2025 | Aguilas | Llaneros | 1 | 2
+12,2025-04-07,Junior,Ind. Medellin,07.04.2025 | Junior | Ind. Medellin | 1 | 0
+12,2025-04-06,Fortaleza,Millonarios,06.04.2025 | Fortaleza | Millonarios | 0 | 2
+12,2025-04-06,Pereira,Chico,06.04.2025 | Pereira | Chico | 1 | 1
+12,2025-04-06,Deportes Tolima,Bucaramanga,06.04.2025 | Deportes Tolima | Bucaramanga | 2 | 1
+12,2025-04-06,Once Caldas,America De Cali,06.04.2025 | Once Caldas | America De Cali | 3 | 0
+12,2025-04-05,Dep. Cali,Inter Bogotá,05.04.2025 | Dep. Cali | Inter Bogotá | 3 | 1
+12,2025-04-05,Atl. Nacional,U. Magdalena,05.04.2025 | Atl. Nacional | U. Magdalena | 1 | 0
+12,2025-04-05,Santa Fe,Dep. Pasto,05.04.2025 | Santa Fe | Dep. Pasto | 1 | 1
+12,2025-04-04,Alianza,Envigado,04.04.2025 | Alianza | Envigado | 1 | 2
+11,2025-04-02,Chico,Deportes Tolima,02.04.2025 | Chico | Deportes Tolima | 1 | 4
+11,2025-04-02,Llaneros,Pereira,02.04.2025 | Llaneros | Pereira | 2 | 1
+11,2025-04-01,Inter Bogotá,Junior,01.04.2025 | Inter Bogotá | Junior | 0 | 1
+11,2025-03-31,America De Cali,Fortaleza,31.03.2025 | America De Cali | Fortaleza | 1 | 0
+11,2025-03-31,U. Magdalena,Santa Fe,31.03.2025 | U. Magdalena | Santa Fe | 0 | 1
+11,2025-03-30,Millonarios,Alianza,30.03.2025 | Millonarios | Alianza | 2 | 0
+11,2025-03-30,Ind. Medellin,Aguilas,30.03.2025 | Ind. Medellin | Aguilas | 0 | 0
+11,2025-03-30,Dep. Pasto,Dep. Cali,30.03.2025 | Dep. Pasto | Dep. Cali | 1 | 1
+11,2025-03-29,Bucaramanga,Atl. Nacional,29.03.2025 | Bucaramanga | Atl. Nacional | 2 | 0
+18,2025-03-28,America De Cali,Chico,28.03.2025 | America De Cali | Chico | 3 | 0
+16,2025-03-28,Once Caldas,Llaneros,28.03.2025 | Once Caldas | Llaneros | 1 | 0
+17,2025-03-27,Millonarios,Santa Fe,27.03.2025 | Millonarios | Santa Fe | 2 | 0
+10,2025-03-27,Junior,U. Magdalena,27.03.2025 | Junior | U. Magdalena | 2 | 1
+4,2025-03-26,Alianza,Fortaleza,26.03.2025 | Alianza | Fortaleza | 0 | 0
+10,2025-03-25,Dep. Cali,America De Cali,25.03.2025 | Dep. Cali | America De Cali | 1 | 1
+10,2025-03-24,Deportes Tolima,Llaneros,24.03.2025 | Deportes Tolima | Llaneros | 1 | 0
+10,2025-03-24,Aguilas,Envigado,24.03.2025 | Aguilas | Envigado | 1 | 0
+10,2025-03-23,Atl. Nacional,Ind. Medellin,23.03.2025 | Atl. Nacional | 2 | Ind. Medellin | 1 | 1
+10,2025-03-23,Alianza,Bucaramanga,23.03.2025 | Alianza | Bucaramanga | 1 | 2
+10,2025-03-23,Santa Fe,Millonarios,23.03.2025 | Santa Fe | Millonarios | 3 | 2
+10,2025-03-23,Pereira,Once Caldas,23.03.2025 | Pereira | Once Caldas | 1 | 1
+10,2025-03-22,Inter Bogotá,Fortaleza,22.03.2025 | Inter Bogotá | Fortaleza | 1 | 1
+10,2025-03-22,Chico,Dep. Pasto,22.03.2025 | Chico | Dep. Pasto | 0 | 0
+5,2025-03-20,Atl. Nacional,Deportes Tolima,20.03.2025 | Atl. Nacional | Deportes Tolima | 4 | 3
+6,2025-03-20,Santa Fe,Bucaramanga,20.03.2025 | Santa Fe | Bucaramanga | 1 | 1
+9,2025-03-17,Llaneros,Junior,17.03.2025 | Llaneros | Junior | 0 | 1
+9,2025-03-17,Ind. Medellin,Dep. Cali,17.03.2025 | Ind. Medellin | Dep. Cali | 0 | 0
+9,2025-03-16,U. Magdalena,Chico,16.03.2025 | U. Magdalena | Chico | 1 | 1
+9,2025-03-16,Millonarios,Aguilas,16.03.2025 | Millonarios | Aguilas | 1 | 0
+9,2025-03-16,Once Caldas,Santa Fe,16.03.2025 | Once Caldas | Santa Fe | 0 | 1
+9,2025-03-16,America De Cali,Alianza,16.03.2025 | America De Cali | Alianza | 3 | 0
+9,2025-03-15,Fortaleza,Deportes Tolima,15.03.2025 | Fortaleza | Deportes Tolima | 1 | 1
+9,2025-03-15,Envigado,Atl. Nacional,15.03.2025 | Envigado | Atl. Nacional | 0 | 0
+9,2025-03-15,Dep. Pasto,Inter Bogotá,15.03.2025 | Dep. Pasto | Inter Bogotá | 2 | 1
+9,2025-03-15,Bucaramanga,Pereira,15.03.2025 | Bucaramanga | Pereira | 0 | 1
+8,2025-03-11,Deportes Tolima,Once Caldas,11.03.2025 | Deportes Tolima | Once Caldas | 2 | 0
+8,2025-03-11,Dep. Cali,Chico,11.03.2025 | Dep. Cali | Chico | 0 | 0
+8,2025-03-10,Atl. Nacional,America De Cali,10.03.2025 | Atl. Nacional | America De Cali | 1 | 0
+8,2025-03-09,Junior,Millonarios,09.03.2025 | Junior | Millonarios | 2 | 1
+8,2025-03-09,Santa Fe,Fortaleza,09.03.2025 | Santa Fe | Fortaleza | 2 | 0
+8,2025-03-09,Inter Bogotá,Ind. Medellin,09.03.2025 | Inter Bogotá | Ind. Medellin | 0 | 0
+8,2025-03-09,Dep. Pasto,Llaneros,09.03.2025 | Dep. Pasto | Llaneros | 1 | 0
+8,2025-03-08,Alianza,U. Magdalena,08.03.2025 | Alianza | U. Magdalena | 1 | 0
+8,2025-03-08,Pereira,Envigado,08.03.2025 | Pereira | Envigado | 2 | 0
+8,2025-03-08,Aguilas,Bucaramanga,08.03.2025 | Aguilas | Bucaramanga | 0 | 1
+7,2025-03-05,Fortaleza,Atl. Nacional,05.03.2025 | Fortaleza | Atl. Nacional | 1 | 5
+7,2025-03-05,Llaneros,Inter Bogotá,05.03.2025 | Llaneros | Inter Bogotá | 1 | 0
+7,2025-03-04,Ind. Medellin,Dep. Pasto,04.03.2025 | Ind. Medellin | Dep. Pasto | 1 | 0
+7,2025-03-03,U. Magdalena,Dep. Cali,03.03.2025 | U. Magdalena | Dep. Cali | 2 | 2
+7,2025-03-02,Millonarios,Deportes Tolima,02.03.2025 | Millonarios | Deportes Tolima | 2 | 0
+7,2025-03-02,Once Caldas,Alianza,02.03.2025 | Once Caldas | Alianza | 1 | 2
+7,2025-03-02,America De Cali,Pereira,02.03.2025 | America De Cali | Pereira | 2 | 0
+7,2025-03-01,Bucaramanga,Junior,01.03.2025 | Bucaramanga | Junior | 1 | 1
+7,2025-03-01,Chico,Aguilas,01.03.2025 | Chico | Aguilas | 1 | 1
+7,2025-02-28,Envigado,Santa Fe,28.02.2025 | Envigado | Santa Fe | 1 | 7
+6,2025-02-28,Ind. Medellin,Llaneros,28.02.2025 | Ind. Medellin | Llaneros | 3 | 0
+6,2025-02-26,Dep. Pasto,U. Magdalena,26.02.2025 | Dep. Pasto | U. Magdalena | 2 | 1
+6,2025-02-25,Junior,Envigado,25.02.2025 | Junior | Envigado | 1 | 2
+6,2025-02-24,Deportes Tolima,America De Cali,24.02.2025 | Deportes Tolima | America De Cali | 0 | 0
+6,2025-02-24,Dep. Cali,Millonarios,24.02.2025 | Dep. Cali | Millonarios | 3 | 1
+6,2025-02-23,Alianza,Atl. Nacional,23.02.2025 | Alianza | Atl. Nacional | 3 | 2
+6,2025-02-23,Pereira,Fortaleza,23.02.2025 | Pereira | Fortaleza | 2 | 0
+6,2025-02-23,Aguilas,Once Caldas,23.02.2025 | Aguilas | Once Caldas | 0 | 1
+6,2025-02-22,Inter Bogotá,Chico,22.02.2025 | Inter Bogotá | Chico | 0 | 1
+1,2025-02-21,U. Magdalena,Millonarios,21.02.2025 | U. Magdalena | Millonarios | 1 | 3
+5,2025-02-20,Once Caldas,Pereira,20.02.2025 | Once Caldas | Pereira | 3 | 1
+5,2025-02-19,Chico,Junior,19.02.2025 | Chico | Junior | 0 | 2
+5,2025-02-19,Llaneros,Dep. Cali,19.02.2025 | Llaneros | Dep. Cali | 0 | 1
+5,2025-02-18,Bucaramanga,Alianza,18.02.2025 | Bucaramanga | Alianza | 0 | 0
+5,2025-02-18,Fortaleza,Aguilas,18.02.2025 | Fortaleza | Aguilas | 2 | 1
+5,2025-02-17,Envigado,Dep. Pasto,17.02.2025 | Envigado | Dep. Pasto | 0 | 1
+5,2025-02-16,U. Magdalena,Inter Bogotá,16.02.2025 | U. Magdalena | Inter Bogotá | 0 | 0
+5,2025-02-16,Millonarios,Ind. Medellin,16.02.2025 | Millonarios | Ind. Medellin | 0 | 1
+5,2025-02-15,America De Cali,Santa Fe,15.02.2025 | America De Cali | Santa Fe | 2 | 0
+4,2025-02-15,Dep. Cali,Bucaramanga,15.02.2025 | Dep. Cali | Bucaramanga | 0 | 0
+4,2025-02-14,Pereira,Deportes Tolima,14.02.2025 | Pereira | Deportes Tolima | 0 | 0
+4,2025-02-14,Junior,Once Caldas,14.02.2025 | Junior | Once Caldas | 2 | 0
+4,2025-02-13,Inter Bogotá,Envigado,13.02.2025 | Inter Bogotá | Envigado | 2 | 3
+4,2025-02-13,Santa Fe,Atl. Nacional,13.02.2025 | Santa Fe | Atl. Nacional | 2 | 2
+4,2025-02-13,Ind. Medellin,U. Magdalena,13.02.2025 | Ind. Medellin | U. Magdalena | 1 | 1
+4,2025-02-12,Dep. Pasto,Chico,12.02.2025 | Dep. Pasto | Chico | 3 | 0
+4,2025-02-12,Llaneros,Millonarios,12.02.2025 | Llaneros | Millonarios | 2 | 2
+3,2025-02-10,Atl. Nacional,Pereira,10.02.2025 | Atl. Nacional | Pereira | 3 | 0
+3,2025-02-10,Fortaleza,Dep. Cali,10.02.2025 | Fortaleza | Dep. Cali | 1 | 0
+3,2025-02-09,Once Caldas,Bucaramanga,09.02.2025 | Once Caldas | Bucaramanga | 2 | 1
+3,2025-02-09,Envigado,Ind. Medellin,09.02.2025 | Envigado | Ind. Medellin | 2 | 0 | 1
+3,2025-02-09,Millonarios,Inter Bogotá,09.02.2025 | Millonarios | Inter Bogotá | 2 | 1
+3,2025-02-09,U. Magdalena,Junior,09.02.2025 | U. Magdalena | Junior | 0 | 0
+3,2025-02-08,America De Cali,Dep. Pasto,08.02.2025 | America De Cali | Dep. Pasto | 1 | 1
+3,2025-02-08,Chico,Llaneros,08.02.2025 | Chico | Llaneros | 2 | 2
+3,2025-02-08,Deportes Tolima,Alianza,08.02.2025 | Deportes Tolima | Alianza | 3 | 1
+3,2025-02-08,Aguilas,Santa Fe,08.02.2025 | Aguilas | Santa Fe | 0 | 0
+2,2025-02-04,Llaneros,U. Magdalena,04.02.2025 | Llaneros | U. Magdalena | 2 | 0
+2,2025-02-04,Pereira,Alianza,04.02.2025 | Pereira | Alianza | 0 | 0
+2,2025-02-03,Bucaramanga,America De Cali,03.02.2025 | Bucaramanga | America De Cali | 0 | 4
+2,2025-02-03,Ind. Medellin,Chico,03.02.2025 | Ind. Medellin | Chico | 3 | 0
+2,2025-02-02,Dep. Cali,Envigado,02.02.2025 | Dep. Cali | Envigado | 1 | 0
+2,2025-02-02,Inter Bogotá,Atl. Nacional,02.02.2025 | Inter Bogotá | 2 | Atl. Nacional | 2 | 0 | 1
+2,2025-02-02,Junior,Aguilas,02.02.2025 | Junior | Aguilas | 2 | 2
+2,2025-02-01,Dep. Pasto,Millonarios,01.02.2025 | Dep. Pasto | Millonarios | 0 | 1
+2,2025-02-01,Once Caldas,Fortaleza,01.02.2025 | Once Caldas | Fortaleza | 2 | 1
+2,2025-02-01,Santa Fe,Deportes Tolima,01.02.2025 | Santa Fe | Deportes Tolima | 0 | 0
+1,2025-01-29,Fortaleza,Envigado,29.01.2025 | Fortaleza | Envigado | 0 | 0
+1,2025-01-28,Deportes Tolima,Dep. Pasto,28.01.2025 | Deportes Tolima | Dep. Pasto | 2 | 0
+1,2025-01-28,Aguilas,Inter Bogotá,28.01.2025 | Aguilas | Inter Bogotá | 1 | 1
+1,2025-01-27,Alianza,Ind. Medellin,27.01.2025 | Alianza | Ind. Medellin | 1 | 1
+1,2025-01-26,Junior,Dep. Cali,26.01.2025 | Junior | Dep. Cali | 0 | 0
+1,2025-01-26,Santa Fe,Pereira,26.01.2025 | Santa Fe | Pereira | 2 | 1
+1,2025-01-26,Atl. Nacional,Once Caldas,26.01.2025 | Atl. Nacional | Once Caldas | 4 | 0
+1,2025-01-25,America De Cali,Llaneros,25.01.2025 | America De Cali | Llaneros | 4 | 3
+1,2025-01-25,Chico,Bucaramanga,25.01.2025 | Chico | Bucaramanga | 1 | 0

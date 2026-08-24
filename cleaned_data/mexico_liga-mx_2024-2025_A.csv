@@ -1,0 +1,154 @@
+round,date,team_home,team_away,full_text
+17,2024-11-11,Club Tijuana,Puebla,11.11.2024 | Club Tijuana | Puebla | 2 | 1
+17,2024-11-11,Monterrey,Club Leon,11.11.2024 | Monterrey | Club Leon | 2 | 2 | 1
+17,2024-11-11,Necaxa,Atlas,11.11.2024 | Necaxa | Atlas | 0 | 0
+17,2024-11-10,Cruz Azul,Tigres UANL,10.11.2024 | Cruz Azul | Tigres UANL | 1 | 1
+17,2024-11-10,Pachuca,Juarez,10.11.2024 | Pachuca | Juarez | 0 | 1
+17,2024-11-10,Toluca,Club America,10.11.2024 | Toluca | Club America | 4 | 0
+17,2024-11-10,Guadalajara Chivas,Atl. San Luis,10.11.2024 | Guadalajara Chivas | Atl. San Luis | 0 | 1
+17,2024-11-09,Mazatlan FC,UNAM Pumas,09.11.2024 | Mazatlan FC | UNAM Pumas | 0 | 1
+17,2024-11-09,Queretaro,Santos Laguna,09.11.2024 | Queretaro | Santos Laguna | 3 | 2
+16,2024-11-07,Juarez,Club Tijuana,07.11.2024 | Juarez | Club Tijuana | 1 | 1
+16,2024-11-07,Atlas,Cruz Azul,07.11.2024 | Atlas | Cruz Azul | 2 | 2
+16,2024-11-07,Club America,Pachuca,07.11.2024 | Club America | Pachuca | 2 | 1
+16,2024-11-07,Necaxa,Atl. San Luis,07.11.2024 | Necaxa | Atl. San Luis | 1 | 1
+16,2024-11-07,Tigres UANL,Toluca,07.11.2024 | Tigres UANL | Toluca | 2 | 1
+16,2024-11-06,UNAM Pumas,Queretaro,06.11.2024 | UNAM Pumas | Queretaro | 2 | 0
+16,2024-11-06,Club Leon,Mazatlan FC,06.11.2024 | Club Leon | Mazatlan FC | 0 | 0
+16,2024-11-06,Santos Laguna,Guadalajara Chivas,06.11.2024 | Santos Laguna | Guadalajara Chivas | 0 | 2
+15,2024-11-03,Cruz Azul,Santos Laguna,03.11.2024 | Cruz Azul | Santos Laguna | 2 | 0
+15,2024-11-03,Pachuca,Necaxa,03.11.2024 | Pachuca | Necaxa | 6 | 2
+15,2024-11-03,Guadalajara Chivas,UNAM Pumas,03.11.2024 | Guadalajara Chivas | UNAM Pumas | 0 | 0
+15,2024-11-03,Monterrey,Atlas,03.11.2024 | Monterrey | Atlas | 4 | 0
+15,2024-11-03,Atl. San Luis,Puebla,03.11.2024 | Atl. San Luis | Puebla | 2 | 0
+15,2024-11-03,Toluca,Club Leon,03.11.2024 | Toluca | Club Leon | 2 | 2
+15,2024-11-02,Club Tijuana,Tigres UANL,02.11.2024 | Club Tijuana | Tigres UANL | 0 | 3
+15,2024-11-02,Mazatlan FC,Club America,02.11.2024 | Mazatlan FC | Club America | 0 | 5
+15,2024-11-02,Queretaro,Juarez,02.11.2024 | Queretaro | Juarez | 1 | 2
+14,2024-10-28,Club America,Monterrey,28.10.2024 | Club America | Monterrey | 2 | 1
+14,2024-10-28,Juarez,Atl. San Luis,28.10.2024 | Juarez | Atl. San Luis | 2 | 4
+14,2024-10-28,Necaxa,Toluca,28.10.2024 | Necaxa | Toluca | 1 | 3
+14,2024-10-27,Atlas,Club Tijuana,27.10.2024 | Atlas | Club Tijuana | 0 | 0
+14,2024-10-27,Tigres UANL,Pachuca,27.10.2024 | Tigres UANL | Pachuca | 2 | 1
+14,2024-10-27,UNAM Pumas,Cruz Azul,27.10.2024 | UNAM Pumas | Cruz Azul | 0 | 2
+14,2024-10-27,Club Leon,Queretaro,27.10.2024 | Club Leon | Queretaro | 4 | 0
+14,2024-10-26,Puebla,Guadalajara Chivas,26.10.2024 | Puebla | Guadalajara Chivas | 1 | 0
+14,2024-10-26,Santos Laguna,Mazatlan FC,26.10.2024 | Santos Laguna | Mazatlan FC | 0 | 0
+13,2024-10-24,Club Tijuana,Club America,24.10.2024 | Club Tijuana | Club America | 2 | 2
+13,2024-10-24,Club Leon,Atlas,24.10.2024 | Club Leon | Atlas | 0 | 0
+13,2024-10-24,Cruz Azul,Juarez,24.10.2024 | Cruz Azul | Juarez | 4 | 0
+13,2024-10-24,Monterrey,UNAM Pumas,24.10.2024 | Monterrey | UNAM Pumas | 0 | 0
+13,2024-10-23,Mazatlan FC,Tigres UANL,23.10.2024 | Mazatlan FC | Tigres UANL | 2 | 0
+13,2024-10-23,Toluca,Puebla,23.10.2024 | Toluca | Puebla | 5 | 0
+13,2024-10-23,Guadalajara Chivas,Necaxa,23.10.2024 | Guadalajara Chivas | Necaxa | 3 | 2
+13,2024-10-23,Santos Laguna,Pachuca,23.10.2024 | Santos Laguna | Pachuca | 1 | 1
+12,2024-10-20,UNAM Pumas,Atl. San Luis,20.10.2024 | UNAM Pumas | Atl. San Luis | 3 | 0
+12,2024-10-20,Monterrey,Tigres UANL,20.10.2024 | Monterrey | Tigres UANL | 4 | 2
+12,2024-10-20,Juarez,Club Leon,20.10.2024 | Juarez | Club Leon | 2 | 3
+12,2024-10-20,Club America,Santos Laguna,20.10.2024 | Club America | Santos Laguna | 3 | 0
+12,2024-10-20,Pachuca,Guadalajara Chivas,20.10.2024 | Pachuca | Guadalajara Chivas | 0 | 2
+12,2024-10-19,Puebla,Cruz Azul,19.10.2024 | Puebla | Cruz Azul | 1 | 2
+12,2024-10-19,Necaxa,Club Tijuana,19.10.2024 | Necaxa | Club Tijuana | 1 | 2
+12,2024-10-19,Atlas,Mazatlan FC,19.10.2024 | Atlas | Mazatlan FC | 0 | 0
+12,2024-10-19,Queretaro,Toluca,19.10.2024 | Queretaro | Toluca | 0 | 1
+11,2024-10-07,Santos Laguna,Juarez,07.10.2024 | Santos Laguna | Juarez | 0 | 2
+11,2024-10-06,Club Leon,Club America,06.10.2024 | Club Leon | Club America | 1 | 1
+11,2024-10-06,Guadalajara Chivas,Atlas,06.10.2024 | Guadalajara Chivas | Atlas | 2 | 3
+11,2024-10-06,Toluca,UNAM Pumas,06.10.2024 | Toluca | UNAM Pumas | 1 | 1
+11,2024-10-06,Atl. San Luis,Monterrey,06.10.2024 | Atl. San Luis | Monterrey | 1 | 0
+11,2024-10-06,Cruz Azul,Necaxa,06.10.2024 | Cruz Azul | Necaxa | 3 | 0
+11,2024-10-06,Tigres UANL,Puebla,06.10.2024 | Tigres UANL | Puebla | 1 | 0
+11,2024-10-05,Club Tijuana,Pachuca,05.10.2024 | Club Tijuana | Pachuca | 2 | 1
+11,2024-10-05,Mazatlan FC,Queretaro,05.10.2024 | Mazatlan FC | Queretaro | 2 | 2
+10,2024-09-30,Club America,UNAM Pumas,30.09.2024 | Club America | UNAM Pumas | 0 | 1
+10,2024-09-29,Atl. San Luis,Santos Laguna,29.09.2024 | Atl. San Luis | Santos Laguna | 3 | 1
+10,2024-09-29,Guadalajara Chivas,Monterrey,29.09.2024 | Guadalajara Chivas | Monterrey | 1 | 1
+10,2024-09-29,Pachuca,Cruz Azul,29.09.2024 | Pachuca | Cruz Azul | 2 | 4
+10,2024-09-29,Toluca,Atlas,29.09.2024 | Toluca | Atlas | 4 | 1
+10,2024-09-28,Club Tijuana,Mazatlan FC,28.09.2024 | Club Tijuana | Mazatlan FC | 1 | 0
+10,2024-09-28,Tigres UANL,Club Leon,28.09.2024 | Tigres UANL | Club Leon | 2 | 2
+10,2024-09-28,Queretaro,Necaxa,28.09.2024 | Queretaro | Necaxa | 0 | 0
+10,2024-09-28,Puebla,Juarez,28.09.2024 | Puebla | Juarez | 2 | 3
+9,2024-09-23,Juarez,Tigres UANL,23.09.2024 | Juarez | Tigres UANL | 0 | 1
+9,2024-09-23,Santos Laguna,Toluca,23.09.2024 | Santos Laguna | Toluca | 2 | 0
+9,2024-09-23,UNAM Pumas,Club Tijuana,23.09.2024 | UNAM Pumas | Club Tijuana | 1 | 0
+9,2024-09-22,Cruz Azul,Guadalajara Chivas,22.09.2024 | Cruz Azul | Guadalajara Chivas | 1 | 0
+9,2024-09-22,Monterrey,Mazatlan FC,22.09.2024 | Monterrey | Mazatlan FC | 0 | 0
+9,2024-09-22,Necaxa,Club America,22.09.2024 | Necaxa | Club America | 1 | 1
+9,2024-09-22,Club Leon,Atl. San Luis,22.09.2024 | Club Leon | Atl. San Luis | 1 | 0
+9,2024-09-21,Atlas,Queretaro,21.09.2024 | Atlas | Queretaro | 0 | 1
+9,2024-09-21,Puebla,Pachuca,21.09.2024 | Puebla | Pachuca | 2 | 3
+8,2024-09-19,Monterrey,Juarez,19.09.2024 | Monterrey | Juarez | 3 | 2
+8,2024-09-19,Mazatlan FC,Necaxa,19.09.2024 | Mazatlan FC | Necaxa | 0 | 0
+8,2024-09-19,Guadalajara Chivas,Club Leon,19.09.2024 | Guadalajara Chivas | Club Leon | 2 | 0
+8,2024-09-18,UNAM Pumas,Puebla,18.09.2024 | UNAM Pumas | Puebla | 1 | 0
+8,2024-09-18,Queretaro,Tigres UANL,18.09.2024 | Queretaro | Tigres UANL | 1 | 0
+8,2024-09-18,Atl. San Luis,Cruz Azul,18.09.2024 | Atl. San Luis | Cruz Azul | 3 | 1
+8,2024-09-18,Club America,Atlas,18.09.2024 | Club America | Atlas | 3 | 0
+8,2024-09-18,Pachuca,Toluca,18.09.2024 | Pachuca | Toluca | 2 | 2
+7,2024-09-15,Santos Laguna,Monterrey,15.09.2024 | Santos Laguna | Monterrey | 0 | 2
+7,2024-09-15,Club Leon,Cruz Azul,15.09.2024 | Club Leon | Cruz Azul | 1 | 2
+7,2024-09-15,Club America,Guadalajara Chivas,15.09.2024 | Club America | Guadalajara Chivas | 1 | 0
+7,2024-09-15,Toluca,Club Tijuana,15.09.2024 | Toluca | Club Tijuana | 4 | 0
+7,2024-09-14,Necaxa,UNAM Pumas,14.09.2024 | Necaxa | UNAM Pumas | 2 | 0
+7,2024-09-14,Juarez,Mazatlan FC,14.09.2024 | Juarez | Mazatlan FC | 1 | 0
+7,2024-09-14,Tigres UANL,Atl. San Luis,14.09.2024 | Tigres UANL | Atl. San Luis | 1 | 0
+7,2024-09-14,Atlas,Pachuca,14.09.2024 | Atlas | Pachuca | 2 | 0
+7,2024-09-14,Puebla,Queretaro,14.09.2024 | Puebla | Queretaro | 2 | 1
+6,2024-09-02,Santos Laguna,Necaxa,02.09.2024 | Santos Laguna | Necaxa | 3 | 2
+6,2024-09-02,UNAM Pumas,Tigres UANL,02.09.2024 | UNAM Pumas | Tigres UANL | 1 | 3
+6,2024-09-01,Cruz Azul,Club America,01.09.2024 | Cruz Azul | Club America | 4 | 1
+6,2024-09-01,Monterrey,Toluca,01.09.2024 | Monterrey | Toluca | 1 | 2
+6,2024-09-01,Guadalajara Chivas,Juarez,01.09.2024 | Guadalajara Chivas | Juarez | 5 | 0
+6,2024-09-01,Pachuca,Queretaro,01.09.2024 | Pachuca | Queretaro | 1 | 1
+6,2024-08-31,Club Tijuana,Club Leon,31.08.2024 | Club Tijuana | Club Leon | 2 | 1
+6,2024-08-31,Mazatlan FC,Puebla,31.08.2024 | Mazatlan FC | Puebla | 1 | 1
+6,2024-08-31,Atl. San Luis,Atlas,31.08.2024 | Atl. San Luis | Atlas | 2 | 1
+5,2024-08-25,Toluca,Atl. San Luis,25.08.2024 | Toluca | Atl. San Luis | 2 | 1
+5,2024-08-25,Club America,Puebla,25.08.2024 | Club America | Puebla | 0 | 1
+5,2024-08-25,Atlas,UNAM Pumas,25.08.2024 | Atlas | UNAM Pumas | 2 | 1
+5,2024-08-25,Club Leon,Santos Laguna,25.08.2024 | Club Leon | Santos Laguna | 1 | 1
+5,2024-08-25,Tigres UANL,Guadalajara Chivas,25.08.2024 | Tigres UANL | Guadalajara Chivas | 1 | 1
+5,2024-08-25,Necaxa,Juarez,25.08.2024 | Necaxa | Juarez | 3 | 0
+5,2024-08-24,Club Tijuana,Monterrey,24.08.2024 | Club Tijuana | Monterrey | 2 | 2
+5,2024-08-24,Mazatlan FC,Pachuca,24.08.2024 | Mazatlan FC | Pachuca | 2 | 3 | 0
+5,2024-08-24,Queretaro,Cruz Azul,24.08.2024 | Queretaro | Cruz Azul | 0 | 2
+13,2024-08-19,Atl. San Luis,Queretaro,19.08.2024 | Atl. San Luis | Queretaro | 4 | 0
+8,2024-08-19,Club Tijuana,Santos Laguna,19.08.2024 | Club Tijuana | Santos Laguna | 3 | 1
+16,2024-08-17,Puebla,Monterrey,17.08.2024 | Puebla | Monterrey | 1 | 2
+4,2024-07-22,Club Leon,Necaxa,22.07.2024 | Club Leon | Necaxa | 1 | 1
+4,2024-07-22,UNAM Pumas,Pachuca,22.07.2024 | UNAM Pumas | Pachuca | 2 | 0
+4,2024-07-21,Juarez,Club America,21.07.2024 | Juarez | Club America | 1 | 2
+4,2024-07-21,Cruz Azul,Toluca,21.07.2024 | Cruz Azul | Toluca | 1 | 1
+4,2024-07-21,Monterrey,Queretaro,21.07.2024 | Monterrey | Queretaro | 2 | 1
+4,2024-07-21,Santos Laguna,Tigres UANL,21.07.2024 | Santos Laguna | Tigres UANL | 0 | 3
+4,2024-07-21,Guadalajara Chivas,Mazatlan FC,21.07.2024 | Guadalajara Chivas | Mazatlan FC | 2 | 0
+4,2024-07-20,Puebla,Atlas,20.07.2024 | Puebla | Atlas | 1 | 2
+4,2024-07-20,Atl. San Luis,Club Tijuana,20.07.2024 | Atl. San Luis | Club Tijuana | 1 | 1
+3,2024-07-18,Tigres UANL,Club America,18.07.2024 | Tigres UANL | Club America | 1 | 0
+3,2024-07-18,Toluca,Mazatlan FC,18.07.2024 | Toluca | Mazatlan FC | 3 | 0
+3,2024-07-18,Juarez,UNAM Pumas,18.07.2024 | Juarez | UNAM Pumas | 1 | 2
+3,2024-07-18,Necaxa,Monterrey,18.07.2024 | Necaxa | Monterrey | 0 | 1
+3,2024-07-17,Cruz Azul,Club Tijuana,17.07.2024 | Cruz Azul | Club Tijuana | 3 | 0
+3,2024-07-17,Puebla,Club Leon,17.07.2024 | Puebla | Club Leon | 2 | 2
+3,2024-07-17,Atlas,Santos Laguna,17.07.2024 | Atlas | Santos Laguna | 1 | 0
+3,2024-07-17,Pachuca,Atl. San Luis,17.07.2024 | Pachuca | Atl. San Luis | 2 | 0
+3,2024-07-17,Queretaro,Guadalajara Chivas,17.07.2024 | Queretaro | Guadalajara Chivas | 0 | 2
+2,2024-07-14,Monterrey,Cruz Azul,14.07.2024 | Monterrey | Cruz Azul | 0 | 4
+2,2024-07-14,Santos Laguna,UNAM Pumas,14.07.2024 | Santos Laguna | UNAM Pumas | 1 | 1
+2,2024-07-14,Toluca,Juarez,14.07.2024 | Toluca | Juarez | 3 | 2
+2,2024-07-14,Club Leon,Pachuca,14.07.2024 | Club Leon | Pachuca | 0 | 0
+2,2024-07-14,Necaxa,Puebla,14.07.2024 | Necaxa | Puebla | 4 | 1
+2,2024-07-13,Atlas,Tigres UANL,13.07.2024 | Atlas | Tigres UANL | 1 | 1
+2,2024-07-13,Club Tijuana,Guadalajara Chivas,13.07.2024 | Club Tijuana | Guadalajara Chivas | 4 | 2
+2,2024-07-13,Mazatlan FC,Atl. San Luis,13.07.2024 | Mazatlan FC | Atl. San Luis | 2 | 2
+2,2024-07-13,Club America,Queretaro,13.07.2024 | Club America | Queretaro | 3 | 1
+1,2024-07-08,Pachuca,Monterrey,08.07.2024 | Pachuca | Monterrey | 0 | 1
+1,2024-07-07,UNAM Pumas,Club Leon,07.07.2024 | UNAM Pumas | Club Leon | 4 | 1
+1,2024-07-07,Cruz Azul,Mazatlan FC,07.07.2024 | Cruz Azul | Mazatlan FC | 1 | 0
+1,2024-07-07,Guadalajara Chivas,Toluca,07.07.2024 | Guadalajara Chivas | Toluca | 0 | 0
+1,2024-07-07,Tigres UANL,Necaxa,07.07.2024 | Tigres UANL | Necaxa | 1 | 0
+1,2024-07-07,Atl. San Luis,Club America,07.07.2024 | Atl. San Luis | Club America | 2 | 1
+1,2024-07-06,Juarez,Atlas,06.07.2024 | Juarez | Atlas | 2 | 2
+1,2024-07-06,Queretaro,Club Tijuana,06.07.2024 | Queretaro | Club Tijuana | 1 | 2
+1,2024-07-06,Puebla,Santos Laguna,06.07.2024 | Puebla | Santos Laguna | 1 | 0
